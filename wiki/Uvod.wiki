@@ -8,7 +8,7 @@ Ing. Zbyněk Vaculík, učo 409040
 Martin Hudec, učo 374513 
 Matej Hrenák, učo 410300 <br/>
 
-<b>Prednášajúci</b>
+<b>Prednášajúci</b><br/>
 Mgr. Luděk Bártek, Ph.D. <br/>
 doc. RNDr. Tomáš Pitner, Ph.D. <br/>
 RNDr. Adam Rambousek <br/>
