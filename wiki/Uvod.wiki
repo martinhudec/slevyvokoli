@@ -1,8 +1,8 @@
-Slevy v okoli: Aplikácia pre zistenie zliav v okolí pre daný zľavový preukaz
+<b>Slevy v okoli:</b> Aplikácia pre zistenie zliav v okolí pre daný zľavový preukaz
 
 <b>Vede: </b> Mgr. Marek Grác, Ph.D., učo 50728 
 
-<b>Studenti</b>
+<p><b>Studenti</b></p>
 Bc. Jan Jílek, učo  359747
 
 Ing. Zbyněk Vaculík, učo 409040
