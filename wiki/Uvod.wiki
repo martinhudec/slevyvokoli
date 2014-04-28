@@ -2,7 +2,7 @@
 
 <b>Vede: </b> Mgr. Marek Grác, Ph.D., učo 50728 <br/>
 
-<b>Vyvojari</b>
+<b>Vyvojari</b><br/>
 Bc. Jan Jílek, učo  359747 <br/>
 Ing. Zbyněk Vaculík, učo 409040 <br/>
 Martin Hudec, učo 374513 <br/>
