@@ -1,4 +1,4 @@
-<li>Bc. Jan Jílek, učo 359747 </li></br>
-<li>Ing. Zbyněk Vaculík, učo 409040 </li></br>
-<li>Martin Hudec, učo 374513 </li></br>
-<li>Matej Hrenák, učo 410300 </li></br>
+<li>Bc. Jan Jílek, učo 359747 </li><br/>
+<li>Ing. Zbyněk Vaculík, učo 409040 </li><br/>
+<li>Martin Hudec, učo 374513 </li><br/>
+<li>Matej Hrenák, učo 410300 </li><br/>
