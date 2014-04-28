@@ -2,10 +2,10 @@
 
 <b>Vede: </b> Mgr. Marek Grác, Ph.D., učo 50728 <br/>
 
-<p><b>Vyvojari</b></p>
-Bc. Jan Jílek, učo  359747
-Ing. Zbyněk Vaculík, učo 409040
-Martin Hudec, učo 374513 
+<p><b>Vyvojari</b></p> <br/>
+Bc. Jan Jílek, učo  359747 <br/>
+Ing. Zbyněk Vaculík, učo 409040 <br/>
+Martin Hudec, učo 374513 <br/>
 Matej Hrenák, učo 410300 <br/>
 
 <b>Prednášajúci</b><br/>
