@@ -1,3 +1,4 @@
+<b>Vývojári<b><br/>
 <li>Bc. Jan Jílek, učo 359747 -  android vývojár, team leader</li><br/>
 <li>Ing. Zbyněk Vaculík, učo 409040 -  editácia wiki, dokumentácia</li><br/>
 <li>Martin Hudec, učo 374513  - transformácia XML dát</li><br/>
