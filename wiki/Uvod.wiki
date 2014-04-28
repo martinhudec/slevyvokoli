@@ -1,0 +1,15 @@
+Slevy v okoli: Aplikácia pre zistenie zliav v okolí pre daný zľavový preukaz
+
+Vede: Mgr. Marek Grác, Ph.D., učo 50728 
+
+Studenti
+Bc. Jan Jílek, učo  359747
+
+Ing. Zbyněk Vaculík, učo 409040
+
+Martin Hudec, učo 374513 
+
+Matej Hrenák, učo 410300 
+
+Zadání:
+Úlohou je vytvoriť mobilnú aplikáciu do ktorej používateľ zadá svoje zľavové karty (ISIC, bene+, sphere, EON karta, ...). Následne mu aplikácia bude schopná poskytnúť informácie o tom v ktorých obchodov v okolí (na základe GPS súradníc) je možné zľavy využiť.
