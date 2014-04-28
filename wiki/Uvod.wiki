@@ -6,7 +6,7 @@
 Bc. Jan Jílek, učo  359747
 Ing. Zbyněk Vaculík, učo 409040
 Martin Hudec, učo 374513 
-Matej Hrenák, učo 410300 
+Matej Hrenák, učo 410300 <br/>
 
 <b>Prednášajúci</b>
 Mgr. Luděk Bártek, Ph.D. <br/>
