@@ -1,21 +1,23 @@
+<h1>Návrh aplikácie:</h1><br><br>
+
 <ul>
-<li>Programovací jazyk: </li>
+<li><b>Programovací jazyk: </b></li>
 
 Java
 
-<li>Typ aplikácie:</li> 
+<li><b>Typ aplikácie:</b></li> 
 
 Fat client - server
 
-<li>Platforma:</li> 
+<li><b>Platforma:</b></li> 
 
 Android
 
-<li>Vyžívané API:</li>
+<li><b>Vyžívané API:</b></li>
 
 Google maps, 
 
-<li>Popis:</li>
+<li><b>Popis:</b></li>
 
 Front end po zistení GPS súradníc užívateľa vyžiada zoznam firiem pre danú oblasť z databázy uloženej na back end serveri, ktorý pozostáva z databázy firiem zozbieraných pomocou serverového scriptu, ktorý prechádza a parsuje dáta z rozličných portálov firiem poskytujúcich zľavy. 
 
