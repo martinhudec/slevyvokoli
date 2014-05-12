@@ -15,7 +15,7 @@ Android
 
 <li><b>Vyžívané API:</b></li>
 
-Google maps, 
+Google maps (https://developers.google.com/maps/documentation/android/?hl=sk), 
 
 <li><b>Popis:</b></li>
 
