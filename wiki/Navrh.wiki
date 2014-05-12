@@ -1,0 +1,25 @@
+<ul>
+<li>Programovací jazyk: </li>
+
+Java
+
+<li>Typ aplikácie:</li> 
+
+Fat client - server
+
+<li>Platforma:</li> 
+
+Android
+
+<li>Vyžívané API:</li>
+
+Google maps, 
+
+<li>Popis:</li>
+
+Front end po zistení GPS súradníc užívateľa vyžiada zoznam firiem pre danú oblasť z databázy uloženej na back end serveri, ktorý pozostáva z databázy firiem zozbieraných pomocou serverového scriptu, ktorý prechádza a parsuje dáta z rozličných portálov firiem poskytujúcich zľavy. 
+
+Na základe dát získaných od serveru, front end užívateľa nasledovne tieto dáta uloží do cachovacej databázy priamo v zariadení užívateľa. Aplikácia v reálnom čase graficky vykresľuje mapu oblasti, v ktorej sa užívateľ nachádza so zaznačenými firmami poskytujúcimi zľavy, ktorých polohu čerpá z údajov v cachovacej databáze.
+
+Užívateľ má taktiež možnosť štandardne pracovať s mapou, prehľadávať oblasť, získavať informácie o trase a vzdialenosti k jednotlivým firmám, ako aj vyžiadať si krátky popis jednotlivých firiem. 
+</ul>
