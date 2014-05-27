@@ -3,3 +3,21 @@
 <li>Ing. Zbyněk Vaculík, učo 409040 -  editácia wiki, dokumentácia</li><br/>
 <li>Martin Hudec, učo 409747  - transformácia XML dát</li><br/>
 <li>Matej Hrenák, učo 410300  - návrh GUI, testovanie aplikácie</li><br/>
+
+Martin a Matej:
+1) apiary.io - vytvorit skeleton pro api + dokumentaci
+- vybrat okruh podle zadanych souradnic
++ filter na druh karty
+2) namyslet backend technologie a naimplementovat
+3) parsovani dat
+
+Honza:
+1) vytvorit wireframe
+2) vytvorit gui + nacitani api
+
+
+Zbynek:
+1) sepsat dokumentaci
+2) naucit Android
+
+Deadline: 8.6. 
