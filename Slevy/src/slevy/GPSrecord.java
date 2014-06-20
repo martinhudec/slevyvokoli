@@ -6,13 +6,14 @@
 
 package slevy;
 
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Marshaller;
+import javax.xml.bind.Unmarshaller;
 /**
  *
  * @author martin
  */
-
-
-
 
 public class GPSrecord {
 private String adress, name;
