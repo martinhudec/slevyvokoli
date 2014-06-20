@@ -24,14 +24,5 @@
                 <xsl:apply-templates select="adresa"/>
             </adresa>
         </zlava>
-    </xsl:template>   
-   
-    
-        
-        
-
-        
-        
-    
-
+    </xsl:template>  
 </xsl:stylesheet>

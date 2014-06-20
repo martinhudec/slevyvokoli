@@ -4,24 +4,32 @@
  * and open the template in the editor.
  */
 
+
+
 package slevy;
 
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Marshaller;
-import javax.xml.bind.Unmarshaller;
 /**
  *
  * @author martin
  */
 
+
+import javax.xml.bind.annotation.XmlAttribute;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlTransient;
+import javax.xml.bind.annotation.XmlType;
+
+@XmlRootElement(name = "benefit")
+@XmlType(propOrder = {"name", "cardType", "address"})
+
 public class GPSrecord {
-private String adress, name;
+private String address, name;
 private Float latitude, longitude;
 private String cardType;
 
     public GPSrecord(String name, String adress, Float lattitude, Float longitude, String cardType) {
-        this.adress = adress;
+        this.address = adress;
         this.name = name;
         this.latitude = lattitude;
         this.longitude = longitude;
@@ -29,7 +37,7 @@ private String cardType;
     }
 
     public String getAdress() {
-        return adress;
+        return address;
     }
 
     public String getName() {
@@ -49,7 +57,7 @@ private String cardType;
     }
 
     public void setAdress(String adress) {
-        this.adress = adress;
+        this.address = adress;
     }
 
     public void setName(String name) {

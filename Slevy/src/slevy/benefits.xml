@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<benefits>
+    
+<benefit id="1">
+
+<name>Lokál U Bílé Kuželky</name>
+
+<cardType>ISIC</cardType>
+
+<address>Míšeňská 12, Praha 1</address>
+
+<phone>257 212 014</phone>
+
+<email>kuzelka@ambi.cz</email>
+
+<web>www.lokal.cz</web>
+
+<info>20% sleva na jídlo objednané do 18. hodiny ve všech restauracích Lokál. Kartu Lokál  získá student po předložení platného průkazu ISIC.</info>
+
+</benefit>
+
+<benefit id="5">
+
+<name>Lokál Hamburk</name>
+
+<cardType>ISIC</cardType>
+
+<address>Sokolovská 55, Praha 8 - Karlín</address>
+
+<phone>222 310 361</phone>
+
+<email>hamburk@ambi.cz</email>
+
+<web>www.lokal.cz</web>
+
+<info>20% sleva na jídlo objednané do 18. hodiny ve všech restauracích Lokál. Kartu Lokál  získá student po předložení platného průkazu ISIC.</info>
+
+</benefit>
+
+</benefits>
