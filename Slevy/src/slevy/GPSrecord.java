@@ -3,17 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-
-
 package slevy;
 
 /**
  *
  * @author martin
  */
-
-
+import java.util.Arrays;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
@@ -21,22 +17,15 @@ import javax.xml.bind.annotation.XmlTransient;
 import javax.xml.bind.annotation.XmlType;
 
 @XmlRootElement(name = "benefit")
-@XmlType(propOrder = {"name", "cardType", "address"})
+@XmlType(propOrder = {"name", "cardType", "address", "latitude", "longitude"})
 
 public class GPSrecord {
-private String address, name;
-private Float latitude, longitude;
-private String cardType;
 
-    public GPSrecord(String name, String adress, Float lattitude, Float longitude, String cardType) {
-        this.address = adress;
-        this.name = name;
-        this.latitude = lattitude;
-        this.longitude = longitude;
-        this.cardType = cardType;
-    }
+    private String address, name;
+    private Float latitude, longitude;
+    private String[] cardType;
 
-    public String getAdress() {
+    public String getAddress() {
         return address;
     }
 
@@ -44,7 +33,7 @@ private String cardType;
         return name;
     }
 
-    public Float getLattitude() {
+    public Float getLatitude() {
         return latitude;
     }
 
@@ -52,11 +41,11 @@ private String cardType;
         return longitude;
     }
 
-    public String getCardType() {
+    public String[] getCardType() {
         return cardType;
     }
 
-    public void setAdress(String adress) {
+    public void setAddress(String adress) {
         this.address = adress;
     }
 
@@ -64,17 +53,20 @@ private String cardType;
         this.name = name;
     }
 
-    public void setLattitude(Float lattitude) {
-        this.latitude = lattitude;
+    public void setLatitude(Float latitude) {
+        this.latitude = latitude;
     }
 
     public void setLongitude(Float longitude) {
         this.longitude = longitude;
     }
 
-    public void setCardType(String cardType) {
+    public void setCardType(String[] cardType) {
         this.cardType = cardType;
     }
 
-
+    public String toString() {
+        return  "NAME=" + name + " ADDRESS=" + address + " CARDTYPE=" + Arrays.toString(cardType) + " LONGITUDE="
+                + longitude + " LATITUDE=" + latitude;
+    }
 }
