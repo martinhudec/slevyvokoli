@@ -25,3 +25,9 @@ Na základe dát získaných od serveru, front end užívateľa nasledovne tieto
 
 Užívateľ má taktiež možnosť štandardne pracovať s mapou, prehľadávať oblasť, získavať informácie o trase a vzdialenosti k jednotlivým firmám, ako aj vyžiadať si krátky popis jednotlivých firiem. 
 </ul>
+
+<br/>
+Databáza beží na serveri www.heroku.com
+<li>meno:martinhudec.mh@gmail.com<br/>
+heslo:slevyvokoli
+</li>
