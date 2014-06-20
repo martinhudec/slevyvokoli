@@ -28,6 +28,6 @@ Užívateľ má taktiež možnosť štandardne pracovať s mapou, prehľadávať
 
 <br/>
 Databáza beží na serveri www.heroku.com
-<li>meno:martinhudec.mh@gmail.com</li><br/>
+<li>meno:martinhudec.mh@gmail.com</li>
 <li>heslo:slevyvokoli</li>
 Databázy sme zobrazovali prostredníctvom http://www.jackdb.com, pre prehľadnosť.
