@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1978">
+      <name>TS Bohemia - výpočetní technika</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Třída Legionářů 10, Jihlava</address>
+      <phone>567 211 127</phone>
+      <email>jihlava@tsbohemia.cz</email>
+      <web>www.tsbohemia.cz</web>
+      <info>nákup celého aktuálního sortimentu za ceny určené velkoobchodním odběratelům</info>
+   <latitude>49.3999020</latitude>
+   <longitude>15.5864627</longitude>
+</benefit>

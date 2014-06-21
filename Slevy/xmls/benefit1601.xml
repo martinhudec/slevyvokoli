@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1601">
+      <name>KRÁLOVSTVÍ ŽELEZNIC</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Stroupežnického 23, Praha 5</address>
+      <phone/>
+      <email>info@kralovstvi-zeleznic.cz</email>
+      <web>www.kralovstvi-zeleznic.cz</web>
+      <info>Sleva 100 Kč na vstupné. Po předložení platných karet činí cena vstupného 160 Kč, namísto 260 Kč. Slevu je možno uplatnit pouze na kamenné pobočce. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0718833</latitude>
+   <longitude>14.4026341</longitude>
+</benefit>

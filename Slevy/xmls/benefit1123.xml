@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1123">
+      <name>Knihkupectví Bonum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dolní náměstí 12, Olomouc</address>
+      <phone>588 500 888</phone>
+      <email>prodejn@abonum.cz</email>
+      <web>www.bonum.cz</web>
+      <info>sleva 5 - 10 % na knihy</info>
+   <latitude>49.5927146</latitude>
+   <longitude>17.2525511</longitude>
+</benefit>

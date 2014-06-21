@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1328">
+      <name>Alpin Avion</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Budějovická 71, Praha 4</address>
+      <phone>261 213 145</phone>
+      <email>alpin.avion@alpin.cz</email>
+      <web>www.alpin.cz</web>
+      <info>sleva 20 % z pultové ceny ubytování. slevu nelze kombinovat s jinými slevami. Slevu je možno uplatnit pouze na místě. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>50.0396188</latitude>
+   <longitude>14.4582052</longitude>
+</benefit>

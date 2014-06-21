@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1568">
+      <name>Report - magazín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, eshop</address>
+      <phone/>
+      <email>predplatne@ireport.cz</email>
+      <web>www.ireport.cz/cz/sekce/predplatne</web>
+      <info>30% sleva na předplatné na 12ti čísel</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

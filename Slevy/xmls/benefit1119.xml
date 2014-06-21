@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1119">
+      <name>Knihkupectví Bonum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pospíšilova 836, Valašské Meziříčí</address>
+      <phone/>
+      <email>valmez@bonum.cz</email>
+      <web>www.bonum.cz</web>
+      <info>sleva 5 - 10 % na knihy</info>
+   <latitude>49.4705593</latitude>
+   <longitude>17.9716292</longitude>
+</benefit>

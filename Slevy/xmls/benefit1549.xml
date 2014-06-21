@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1549">
+      <name>Fitness centrum Contours</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Zatlance 4, Praha 5</address>
+      <phone>773 270 429</phone>
+      <email>ondrej@contours.cz</email>
+      <web>www.contours.cz</web>
+      <info>10% sleva na členství. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0689991</latitude>
+   <longitude>14.3995132</longitude>
+</benefit>

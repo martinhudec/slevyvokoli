@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="955">
+      <name>Timeout</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Šestka, K Letišti 1090, Praha 6</address>
+      <phone>225023970</phone>
+      <email>info@gut.cz</email>
+      <web>www.timeoutjeans.com</web>
+      <info>15% sleva na nákup nezlevněného sortimentu zboží.</info>
+   <latitude>50.0966106</latitude>
+   <longitude>14.2928137</longitude>
+</benefit>

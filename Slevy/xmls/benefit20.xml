@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="20">
+      <name>Sennheiser</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bohuslava Martinů 7, Praha 4</address>
+      <phone>241 040 940</phone>
+      <email>panter@panter-praha.cz</email>
+      <web>www.pantershop.cz</web>
+      <info>20% sleva na špičková sluchátka Sennheiser z vybraných kolekcí.</info>
+   <latitude>50.0407749</latitude>
+   <longitude>14.4318288</longitude>
+</benefit>

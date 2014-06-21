@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="137">
+      <name>Starbucks Staroměstská</name>
+      <cardType>ISIC</cardType>
+      <address>Staroměstské nám. 26/478, Praha 1</address>
+      <phone>235 013 516, 602 424 154</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.0865453</latitude>
+   <longitude>14.4207914</longitude>
+</benefit>

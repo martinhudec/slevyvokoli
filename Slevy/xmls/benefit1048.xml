@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1048">
+      <name>AmTec Defense - opravna aut</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kolbenova 891/37, Praha 9</address>
+      <phone>225 719 111</phone>
+      <email>isic@defensecz.cz</email>
+      <web>www.defensecz.cz</web>
+      <info>sleva 50 % na běžné opravy vozů všech značek. náhradní díly za velkoobchodní cenu (na přání zákazníka lze použít originální náhradní díly nebo díly z druhovýroby) Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1110665</latitude>
+   <longitude>14.5038713</longitude>
+</benefit>

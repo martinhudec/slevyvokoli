@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1088">
+      <name>Čajírna &amp; Kafírna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hradební 32, České Budějovice</address>
+      <phone>773 233 544</phone>
+      <email>cajirnakafirna@gmail.com</email>
+      <web>www.cajirnakafirna.cz</web>
+      <info>sleva 10 % na veškerou konzumaci</info>
+   <latitude>48.9779035</latitude>
+   <longitude>14.4732779</longitude>
+</benefit>

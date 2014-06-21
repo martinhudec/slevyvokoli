@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1852">
+      <name>Knihkupectvi Papyrus</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého třída 2549, Pardubice</address>
+      <phone>466 301 519</phone>
+      <email>knihy.papyrus@centrum.cz</email>
+      <web>www.knihkupectvi-papyrus.cz</web>
+      <info>sleva 10 % při nákupu v hotovosti, sleva se nevztahuje na již zlevněné tituly</info>
+   <latitude>50.0349060</latitude>
+   <longitude>15.7652820</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1126">
+      <name>Autoškola Felfel</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Nikolajky 28, Praha</address>
+      <phone>257 217 464</phone>
+      <email>autoskola.felfel@seznam.cz</email>
+      <web>www.felfel.cz</web>
+      <info>sleva 5 % na všechny pořádané kurzy autoškoly</info>
+   <latitude>50.0669296</latitude>
+   <longitude>14.3963104</longitude>
+</benefit>

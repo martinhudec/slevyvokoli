@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="943">
+      <name>Timeout</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Laso, Masarykovo nám. 15, Ostrava</address>
+      <phone>596112067</phone>
+      <email>info@gut.cz</email>
+      <web>www.timeoutjeans.com</web>
+      <info>15% sleva na nákup nezlevněného sortimentu zboží.</info>
+   <latitude>49.8365750</latitude>
+   <longitude>18.2929388</longitude>
+</benefit>

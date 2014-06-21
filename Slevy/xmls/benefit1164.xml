@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1164">
+      <name>Jeskynní restaurant PRAVĚK</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Milady Horákové 52, Praha 7</address>
+      <phone>233 310 884</phone>
+      <email>letna@pravek.cz</email>
+      <web>www.pravek.cz</web>
+      <info>sleva 20 % z celého účtu úterý - sobota sleva 30 % z celého účtu neděle a pondělí</info>
+   <latitude>50.1000740</latitude>
+   <longitude>14.4259411</longitude>
+</benefit>

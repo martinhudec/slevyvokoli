@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="904">
+      <name>FAnn parfumerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Galerie Moritz, 8. května 24, Olomouc</address>
+      <phone>585228031</phone>
+      <email>oik@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20 % sleva na nezlevněné zboží vybraných značek, 10 % sleva na ostatní nezlevněné zboží</info>
+   <latitude>49.5952860</latitude>
+   <longitude>17.2501507</longitude>
+</benefit>

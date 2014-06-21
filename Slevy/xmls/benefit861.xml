@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="861">
+      <name>Knihcentrum Louny</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 88, Louny</address>
+      <phone>725963182</phone>
+      <email>louny@knihcentrum.cz</email>
+      <web>www.knihcentrum-louny.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)  </info>
+   <latitude>50.3570166</latitude>
+   <longitude>13.7988743</longitude>
+</benefit>

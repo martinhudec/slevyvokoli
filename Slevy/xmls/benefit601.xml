@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="601">
+      <name>Autoškola DL</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Petrohradská 32, Praha 10</address>
+      <phone>274772779</phone>
+      <email>admin@autoskola-dl.cz</email>
+      <web>www.autoskola-dl.cz</web>
+      <info>12% sleva ze standardní ceny na všechny kurzy. 30% sleva na rychlokurz sk. B. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0654189</latitude>
+   <longitude>14.4524837</longitude>
+</benefit>

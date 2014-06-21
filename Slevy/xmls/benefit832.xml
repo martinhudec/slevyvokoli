@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="832">
+      <name>Inlinebus</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>5. května 1109/63, Praha 4</address>
+      <phone>222 980 344</phone>
+      <email>praha4@ulozenka.cz</email>
+      <web>www.inlinebus.cz</web>
+      <info>Sleva 10% na veškerý sortiment, při nákupu dvou položek s celkovou cenou nad 5000,- Kč sleva 15% na celý nákup. Slevy se netýkají poštovného a balného</info>
+   <latitude>50.0609012</latitude>
+   <longitude>14.4311934</longitude>
+</benefit>

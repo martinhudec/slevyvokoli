@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="937">
+      <name>Timeout</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ve Vaňkovce 1 , Brno</address>
+      <phone>543255771</phone>
+      <email>info@gut.cz</email>
+      <web>www.timeoutjeans.com</web>
+      <info>15% sleva na nákup nezlevněného sortimentu zboží.</info>
+   <latitude>49.1883382</latitude>
+   <longitude>16.6154401</longitude>
+</benefit>

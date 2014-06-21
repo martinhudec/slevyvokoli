@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1242">
+      <name>Národní divadlo Brno</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dvořákova 11, Brno</address>
+      <phone>542 158 111</phone>
+      <email>info@ndbrno.cz</email>
+      <web>www.ndbrno.cz</web>
+      <info>sleva 50 % na představení sleva neplatí na vybraná představení, pronájmy a představení hostujících divadel a nedají se uplatnit ne e-vstupenky</info>
+   <latitude>49.1965416</latitude>
+   <longitude>16.6128867</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="230">
+      <name>Kavárna Kalypso</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Běhounská 4, Brno</address>
+      <phone>722 966 944</phone>
+      <email>info@kalypso-cafe.cz</email>
+      <web>www.kalypso-cafe.cz</web>
+      <info>15% sleva na vše, kromě aktuální akční nabídky 2 + 1 zdarma. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.1959119</latitude>
+   <longitude>16.6090663</longitude>
+</benefit>

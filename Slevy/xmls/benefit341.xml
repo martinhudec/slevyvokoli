@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="341">
+      <name>Sport areál Klíny</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Rašov 64, Litvínov</address>
+      <phone>+420 607 818 797</phone>
+      <email>ski@kliny.cz</email>
+      <web>www.kliny.cz</web>
+      <info>10% selva na vlecích a lanovce</info>
+   <latitude>50.6279167</latitude>
+   <longitude>13.5655556</longitude>
+</benefit>

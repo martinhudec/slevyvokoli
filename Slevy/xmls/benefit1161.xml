@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1161">
+      <name>Knihkupectví - Barvič a Novotný</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykova 26, Brno</address>
+      <phone>542 218 014</phone>
+      <email>masarykova@barvic-novotny.cz</email>
+      <web>www.barvic-novotny.cz</web>
+      <info>Sleva 5 % na veškerý sortiment při platbě v hotovosti. Slevu nelze uplatnit na již zlevněné tituly.</info>
+   <latitude>49.1920313</latitude>
+   <longitude>16.6103616</longitude>
+</benefit>

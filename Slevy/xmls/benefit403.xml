@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="403">
+      <name>Doma Music Pub</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykova 3125/18, Ústí nad Labem</address>
+      <phone>777003603</phone>
+      <email>clubdoma@email.cz</email>
+      <web>www.doma-musicpub.cz</web>
+      <info>Vstup zdarma na akce pořádané Klubem Doma. Středa a pátek "happy hour" 20 - 23 hod 2+1 drink večera zdarma.</info>
+   <latitude>50.6627905</latitude>
+   <longitude>14.0341784</longitude>
+</benefit>

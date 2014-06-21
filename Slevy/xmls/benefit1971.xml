@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1971">
+      <name>Dámský fitness - PROFITSPORT</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. T.G. Masaryka 25, Plzeň</address>
+      <phone>+420 608 183 613, +420 377 222</phone>
+      <email>info@profitsport.cz</email>
+      <web>www.profitsport.cz</web>
+      <info>10% sleva na vstupné do fitness</info>
+   <latitude>49.7407364</latitude>
+   <longitude>13.3723151</longitude>
+</benefit>

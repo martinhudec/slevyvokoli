@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="863">
+      <name>EXPRESKA Praha Želivského</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Třebešíně 315/1, Praha 10</address>
+      <phone>774 037 445</phone>
+      <email>praha-zelivskeho@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)    </info>
+   <latitude>50.0823850</latitude>
+   <longitude>14.4804147</longitude>
+</benefit>

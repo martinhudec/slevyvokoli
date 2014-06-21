@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="215">
+      <name>Neoluxor Books - Knihkupectví Plaza Plzeň</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Radčická 2, OC PLaza Plzeň, Plzeň</address>
+      <phone>378 229 931</phone>
+      <email>plaza@neoluxorbooks.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>Sleva 10% na kompletní sortiment knih a doplňkového zboží, nelze uplatnit na dárkové knižní poukázky a vstupenky Ticketpro. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7384314</latitude>
+   <longitude>13.3736371</longitude>
+</benefit>

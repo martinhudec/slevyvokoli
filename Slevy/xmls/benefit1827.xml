@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1827">
+      <name>Skřivánek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dolní náměstí 41, Olomouc</address>
+      <phone>585 237 333</phone>
+      <email>olomouc@skrivanek.cz</email>
+      <web>www.skrivanek.cz</web>
+      <info>sleva 10% na všechny poskytované služby (jazyková výuka, veřejnostní kurzy, firemní kurzy, pobytové kurzy, individuální kurzy, e-learning, zahraniční kurzy), překlady, DTP služby, lokalizace, tlumočení</info>
+   <latitude>49.5922220</latitude>
+   <longitude>17.2522748</longitude>
+</benefit>

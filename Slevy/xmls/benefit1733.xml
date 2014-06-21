@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1733">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dům knihy, Kanovická 3, České Budějovice</address>
+      <phone>386 354 104</phone>
+      <email>cb_lan@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-pá: 8-18 h so: 8-13 h</info>
+   <latitude>48.9756578</latitude>
+   <longitude>14.4802550</longitude>
+</benefit>

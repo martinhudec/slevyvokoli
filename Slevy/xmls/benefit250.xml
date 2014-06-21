@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="250">
+      <name>Knihy Dobrovský - OC Plaza Liberec</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palachova 1404, Liberec</address>
+      <phone>485 107 546, 725 304 766</phone>
+      <email>liberec@knihydobrovsky.cz</email>
+      <web>www.knihydobrovsky.cz</web>
+      <info>10% sleva na všechny zakoupené tituly, sleva se nevztahuje na již zlevněné tituly. Slevu je možno uplatnit v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.7696445</latitude>
+   <longitude>15.0605194</longitude>
+</benefit>

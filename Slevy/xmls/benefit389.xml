@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="389">
+      <name>Cafe Klárov</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Letenská 526/2, Praha 1</address>
+      <phone>774499422</phone>
+      <email>cafe.klarov@seznam.cz</email>
+      <web>www.cafe.klarov@seznam.cz</web>
+      <info>20% sleva na veškerý sortiment kavárny</info>
+   <latitude>50.0901908</latitude>
+   <longitude>14.4097919</longitude>
+</benefit>

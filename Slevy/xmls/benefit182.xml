@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="182">
+      <name>D-Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykovo náměstí 536, Hradec králové</address>
+      <phone>495 591 591, 730 518 339</phone>
+      <email>hradec.decko@seznam.cz</email>
+      <web>www.dsport.eu</web>
+      <info>15% sleva na nezlevněné zboží 5% sleva na již zlevněné zboží Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.2115642</latitude>
+   <longitude>15.8244945</longitude>
+</benefit>

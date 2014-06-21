@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1634">
+      <name>Nová Akropolis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Purkyňova 12, Plzeň</address>
+      <phone>377 221 251</phone>
+      <email>nova@akropolis.cz</email>
+      <web>www.akropolis.cz</web>
+      <info>zvýhodněné vstupné na přednášky, přednáškové cykly, kurzy, semináře, cestovatelské večery, výtvarné dílny (workshopy)</info>
+   <latitude>49.7412881</latitude>
+   <longitude>13.3777921</longitude>
+</benefit>

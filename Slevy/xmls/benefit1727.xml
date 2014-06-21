@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1727">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Starostrašnická 56, Praha 10</address>
+      <phone>274 777 374</phone>
+      <email>strasnice@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.0758928</latitude>
+   <longitude>14.4896661</longitude>
+</benefit>

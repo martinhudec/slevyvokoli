@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="313">
+      <name>Premi Consult</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Stodolní 21, Ostrava</address>
+      <phone>725 883 836</phone>
+      <email>obchod@premi-consult.cz</email>
+      <web>www.premi-consult.cz</web>
+      <info>20% sleva na všechny jazykové a veřejné kurzy nabízené firmou Premi Consult s.r.o. Vztahuje se i na akce vyvěšené na stránkách www.premi-consult.cz</info>
+   <latitude>49.8352064</latitude>
+   <longitude>18.2829237</longitude>
+</benefit>

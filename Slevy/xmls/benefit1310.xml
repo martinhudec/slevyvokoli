@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1310">
+      <name>Zoner software</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nové sady 18/583, Brno</address>
+      <phone>543 257 244</phone>
+      <email>info@zoner.com</email>
+      <web>www.student.zoner.cz</web>
+      <info>sleva 60 % z běžné ceny produktu Zoner Photo Studio sleva je poskytnuta formou studentské licence</info>
+   <latitude>49.1876744</latitude>
+   <longitude>16.6051177</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1189">
+      <name>24U</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Michelská 51-53, Praha 4</address>
+      <phone>224 910 892</phone>
+      <email>obchod@24u.cz</email>
+      <web>http://obchod.24u.cz/</web>
+      <info>sleva 5 % na produkty Apple</info>
+   <latitude>50.0528664</latitude>
+   <longitude>14.4534412</longitude>
+</benefit>

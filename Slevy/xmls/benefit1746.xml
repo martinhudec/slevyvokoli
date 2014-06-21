@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1746">
+      <name>EF Education First - studium v zahraničí</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vodičkova 26, Praha 1</address>
+      <phone>296 333 810</phone>
+      <email>ef.czech@ef.com</email>
+      <web>www.ef-czech.cz</web>
+      <info>5% sleva na krátkodobé jazykové pobyty v zahraničí dle aktuálního katalogu. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0802971</latitude>
+   <longitude>14.4239424</longitude>
+</benefit>

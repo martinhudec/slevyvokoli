@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="884">
+      <name>FAnn parfumerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Galerie Harfa, Českomoravská 2420/15a, Praha 9</address>
+      <phone>234132135</phone>
+      <email>hrf@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20 % sleva na nezlevněné zboží vybraných značek, 10 % sleva na ostatní nezlevněné zboží</info>
+   <latitude>50.1038245</latitude>
+   <longitude>14.4912498</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1511">
+      <name>Revolution</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mírové náměstí 2442/6, Ústí nad Labem</address>
+      <phone>475 209 182</phone>
+      <email>usti@revolutionshop.cz</email>
+      <web>www.revolutionshop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>50.6608088</latitude>
+   <longitude>14.0419242</longitude>
+</benefit>

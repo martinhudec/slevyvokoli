@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="207">
+      <name>Neoluxor Books - Knihkupectví Laso</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykovo náměstí 15, OC Laso, Moravská Ostrava</address>
+      <phone>597 490 991</phone>
+      <email>laso@neoluxorbooks.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>Sleva 10% na kompletní sortiment knih a doplňkového zboží, nelze uplatnit na dárkové knižní poukázky a vstupenky Ticketpro. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.8365750</latitude>
+   <longitude>18.2929388</longitude>
+</benefit>

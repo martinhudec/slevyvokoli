@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1622">
+      <name>Lascala - restaurace, pizzerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Celetná 5, Praha 1</address>
+      <phone>224 810 024, 602 228 310</phone>
+      <email>info@lascala.cz</email>
+      <web>www.lascala.cz</web>
+      <info>sleva 15 % z celého účtu (sleva se nevztahuje na tabákové výrobky)</info>
+   <latitude>50.0871695</latitude>
+   <longitude>14.4244266</longitude>
+</benefit>

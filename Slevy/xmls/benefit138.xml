@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="138">
+      <name>Starbucks Palác Archa</name>
+      <cardType>ISIC</cardType>
+      <address>Na Poříčí 24, Praha 1</address>
+      <phone>235 013 512, 602 757 247</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.0897155</latitude>
+   <longitude>14.4336410</longitude>
+</benefit>

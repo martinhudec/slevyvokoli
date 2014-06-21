@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1374">
+      <name>Expediční kamera</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Klub cestovatelů Praha, Masarykovo nábřeží 22, Praha 1</address>
+      <phone/>
+      <email>expedicni@gmail.com</email>
+      <web>www.expedicnikamera.cz</web>
+      <info>10% sleva ze vstupného na festival probíhající ve vybraných městech po celé České republice. více informací na www.expedicnikamera.cz</info>
+   <latitude>50.0784446</latitude>
+   <longitude>14.4142874</longitude>
+</benefit>

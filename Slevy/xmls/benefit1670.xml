@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1670">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Berounka Park, Nákupní 11, Plzeň</address>
+      <phone>725 724 817</phone>
+      <email>plzen2@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>sleva 5 % z celkové ceny zboží sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>49.7449073</latitude>
+   <longitude>13.4402903</longitude>
+</benefit>

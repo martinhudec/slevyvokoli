@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1817">
+      <name>Skřivánek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kopečná 241/20, Brno</address>
+      <phone>543 212 678</phone>
+      <email>brno@skrivanek.cz</email>
+      <web>www.skrivanek.cz</web>
+      <info>sleva 10% na všechny poskytované služby (jazyková výuka, veřejnostní kurzy, firemní kurzy, pobytové kurzy, individuální kurzy, e-learning, zahraniční kurzy), překlady, DTP služby, lokalizace, tlumočení</info>
+   <latitude>49.1901441</latitude>
+   <longitude>16.6055862</longitude>
+</benefit>

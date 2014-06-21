@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1049">
+      <name>Autoturist</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykova 10, Opava</address>
+      <phone>553 627 780, 602 189 565</phone>
+      <email>info@opava.autoturist.cz</email>
+      <web>www.autoturist.cz</web>
+      <info>sleva 10 % na zájezdy z katalogu Autoturist v tištěné i online verzi. sleva na asistenční klubové karty pro motoristy ÚAMK: 200 Kč roční, platná pro EU 100 Kč tříměsíční, platná pro EU 100 Kč roční, platná pro ČR Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.9379091</latitude>
+   <longitude>17.9049590</longitude>
+</benefit>

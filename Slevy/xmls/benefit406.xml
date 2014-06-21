@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="406">
+      <name>Restaurace Longiano</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Poříčí 13, Praha 1</address>
+      <phone>222328730</phone>
+      <email>info@longiano.cz</email>
+      <web>www.longiano.cz</web>
+      <info>20% sleva na pizzu a těstoviny 1 + 1 pizza zdarma denně od 15 - 18 hod(zdrama vždy levnější pizza) Všichni zákazníci, jež chtějí uplatnit slevu se musí prokázat platným průkazem  </info>
+   <latitude>50.0896745</latitude>
+   <longitude>14.4321546</longitude>
+</benefit>

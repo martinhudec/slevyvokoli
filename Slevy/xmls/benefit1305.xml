@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1305">
+      <name>Bohemia Bagel</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dukelských hrdinů 48, Praha 7</address>
+      <phone>220 806 541</phone>
+      <email>pavel.matousek@bohemiabagels.cz</email>
+      <web>www.bohemiabagel.cz</web>
+      <info>sleva 10 % na jídlo a pití</info>
+   <latitude>50.1028679</latitude>
+   <longitude>14.4326233</longitude>
+</benefit>

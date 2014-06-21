@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="172">
+      <name>Soubor staveb lidové architektury v Příkazích</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Příkazy</address>
+      <phone>776 576 598</phone>
+      <email>svec@olomouc.npu.cz</email>
+      <web>www.hanackeskanzen.cz</web>
+      <info>Sleva z plného vstupného na úroveň sníženého vstupného. Věková hranice pro uplatněníslevy 26 let (včetně). Slevu je možno uplatnit pouze na místě. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>49.6423712</latitude>
+   <longitude>17.1482050</longitude>
+</benefit>

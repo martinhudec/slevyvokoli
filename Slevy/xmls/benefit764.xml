@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="764">
+      <name>SKI areál Kubova Huť</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>, Kubova Huť</address>
+      <phone>721 267 867</phone>
+      <email>ski-kubovka@seznam.cz</email>
+      <web>www.ski-kubovka.com</web>
+      <info>Držitelům bude poskytnuto jízdné dle ceníku JUNIOR</info>
+   <latitude>48.9832325</latitude>
+   <longitude>13.7718236</longitude>
+</benefit>

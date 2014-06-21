@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="28">
+      <name>Vinotéka Karlín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Šaldova 406/21, Praha 8</address>
+      <phone>+420 222 948 656</phone>
+      <email>info@vinoteka-karlin.cz</email>
+      <web>www.vinoteka-karlin.cz</web>
+      <info/>
+   <latitude>50.0941492</latitude>
+   <longitude>14.4553587</longitude>
+</benefit>

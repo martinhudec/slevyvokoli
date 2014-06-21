@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="801">
+      <name>Yves Rocher</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Česká 28, Brno</address>
+      <phone>542 219 095</phone>
+      <email>brnoceska@yvesrocher.cz</email>
+      <web>www.yves-rocher.cz</web>
+      <info>20% sleva na 1 péči v kosmetickém salonu Yves Rocher (slevy a nabídky se nekumulují, slevy se vypočítají z cen doporučených pro ČR).</info>
+   <latitude>49.2294308</latitude>
+   <longitude>16.5189262</longitude>
+</benefit>

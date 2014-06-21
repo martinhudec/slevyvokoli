@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="931">
+      <name>Berslevu.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Korunní 810/104, Praha 10</address>
+      <phone>774 728 578</phone>
+      <email>slevy@berslevu.cz</email>
+      <web>www.berslevu.cz</web>
+      <info>7% navýšení slevy k již slevněnému "dealu", na veškeré nákupy pro držitele platných průkazů ISIC, IYTC, ITIC</info>
+   <latitude>50.0753397</latitude>
+   <longitude>14.4563120</longitude>
+</benefit>

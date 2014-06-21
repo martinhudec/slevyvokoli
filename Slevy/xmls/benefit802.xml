@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="802">
+      <name>Dopravní podnik měst Liberec a Jablonec nad Nisou</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Jablonec nad Nisou</address>
+      <phone>485 344 111</phone>
+      <email>dpml@dpml.cz</email>
+      <web>www.dpmlj.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekciwww.isic.cz/doprava</info>
+   <latitude>50.7220528</latitude>
+   <longitude>15.1703135</longitude>
+</benefit>

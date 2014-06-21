@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="787">
+      <name>Yves Rocher</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vodičkova 15, Praha 1</address>
+      <phone>224 94 68 43</phone>
+      <email>vodickova@yvesrocher.cz</email>
+      <web>www.yves-rocher.cz</web>
+      <info>20% sleva na 1 péči v kosmetickém salonu Yves Rocher (slevy a nabídky se nekumulují, slevy se vypočítají z cen doporučených pro ČR).</info>
+   <latitude>50.0801301</latitude>
+   <longitude>14.4232401</longitude>
+</benefit>

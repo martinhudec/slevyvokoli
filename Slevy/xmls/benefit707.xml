@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="707">
+      <name>CK Čedok</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nádražní 10/654, Brno</address>
+      <phone>542 321 267</phone>
+      <email>brno@cedok.cz</email>
+      <web>www.cedok.cz</web>
+      <info>7 % sleva ze základní ceny leteckých pobytových zájezdů, vyjma zájezdů doTuniska a na Kanárské ostrovy 5 % sleva ze základní ceny ostatních katalogových zájezdů s výjimkou pobytůoznačených „Délka pobytu dle přání zákazníka“ Sleva 100 Kč z ceny manipulačního poplatku na vystavenou letenku v kterékoliv kmenové pobočce Čedok a.s.</info>
+   <latitude>49.1908644</latitude>
+   <longitude>16.6107258</longitude>
+</benefit>

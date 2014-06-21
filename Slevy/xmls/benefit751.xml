@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="751">
+      <name>Pizzerie u Dušičků</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pernštýnské nám. 64, Pardubice</address>
+      <phone>466 535 466, 607 637 484</phone>
+      <email>udusicku@seznam.cz</email>
+      <web>www.pizzerieudusicku.cz</web>
+      <info>20% sleva v restauraci z celkového účtu, max. 4 osoby na jeden ISIC. Sleva se nevztahuje na tabákové výrobky a polední menu. Slevy není možné sčítat.</info>
+   <latitude>50.0382862</latitude>
+   <longitude>15.7789516</longitude>
+</benefit>

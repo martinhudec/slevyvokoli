@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="249">
+      <name>Knihy Dobrovský - Olomouc Olympia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Olomoucká 90, Olomouc</address>
+      <phone>585 393 252, 585 312 198, 724</phone>
+      <email>olomouc-olympia@knihydobrovsky.cz</email>
+      <web>www.knihydobrovsky.cz</web>
+      <info>10% sleva na všechny zakoupené tituly, sleva se nevztahuje na již zlevněné tituly. Slevu je možno uplatnit v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>49.6254500</latitude>
+   <longitude>17.3661010</longitude>
+</benefit>

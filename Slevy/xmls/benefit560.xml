@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="560">
+      <name>DHL Express</name>
+      <cardType>ISIC</cardType>
+      <address>Hlinská 2, České Budějovice</address>
+      <phone>840103000</phone>
+      <email>infolinka@dhl.com</email>
+      <web>www.dhl.cz</web>
+      <info>50% sleva na služby expresní letecké přepravy, neplatí na pozemní přepravu, lze využít pouze na DHL recepcích při platbě v hotovosti, více na www.isic.cz  </info>
+   <latitude>48.9796109</latitude>
+   <longitude>14.5060348</longitude>
+</benefit>

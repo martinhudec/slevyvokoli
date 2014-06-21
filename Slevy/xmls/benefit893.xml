@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="893">
+      <name>FAnn parfumerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NC Géčko, Sousedská 599, Liberec 11</address>
+      <phone>485106044</phone>
+      <email>gli@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20 % sleva na nezlevněné zboží vybraných značek, 10 % sleva na ostatní nezlevněné zboží</info>
+   <latitude>35.7595731</latitude>
+   <longitude>-79.0192997</longitude>
+</benefit>

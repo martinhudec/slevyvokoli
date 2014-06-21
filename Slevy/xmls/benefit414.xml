@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="414">
+      <name>DIVADLO EXIL</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Havlíčkova 841, Pardubice</address>
+      <phone>605251596</phone>
+      <email>postavdivadloexil.cz</email>
+      <web>www.divadloexil.cz</web>
+      <info>Jednorázové vstupné 55 Kč, permanentka na 10 představení 400Kč</info>
+   <latitude>50.0338243</latitude>
+   <longitude>15.7665546</longitude>
+</benefit>

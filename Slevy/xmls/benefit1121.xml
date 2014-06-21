@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1121">
+      <name>Knihkupectví Bonum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměsstí T.G. Masaryka 20, Prostějov</address>
+      <phone>582 342 707</phone>
+      <email>prostejov@bonum.cz</email>
+      <web>www.bonum.cz</web>
+      <info>sleva 5 - 10 % na knihy</info>
+   <latitude>49.4726274</latitude>
+   <longitude>17.1101309</longitude>
+</benefit>

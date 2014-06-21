@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="282">
+      <name>Vertigo pole fitness</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sázavská 847/4, Praha 2</address>
+      <phone>606 681 093</phone>
+      <email>vertigo@pole-fitness.cz</email>
+      <web>www.vertigopolefitness.cz</web>
+      <info>10% sleva na kurzy pole dance, pole fitness, core fitness a power pole</info>
+   <latitude>50.0738719</latitude>
+   <longitude>14.4408120</longitude>
+</benefit>

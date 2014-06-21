@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1632">
+      <name>Nová Akropolis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lafayettova 51/1, Olomouc</address>
+      <phone>585 235 234</phone>
+      <email>nova@akropolis.cz</email>
+      <web>www.akropolis.cz</web>
+      <info>zvýhodněné vstupné na přednášky, přednáškové cykly, kurzy, semináře, cestovatelské večery, výtvarné dílny (workshopy)</info>
+   <latitude>49.5917120</latitude>
+   <longitude>17.2524593</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="337">
+      <name>Fruitisimo Fresh</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykov nám. 2799, Pardubice</address>
+      <phone>725 705 939</phone>
+      <email>monika.belohlavkova@fruitisimogroup.com</email>
+      <web>www.fruitisimo.net</web>
+      <info>sleva 10 % na produkty Fruitisimo Fresh (neplatí pro nabízené odšťavňovače)</info>
+   <latitude>50.0370687</latitude>
+   <longitude>15.7688701</longitude>
+</benefit>

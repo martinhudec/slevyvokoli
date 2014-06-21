@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1223">
+      <name>Hotel Solenice***</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bohostice 98, Solenice</address>
+      <phone>318 694 328, 605 205 450</phone>
+      <email>info@hotelsolemice.cz</email>
+      <web>www.hotelsolenice.cz</web>
+      <info>sleva 20 % z celkové částky pobytu mimo Vánoc a Silvestra</info>
+   <latitude>49.5924333</latitude>
+   <longitude>14.1517850</longitude>
+</benefit>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1274">
+      <name>České muzeum hudby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karmelitská 2/4, Praha 1</address>
+      <phone>257 257 777</phone>
+      <email>c_muzeum_hudby@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>snížené vstupné dle aktuálního ceníku, Běžná cena 120 Kč, cena po slevě 60 Kč.</info>
+   <latitude>50.0858308</latitude>
+   <longitude>14.4042465</longitude>
+</benefit>

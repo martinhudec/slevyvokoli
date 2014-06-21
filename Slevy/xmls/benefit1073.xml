@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1073">
+      <name>Condor - levné letenky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pekařská 18, Brno</address>
+      <phone>543 333 555</phone>
+      <email>brno@condor.cz</email>
+      <web>www.condor.cz</web>
+      <info>sleva 390 Kč na servisním poplatku při zakoupení letenky. sleva 250 Kč na servisním poplatku při objednání víza. sleva 10 % z vlastních eurovíkendů či zájezdů. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou. sleva 390 Kč na servisním poplatku při zakoupení letenky sleva 250 Kč na servisním poplatku při objednání víza sleva 10 % z vlastních eurovíkendů či zájezdů</info>
+   <latitude>49.1922510</latitude>
+   <longitude>16.6024063</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="30">
+      <name>Subway - OC Futurum Ostrava</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Novinářská 6a, Ostrava</address>
+      <phone>602369022</phone>
+      <email>info@subwaynovakarolina.cz</email>
+      <web>www.subwaynovakarolina.cz</web>
+      <info>20% sleva z celkové útraty. Sleva se nevztahuje na již zlevněné zboží a akční nabídky. Nebo 1 + 1 zdarma na jakýkoli 15 cm sendvič, salát, wrap nebo flatbread při zakoupení bezedného kelímku.   Sleva platí v kamenné provozovně po předložení platné karty.</info>
+   <latitude>49.8324731</latitude>
+   <longitude>18.2624720</longitude>
+</benefit>

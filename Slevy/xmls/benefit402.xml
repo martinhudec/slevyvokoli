@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="402">
+      <name>CROSSCAFE ŠTĚPÁNSKÁ</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štěpánská 7, Praha</address>
+      <phone>774760903</phone>
+      <email>praha@crosscafe.cz</email>
+      <web>www.crosscafe.cz</web>
+      <info>Při registraci výhodnější nastavení zákaznického programu Cross Card. Místo obvyklého přepočtu 10 bodů na 1 Kč, získá za 10 bodů 2 Kč. Body jsou přiděleny ke každému prodanému produktu. Po převodu na Kč je může zákazník využít na snížení hodnoty svého účtu při následujících nákupech.</info>
+   <latitude>50.0764825</latitude>
+   <longitude>14.4242569</longitude>
+</benefit>

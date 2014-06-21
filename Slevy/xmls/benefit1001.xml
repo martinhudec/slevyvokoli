@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1001">
+      <name>Cafe Déjà vu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Olbrachtova 2006/9, Praha 4</address>
+      <phone>241 730 042</phone>
+      <email>cafe.dejavu@seznam.cz</email>
+      <web>www.deja-vu.cz</web>
+      <info>10% sleva na veškerý sortiment po celý týden a v sobotu a neděli  1+1 na jidla z týdenního menu</info>
+   <latitude>50.0447952</latitude>
+   <longitude>14.4478516</longitude>
+</benefit>

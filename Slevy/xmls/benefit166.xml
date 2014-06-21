@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="166">
+      <name>Státní zámek Slatiňany</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Slatiňany</address>
+      <phone>469 681 112</phone>
+      <email>slatinany@pardubice.npu.cz</email>
+      <web>www.zamek-slatinany.cz</web>
+      <info>Sleva z plného vstupného na úroveň sníženého vstupného. Věková hranice pro uplatnění slev je 26 let (včetně). Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.9210957</latitude>
+   <longitude>15.8137732</longitude>
+</benefit>

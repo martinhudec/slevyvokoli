@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="617">
+      <name>KFC - Praha Raiffeisen</name>
+      <cardType>ISIC</cardType>
+      <address>Olbrachtova 1929/62, Praha 4</address>
+      <phone>235 013 423</phone>
+      <email>kfcrfsn@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>50.0442268</latitude>
+   <longitude>14.4477521</longitude>
+</benefit>

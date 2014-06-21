@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1009">
+      <name>Skiareál Kamenec</name>
+      <cardType>ISIC</cardType>
+      <address>Jablonec nad Jizerou 238, Jablonec nad Jizerou</address>
+      <phone>737 222 456</phone>
+      <email>info@skikamenec.cz</email>
+      <web>www.skikamenec.cz</web>
+      <info>20% sleva na jedno a vícedenní permanentky</info>
+   <latitude>50.7060502</latitude>
+   <longitude>15.4279823</longitude>
+</benefit>

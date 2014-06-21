@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1031">
+      <name>Soláň-vrchol</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Solanec pod Soláňem, Hutisko-Solanec</address>
+      <phone>604 257 437</phone>
+      <email>az@solansedlo.cz</email>
+      <web>www.solansedlo.cz</web>
+      <info>Držitelům platných průkazů ISIC, IYTC, ITIC, ALIVE je poskytována sleva 15 % ve všech třech SKIREGIONU Soláň-Karolinka</info>
+   <latitude>49.4236637</latitude>
+   <longitude>18.2195018</longitude>
+</benefit>

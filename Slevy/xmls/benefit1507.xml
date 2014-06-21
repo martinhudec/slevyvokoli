@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1507">
+      <name>Easy Rider</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Liberec Plaza, Palachova 1404, Liberec - staré město</address>
+      <phone>485 100 956</phone>
+      <email>easyrider.liberec@seznam.cz</email>
+      <web>www.easyridershop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>50.7696445</latitude>
+   <longitude>15.0605194</longitude>
+</benefit>

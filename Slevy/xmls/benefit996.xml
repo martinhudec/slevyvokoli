@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="996">
+      <name>Music club &amp; bar Phenomen</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nádražní 84, Praha 5</address>
+      <phone>774 366 636</phone>
+      <email>info@phenomen.cz</email>
+      <web>www.phenomen.cz</web>
+      <info>Úterní studentská noc - držitelům ISIC karet nabízíme volný vstup, happy hour na celý náš sortiment 1+1 od 19:00 do 21:00 a dále do zavírací hodiny 20% slevu z účtu založeném po 21 hodině</info>
+   <latitude>50.0682949</latitude>
+   <longitude>14.4066950</longitude>
+</benefit>

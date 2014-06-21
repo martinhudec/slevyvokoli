@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="613">
+      <name>KFC - Praha Blaník</name>
+      <cardType>ISIC</cardType>
+      <address>Václavské nám. 56, Praha 1</address>
+      <phone>235 013 402</phone>
+      <email>kfcblanik@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč</info>
+   <latitude>50.0800890</latitude>
+   <longitude>14.4293616</longitude>
+</benefit>

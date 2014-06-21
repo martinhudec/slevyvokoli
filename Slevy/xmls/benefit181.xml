@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="181">
+      <name>D-Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 4, Příbram</address>
+      <phone>318 677 109, 730 515 563</phone>
+      <email>pribram.decko@seznam.cz</email>
+      <web>www.dsport.eu</web>
+      <info>15% sleva na nezlevněné zboží 5% sleva na již zlevněné zboží Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.4565674</latitude>
+   <longitude>14.0652234</longitude>
+</benefit>

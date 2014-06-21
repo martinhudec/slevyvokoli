@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1976">
+      <name>TS Bohemia - výpočetní technika</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Akademika Heyrovského 1171, Hradec Králové</address>
+      <phone>585 157 497</phone>
+      <email>hk@tsbohemia.cz</email>
+      <web>www.tsbohemia.cz</web>
+      <info>nákup celého aktuálního sortimentu za ceny určené velkoobchodním odběratelům</info>
+   <latitude>50.2018025</latitude>
+   <longitude>15.8331528</longitude>
+</benefit>

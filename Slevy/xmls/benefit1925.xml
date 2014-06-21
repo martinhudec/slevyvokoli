@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1925">
+      <name>Mobil Town.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Krkonošská 151, Vrchlabí</address>
+      <phone>605 044 444</phone>
+      <email>obchod@mobiltown.cz</email>
+      <web>www.mobiltown.cz</web>
+      <info>při nákupu na e-shopu: neúčtuje se poštovné a balné (cca 130 Kč) při nákupu na prodejně: sleva 200 Kč na jeden mobilní telefon a GPS navigaci sleva 10 % na veškeré příslušenství</info>
+   <latitude>50.6254889</latitude>
+   <longitude>15.6121821</longitude>
+</benefit>

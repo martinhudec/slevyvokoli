@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1563">
+      <name>Sýrový obchod</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Míru 65, Zlín</address>
+      <phone>603 889 337</phone>
+      <email>info@syrovyobchod.cz</email>
+      <web>www.syrovyobchod.cz</web>
+      <info>5% sleva z nákupu veškerého sortimentu. Slevu je možno uplatnit pouze v kamenné prodejně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.2265095</latitude>
+   <longitude>17.6665193</longitude>
+</benefit>

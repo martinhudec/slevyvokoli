@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1288">
+      <name>Albi</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Galerie Fénix, Freyova 945/35, Praha 9</address>
+      <phone>211 138 716</phone>
+      <email>praha.fenix.kasa@albi.cz</email>
+      <web>www.albi.cz</web>
+      <info>sleva 10 % na veškerý sortiment. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1099801</latitude>
+   <longitude>14.5015913</longitude>
+</benefit>

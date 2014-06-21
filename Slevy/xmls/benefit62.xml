@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="62">
+      <name>Power Play Studio</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vídeňská 10, Olomouc</address>
+      <phone>585 230 354, 777 898 308</phone>
+      <email>info@powerplaystudio.cz</email>
+      <web>www.powerplaystudio.cz</web>
+      <info>20% sleva na cvičení. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.5900101</latitude>
+   <longitude>17.2493753</longitude>
+</benefit>

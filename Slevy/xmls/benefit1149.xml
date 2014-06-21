@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1149">
+      <name>Restaurant U Schnellů</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tomášská 2, Praha 1</address>
+      <phone>257 531 037</phone>
+      <email>uschnellu@centrum.cz</email>
+      <web>www.uschnellu.cz</web>
+      <info>sleva 10 % z účtu</info>
+   <latitude>50.0886708</latitude>
+   <longitude>14.4049127</longitude>
+</benefit>

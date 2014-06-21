@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1855">
+      <name>Pace Jeans</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Solní 19, Plzeň</address>
+      <phone>377 329 930</phone>
+      <email>info@pacejeans.cz</email>
+      <web>www.jeans-rifle.cz</web>
+      <info>sleva 10 % na veškerý sortiment nevztahuje se na již zlevněné zboží</info>
+   <latitude>49.7481550</latitude>
+   <longitude>13.3748581</longitude>
+</benefit>

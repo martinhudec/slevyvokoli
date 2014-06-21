@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1079">
+      <name>Hello language centre</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dolní náměstí 20, Opava</address>
+      <phone>776 827 006</phone>
+      <email>opava@hello.cz</email>
+      <web>www.hello.cz</web>
+      <info>sleva 200 Kč na roční kurz pro veřejnost</info>
+   <latitude>49.9388989</latitude>
+   <longitude>17.9055665</longitude>
+</benefit>

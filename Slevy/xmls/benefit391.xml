@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="391">
+      <name>LEPORELO+ Restaurant</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Malinovského nám. 2 - Dům umění města Brna, Brno</address>
+      <phone>777904570</phone>
+      <email>www.leporeloplus.cz</email>
+      <web>restaurant@leporeloplus.cz</web>
+      <info>20% sleva na jídla z denní nabídky denně od 15 - 17 hod 10% sleva z celkové nabídky restaurace</info>
+   <latitude>49.1950602</latitude>
+   <longitude>16.6068371</longitude>
+</benefit>

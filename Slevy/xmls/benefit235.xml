@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="235">
+      <name>K2 INLINE</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, e-shop</address>
+      <phone/>
+      <email/>
+      <web>www.k2inline.cz/isic</web>
+      <info>Sleva 30 % pro držitele platných karet ISIC, ITIC, IYTC a ALIVE. Po přihlášení na webu www.k2inline.cz/isic bude držiteli karty cena produktu ponížena o 30 %.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

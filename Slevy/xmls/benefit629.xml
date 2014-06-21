@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="629">
+      <name>KFC - Brno Vaňkovka</name>
+      <cardType>ISIC</cardType>
+      <address>Ve Vaňkovce 1, Brno</address>
+      <phone>235 013 433</phone>
+      <email>kfcvankovka@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>49.1883382</latitude>
+   <longitude>16.6154401</longitude>
+</benefit>

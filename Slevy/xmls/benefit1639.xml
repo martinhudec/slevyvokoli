@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1639">
+      <name>A Optika</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Slezská 6, Praha 2 - Vinohrady</address>
+      <phone>222 524 007, 774 266 861</phone>
+      <email>a-optika@volny.cz</email>
+      <web>www.aoptika.cz</web>
+      <info>sleva 15% na veškerý sortiment optického zboží (slevy se nekombinují ani nesčítají s jinými slevami). Slevu je možno uplatnit pouze v kamenné prodejně. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>50.0760269</latitude>
+   <longitude>14.4395131</longitude>
+</benefit>

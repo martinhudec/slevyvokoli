@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1584">
+      <name>Prague residences - apartmány v centru Prahy</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Michalská 12, Praha 1</address>
+      <phone>777 963 386</phone>
+      <email>booking@pragueresidences.com</email>
+      <web>www.pragueresidences.com</web>
+      <info>sleva 20% z ceny ubytování</info>
+   <latitude>50.0853883</latitude>
+   <longitude>14.4199381</longitude>
+</benefit>

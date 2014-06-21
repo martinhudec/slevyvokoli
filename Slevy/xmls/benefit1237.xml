@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1237">
+      <name>SUBFORM - snow &amp; skate shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykovo náměstí 23, Jihlava</address>
+      <phone>733 745 160</phone>
+      <email>subform.jihlava@seznam.cz</email>
+      <web>www.subform.cz</web>
+      <info>sleva 5 % na nezlevněné zboží slevy se nesčítají s dalšími slevami</info>
+   <latitude>49.3940495</latitude>
+   <longitude>15.5921814</longitude>
+</benefit>

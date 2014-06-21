@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1387">
+      <name>Skandal Bar - Coctail bar a kavárna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mariánské nám. 62, Uherské Hradiště</address>
+      <phone>725 878 818</phone>
+      <email>info@skandalbar.cz</email>
+      <web>www.skandalbar.cz</web>
+      <info>sleva 7% z útraty, kromě tabákových výrobků</info>
+   <latitude>49.0693828</latitude>
+   <longitude>17.4580350</longitude>
+</benefit>

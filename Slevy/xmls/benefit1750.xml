@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1750">
+      <name>Fruitisimo Fresh</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Central Most, Radniční ulice, Most</address>
+      <phone>774 300 330</phone>
+      <email>fruitisimo@fruitisimo.net</email>
+      <web>www.fruitisimo.net</web>
+      <info>sleva 10 % na produkty Fruitisimo Fresh (neplatí pro nabízené odšťavňovače)</info>
+   <latitude>50.5022314</latitude>
+   <longitude>13.6420945</longitude>
+</benefit>

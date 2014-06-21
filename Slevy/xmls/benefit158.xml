@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="158">
+      <name>Subway - Archa Palace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Poříčí 1047/26, Praha 1</address>
+      <phone>606 304 607</phone>
+      <email>kosard@seznam.cz</email>
+      <web>www.subwaysandwiches.cz, www.subway.cz</web>
+      <info>1 + 1 zdarma; druhý sendvič 15 cm ZDARMA při zakoupení sendviče a 0,4l nápoje Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0894902</latitude>
+   <longitude>14.4340962</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="243">
+      <name>Knihy Dobrovský - Galerie Vaňkovka Brno</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ve Vaňkovce 1, Brno</address>
+      <phone>543 255 907, 724 271 214</phone>
+      <email>brno-vankovka@knihydobrovsky.cz</email>
+      <web>www.knihydobrovsky.cz</web>
+      <info>10% sleva na všechny zakoupené tituly, sleva se nevztahuje na již zlevněné tituly. Slevu je možno uplatnit v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>49.1883382</latitude>
+   <longitude>16.6154401</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1599">
+      <name>www.hranavalku.cz - paintball</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Račetice 161, Žatec</address>
+      <phone>608 025 123</phone>
+      <email>info@hranavalku.cz</email>
+      <web>www.hranavalku.cz</web>
+      <info>sleva 10% na zapůjčení vybavení a střelivo na paintball pořádeném www.HraNaValku.cz</info>
+   <latitude>50.3052125</latitude>
+   <longitude>13.3675488</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1099">
+      <name>Segway point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rašínovo nábřeží 40, Praha 2</address>
+      <phone>774 303 973</phone>
+      <email>pavlikova@gsi-distribution.cz</email>
+      <web>www.segwaypt.cz</web>
+      <info>denní vyjížďka: 1 + 1 osoba za 50 % základní ceny noční vyjíždky: 1 + 1 osoba zdarma</info>
+   <latitude>50.0689987</latitude>
+   <longitude>14.4148714</longitude>
+</benefit>

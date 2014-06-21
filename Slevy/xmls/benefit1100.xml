@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1100">
+      <name>Východočeská galerie v Pardubicích - Zámek čp. 3</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Pardubice</address>
+      <phone>466 501 897</phone>
+      <email>vcg1@seznam.cz</email>
+      <web>www.vcg.cz</web>
+      <info>sleva 50 % na vstup</info>
+   <latitude>50.0343092</latitude>
+   <longitude>15.7811994</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1611">
+      <name>Knihkupectví Academia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Svobody 13, Brno</address>
+      <phone>542 217 954-56</phone>
+      <email>knihy.brno@academia.cz</email>
+      <web>www.academia.cz</web>
+      <info>15% sleva na knihy nakladatelství Academia 10% sleva na knihy ostatních nakladatelů 10% sleva ostatní zboží (vyjma vstupenek) slevy se nesčítají s jinými slevami a neplatí pro již zlevněné zboží</info>
+   <latitude>49.1940905</latitude>
+   <longitude>16.6090782</longitude>
+</benefit>

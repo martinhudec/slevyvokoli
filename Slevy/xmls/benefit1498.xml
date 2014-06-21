@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1498">
+      <name>Miss Sophie’s Hostel</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Melounova 3, Praha 2</address>
+      <phone>296 303 530</phone>
+      <email>reservation@miss-sophies.com</email>
+      <web>www.miss-sophies.com</web>
+      <info>sleva 5% na ubytování slevu můžete kombinovat s jinými slevami! Dále Vám dáme seznam nejlepších míst v Praze, která také nabízejí slevy na ISIC, a k tomu přehlednou mapu, která Vám usnadní jejich hledání! Důležité: Sleva je platná pouze když si vytvoříte rezervaci přes naši internetovou stránku www.misssophies.com</info>
+   <latitude>50.0751645</latitude>
+   <longitude>14.4269078</longitude>
+</benefit>

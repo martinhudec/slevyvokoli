@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="536">
+      <name>NICOM</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zenklova 28, Praha</address>
+      <phone>602323906</phone>
+      <email>valkova@nicom.cz</email>
+      <web>www.nicom.cz</web>
+      <info>15% sleva na všechny typy kurzů</info>
+   <latitude>50.1211735</latitude>
+   <longitude>14.4567294</longitude>
+</benefit>

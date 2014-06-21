@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1040">
+      <name>GES-ELECTRONICS</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Studentská 55a, Plzeň</address>
+      <phone>377 373 311</phone>
+      <email>ges.plzen@ges.cz</email>
+      <web>www.ges.cz</web>
+      <info>sleva 10% na všechny produkty</info>
+   <latitude>49.7741156</latitude>
+   <longitude>13.3603485</longitude>
+</benefit>

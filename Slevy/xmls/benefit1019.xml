@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1019">
+      <name>Knihkupectví KLADENKA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tř. TGM 499, Kladno</address>
+      <phone>312 249 169</phone>
+      <email/>
+      <web>www.nakladatelskyservis.cz</web>
+      <info>sleva 11 % na celý sortiment po celý rok!</info>
+   <latitude>50.0852313</latitude>
+   <longitude>14.1292731</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1268">
+      <name>Hannah</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Panská 2/4, Brno</address>
+      <phone>542 212 499</phone>
+      <email>prodejna.panska@hannah.cz</email>
+      <web>www.hannah.cz</web>
+      <info>sleva 5 % na nákup sortimentu</info>
+   <latitude>49.1938486</latitude>
+   <longitude>16.6088417</longitude>
+</benefit>

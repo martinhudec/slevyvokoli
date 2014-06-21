@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="741">
+      <name>CK Čedok</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Pankráci 1727/86, Praha 4</address>
+      <phone>241 411 363</phone>
+      <email>cedok-arkadypankrac@cedok.cz</email>
+      <web>www.cedok.cz</web>
+      <info>7 % sleva ze základní ceny leteckých pobytových zájezdů, vyjma zájezdů doTuniska a na Kanárské ostrovy 5 % sleva ze základní ceny ostatních katalogových zájezdů s výjimkou pobytůoznačených „Délka pobytu dle přání zákazníka“ Sleva 100 Kč z ceny manipulačního poplatku na vystavenou letenku v kterékoliv kmenové pobočce Čedok a.s.</info>
+   <latitude>50.0511586</latitude>
+   <longitude>14.4391031</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="379">
+      <name>Knihkupectví Chmela</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Americká 32, Plzeň</address>
+      <phone>377 226 346</phone>
+      <email>knihychmela@volny.cz</email>
+      <web>www.chmelaknihy.cz</web>
+      <info>10% sleva na celý sortiment knihkupectví</info>
+   <latitude>49.7433274</latitude>
+   <longitude>13.3771114</longitude>
+</benefit>

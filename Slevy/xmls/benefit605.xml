@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="605">
+      <name>Burger King - Praha Florenc</name>
+      <cardType>ISIC</cardType>
+      <address>Křižíkova 210/2B, Praha 8 - Karlín</address>
+      <phone>222310442</phone>
+      <email>florenc@bkteam.cz</email>
+      <web>www.myburgerking.cz</web>
+      <info>15% sleva na libovolné menu dle aktuální nabídky nebo Hamburger k libovolnému menu ZDARMA Sleva se nevztahuje na provozovnu na Hl. nádraží, Praha.</info>
+   <latitude>50.0893773</latitude>
+   <longitude>14.4397068</longitude>
+</benefit>

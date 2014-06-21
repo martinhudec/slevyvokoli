@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="51">
+      <name>Výtvarné potřeby a papírnictví</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hybešova 28, Brno</address>
+      <phone>542 211 363</phone>
+      <email>brno@optys.cz</email>
+      <web>www.optys.cz</web>
+      <info>Sleva 10% z celkového nákupu. Nevztahuje se na již zlevněné produkty. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.1893241</latitude>
+   <longitude>16.6036675</longitude>
+</benefit>

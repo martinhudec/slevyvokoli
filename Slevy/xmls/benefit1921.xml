@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1921">
+      <name>BEN - technická literatura</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>sady Pětatřicátníků 48/33, Plzeň</address>
+      <phone>377 323 574</phone>
+      <email>plzen@ben.cz</email>
+      <web>www.ben.cz</web>
+      <info>sleva 10 % na knihy a cd ROM</info>
+   <latitude>49.7493661</latitude>
+   <longitude>13.3744956</longitude>
+</benefit>

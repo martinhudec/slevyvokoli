@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1051">
+      <name>Aktivitypark Hotel Všemina</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Všemina 300, Slušovice</address>
+      <phone>577 116 611</phone>
+      <email>rezervace@vsemina.cz</email>
+      <web>www.vsemina.cz</web>
+      <info>sleva 25 % na ubytování (platí pro pokoje Standard a LUX) a krytý bazén hodina bowlingu zdarma</info>
+   <latitude>49.2920589</latitude>
+   <longitude>17.8630586</longitude>
+</benefit>

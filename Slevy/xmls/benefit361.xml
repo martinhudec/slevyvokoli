@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="361">
+      <name>Music city Club</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ocelářská 937/39, Praha 9</address>
+      <phone>724 311 291</phone>
+      <email>club@music-city.cz</email>
+      <web>www.musiccityclub.cz</web>
+      <info>50% sleva na provozní náklady pro studentské kapely při pořádání akce v klubu, 50% sleva na pořádání konferencí, workshopů apod., 20% sleva na kurzy latinsko-amerických tanců</info>
+   <latitude>50.1068746</latitude>
+   <longitude>14.4959952</longitude>
+</benefit>

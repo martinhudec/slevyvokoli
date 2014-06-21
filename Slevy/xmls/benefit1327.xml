@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1327">
+      <name>Rozhýbejte Moravu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Ostrava</address>
+      <phone>775 949 273</phone>
+      <email>info@firemky.cz</email>
+      <web>www.RozhybejteMoravu.cz</web>
+      <info>Akce 2+1 zdarma na vstupenky akce SPORT, ZDRAVÍ, POHYB a volný čas (po předložení platného průkazu ISIC, ALIVE, ITIC a zakoupení 2ks vstupenek v hodnotě 80 Kč je třetí vstupenka zdarma).</info>
+   <latitude>49.8209226</latitude>
+   <longitude>18.2625243</longitude>
+</benefit>

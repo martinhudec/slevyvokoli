@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1023">
+      <name>BEMOAIR</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nesvačily ev.č. 0193, letiště Benešov, Bystřice u Benešova</address>
+      <phone>604 842 624, 604 335 213, 603</phone>
+      <email>info@bemoair.cz</email>
+      <web>www.bemoair.cz www.bemoair.eu</web>
+      <info>10% sleva na poukazy na akrobatické a vyhlídkové lety 5% sleva na pilotní výcvik ULL a PPL</info>
+   <latitude>49.7837821</latitude>
+   <longitude>14.6873698</longitude>
+</benefit>

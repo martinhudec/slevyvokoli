@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1343">
+      <name>Eiffel optic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hypermarket Globus Plzeň, Chotíkov 385, Plzeň</address>
+      <phone>272 940 323</phone>
+      <email>info@eiffeloptic.cz</email>
+      <web>www.eiffeloptic.cz</web>
+      <info>10% sleva na nezlevněné dioptrické obruby a sluneční brýle nad 1500 Kč</info>
+   <latitude>49.7384314</latitude>
+   <longitude>13.3736371</longitude>
+</benefit>

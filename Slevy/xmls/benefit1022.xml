@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1022">
+      <name>Majasport Špindlerův mlýn</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Labská 84, Špindlerův Mlýn</address>
+      <phone>499 523 339</phone>
+      <email>info@majasport.cz</email>
+      <web>www.majasport.cz</web>
+      <info>50% sleva na lyžařskou půjčovnu 30% sleva na lyžařský servis a lyžařskou školu</info>
+   <latitude>50.7261034</latitude>
+   <longitude>15.5990295</longitude>
+</benefit>

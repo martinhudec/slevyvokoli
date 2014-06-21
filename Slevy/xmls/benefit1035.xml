@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1035">
+      <name>Hotel Penzion JaS</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sídlištní 1167, Praha 6</address>
+      <phone>220 920 170</phone>
+      <email>info@hoteljas.cz</email>
+      <web>www.hoteljas.cz</web>
+      <info>25% sleva na ubytování z běžných pultových cen 10% sleva na konzumaci v restauraci (sleva se nevztahuje na akce - rauty, promoce, atd.)</info>
+   <latitude>50.1260558</latitude>
+   <longitude>14.3786480</longitude>
+</benefit>

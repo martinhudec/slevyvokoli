@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1633">
+      <name>Nová Akropolis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>28. října 8, Ostrava</address>
+      <phone>596 134 980</phone>
+      <email>nova@akropolis.cz</email>
+      <web>www.akropolis.cz</web>
+      <info>zvýhodněné vstupné na přednášky, přednáškové cykly, kurzy, semináře, cestovatelské večery, výtvarné dílny (workshopy)</info>
+   <latitude>49.8373026</latitude>
+   <longitude>18.2945885</longitude>
+</benefit>

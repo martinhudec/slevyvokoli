@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1053">
+      <name>Autoturist</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jindřišská 2037, Pardubice</address>
+      <phone>466 657 054, 724 750 004</phone>
+      <email>info@pardubice.autoturist.cz</email>
+      <web>www.autoturist.cz</web>
+      <info>sleva 10 % na zájezdy z katalogu Autoturist v tištěné i online verzi sleva na asistenční klubové karty pro motoristy ÚAMK: 200 Kč roční, platná pro EU 100 Kč tříměsíční, platná pro EU 100 Kč roční, platná pro ČR</info>
+   <latitude>50.0360407</latitude>
+   <longitude>15.7774550</longitude>
+</benefit>

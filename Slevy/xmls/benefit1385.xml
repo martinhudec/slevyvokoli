@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1385">
+      <name>Va Bene - pizzerie, restaurace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Králova 1, Brno</address>
+      <phone>774 409 044</phone>
+      <email>info@vabenepizza.cz</email>
+      <web>www.vabenepizza.cz</web>
+      <info>sleva 15% na koupi pizzy</info>
+   <latitude>49.2404907</latitude>
+   <longitude>16.6095616</longitude>
+</benefit>

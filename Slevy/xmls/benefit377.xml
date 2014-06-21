@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="377">
+      <name>Plzeňské želvy</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Plzeň</address>
+      <phone>607 202 202, 377 202 202</phone>
+      <email>info@plzenskezelvy.cz</email>
+      <web>www.plzenskezelvy.cz</web>
+      <info>10% sleva z ceny odvozu auta.</info>
+   <latitude>49.7384314</latitude>
+   <longitude>13.3736371</longitude>
+</benefit>

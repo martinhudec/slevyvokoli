@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1356">
+      <name>Lékárna u Elišky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tyršova 29, Brno</address>
+      <phone>541 240 555</phone>
+      <email>lekarna.eliska@seznam.cz</email>
+      <web>http://lekarnauelisky.webnode.cz/</web>
+      <info>sleva 6 % na zboží ve volném prodeji sleva se nevztahuje na zboží ve slevě</info>
+   <latitude>49.2231482</latitude>
+   <longitude>16.5871295</longitude>
+</benefit>

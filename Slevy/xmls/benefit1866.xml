@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1866">
+      <name>Rock 'n' Roll - skate &amp; snow shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pasáž ČNB, Na Příkopě 24 , Praha 1</address>
+      <phone>222 244 587</phone>
+      <email>banka@rocknroll.cz</email>
+      <web>www.rocknroll.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>50.0866776</latitude>
+   <longitude>14.4277152</longitude>
+</benefit>

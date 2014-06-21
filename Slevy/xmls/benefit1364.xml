@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1364">
+      <name>Časopis Sanquis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, eshop</address>
+      <phone>221 180 261</phone>
+      <email>info@sanquis.cz</email>
+      <web>www.sanquis.cz</web>
+      <info>40% sleva na předplatné časopisu Sanquis</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

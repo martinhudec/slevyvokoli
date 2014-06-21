@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="876">
+      <name>FAnn parfumerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OD Sever, Mírové náměstí 27, Ústí nad Labem</address>
+      <phone>475500674</phone>
+      <email>unl@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20 % sleva na nezlevněné zboží vybraných značek, 10 % sleva na ostatní nezlevněné zboží</info>
+   <latitude>50.6599925</latitude>
+   <longitude>14.0409798</longitude>
+</benefit>

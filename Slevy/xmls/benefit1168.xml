@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1168">
+      <name>Number One Shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Revoluční 5, Praha 5</address>
+      <phone>224 826 073</phone>
+      <email>shop@ndistribution.cz</email>
+      <web>www.ndistribution.cz/obchod</web>
+      <info>sleva 13 % na zboží</info>
+   <latitude>50.0900194</latitude>
+   <longitude>14.4272368</longitude>
+</benefit>

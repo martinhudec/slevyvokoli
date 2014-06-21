@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="896">
+      <name>FAnn parfumerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Campus Square, Netroufalky 14, Brno</address>
+      <phone>547213950</phone>
+      <email>cam@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20 % sleva na nezlevněné zboží vybraných značek, 10 % sleva na ostatní nezlevněné zboží</info>
+   <latitude>49.1775199</latitude>
+   <longitude>16.5661221</longitude>
+</benefit>

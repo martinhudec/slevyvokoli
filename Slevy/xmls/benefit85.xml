@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="85">
+      <name>Pyroefekty.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Křejpského 1508/29, Praha 4</address>
+      <phone>604 555 959</phone>
+      <email>manager@pyroefekty.cz</email>
+      <web>www.pyroefekty.cz</web>
+      <info>15% sleva na zboží a 17% ze služeb na realizované ohňostroje a další aktivity. Sleva platí v e-shopu.  </info>
+   <latitude>50.0279764</latitude>
+   <longitude>14.5135191</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1916">
+      <name>Brigádník</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karlovo náměstí 288/17, Praha 2</address>
+      <phone>221 986 665, 296 765 665, 731</phone>
+      <email>info@brigadaihned.cz</email>
+      <web>www.brigadaihned.cz</web>
+      <info>po předložení karty ISIC při žádosti o brigádu 5 Kč/hod navíc k základní hodinové mzdě</info>
+   <latitude>50.0771480</latitude>
+   <longitude>14.4191740</longitude>
+</benefit>

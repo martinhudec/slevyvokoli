@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="779">
+      <name>Kavárna Bez Konceptu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husova 1094/87, Liberec</address>
+      <phone>605 916 108</phone>
+      <email>pavel.hlad@gmail.com</email>
+      <web>www.bezkonceptu.cz</web>
+      <info>15% sleva na snídaňové menu, 15% na plněné bagety, panini, triangly, ciabatty, foccacia, 15% na míchané alkoholické koktejly</info>
+   <latitude>50.7728572</latitude>
+   <longitude>15.0788157</longitude>
+</benefit>

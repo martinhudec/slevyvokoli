@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1228">
+      <name>Mironet</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 1349/22, Hořovice</address>
+      <phone>311 514 303</phone>
+      <email>horovice@mironet.cz</email>
+      <web>www.mironet.cz</web>
+      <info>nákup zboží za velkoobchodní ceny student se zaregistruje, uvede číslo své ISIC karty a pokaždé, když se pod touto registrací přihlásí na stránkách www.mironet.cz zobrazí se mu studentské (= velkoobchodní) ceny Sleva je do odvolání pozastavena!!</info>
+   <latitude>49.8361447</latitude>
+   <longitude>13.9061924</longitude>
+</benefit>

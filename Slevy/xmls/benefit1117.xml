@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1117">
+      <name>forbook.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pod Zámečkem 1521, Hradec Králové</address>
+      <phone>774 881 906, 723 249 355</phone>
+      <email>info@forbook.cz</email>
+      <web>www.forbook.cz</web>
+      <info>sleva 20 % na veškerý sortiment</info>
+   <latitude>50.2003431</latitude>
+   <longitude>15.8422618</longitude>
+</benefit>

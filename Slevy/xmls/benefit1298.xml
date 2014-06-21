@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1298">
+      <name>Videokavárna Trick Bar</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Malostranská Beseda, Malostranské náměstí 20, Praha 1</address>
+      <phone>775 580 382</phone>
+      <email>jan.stejskal@seznam.cz</email>
+      <web>www.malostranska-beseda.cz</web>
+      <info>sleva 15 % na filmové projekce</info>
+   <latitude>50.0878334</latitude>
+   <longitude>14.4210489</longitude>
+</benefit>

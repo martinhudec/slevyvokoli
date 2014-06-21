@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="807">
+      <name>Holmes Place Premium Anděl</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Plzeňská 8, Praha 5</address>
+      <phone>257 313 830</phone>
+      <email>andel@holmesplace.cz</email>
+      <web>http://www.holmesplace.cz</web>
+      <info>Sleva 20% na dlouhodobá členství</info>
+   <latitude>50.0729376</latitude>
+   <longitude>14.4023466</longitude>
+</benefit>

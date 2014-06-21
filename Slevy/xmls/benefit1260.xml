@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1260">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Avion Shopping Park, Skandinávská 2, Brno</address>
+      <phone>774 425 482</phone>
+      <email>brno3@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>sleva 5 % z celkové ceny zboží sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>49.1575366</latitude>
+   <longitude>16.6276810</longitude>
+</benefit>

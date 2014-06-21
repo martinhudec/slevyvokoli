@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="654">
+      <name>KFC - České Budějovice IGY</name>
+      <cardType>ISIC</cardType>
+      <address>Pražská 1247/24, České Budějovice</address>
+      <phone>235 013 475</phone>
+      <email>kfcigy@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>48.9846125</latitude>
+   <longitude>14.4718837</longitude>
+</benefit>

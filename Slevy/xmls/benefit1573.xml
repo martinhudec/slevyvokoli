@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1573">
+      <name>Levi's Store</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Arkády, Na Pankráci 86, Praha 4</address>
+      <phone>225 111 257</phone>
+      <email>levispankrac@tiscali.cz</email>
+      <web>www.eu.levi.com</web>
+      <info>sleva 10 % na veškeré nezlevněné zboží</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

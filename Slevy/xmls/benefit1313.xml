@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1313">
+      <name>Cyklo Point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NP Most, Velebudická 1247, Most</address>
+      <phone>734311816</phone>
+      <email>most@cyklopoint.cz</email>
+      <web>www.cyklopoint.cz</web>
+      <info>sleva 6 % na jízdní kola Merida  a kompletní nabídku příslušenství pro cyklistiku (nelze uplatnit na již zlevněné zboží) sleva 10 % servis slevu nelze kombinovat s dalšími slevami</info>
+   <latitude>50.4871578</latitude>
+   <longitude>13.6554868</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1194">
+      <name>GPS &amp; mapové centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Martinská 4, Plzeň</address>
+      <phone>377 429 374</phone>
+      <email>info@mapovecentrum.cz</email>
+      <web>www.mapovecentrum.cz</web>
+      <info>sleva 5 % na mapy a průvodce</info>
+   <latitude>49.7441517</latitude>
+   <longitude>13.3775092</longitude>
+</benefit>

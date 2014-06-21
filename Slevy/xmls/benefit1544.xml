@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1544">
+      <name>Pizzaburger</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nerudova 167, Zlín</address>
+      <phone>774 111 050, 571 150 047</phone>
+      <email>info@pizzaburger.cz</email>
+      <web>www.pizzaburger.cz</web>
+      <info>RESTAURACE: při objednání jídla dostanete na druhé jídlo 50% slevu ROZVOZ: 10% sleva na jídlo (nevztahuje se na polední menu) Uplatnění slevy hlaste při objednávání.    </info>
+   <latitude>49.2187815</latitude>
+   <longitude>17.6413579</longitude>
+</benefit>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="179">
+      <name>Komerční banka</name>
+      <cardType>ISIC</cardType>
+      <address>celá ČR,</address>
+      <phone/>
+      <email>info@isic.cz</email>
+      <web>www.kb,cz, www.g2.cz</web>
+      <info>Bonus 200 Kč pro držitele karet ISIC při prvním založení studentského účtu G2 v KB. (neplatí pro ty, kdo již bonus 200 Kč získali dříve při jiných marketingových nabídkách) Bonus bude připsán na držitelův účet. přehled poboček naleznete na: http://www.kb.cz/pobocky-bankomaty/cs/hledani.x?wt_mc=header.pos  </info>
+   <latitude>50.7552778</latitude>
+   <longitude>15.8127778</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1525">
+      <name>Technologické a inovační centrum ČVUT</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jugoslávských partyzánů 3, Praha 6</address>
+      <phone>224 353 051, 773 510 558</phone>
+      <email>info@csp.cvut.cz</email>
+      <web>www.csp.cvut.cz/Centrum/Student/MSITA</web>
+      <info>sleva 65% z komerční ceny na veškeré kurzy MS IT akademie pořádané CSP obvyklá cena kurzu činí 6 300,-,  ISIC cena = 2 200 Kč vč. DPH</info>
+   <latitude>50.1037746</latitude>
+   <longitude>14.3945197</longitude>
+</benefit>

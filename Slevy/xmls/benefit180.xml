@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="180">
+      <name>D-Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dr. Stejskala 14, České Budějovice</address>
+      <phone>386 350 478, 730 518 340</phone>
+      <email>budejovice.decko@seznam.cz</email>
+      <web>www.dsport.eu</web>
+      <info>15% sleva na nezlevněné zboží 5% sleva na již zlevněné zboží Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>48.9725785</latitude>
+   <longitude>14.4743766</longitude>
+</benefit>

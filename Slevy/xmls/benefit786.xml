@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="786">
+      <name>Yves Rocher</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Novinářská 3178/6a, Ostrava OC Futurum</address>
+      <phone>596 612 877</phone>
+      <email>ovacarrefour@yvesrocher.cz</email>
+      <web>www.yves-rocher.cz</web>
+      <info>20% sleva na 1 péči v kosmetickém salonu Yves Rocher (slevy a nabídky se nekumulují, slevy se vypočítají z cen doporučených pro ČR).</info>
+   <latitude>49.8327313</latitude>
+   <longitude>18.2641651</longitude>
+</benefit>

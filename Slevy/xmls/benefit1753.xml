@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1753">
+      <name>Hotel Horal</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Léskové 583, Velké Karlovice</address>
+      <phone>571 495 500</phone>
+      <email>horal@valachy.cz</email>
+      <web>www.valachy.cz</web>
+      <info>Sleva 20% z ubytování</info>
+   <latitude>49.3765894</latitude>
+   <longitude>18.3924801</longitude>
+</benefit>

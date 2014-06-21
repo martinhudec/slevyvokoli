@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="27">
+      <name>Vinotéka Žižkov</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Čajkovského 28, Praha 3</address>
+      <phone>+420223005691</phone>
+      <email>info@vinoteka-zizkov.cz</email>
+      <web>www.vinoteka-zizkov.cz</web>
+      <info>10% sleva na všechna sudová a lahvová vína při nákupu s sebou</info>
+   <latitude>50.0830886</latitude>
+   <longitude>14.4519747</longitude>
+</benefit>

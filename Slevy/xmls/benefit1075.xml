@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1075">
+      <name>OKO - Opavská kulturní organizace</name>
+      <cardType>ISIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ostrožná 46, Opava</address>
+      <phone>553 791 947</phone>
+      <email>obecni.dum@oko-opava.cz</email>
+      <web>www.oko-opava.cz</web>
+      <info>sleva 20 % ze vstupného na všechny akce Obecního domu (výstavy, koncerty, kino, autorská čtení atd.) zakoupené na recepci Obecního domu v Opavě</info>
+   <latitude>49.9363173</latitude>
+   <longitude>17.9010848</longitude>
+</benefit>

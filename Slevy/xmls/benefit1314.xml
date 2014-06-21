@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1314">
+      <name>SWIS BOARD SHOP</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Dlouhá 26, Litoměřice</address>
+      <phone>416 532 139, 733 509 234</phone>
+      <email>litomerice@swis-shop.cz</email>
+      <web>www.swis-shop.cz</web>
+      <info>15% sleva na nákup zboží (nevztahuje se na již zlevněný sortiment, půjčovnu a servis snowboardů a značky LIB TECH, GoPro a BURTON.)</info>
+   <latitude>50.5334830</latitude>
+   <longitude>14.1366361</longitude>
+</benefit>

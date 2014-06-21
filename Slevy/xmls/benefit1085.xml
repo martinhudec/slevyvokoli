@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1085">
+      <name>Pope servis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U jeslí 2261, Praha 9 - Horní Počernice</address>
+      <phone>270 006 000</phone>
+      <email>obchod@popeservis.cz</email>
+      <web>www.popeservis.cz</web>
+      <info>sleva 25 % z ceny bez DPH u servisních služeb IT zařízení (PC, notebooky, monitory, tiskárny atd.) sleva 5 % z maloobchodní ceny u IT zboží</info>
+   <latitude>50.1118469</latitude>
+   <longitude>14.6190036</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1303">
+      <name>Aurum Pacific Golf Club</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>K Sádkám 158, Praha 5</address>
+      <phone>257 940 557</phone>
+      <email>info@golf-lahovice.cz</email>
+      <web>www.golf-lahovice.cz</web>
+      <info>sleva 33 % na tréninkové míčky - konečná sleva míčků je 50 Kč/50 ks. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0029852</latitude>
+   <longitude>14.3965320</longitude>
+</benefit>

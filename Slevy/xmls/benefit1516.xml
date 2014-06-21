@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1516">
+      <name>Popcorn</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Milady Horákové 32, Praha 7</address>
+      <phone>233 377 717</phone>
+      <email>popcorn@extremedistribution.cz</email>
+      <web>www.popcornshop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>50.0997521</latitude>
+   <longitude>14.4287375</longitude>
+</benefit>

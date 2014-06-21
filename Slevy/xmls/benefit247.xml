@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="247">
+      <name>Knihy Dobrovský - OC Letňany</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Veselská 663, Praha Letňany</address>
+      <phone>286 582 596, 286 580 834, 724</phone>
+      <email>letnany@knihydobrovsky.cz</email>
+      <web>www.knihydobrovsky.cz</web>
+      <info>10% sleva na všechny zakoupené tituly, sleva se nevztahuje na již zlevněné tituly. Slevu je možno uplatnit v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>50.1350535</latitude>
+   <longitude>14.5012747</longitude>
+</benefit>

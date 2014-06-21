@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="963">
+      <name>Timeout</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého 4469, Chomutov</address>
+      <phone>474331685</phone>
+      <email>info@gut.cz</email>
+      <web>www.timeoutjeans.com</web>
+      <info>15% sleva na nákup nezlevněného sortimentu zboží.</info>
+   <latitude>50.4620846</latitude>
+   <longitude>13.4126339</longitude>
+</benefit>

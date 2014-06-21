@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="980">
+      <name>Solárium PROFI</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hradební 1441 (budova O2), Slavkov u Brna</address>
+      <phone>777 674 525</phone>
+      <email>info@solariumprofi.cz</email>
+      <web>www.solariumprofi.cz</web>
+      <info>15 % na jednorázové opalování a permanentky v solárním studiu, 15 % na solární kosmetiku</info>
+   <latitude>49.1519669</latitude>
+   <longitude>16.8762271</longitude>
+</benefit>

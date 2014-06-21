@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="770">
+      <name>Ski areál Petříkov</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Petříkov, Ostružná</address>
+      <phone>583 230 098</phone>
+      <email>info@ski-petrikov.cz</email>
+      <web>www.kaste.cz/ski_areal/ski_areal.htm</web>
+      <info>Sleva 15% z běžné ceny skipasů</info>
+   <latitude>50.2022375</latitude>
+   <longitude>17.0452060</longitude>
+</benefit>

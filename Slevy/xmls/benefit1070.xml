@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1070">
+      <name>Condor - levné letenky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>28. října 61, Ostrava</address>
+      <phone>596 115 070</phone>
+      <email>ostrava@condor.cz</email>
+      <web>www.condor.cz</web>
+      <info>sleva 390 Kč na servisním poplatku při zakoupení letenky. sleva 250 Kč na servisním poplatku při objednání víza. sleva 10 % z vlastních eurovíkendů či zájezdů. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou. sleva 390 Kč na servisním poplatku při zakoupení letenky sleva 250 Kč na servisním poplatku při objednání víza sleva 10 % z vlastních eurovíkendů či zájezdů</info>
+   <latitude>49.8335440</latitude>
+   <longitude>18.2887421</longitude>
+</benefit>

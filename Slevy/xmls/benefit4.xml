@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="4">
+      <name>Lokál Dlouhá</name>
+      <cardType>ISIC</cardType>
+      <address>Dlouhá 33, Praha 1</address>
+      <phone>222 316 265</phone>
+      <email>lokal@ambi.cz</email>
+      <web>www.lokal.cz</web>
+      <info>20% sleva na jídlo objednané do 18. hodiny ve všech restauracích Lokál. Kartu Lokál  získá student po předložení platného průkazu ISIC.  </info>
+   <latitude>50.0907051</latitude>
+   <longitude>14.4258853</longitude>
+</benefit>

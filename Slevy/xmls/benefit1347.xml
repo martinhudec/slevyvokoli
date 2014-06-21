@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1347">
+      <name>Podještědské knihkupectví</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Moskevská 28, Liberec</address>
+      <phone>737 950 415, 757 950 515</phone>
+      <email>podjestedske@olbert.cz</email>
+      <web>www.podjested.cz</web>
+      <info>základní sleva 5% na celý sortiment v rámci věrnostního programu až 10% učitelé 10% na celý sortiment do tohoto se nepočítají již zlevněné knihy a mapy, slevy nelze sčítat</info>
+   <latitude>50.7677821</latitude>
+   <longitude>15.0582397</longitude>
+</benefit>

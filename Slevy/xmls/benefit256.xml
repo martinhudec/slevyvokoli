@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="256">
+      <name>Péče o duševní zdraví</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mladých 325, Pardubice</address>
+      <phone/>
+      <email/>
+      <web>www.pdz.cz</web>
+      <info>Obchod: rukodělný dárek k nákupu nad 100 Kč Kavárna: Ke každé kávě sladká tečka z naší kuchyně  </info>
+   <latitude>50.0489677</latitude>
+   <longitude>15.7646650</longitude>
+</benefit>

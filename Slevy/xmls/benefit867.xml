@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="867">
+      <name>EXPRESKA Ústí nad Labem</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mírové náměstí 18, Ústí nad Labem</address>
+      <phone>733 672 717</phone>
+      <email>usti-nad-labem@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>50.6603222</latitude>
+   <longitude>14.0424263</longitude>
+</benefit>

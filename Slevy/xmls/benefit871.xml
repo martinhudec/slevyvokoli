@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="871">
+      <name>EXPRESKA Praha Karlín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sokolovská 1, Praha 2</address>
+      <phone>603 267 712</phone>
+      <email>praha-karlin@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>50.0911634</latitude>
+   <longitude>14.4384832</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1065">
+      <name>ForBikers – sportovní outlet</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Galerie Dvořák (3. patro), Náměstí Generála Píky 2703/27,, Plzeň</address>
+      <phone>774 453 553</phone>
+      <email>obchod@forbikers.cz</email>
+      <web>www.forbikers.cz</web>
+      <info>sleva 10% na veškerý sortiment sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>49.7322596</latitude>
+   <longitude>13.4011848</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="78">
+      <name>Hostel Kotva</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Varhulíkové 134, Praha 7 – Holešovice</address>
+      <phone>+420 777 222 333</phone>
+      <email>recepce@hostelkotva.cz</email>
+      <web>www.hostelkotva.cz</web>
+      <info>20% sleva ze základní ceny ubytování. Sleva platí pouze v kamenné provozovně.</info>
+   <latitude>50.1116084</latitude>
+   <longitude>14.4511725</longitude>
+</benefit>

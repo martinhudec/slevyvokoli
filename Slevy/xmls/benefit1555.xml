@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1555">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Park Hostivař, Švehlova 32, Praha 10</address>
+      <phone>271 752 223</phone>
+      <email>hostivar@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.0532812</latitude>
+   <longitude>14.5171881</longitude>
+</benefit>

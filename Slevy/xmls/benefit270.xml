@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="270">
+      <name>Památník Bedřicha Smetany</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Jabkenice , Jabkenice</address>
+      <phone>326 389 127</phone>
+      <email>jabkenice_smetana_pamatnik@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>Snížená cena vstupného pro držitele karet. Běžná cena 50 Kč, cena po slevě 25 Kč.</info>
+   <latitude>50.3240677</latitude>
+   <longitude>15.0147804</longitude>
+</benefit>

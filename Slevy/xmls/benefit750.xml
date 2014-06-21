@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="750">
+      <name>Czech Dog Academy</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Archeologická 1, Praha 5</address>
+      <phone>775 087 550</phone>
+      <email>info@czechdogacademy.cz</email>
+      <web>www.czechdogacademy.cz</web>
+      <info>Sleva 20% na výcvik psů</info>
+   <latitude>50.0434791</latitude>
+   <longitude>14.3316761</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1239">
+      <name>SUBFORM - snow &amp; skate shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mostní 12, Přerov</address>
+      <phone>581 218 353</phone>
+      <email>info@snowbirds.cz</email>
+      <web>www.subform.cz</web>
+      <info>sleva 5 % na nezlevněné zboží slevy se nesčítají s dalšími slevami</info>
+   <latitude>49.4561796</latitude>
+   <longitude>17.4493195</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1335">
+      <name>Evropské vzdělávací centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tyršovo náměstí 970, Česká Třebová</address>
+      <phone>775 270 017, 495 581 645</phone>
+      <email>info@evcentrum.cz</email>
+      <web>www.evcentrum.cz</web>
+      <info>sleva 30 % na e-learningové jazykové kurzy sleva 5 % na učebnice sleva 5 % na docházkové a individuální jazykové kurzy sleva 5 % na jazykové doučování  </info>
+   <latitude>49.9044066</latitude>
+   <longitude>16.4436848</longitude>
+</benefit>

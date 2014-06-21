@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1247">
+      <name>Miss Cosmetic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Křenová 52 (dveře 307), Brno</address>
+      <phone>721 453 827</phone>
+      <email>petra.pridalova@misscosmetic.cz</email>
+      <web>www.ceske-wellness.cz</web>
+      <info>sleva 17 % na produkty Miss Cosmetic sleva 270 Kč na poradenství v oblasti péče o pleť (původní cena 400 Kč) na pobočky je nutné se předem objednat</info>
+   <latitude>49.1950602</latitude>
+   <longitude>16.6068371</longitude>
+</benefit>

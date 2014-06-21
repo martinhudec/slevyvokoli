@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1090">
+      <name>Západočeské muzeum v Plzni - Muzeum loutek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>náměstí Republiky 23, Plzeň</address>
+      <phone>378 370 801</phone>
+      <email>muzeumloutek@zcm.cz</email>
+      <web>www.muzeumloutek.cz</web>
+      <info>snížené vstupné dle aktuálního ceníku</info>
+   <latitude>49.7463181</latitude>
+   <longitude>13.3769302</longitude>
+</benefit>

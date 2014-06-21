@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="144">
+      <name>Starbucks Černý Most</name>
+      <cardType>ISIC</cardType>
+      <address>Chlumecká 765/6, Praha 9</address>
+      <phone>235 013 537, 702 201 540</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.1086485</latitude>
+   <longitude>14.5866234</longitude>
+</benefit>

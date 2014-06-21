@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="607">
+      <name>Burger King - Praha Horní Počernice</name>
+      <cardType>ISIC</cardType>
+      <address>Odpočívka D1 - 3 km směr od Prahy, Praha</address>
+      <phone>281868598</phone>
+      <email>pocernice@bkteam.cz</email>
+      <web>www.myburgerking.cz</web>
+      <info>15% sleva na libovolné menu dle aktuální nabídky nebo Hamburger k libovolnému menu ZDARMA Sleva se nevztahuje na provozovnu na Hl. nádraží, Praha.</info>
+   <latitude>50.0755381</latitude>
+   <longitude>14.4378005</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1002">
+      <name>Galén - zdravotnická literatura</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ruská 87, Praha 10</address>
+      <phone>267 102 164</phone>
+      <email>info@galen.cz</email>
+      <web>www.galen.cz</web>
+      <info>10% sleva z plné ceny veškerých publikací</info>
+   <latitude>50.0743468</latitude>
+   <longitude>14.4738896</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="80">
+      <name>Penzion Světlá</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vítězná 157, Tanvald</address>
+      <phone>+420 737 422 079</phone>
+      <email>cerv.h@seznam.cz</email>
+      <web>www.penzion-ubytovani-jizerske-hory.cz</web>
+      <info>20% sleva na ubytování v počtu potřebném k zaplnění jednoho apartmánu. Maximální kapacita jednoho apartmánu je 6 lůžek. Slevu je možno uplatnit pouze přímo na místě. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.7435403</latitude>
+   <longitude>15.3336179</longitude>
+</benefit>

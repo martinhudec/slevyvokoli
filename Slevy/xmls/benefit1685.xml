@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1685">
+      <name>Megabooks cz - Oxford Bookshop Praha</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Opletalova 5/7, Praha 1</address>
+      <phone>224 220 521</phone>
+      <email>praha@megabooks.cz</email>
+      <web>www.megabooks.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>50.0814286</latitude>
+   <longitude>14.4298100</longitude>
+</benefit>

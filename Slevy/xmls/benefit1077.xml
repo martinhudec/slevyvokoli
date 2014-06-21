@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1077">
+      <name>Condor - levné letenky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>třída 17. listopadu 232, Pardubice</address>
+      <phone>466 030 466</phone>
+      <email>pardubice@condor.cz</email>
+      <web>www.condor.cz</web>
+      <info>sleva 390 Kč na servisním poplatku při zakoupení letenky. sleva 250 Kč na servisním poplatku při objednání víza. sleva 10 % z vlastních eurovíkendů či zájezdů. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou. sleva 390 Kč na servisním poplatku při zakoupení letenky sleva 250 Kč na servisním poplatku při objednání víza sleva 10 % z vlastních eurovíkendů či zájezdů</info>
+   <latitude>49.8847638</latitude>
+   <longitude>16.4508832</longitude>
+</benefit>

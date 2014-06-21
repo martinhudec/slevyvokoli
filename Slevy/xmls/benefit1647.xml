@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1647">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Galerie Fénix, Freyova 945/35, Praha 9</address>
+      <phone>211 138 060, 724 484 965</phone>
+      <email>vysocany@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>sleva 5 % z celkové ceny zboží sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>50.1099801</latitude>
+   <longitude>14.5015913</longitude>
+</benefit>

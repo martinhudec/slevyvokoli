@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="638">
+      <name>KFC - Centrum Černý Most</name>
+      <cardType>ISIC</cardType>
+      <address>Chumecká 765/6, Praha 1</address>
+      <phone>235 013 492</phone>
+      <email>kfcccm@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>50.1086485</latitude>
+   <longitude>14.5866234</longitude>
+</benefit>

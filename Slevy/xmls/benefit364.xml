@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="364">
+      <name>POINTS - Harfa</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Českomoravská 2420, Praha 9</address>
+      <phone>234 132 253</phone>
+      <email>harfa@points.cz</email>
+      <web>www.k2snow.cz</web>
+      <info>20% sleva na produkty značek K2skis, K2 snowboarding</info>
+   <latitude>50.1038245</latitude>
+   <longitude>14.4912498</longitude>
+</benefit>

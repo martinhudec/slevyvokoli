@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="254">
+      <name>Knihy Dobrovský - OC Galerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sjízdná 5554/2, Ostrava</address>
+      <phone>596 941 023, 601 391 981</phone>
+      <email>ostrava-galerie@knihydobrovsky.cz</email>
+      <web>www.knihydobrovsky.cz</web>
+      <info>10% sleva na všechny zakoupené tituly, sleva se nevztahuje na již zlevněné tituly. Slevu je možno uplatnit v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.8280086</latitude>
+   <longitude>18.2015167</longitude>
+</benefit>

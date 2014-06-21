@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1860">
+      <name>Restaurace Mona Lisa</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Opletalova 32, Praha 1</address>
+      <phone>222 211 819</phone>
+      <email>restaurace@monalisa.cz</email>
+      <web>www.monalisa.cz</web>
+      <info>sleva 10% z celkové konzumace</info>
+   <latitude>50.0825755</latitude>
+   <longitude>14.4317325</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="720">
+      <name>CK Čedok</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dlouhá 194/47, Litoměřice</address>
+      <phone>416 731 309</phone>
+      <email>cedok-litomerice@cedok.cz</email>
+      <web>www.cedok.cz</web>
+      <info>7 % sleva ze základní ceny leteckých pobytových zájezdů, vyjma zájezdů doTuniska a na Kanárské ostrovy 5 % sleva ze základní ceny ostatních katalogových zájezdů s výjimkou pobytůoznačených „Délka pobytu dle přání zákazníka“ Sleva 100 Kč z ceny manipulačního poplatku na vystavenou letenku v kterékoliv kmenové pobočce Čedok a.s.</info>
+   <latitude>50.5338396</latitude>
+   <longitude>14.1366876</longitude>
+</benefit>

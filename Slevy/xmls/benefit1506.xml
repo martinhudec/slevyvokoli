@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1506">
+      <name>Easy Rider</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Republiky 56, Pardubice</address>
+      <phone>466 030 484</phone>
+      <email>easyrider.pardubice@seznam.cz</email>
+      <web>www.easyridershop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>50.0374786</latitude>
+   <longitude>15.7768201</longitude>
+</benefit>

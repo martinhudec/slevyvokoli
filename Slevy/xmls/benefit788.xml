@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="788">
+      <name>Yves Rocher</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykovo nám.2799, Pardubice</address>
+      <phone>469 800 989</phone>
+      <email>pardubice@yvesrocher.cz</email>
+      <web>www.yves-rocher.cz</web>
+      <info>20% sleva na 1 péči v kosmetickém salonu Yves Rocher (slevy a nabídky se nekumulují, slevy se vypočítají z cen doporučených pro ČR).</info>
+   <latitude>50.0370687</latitude>
+   <longitude>15.7688701</longitude>
+</benefit>

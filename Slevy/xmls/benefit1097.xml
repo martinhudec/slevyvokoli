@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1097">
+      <name>JIPKA Plzeň</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rooseveltova 10/9, Plzeň</address>
+      <phone>377 236 699, 603 412 454</phone>
+      <email>plzen@jipka.cz</email>
+      <web>www.jipka.cz</web>
+      <info>sleva 10 % na jazykové kurzy Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7486924</latitude>
+   <longitude>13.3788552</longitude>
+</benefit>

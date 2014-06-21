@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="850">
+      <name>Knihcentrum Obchodní dům Centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rožmitálova 5/7, Blansko</address>
+      <phone>725963175</phone>
+      <email>blansko@knihcentrum.cz</email>
+      <web>www.knihcentrum-blansko.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)  </info>
+   <latitude>49.3618514</latitude>
+   <longitude>16.6431566</longitude>
+</benefit>

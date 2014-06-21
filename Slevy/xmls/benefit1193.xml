@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1193">
+      <name>Houseboard</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Poláškova 78, Valašské Meziříčí</address>
+      <phone/>
+      <email>info@houseboard.cz</email>
+      <web>www.houseboard.cz</web>
+      <info>sleva 10 % na zboží, které není ve slevě</info>
+   <latitude>49.4708591</latitude>
+   <longitude>17.9725708</longitude>
+</benefit>

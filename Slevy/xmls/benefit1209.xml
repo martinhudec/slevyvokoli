@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1209">
+      <name>Mironet</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Křenová 26, Brno</address>
+      <phone>545 240 241</phone>
+      <email>brno@mironet.cz</email>
+      <web>www.mironet.cz</web>
+      <info>nákup zboží za velkoobchodní ceny student se zaregistruje, uvede číslo své ISIC karty a pokaždé, když se pod touto registrací přihlásí na stránkách www.mironet.cz zobrazí se mu studentské (= velkoobchodní) ceny Sleva je do odvolání pozastavena!!</info>
+   <latitude>49.1916749</latitude>
+   <longitude>16.6188249</longitude>
+</benefit>

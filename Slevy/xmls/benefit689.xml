@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="689">
+      <name>Café Buddha</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vinohradská 17, Praha 2</address>
+      <phone>211 151 302</phone>
+      <email>info@cafebuddha.cz</email>
+      <web>www.cafebuddha.cz/</web>
+      <info>10% sleva na pokrmy z jídelního lístku. Sleva se nevztahuje na již zlevněné sety, degustace, akce ani polední menu.</info>
+   <latitude>50.0786122</latitude>
+   <longitude>14.4350703</longitude>
+</benefit>

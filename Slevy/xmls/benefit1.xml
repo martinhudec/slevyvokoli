@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1">
+      <name>NC Královo Pole</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Cimburkova 4, Brno</address>
+      <phone>+420 541 245 541</phone>
+      <email/>
+      <web>www.nckrpole.cz</web>
+      <info>Speciální akce: "Nákupy s průkazem ISIC v Nákupním centru Královo Pole." Zapojené obchody: http://www.nckrpole.cz/aktuality/939-jsi-student-mas-slevu Akce platí pouze v kamenné provozovně. Akce platí do 31. 12. 2014.</info>
+   <latitude>49.2170088</latitude>
+   <longitude>16.6053124</longitude>
+</benefit>

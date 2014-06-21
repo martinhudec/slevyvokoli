@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1587">
+      <name>Sunset suits</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Igy, Pražská 1247/24, České Budějovice</address>
+      <phone>389 015 250</phone>
+      <email>info@sunsetsuits.cz</email>
+      <web>www.sunsetsuits.cz</web>
+      <info>sleva 10 % na zboží (kromě zboží ve slevě či výprodeji)</info>
+   <latitude>48.9756578</latitude>
+   <longitude>14.4802550</longitude>
+</benefit>

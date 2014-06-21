@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1163">
+      <name>Probo Bus</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pod Hájem 97, Králův Dvůr</address>
+      <phone>311 653 711</phone>
+      <email>vkas@probo.cz</email>
+      <web>www.probobus.cz</web>
+      <info>25% sleva na jízdné v dalkové dopravě - neplatí přes letní prázdniny  </info>
+   <latitude>49.9495986</latitude>
+   <longitude>14.0380637</longitude>
+</benefit>

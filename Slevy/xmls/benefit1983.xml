@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1983">
+      <name>Restaurace Ambrozie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Moskevská 1, Praha 10 - Vršovice</address>
+      <phone>271 743 472</phone>
+      <email>ambrozie@ambrozie.cz</email>
+      <web>www.ambrozie.cz</web>
+      <info>sleva 10 % z jídla mimo polední menu sleva 3 za 2 na hlavní chody každou středu a čtvrtek vstup pro držitele karet ZDARMA</info>
+   <latitude>50.0718646</latitude>
+   <longitude>14.4511473</longitude>
+</benefit>

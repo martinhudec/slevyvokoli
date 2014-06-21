@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1823">
+      <name>Skřivánek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Havelcová 70, Kolín</address>
+      <phone>321 716 912</phone>
+      <email>kolin@skrivanek.cz</email>
+      <web>www.skrivanek.cz</web>
+      <info>sleva 10% na všechny poskytované služby (jazyková výuka, veřejnostní kurzy, firemní kurzy, pobytové kurzy, individuální kurzy, e-learning, zahraniční kurzy), překlady, DTP služby, lokalizace, tlumočení</info>
+   <latitude>50.0236766</latitude>
+   <longitude>15.2017672</longitude>
+</benefit>

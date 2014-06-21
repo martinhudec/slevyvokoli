@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="97">
+      <name>GALEX</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>AFI Palác, Masarykovo nám. 2799, Pardubice</address>
+      <phone>+420 734 257 630</phone>
+      <email>galex61@karatrutnov.cz</email>
+      <web>www.karatrutnov.cz</web>
+      <info>Sleva ve výši 5% na veškeré nezlevněné zboží. Sleva platí pouze v kamenných prodejnách.</info>
+   <latitude>50.0370687</latitude>
+   <longitude>15.7688701</longitude>
+</benefit>

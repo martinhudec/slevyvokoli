@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1597">
+      <name>EDDICA - jazyková škola</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Závodní 1245/91, Ostrava</address>
+      <phone>596 623 701</phone>
+      <email>info@eddica.cz</email>
+      <web>www.js-eddica.cz</web>
+      <info>sleva 300,-Kč na kurzovné</info>
+   <latitude>49.8022420</latitude>
+   <longitude>18.2563393</longitude>
+</benefit>

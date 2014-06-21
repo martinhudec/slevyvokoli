@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="799">
+      <name>Yves Rocher</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Dálnice 777, Brno OC Olympia</address>
+      <phone>547 214 595</phone>
+      <email>olympiabrno@yvesrocher.cz</email>
+      <web>www.yves-rocher.cz</web>
+      <info>20% sleva na 1 péči v kosmetickém salonu Yves Rocher (slevy a nabídky se nekumulují, slevy se vypočítají z cen doporučených pro ČR).</info>
+   <latitude>47.0378741</latitude>
+   <longitude>-122.9006951</longitude>
+</benefit>

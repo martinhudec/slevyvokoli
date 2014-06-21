@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="811">
+      <name>IDS JMK</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>,</address>
+      <phone>5 4317 4317</phone>
+      <email>info@kordis-jmk.cz</email>
+      <web>http://www.idsjmk.cz/</web>
+      <info>Mezinárodní průkaz studenta ISIC je v rámci MHD Znojmo spadající do IDS JMK akceptován namísto papírového potvrzení o studiu. Více informací zde: http://www.isic.cz/index.php/component/content/article/5-karty/688-isic-v-mhd-jihomoravskeho-kraje</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

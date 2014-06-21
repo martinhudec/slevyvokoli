@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="50">
+      <name>Papírnictví a výtvarné potřeby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dolní náměstí 651/4, Jablonec nad Nisou</address>
+      <phone>483 319 887</phone>
+      <email>jablonec@optys.cz</email>
+      <web>www.optys.cz</web>
+      <info>Sleva 10% z celkového nákupu. Nevztahuje se na již zlevněné produkty. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.7232089</latitude>
+   <longitude>15.1712741</longitude>
+</benefit>

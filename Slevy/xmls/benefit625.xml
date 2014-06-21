@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="625">
+      <name>KFC - Ostrava Poštovní</name>
+      <cardType>ISIC</cardType>
+      <address>Poštovní 2, Ostrava</address>
+      <phone>235 013 404</phone>
+      <email>kfcpostovni@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>49.8360952</latitude>
+   <longitude>18.2916236</longitude>
+</benefit>

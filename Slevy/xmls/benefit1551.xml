@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1551">
+      <name>Knihkupectví Beta Dobrovský</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NC Géčko, České Vrbné 2360, České Budějovice</address>
+      <phone>385 310 016</phone>
+      <email>cb-gecko@dobrovsky.cz</email>
+      <web>www.dobrovsky.cz</web>
+      <info>sleva 10% na knihy, mapy a reprodukce sleva 5% na učebnice, CD-ROM</info>
+   <latitude>49.0000845</latitude>
+   <longitude>14.4514980</longitude>
+</benefit>

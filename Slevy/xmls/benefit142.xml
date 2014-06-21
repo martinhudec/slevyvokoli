@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="142">
+      <name>Starbucks Metropole Zličín</name>
+      <cardType>ISIC</cardType>
+      <address>Řevnická 1/121, Praha 5</address>
+      <phone>235 013 521, 725 836 698</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.0532950</latitude>
+   <longitude>14.2875481</longitude>
+</benefit>

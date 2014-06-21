@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="823">
+      <name>Cvrčeksport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dukelská 3, Hradec Králové</address>
+      <phone>777 077 651</phone>
+      <email>cvrceksport@seznam.cz</email>
+      <web>www.cvrceksport.cz</web>
+      <info>15% sleva na obuv značek Mizuno, Asics a Salming, 10% sleva na ostatní zboží obchodu Cvrčeksport. Nelze kombinovat s případnými akčními nabídkami obchodu.</info>
+   <latitude>50.2136910</latitude>
+   <longitude>15.8196535</longitude>
+</benefit>

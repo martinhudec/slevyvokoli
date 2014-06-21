@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="531">
+      <name>ČSAD Vsetín</name>
+      <cardType>ISIC</cardType>
+      <address>Ohrada 791, Vsetín</address>
+      <phone>571 498 321</phone>
+      <email>csadvs@csadvs.cz</email>
+      <web>www.csadvs.cz</web>
+      <info>20% sleva z jízdného dle platného ceníku dopravce. Sleva se vztahuje na všechny autobusové linky kromě MHD.</info>
+   <latitude>49.3285322</latitude>
+   <longitude>18.0004137</longitude>
+</benefit>

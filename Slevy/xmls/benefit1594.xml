@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1594">
+      <name>Husky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lidická 17, Brno</address>
+      <phone>549 210 767</phone>
+      <email>husky.brno@huskycz.cz</email>
+      <web>www.huskycz.cz</web>
+      <info>sleva 5% na veškerý sortiment</info>
+   <latitude>49.2015970</latitude>
+   <longitude>16.6071754</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1376">
+      <name>Vyplnto.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Baranova 17, Praha 3 - Žižkov</address>
+      <phone/>
+      <email>marek@demcak.cz</email>
+      <web>www.vyplnto.cz</web>
+      <info>Vyplnto.cz – Dotazníková služba pro realizaci internetových průzkumů 70% sleva na Premium účet umožňující vlastní grafickou úpravu dotazníku, schování reklam a mnohé další pokročilé funkce</info>
+   <latitude>50.0798583</latitude>
+   <longitude>14.4572644</longitude>
+</benefit>

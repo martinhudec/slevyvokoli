@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="120">
+      <name>TS Bohemia - výpočetní technika</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>28. října 2020/231, Ostrava - Mariánské Hory</address>
+      <phone>585 157 532</phone>
+      <email>ostrava@tsbohemia.cz</email>
+      <web>www.tsbohemia.cz</web>
+      <info>nákup celého aktuálního sortimentu za ceny určené velkoobchodním odběratelům</info>
+   <latitude>49.8270801</latitude>
+   <longitude>18.2529280</longitude>
+</benefit>

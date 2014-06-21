@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1045">
+      <name>GES-ELECTRONICS</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Habrmanova 14, Hradec Králové</address>
+      <phone>495 532 268</phone>
+      <email>ges.hradec@ges.cz</email>
+      <web>www.ges.cz</web>
+      <info>sleva 10% na všechny produkty</info>
+   <latitude>50.2099011</latitude>
+   <longitude>15.8117858</longitude>
+</benefit>

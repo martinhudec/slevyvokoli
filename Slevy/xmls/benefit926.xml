@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="926">
+      <name>Jazz time</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Krakovská 19, Praha 1</address>
+      <phone>222 212 994</phone>
+      <email>info@jazztime.cz</email>
+      <web>www.jazztime.cz</web>
+      <info>1 + 1 vstupenka zdarma, v čase 15:00 - 19:00 Studentské "Happy hours" s nabídkou menu v ceně 60-70 Kč</info>
+   <latitude>50.0789879</latitude>
+   <longitude>14.4282759</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="420">
+      <name>Horsefeathers store Brno</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Minoritská 12, Brno</address>
+      <phone>777615689</phone>
+      <email>brno@hfshop.cz</email>
+      <web>www.horsefeathers-store.eu</web>
+      <info>10% sleva na nezlevněné zboží na kamenných obchodech i e-shopu Horsefeathers store</info>
+   <latitude>49.1937055</latitude>
+   <longitude>16.6113619</longitude>
+</benefit>

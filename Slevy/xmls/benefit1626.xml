@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1626">
+      <name>dell.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štítná 72,</address>
+      <phone>572 630 440</phone>
+      <email>obchod@2mbusiness.com</email>
+      <web>www.dell.cz</web>
+      <info>sleva 5 % v e-shopu slevy se sčítají s ostatními aktuálními slevami</info>
+   <latitude>50.7971626</latitude>
+   <longitude>14.4146704</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="32">
+      <name>AVACOM</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zborovská 575/41, Praha 5</address>
+      <phone>+420 257 322 721</phone>
+      <email>zborovska@avacom.cz</email>
+      <web>www.avacom.cz</web>
+      <info>15% sleva na baterie, nabíječky a příslušenství na mobilní telefony</info>
+   <latitude>50.0797751</latitude>
+   <longitude>14.4068658</longitude>
+</benefit>

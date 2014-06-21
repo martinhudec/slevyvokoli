@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1582">
+      <name>VEDRAL.eu - jazyková škola</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lorencova 3791, Zlín</address>
+      <phone>724 525 581</phone>
+      <email>jiri@vedral.eu</email>
+      <web>www.vedral.eu</web>
+      <info>sleva 15 % z ceny kurzu při platbě na půl roku (1 semestr) sleva 10 % z ceny kurzu při platbě na celý rok</info>
+   <latitude>49.2265853</latitude>
+   <longitude>17.6717824</longitude>
+</benefit>

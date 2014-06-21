@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="382">
+      <name>Jazyková agentura Point007</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pobřežní 16, Praha 8</address>
+      <phone>734142528</phone>
+      <email>info@point007.cz</email>
+      <web>www.point007.cz</web>
+      <info>25% sleva Týdenní intenzivní kurz a Večerní kurz. Cena bez slevy je 6000 Kč. 25% sleva na doučování studentů za vyučovací hodinu 45 min. Cena bez slevy je 350 Kč. Slevy není možné sčítat s jinými slevami.</info>
+   <latitude>50.0925082</latitude>
+   <longitude>14.4408425</longitude>
+</benefit>

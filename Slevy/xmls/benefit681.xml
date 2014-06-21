@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="681">
+      <name>Kavárna Bílá Labuť</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Poříčí 1068/23, Praha 1</address>
+      <phone>602 671 166</phone>
+      <email>kavarna-labut@seznam.cz</email>
+      <web>www.kavarna-labut.cz</web>
+      <info>Sleva 1+1 na kompletní sortiment kavárny</info>
+   <latitude>50.0903159</latitude>
+   <longitude>14.4339121</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="988">
+      <name>ATEP</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>V Jámě 699/1, Praha</address>
+      <phone>777 073 653</phone>
+      <email>info@atep.cz</email>
+      <web>www.atep.cz</web>
+      <info>Sleva 200 Kč na program Work and Travel USA - Self package. Sleva 200 Kč na program Working Holiday Kanada - Basic Service. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0803391</latitude>
+   <longitude>14.4245609</longitude>
+</benefit>

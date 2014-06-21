@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="538">
+      <name>Oční Centrum Visual</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>kovářská 122/13, Kroměříž</address>
+      <phone>725 984 513</phone>
+      <email>info@optikakromeriz.cz</email>
+      <web>www.optikakromeriz.cz</web>
+      <info>10% sleva na dioptrické brýle 5% sleva na sluneční brýle</info>
+   <latitude>49.2973390</latitude>
+   <longitude>17.3923298</longitude>
+</benefit>

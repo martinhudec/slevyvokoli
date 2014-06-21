@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1538">
+      <name>Strategie - magazín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mezi vodami 1952/9 , Praha 5 - Modřany</address>
+      <phone>800 300 302</phone>
+      <email>mf.prstc@cpost.cz</email>
+      <web>www.strategie.cz</web>
+      <info>sleva 20 % na předplatné (cena po slevě 1112 Kč) Pro využití této slevy je nutné do poznámky uvést sleva na kartu ISIC/IYTC/ITIC a číslo průkazu. Pokud nebude uvedeno číslo průkazu nebude objednávka zpracována.</info>
+   <latitude>50.0079448</latitude>
+   <longitude>14.4026010</longitude>
+</benefit>

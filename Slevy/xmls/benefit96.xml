@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="96">
+      <name>GALEX</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nákupní centrum Fórum, Soukenné náměstí 669/2a, Liberec</address>
+      <phone>+420 734 257 629</phone>
+      <email>galex51@karatrutnov.cz</email>
+      <web>www.karatrutnov.cz</web>
+      <info>Sleva ve výši 5% na veškeré nezlevněné zboží. Sleva platí pouze v kamenných prodejnách.</info>
+   <latitude>50.7656120</latitude>
+   <longitude>15.0562737</longitude>
+</benefit>

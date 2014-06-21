@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1542">
+      <name>Hotel Sonáta</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zámecká 302, Hradec nad Moravicí</address>
+      <phone>553 784 260</phone>
+      <email>sonata@hotelsonata.cz</email>
+      <web>www.hotelsonata.cz</web>
+      <info>sleva 20 % na ubytování s plnou penzí sleva 15 % na ubytování se snídaní sleva sleva 10 % na akční balíčky</info>
+   <latitude>49.8663358</latitude>
+   <longitude>17.8749315</longitude>
+</benefit>

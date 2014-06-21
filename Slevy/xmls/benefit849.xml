@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="849">
+      <name>Knihcentrum - Obchodní centrum Olympia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Dálnice 777, Brno - Modřice</address>
+      <phone>722048695</phone>
+      <email>brno.olympia@knihcentrum.cz</email>
+      <web>www.knihcentrum-brno.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)  </info>
+   <latitude>49.1377451</latitude>
+   <longitude>16.6338208</longitude>
+</benefit>

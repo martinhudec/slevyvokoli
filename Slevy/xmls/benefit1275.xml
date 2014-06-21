@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1275">
+      <name>Národní muzeum - Historická budova</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Václavské náměstí 68, Praha 1</address>
+      <phone>224 497 111, 224 497 352</phone>
+      <email>nm@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>snížené vstupné dle aktuálního ceníku V současnoti je budova pro rekonstrukci uzavřena.</info>
+   <latitude>50.0798603</latitude>
+   <longitude>14.4304172</longitude>
+</benefit>

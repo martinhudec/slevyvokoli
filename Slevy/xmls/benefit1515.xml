@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1515">
+      <name>Easy Rider</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jugoslávská 15/180, Praha 2</address>
+      <phone>222 512 620</phone>
+      <email>praha@easyridershop.cz</email>
+      <web>www.easyridershop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>50.0755645</latitude>
+   <longitude>14.4327652</longitude>
+</benefit>

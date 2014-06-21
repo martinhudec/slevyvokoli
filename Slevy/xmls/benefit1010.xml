@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1010">
+      <name>Skiareál Kašperky</name>
+      <cardType>ISIC</cardType>
+      <address>Na Prádle 71, Kašperské Hory</address>
+      <phone>376 582 072</phone>
+      <email>info@kasperky.cz</email>
+      <web>www.skikasperky.cz</web>
+      <info>20% sleva na jedno a vícedenní permanentky</info>
+   <latitude>49.1391475</latitude>
+   <longitude>13.5663947</longitude>
+</benefit>

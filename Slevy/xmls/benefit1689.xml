@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1689">
+      <name>Lékárna Čtyřlístek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vzdušná 1373, Liberec</address>
+      <phone>485 100 605</phone>
+      <email>lekarnactyrlistek@volny.cz</email>
+      <web>www.lekarna-liberec.cz</web>
+      <info>10% sleva na volně prodejný sortiment</info>
+   <latitude>50.7715014</latitude>
+   <longitude>15.0636343</longitude>
+</benefit>

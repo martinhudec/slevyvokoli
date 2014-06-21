@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1631">
+      <name>Nová Akropolis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Železná 12, Liberec</address>
+      <phone>482 710 537</phone>
+      <email>nova@akropolis.cz</email>
+      <web>www.akropolis.cz</web>
+      <info>zvýhodněné vstupné na přednášky, přednáškové cykly, kurzy, semináře, cestovatelské večery, výtvarné dílny (workshopy)</info>
+   <latitude>50.7699441</latitude>
+   <longitude>15.0567979</longitude>
+</benefit>

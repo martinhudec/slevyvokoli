@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1684">
+      <name>Megabooks cz - Oxford Bookshop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dřevěná 7, Plzeň</address>
+      <phone>377 221 090</phone>
+      <email>plzen@megabooks.cz</email>
+      <web>www.megabooks.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>49.7471605</latitude>
+   <longitude>13.3793913</longitude>
+</benefit>

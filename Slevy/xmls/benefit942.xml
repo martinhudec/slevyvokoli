@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="942">
+      <name>Timeout</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Central Most, Radniční 3400, Most</address>
+      <phone>476700700</phone>
+      <email>info@gut.cz</email>
+      <web>www.timeoutjeans.com</web>
+      <info>15% sleva na nákup nezlevněného sortimentu zboží.</info>
+   <latitude>50.5012584</latitude>
+   <longitude>13.6399778</longitude>
+</benefit>

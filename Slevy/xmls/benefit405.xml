@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="405">
+      <name>Vagon</name>
+      <cardType>ISIC</cardType>
+      <address>Národní 25, Praha 1</address>
+      <phone>733737301</phone>
+      <email>ondra@vagon.cz</email>
+      <web>www.vagon.cz</web>
+      <info>50 Kč za vstupné na vybrané koncerty. Koncerty jsou v programu vyznačeny logem ISIC.</info>
+   <latitude>50.0821357</latitude>
+   <longitude>14.4180018</longitude>
+</benefit>

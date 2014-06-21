@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="369">
+      <name>FreeStyle</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bezručova 31, Plzeň</address>
+      <phone>733 40 50 40</phone>
+      <email>info@bezrucovka.cz</email>
+      <web>www.bezrucovka.cz</web>
+      <info>20% sleva na služby salonu</info>
+   <latitude>49.7457589</latitude>
+   <longitude>13.3744140</longitude>
+</benefit>

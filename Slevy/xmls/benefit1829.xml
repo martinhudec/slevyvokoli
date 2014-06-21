@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1829">
+      <name>Skřivánek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Havlíčkovo nábřeží 2728/38, Ostrava</address>
+      <phone>596 113 844</phone>
+      <email>ostrava@skrivanek.cz</email>
+      <web>www.skrivanek.cz</web>
+      <info>sleva 10% na všechny poskytované služby (jazyková výuka, veřejnostní kurzy, firemní kurzy, pobytové kurzy, individuální kurzy, e-learning, zahraniční kurzy), překlady, DTP služby, lokalizace, tlumočení</info>
+   <latitude>49.8401075</latitude>
+   <longitude>18.2926199</longitude>
+</benefit>

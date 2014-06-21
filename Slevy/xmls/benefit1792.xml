@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1792">
+      <name>Kino Květen Malenovice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykova 1014, Zlín</address>
+      <phone>577 103 284</phone>
+      <email>velke.kino@gacinema.cz</email>
+      <web>www.velkekino.cz</web>
+      <info>sleva na vstupném 10,- Kč</info>
+   <latitude>49.2073489</latitude>
+   <longitude>17.5950170</longitude>
+</benefit>

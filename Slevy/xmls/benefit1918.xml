@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1918">
+      <name>Optik Krouman</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Josefská 1, Brno</address>
+      <phone>542 212 955</phone>
+      <email>info@optikkrouman.cz</email>
+      <web>www.optikkrouman.cz</web>
+      <info>sleva 10 % na zboží a služby</info>
+   <latitude>49.1933748</latitude>
+   <longitude>16.6117876</longitude>
+</benefit>

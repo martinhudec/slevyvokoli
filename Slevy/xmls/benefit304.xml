@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="304">
+      <name>MacPodpora</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Neklanova 9, Praha 2</address>
+      <phone>777121294</phone>
+      <email>info@macpodpora.cz</email>
+      <web>www.macpodpora.cz</web>
+      <info>30% sleva na Softwarový servis Mac OS X, školení a podporu</info>
+   <latitude>50.0670892</latitude>
+   <longitude>14.4192846</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="416">
+      <name>Bar Rio</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husova 106, Pardubice</address>
+      <phone>608676767</phone>
+      <email>info@barrio.cz</email>
+      <web>www.barrio.cz</web>
+      <info>1+1 drink zdarma, sleva platá na akční drink večera, platí na horním baru SO-NE</info>
+   <latitude>50.0396267</latitude>
+   <longitude>15.7845288</longitude>
+</benefit>

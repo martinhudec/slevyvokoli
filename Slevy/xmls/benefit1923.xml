@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1923">
+      <name>Alex Bistro</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ječná 4, Praha 2</address>
+      <phone>224 919 125, 721 979 932</phone>
+      <email>alex@alexbistro.cz</email>
+      <web>www.alexbistro.cz</web>
+      <info>sleva 10 % na jídlo. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0755092</latitude>
+   <longitude>14.4220449</longitude>
+</benefit>

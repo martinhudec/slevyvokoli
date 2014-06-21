@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="792">
+      <name>Outdoorový obchod</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kobližná 53/24, Brno</address>
+      <phone>734 740 693</phone>
+      <email>info@outdoorovyobchod.cz</email>
+      <web>www.outdoorovyobchod.cz</web>
+      <info>Sleva 7% na veškerý neslevněný sortiment</info>
+   <latitude>49.1952259</latitude>
+   <longitude>16.6123825</longitude>
+</benefit>

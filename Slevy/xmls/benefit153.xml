@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="153">
+      <name>Daniel's Donuts - Výstaviště Flóra</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Wolkerova 37/17, Olomouc</address>
+      <phone>775 766 361</phone>
+      <email>info@daniels-donuts.eu</email>
+      <web>www.daniels-donuts.eu</web>
+      <info>10% sleva na produkty. Slevu je možno uplatnit pouze v prodejních místech. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.5883990</latitude>
+   <longitude>17.2455169</longitude>
+</benefit>

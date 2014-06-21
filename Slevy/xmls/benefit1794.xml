@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1794">
+      <name>Lékárna Aurum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tovární vrch 78, Doksy</address>
+      <phone>487 883 944</phone>
+      <email>lek.aurum@tiscali.cz</email>
+      <web/>
+      <info>10% sleva z úhrady v hotovosti (NE z nařízeného poplatku za recept)</info>
+   <latitude>50.5664057</latitude>
+   <longitude>14.6574763</longitude>
+</benefit>

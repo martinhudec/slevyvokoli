@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="189">
+      <name>D-Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hlavní 106, Frýdek Místek</address>
+      <phone>558 638 270, 730 518 337</phone>
+      <email>mistek1.decko@seznam.cz</email>
+      <web>www.dsport.eu</web>
+      <info>15% sleva na nezlevněné zboží 5% sleva na již zlevněné zboží Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.6741689</latitude>
+   <longitude>18.3414847</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="363">
+      <name>Sport Support</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Vítkovice v Krkonoších</address>
+      <phone/>
+      <email>info@freestylearea.eu</email>
+      <web>www.freestylearea.eu</web>
+      <info>15% sleva na všechny kempy pořádané Sport Support s.r.o.</info>
+   <latitude>50.6790146</latitude>
+   <longitude>15.5312082</longitude>
+</benefit>

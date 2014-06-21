@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="722">
+      <name>CK Čedok</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>30. dubna 2b, Ostrava</address>
+      <phone>596 124 087</phone>
+      <email>cedok-ostrava@cedok.cz</email>
+      <web>www.cedok.cz</web>
+      <info>7 % sleva ze základní ceny leteckých pobytových zájezdů, vyjma zájezdů doTuniska a na Kanárské ostrovy 5 % sleva ze základní ceny ostatních katalogových zájezdů s výjimkou pobytůoznačených „Délka pobytu dle přání zákazníka“ Sleva 100 Kč z ceny manipulačního poplatku na vystavenou letenku v kterékoliv kmenové pobočce Čedok a.s.</info>
+   <latitude>49.8403258</latitude>
+   <longitude>18.2857571</longitude>
+</benefit>

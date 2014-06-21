@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1006">
+      <name>Dům sportu Stratílek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Smetanovo náměstí 91, Litomyšl</address>
+      <phone/>
+      <email>cyklo@stratilek.cz, sport@stratilek.cz</email>
+      <web>www.stratilek.cz</web>
+      <info>10% sleva na celý sortiment v oddělení SPORT, na doplňky, náhradní díly, oblečení a obuv v oddělení CYKLO 10% sleva na servisní práce v oddělení CYKLO a SPORT 5% sleva na jízdní kola (sleva se nevztahuje na zboží ve slevě nebo v akci) Spinning centrum- běžná cena 80 Kč / zvýhodněné vstupné 50 Kč</info>
+   <latitude>49.8695479</latitude>
+   <longitude>16.3134276</longitude>
+</benefit>

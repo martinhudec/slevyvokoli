@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="2">
+      <name>Alza</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>eshop, Síť výdejních míst na: www.alza.cz</address>
+      <phone/>
+      <email/>
+      <web>www.alza.cz/student</web>
+      <info>Držitelé platných průkazů ISIC, ISIC Scholar a ITIC mohou využít speciální nabídky při nákupu v e-shopu www.alza.cz/student. K nákupům je nutné provést registraci. Veškeré detaily k registraci a k nákupům jsou uvedeny na www.alza.cz/student.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

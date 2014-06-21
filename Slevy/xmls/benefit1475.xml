@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1475">
+      <name>Lyžařský areál Svatá Anna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Chotěboř</address>
+      <phone/>
+      <email/>
+      <web>http://snih.chotebor.cz</web>
+      <info>20% SLEVA jízdného na lyžařském vleku, tj. za stejnou cenu příslušný počet jízd navíc. Více informací ZDE    </info>
+   <latitude>49.7206138</latitude>
+   <longitude>15.6710415</longitude>
+</benefit>

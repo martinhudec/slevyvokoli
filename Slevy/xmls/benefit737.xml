@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="737">
+      <name>CK Čedok</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hrnčířská 57/10, Ústí nad Labem</address>
+      <phone>475 220 382</phone>
+      <email>cedok-ustinl@cedok.cz</email>
+      <web>www.cedok.cz</web>
+      <info>7 % sleva ze základní ceny leteckých pobytových zájezdů, vyjma zájezdů doTuniska a na Kanárské ostrovy 5 % sleva ze základní ceny ostatních katalogových zájezdů s výjimkou pobytůoznačených „Délka pobytu dle přání zákazníka“ Sleva 100 Kč z ceny manipulačního poplatku na vystavenou letenku v kterékoliv kmenové pobočce Čedok a.s.</info>
+   <latitude>50.6604040</latitude>
+   <longitude>14.0437161</longitude>
+</benefit>

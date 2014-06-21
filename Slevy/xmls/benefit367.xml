@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="367">
+      <name>Funky Monkey</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dřevěná 6, Plzeň</address>
+      <phone>377 224 296</phone>
+      <email>info@funkymonkey.cz</email>
+      <web>www.funkymonkey.cz</web>
+      <info>Happy Hour 19 - 21 hod - dle denní nabídky sleva až 50% na drinky</info>
+   <latitude>49.7469966</latitude>
+   <longitude>13.3794269</longitude>
+</benefit>

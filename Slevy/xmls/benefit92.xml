@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="92">
+      <name>GALEX</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nádražní 17, Ostrava</address>
+      <phone>+420 734 257 631</phone>
+      <email>galex32@karatrutnov.cz</email>
+      <web>www.karatrutnov.cz</web>
+      <info>Sleva ve výši 5% na veškeré nezlevněné zboží. Sleva platí pouze v kamenných prodejnách.</info>
+   <latitude>49.8355244</latitude>
+   <longitude>18.2867849</longitude>
+</benefit>

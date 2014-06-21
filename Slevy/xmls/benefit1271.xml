@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1271">
+      <name>Hannah</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>AVION Shopping park, Rudná 3114/114, Ostrava</address>
+      <phone>596 768 983</phone>
+      <email>prodejna.ostrava@hannah.cz</email>
+      <web>www.hannah.cz</web>
+      <info>sleva 5 % na nákup sortimentu</info>
+   <latitude>49.8020182</latitude>
+   <longitude>18.2279728</longitude>
+</benefit>

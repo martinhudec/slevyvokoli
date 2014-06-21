@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1455">
+      <name>Autopůjčovna PELANT Rent a Car</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Čs. armády 406/10, Praha 6</address>
+      <phone>233 353 157, 728 465 738</phone>
+      <email>info@pelant.cz</email>
+      <web>www.pelant.cz</web>
+      <info>sleva 11% na standardní nebo limitovaný pronájem vozidla. více informací o akcích a cenách najdete zde.</info>
+   <latitude>50.1004235</latitude>
+   <longitude>14.4033144</longitude>
+</benefit>

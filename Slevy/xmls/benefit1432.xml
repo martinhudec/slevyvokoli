@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1432">
+      <name>Pilotem na zkoušku</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Milešovská 9, Praha</address>
+      <phone>775 365 320</phone>
+      <email>rezervace@pilotemnazkousku.cz</email>
+      <web>www.pilotemnazkousku.cz</web>
+      <info>8 % sleva. Slevu získáte, pokud při rezervaci uvedete do pole slevový kód text: ISIC. Účastník se na akci poté musí prokázat platnou ISIC kartou</info>
+   <latitude>50.0794230</latitude>
+   <longitude>14.4512046</longitude>
+</benefit>

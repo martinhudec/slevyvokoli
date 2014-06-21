@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="307">
+      <name>LEO Express</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jeremenkova 103/23, Olomouc - Hodolany</address>
+      <phone>777490004</phone>
+      <email>info@le.cz</email>
+      <web>www.le.cz</web>
+      <info>10% sleva z aktuálních cen všech prodávaných jízdenek v tarifní kategorii "Dospělý" po dobu celého roku (včetně letních prázdnin). sleva platí do třídy ECONOMY. Slevu je možno uplatnit v kamenných provozovnách i  v e-shopech www.le.cz.</info>
+   <latitude>49.5928968</latitude>
+   <longitude>17.2778572</longitude>
+</benefit>

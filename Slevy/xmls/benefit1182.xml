@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1182">
+      <name>Husky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Beneše z Loun 142, Louny</address>
+      <phone>608 962 242</phone>
+      <email/>
+      <web>www.huskycz.cz</web>
+      <info>sleva 5% na veškerý sortiment</info>
+   <latitude>50.3572894</latitude>
+   <longitude>13.7943180</longitude>
+</benefit>

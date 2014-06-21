@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1301">
+      <name>Aquapark Olešná</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nad Přehradou 2290, Frýdek - Místek</address>
+      <phone>558 638 754</phone>
+      <email>sportplex@sportplex.cz</email>
+      <web>www.sportplex.cz</web>
+      <info>sleva až 35 % na vstup</info>
+   <latitude>49.6664488</latitude>
+   <longitude>18.3147421</longitude>
+</benefit>

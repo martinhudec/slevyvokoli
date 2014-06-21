@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="935">
+      <name>Rent Bike Prague</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jindřišská 7, praha 1</address>
+      <phone>775 654 050</phone>
+      <email>info@rentbikeprague.com</email>
+      <web>www.rentbikeprague.com</web>
+      <info>sleva 2+1 na Karlstejn Bike Tour (výlet na kolech na Karlštejn) sleva 2+1 na Prague Bike Tour (exkurze po centru Prahy) 10% sleva na půjčení kol 10% sleva na půjčení skůtrů</info>
+   <latitude>50.0834175</latitude>
+   <longitude>14.4274071</longitude>
+</benefit>

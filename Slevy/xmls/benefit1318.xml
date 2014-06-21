@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1318">
+      <name>Náprstkovo muzeum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Betlémské náměstí 1, Praha 1</address>
+      <phone>224 497 500, 224 497 511</phone>
+      <email>naprstek@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>Snížené vstupné pro držitele průkazů. Běžná cena 80 kč, po slevě 50 Kč.</info>
+   <latitude>50.0841210</latitude>
+   <longitude>14.4167821</longitude>
+</benefit>

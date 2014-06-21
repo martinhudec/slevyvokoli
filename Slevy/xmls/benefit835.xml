@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="835">
+      <name>Inlinebus</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 293/12, Hradec Králové</address>
+      <phone>773 868 952</phone>
+      <email>hradeckralove@ulozenka.cz</email>
+      <web>www.inlinebus.cz</web>
+      <info>Sleva 10% na veškerý sortiment, při nákupu dvou položek s celkovou cenou nad 5000,- Kč sleva 15% na celý nákup. Slevy se netýkají poštovného a balného</info>
+   <latitude>50.5311378</latitude>
+   <longitude>15.8136479</longitude>
+</benefit>

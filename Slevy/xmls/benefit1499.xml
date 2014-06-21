@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1499">
+      <name>Sir Toby’s Hostel</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dělnická 24, Praha 7</address>
+      <phone>246 032 610</phone>
+      <email/>
+      <web>www.sirtobys.com</web>
+      <info>sleva 5% na ubytování slevu můžete kombinovat s jinými slevami! Dále Vám dáme seznam nejlepších míst v Praze, která také nabízejí slevy na ISIC, a k tomu přehlednou mapu, která Vám usnadní jejich hledání! Důležité: Sleva je platá pouze když si vytvoříte rezervaci přes naši internetovou stránku www.sirtobys.com.</info>
+   <latitude>50.1031911</latitude>
+   <longitude>14.4481215</longitude>
+</benefit>

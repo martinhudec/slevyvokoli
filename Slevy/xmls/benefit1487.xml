@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1487">
+      <name>B a K Tour - zájezdy a pobyty</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Komenského 249, Hradec Králové</address>
+      <phone>459 518 151, 495 518 819</phone>
+      <email>rezervace@bktour.cz</email>
+      <web>www.bktour.cz</web>
+      <info>sleva 5% na zájezdy</info>
+   <latitude>50.2087110</latitude>
+   <longitude>15.8347515</longitude>
+</benefit>

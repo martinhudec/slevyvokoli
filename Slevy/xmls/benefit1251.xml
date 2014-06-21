@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1251">
+      <name>Rock Point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Avion, Rudná 3114/14, Ostrava</address>
+      <phone>595 781 522</phone>
+      <email>ostravaavion@rockpoint.cz</email>
+      <web>www.rockpoint.cz</web>
+      <info>sleva 5 % na zboží</info>
+   <latitude>49.8066597</latitude>
+   <longitude>18.2675568</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1044">
+      <name>Penzion Heřmanice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Heřmanice 101, Králíky</address>
+      <phone>605 253 249</phone>
+      <email>penzion@penzionhermanice.com</email>
+      <web>www.penzionhermanice.com</web>
+      <info>sleva 25 Kč / 1 osoba / 1 den</info>
+   <latitude>50.1270685</latitude>
+   <longitude>16.7496669</longitude>
+</benefit>

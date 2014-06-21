@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="336">
+      <name>Fruitisimo Fresh</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Brněnská 1825/23a, Hradec Králové</address>
+      <phone>775 745 695</phone>
+      <email>aneta.seidlova@fruitisimogroup.com</email>
+      <web>www.fruitisimo.net</web>
+      <info>sleva 10 % na produkty Fruitisimo Fresh (neplatí pro nabízené odšťavňovače)</info>
+   <latitude>50.1970122</latitude>
+   <longitude>15.8489385</longitude>
+</benefit>

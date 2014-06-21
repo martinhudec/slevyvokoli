@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1757">
+      <name>Hotel Lanterna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Leskové 659, Velké Karlovice</address>
+      <phone>571 477 300</phone>
+      <email>lanterna@valachy.cz</email>
+      <web>www.valachy.cz</web>
+      <info>sleva 20% z ubytování</info>
+   <latitude>49.3701549</latitude>
+   <longitude>18.3526142</longitude>
+</benefit>

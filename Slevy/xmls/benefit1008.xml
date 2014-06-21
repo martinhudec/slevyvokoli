@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1008">
+      <name>Skiareál Šachty</name>
+      <cardType>ISIC</cardType>
+      <address>Lyžařská 379, Vysoké nad Jizerou</address>
+      <phone>737 222 456</phone>
+      <email>info@skisachty.cz</email>
+      <web>www.skisachty.cz</web>
+      <info>20% sleva na jedno a vícedenní permanentky</info>
+   <latitude>50.6924532</latitude>
+   <longitude>15.3943001</longitude>
+</benefit>

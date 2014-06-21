@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1200">
+      <name>Mironet</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nad Kajetánkou 6, Praha 6</address>
+      <phone>220 512 010</phone>
+      <email>zapad@mironet.cz</email>
+      <web>www.mironet.cz</web>
+      <info>nákup zboží za velkoobchodní ceny student se zaregistruje, uvede číslo své ISIC karty a pokaždé, když se pod touto registrací přihlásí na stránkách www.mironet.cz zobrazí se mu studentské (= velkoobchodní) ceny Sleva je do odvolání pozastavena!!</info>
+   <latitude>50.0866961</latitude>
+   <longitude>14.3769735</longitude>
+</benefit>

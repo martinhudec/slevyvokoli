@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1296">
+      <name>Albi</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Central Most, Radniční 3400, Most</address>
+      <phone>476 700 677</phone>
+      <email>most.central.kasa@albi.cz</email>
+      <web>www.albi.cz</web>
+      <info>sleva 10 % na veškerý sortiment. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.5012584</latitude>
+   <longitude>13.6399778</longitude>
+</benefit>

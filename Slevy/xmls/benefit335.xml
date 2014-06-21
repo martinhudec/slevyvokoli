@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="335">
+      <name>Dendax</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Na Pankráci 1062/58, Praha 4</address>
+      <phone>226809111</phone>
+      <email>marketing@dendax.com</email>
+      <web>www.dendax.com</web>
+      <info>30% sleva na poplatku uveřejněné na www.dendax.com</info>
+   <latitude>50.0576285</latitude>
+   <longitude>14.4333763</longitude>
+</benefit>

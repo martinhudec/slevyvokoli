@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1180">
+      <name>CK B&amp;K Tour</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Komenského 249, Hradec Králové</address>
+      <phone>495 518 819, 777 736</phone>
+      <email>rezervace@bktour.cz</email>
+      <web>www.bktour.cz</web>
+      <info>sleva 5 % restaurace a café, chata Stříbrný rybník, zájezdy a pobyty sleva 10 % Kemp Stříbrný rybník, rekreační areály Pecka, Ostružno, Vysoká Srbská</info>
+   <latitude>50.2087110</latitude>
+   <longitude>15.8347515</longitude>
+</benefit>

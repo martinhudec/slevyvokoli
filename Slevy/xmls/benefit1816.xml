@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1816">
+      <name>Neoluxor - Knihkupectví Hlavní nádraží</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Wilsonova 8, Praha 2 - Nové Město</address>
+      <phone>296 110 405, 296 110 407</phone>
+      <email>hlavninadrazi@neoluxor.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>sleva 10 % na knihy neplatí v rámci internetového knihkupectví www.neoluxor.cz</info>
+   <latitude>50.0755286</latitude>
+   <longitude>14.4337709</longitude>
+</benefit>

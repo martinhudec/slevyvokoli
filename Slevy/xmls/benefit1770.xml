@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1770">
+      <name>Apartmány Jizera</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Václavské nám. 36 a 48, Praha 1</address>
+      <phone>602 144 189</phone>
+      <email>info@apartmentsjizera.com</email>
+      <web>www.apartment-jizera.com</web>
+      <info>10% na ubytovani</info>
+   <latitude>50.0820451</latitude>
+   <longitude>14.4263041</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1294">
+      <name>Albi</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Liberec Plaza, Palachova 1404, Liberec</address>
+      <phone>485 104 345</phone>
+      <email>liberec.plaza.kasa@albi.cz</email>
+      <web>www.albi.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>50.7696445</latitude>
+   <longitude>15.0605194</longitude>
+</benefit>

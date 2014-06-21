@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1155">
+      <name>HUDYsport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Budovatelů 2957/2, Most</address>
+      <phone>722 552 555</phone>
+      <email>most@hudy.cz</email>
+      <web>www.hudy.cz</web>
+      <info>sleva 7 % na nákup zboží</info>
+   <latitude>50.5143151</latitude>
+   <longitude>13.6455970</longitude>
+</benefit>

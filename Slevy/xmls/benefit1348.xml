@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1348">
+      <name>knihkupectví SERIUS</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mírové náměstí 11, Jablonec nad Nisou</address>
+      <phone>777 224 616</phone>
+      <email>info@serius.cz</email>
+      <web>www.serius.cz</web>
+      <info>13% na učebnice a knihy</info>
+   <latitude>50.7245199</latitude>
+   <longitude>15.1718995</longitude>
+</benefit>

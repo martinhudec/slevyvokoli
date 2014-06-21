@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1936">
+      <name>StreetLab</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Braunerova 28, Praha 8</address>
+      <phone>284 840 110</phone>
+      <email>info@streetLab.cz</email>
+      <web>www.streetlab.cz</web>
+      <info>sleva 10% na  zboží z konečné uvedené ceny slevy nelze kombinovat s ostatními slevami</info>
+   <latitude>50.1140954</latitude>
+   <longitude>14.4736450</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1662">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC - sídliště Vajgar, Rezkova 953/III, Jindřichův Hradec</address>
+      <phone>724 484 996</phone>
+      <email>jindrichuvhradec@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>sleva 5 % z celkové ceny zboží sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>49.1444823</latitude>
+   <longitude>15.0061389</longitude>
+</benefit>

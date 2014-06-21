@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1947">
+      <name>SWIS BOARD SHOP</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Masarykova 2312/65, Ústí nad Labem</address>
+      <phone>475 209 007, 603 830 900</phone>
+      <email>obchod@swis-shop.cz</email>
+      <web>www.swis-shop.cz</web>
+      <info>sleva 15 % na nákup zboží (nevztahuje se na již zlevněný sortiment, půjčovné a servis snowboardů a značky LIB TECH, GoPro a BURTON)</info>
+   <latitude>50.6664286</latitude>
+   <longitude>14.0299849</longitude>
+</benefit>

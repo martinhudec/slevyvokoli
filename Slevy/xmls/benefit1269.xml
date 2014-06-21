@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1269">
+      <name>Hannah</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Nisa, České Mládeže 456, Liberec</address>
+      <phone>485 107 466</phone>
+      <email>prodejna.liberec@hannah.cz</email>
+      <web>www.hannah.cz</web>
+      <info>sleva 5 % na nákup sortimentu</info>
+   <latitude>50.7414746</latitude>
+   <longitude>15.0490843</longitude>
+</benefit>

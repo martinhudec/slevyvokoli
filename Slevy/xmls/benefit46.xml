@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="46">
+      <name>Papírnictví</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rybářská 89/44, Opava</address>
+      <phone>553 777 343</phone>
+      <email>prodejna.rybarska@optys.cz</email>
+      <web>www.optys.cz</web>
+      <info>Sleva 10%celkového nákupu.Nevztahuje se na již zlevněné produkty. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.9447569</latitude>
+   <longitude>17.8962370</longitude>
+</benefit>

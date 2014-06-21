@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="162">
+      <name>Hospital Kuks</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Kuks</address>
+      <phone>499 692 161, 724 663 535</phone>
+      <email>hospital.kuks@josefov.npu.cz</email>
+      <web>www.hospital-kuks.cz</web>
+      <info>Sleva z plného vstupného na úroveň sníženého vstupného. Věková hranice pro uplatnění slev je 26 let (včetně). Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.4014874</latitude>
+   <longitude>15.8882216</longitude>
+</benefit>

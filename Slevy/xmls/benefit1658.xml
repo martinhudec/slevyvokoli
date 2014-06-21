@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1658">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC - Interspar, Hlavní třída 3274, Frýdek Místek</address>
+      <phone>558 431 703, 775 705 636</phone>
+      <email>frydekmistek@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>sleva 5 % z celkové ceny zboží sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>49.6775418</latitude>
+   <longitude>18.3693965</longitude>
+</benefit>

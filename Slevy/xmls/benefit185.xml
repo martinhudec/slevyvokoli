@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="185">
+      <name>D-Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NC Borské pole, U Letiště 1074, Plzeň</address>
+      <phone>377 331 227, 730 515 568</phone>
+      <email>plzen.decko@seznam.cz</email>
+      <web>www.dsport.eu</web>
+      <info>15% sleva na nezlevněné zboží 5% sleva na již zlevněné zboží Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7282433</latitude>
+   <longitude>13.3432728</longitude>
+</benefit>

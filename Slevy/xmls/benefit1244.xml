@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1244">
+      <name>SK Dobré</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Dobré</address>
+      <phone>724 050 813</phone>
+      <email/>
+      <web>www.skdobre.cz</web>
+      <info>sleva 10 % na ubytování</info>
+   <latitude>49.6738269</latitude>
+   <longitude>18.4139370</longitude>
+</benefit>

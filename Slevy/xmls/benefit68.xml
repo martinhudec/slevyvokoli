@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="68">
+      <name>LIBREX - Knihkupectví PLEJÁDA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. T.G.Masaryka 139, Rožnov pod Radhoštěm</address>
+      <phone>+420571611034</phone>
+      <email>knihkupectvi16@librex.cz</email>
+      <web>www.librex.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)</info>
+   <latitude>49.4585261</latitude>
+   <longitude>18.1430308</longitude>
+</benefit>

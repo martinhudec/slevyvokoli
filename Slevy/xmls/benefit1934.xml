@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1934">
+      <name>Blesk Taxi</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Liberec</address>
+      <phone>485 111 888, 602 460 047</phone>
+      <email>dispecink@blesktaxi.cz</email>
+      <web>www.blesktaxi.cz</web>
+      <info>sleva 12,5% z ceny jízdného sleva nelze kombinovat s ostatnimi slevami</info>
+   <latitude>50.7662800</latitude>
+   <longitude>15.0543387</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1289">
+      <name>Albi</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Plzeň Plaza, Radčická 2, 301 00, Plzeň</address>
+      <phone>374 809 440</phone>
+      <email>plzen.plaza.kasa@albi.cz</email>
+      <web>www.albi.cz</web>
+      <info>sleva 10 % na veškerý sortiment. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7496381</latitude>
+   <longitude>13.3695612</longitude>
+</benefit>

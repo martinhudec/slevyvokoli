@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1081">
+      <name>Letuska.cz a Study.cz – nejvyhodnejsi ceny letenek a jazykovych pobytu v zahraničí</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kvítková 5548, Zlín</address>
+      <phone>234 703 188, 234 703 103</phone>
+      <email>zlin@asiana.cz, info@study.cz</email>
+      <web>www.asiana.cz, www.study.cz</web>
+      <info>Study.cz a Letuška.cz - sleva Kč 800,- na jazykové pobyty, sleva Kč 200,- na letenku, pokud je zakoupena k jazykovému pobytu.</info>
+   <latitude>49.2270604</latitude>
+   <longitude>17.6696432</longitude>
+</benefit>

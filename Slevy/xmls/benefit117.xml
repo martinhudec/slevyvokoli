@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="117">
+      <name>Faustův dům</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Třída Svornosti 57, Olomouc</address>
+      <phone>776 860 005</phone>
+      <email>faustuvdummail@gmail.com</email>
+      <web>www.faustuvdum.eu</web>
+      <info>Vstup na diskotéku zdarma. 1+1 pizza zdarma - podmínkou čerpání slevy je objednání nápojů. 33% sleva na kulečník.</info>
+   <latitude>49.5933207</latitude>
+   <longitude>17.2292532</longitude>
+</benefit>

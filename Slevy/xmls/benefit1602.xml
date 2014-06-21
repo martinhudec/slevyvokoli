@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1602">
+      <name>Royal School</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karlovo nám. 5, Praha 2</address>
+      <phone>733 502 101</phone>
+      <email>praha@royalschool.cz</email>
+      <web>www.royalschool.cz</web>
+      <info>sleva 5%</info>
+   <latitude>50.0781325</latitude>
+   <longitude>14.4211090</longitude>
+</benefit>

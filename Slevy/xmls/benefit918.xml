@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="918">
+      <name>Doka Coffee</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Úvoz 6, Praha 1</address>
+      <phone>257310279</phone>
+      <email>info@dokacoffee.cz</email>
+      <web>www.dokacoffee.cz</web>
+      <info>20 % sleva na vše kromě alkoholu a cigaret, bonus 1 + 1 káva /espresso/ zdarma</info>
+   <latitude>50.0884409</latitude>
+   <longitude>14.3961163</longitude>
+</benefit>

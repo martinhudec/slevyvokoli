@@ -16,7 +16,7 @@ import javax.xml.bind.Unmarshaller;
 
 public class Parser {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException {
 
         final File folder = new File("xmls");
 
@@ -24,18 +24,25 @@ public class Parser {
         list = listFilesForFolder(folder);
 
         List<GPSrecord> records = new ArrayList<>();
-        
+
         for (Iterator<String> it = list.iterator(); it.hasNext();) {
             String fileName = it.next();
-            System.out.println(fileName);
             GPSrecord rec = jaxbXMLToObject("xmls/" + fileName);
             records.add(rec);
         }
         
-        for (Iterator<GPSrecord> it = records.iterator(); it.hasNext();) {
-            GPSrecord GPSrecord = it.next();
-            System.out.println(GPSrecord.toString());
-        } 
+        String[] parts = null;
+        for (Iterator<GPSrecord> it = records.iterator(); it.hasNext();) {          //kontroluje stringy na riadiace charaktery
+            GPSrecord gpsrecord = it.next();
+            if (gpsrecord.getName().contains("'")) {
+                parts = gpsrecord.getName().split("\\'");
+                gpsrecord.setName(parts[0]+"´"+parts[1]);  
+                
+            }
+        }
+
+        DBcontroller cnt = new DBcontroller();
+        cnt.fillDB(records);
     }
 
     private static GPSrecord jaxbXMLToObject(String fileName) {
@@ -45,7 +52,7 @@ public class Parser {
             GPSrecord rec = (GPSrecord) un.unmarshal(new File(fileName));
             return rec;
         } catch (JAXBException e) {
-            e.printStackTrace();
+            System.out.println(e.toString());
         }
         return null;
     }

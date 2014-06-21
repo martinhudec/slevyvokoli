@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="762">
+      <name>Kulturní dům Kyje - KVIZ Praha 14</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Šimanovská 47, Praha</address>
+      <phone>724 099 889</phone>
+      <email>zak@kvizpraha14.cz</email>
+      <web>www.kvizpraha14.cz</web>
+      <info>2 za 1 vstupné na kace pořádané KVIZ Praha 14</info>
+   <latitude>50.0976971</latitude>
+   <longitude>14.5437663</longitude>
+</benefit>

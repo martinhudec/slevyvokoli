@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1621">
+      <name>Jindřišská věž</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jindřišská ulice, Praha 1</address>
+      <phone>224 232 429</phone>
+      <email>info@jindrisskavez.cz</email>
+      <web>www.jindrisskavez.cz</web>
+      <info>sleva 20 % ze vstupného</info>
+   <latitude>50.0828655</latitude>
+   <longitude>14.4264868</longitude>
+</benefit>

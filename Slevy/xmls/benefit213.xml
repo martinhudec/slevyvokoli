@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="213">
+      <name>Neoluxor Books - Knihkupectví Starobrněnská</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Starobrněnská 16/18, Brno</address>
+      <phone>532 199 891</phone>
+      <email>starobrnenska@neoluxorbooks.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>Sleva 10% na kompletní sortiment knih a doplňkového zboží, nelze uplatnit na dárkové knižní poukázky a vstupenky Ticketpro. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.1924918</latitude>
+   <longitude>16.6071278</longitude>
+</benefit>

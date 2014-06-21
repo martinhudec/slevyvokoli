@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="338">
+      <name>Pizzeria Kmotra</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>V Jirchářích 12, Praha 1</address>
+      <phone>224 934 100</phone>
+      <email>probus@kmotra.cz</email>
+      <web>www.kmotra.cz</web>
+      <info>2+1 pizza zdarma (vybrané druhy) v době od 11 do 17 hod. Zdarma je vždy nejlevnější pizza nebo 10% sleva na jakoukoli pizzu po 17. hodině. 15% sleva na italská vína.</info>
+   <latitude>50.0801757</latitude>
+   <longitude>14.4171110</longitude>
+</benefit>

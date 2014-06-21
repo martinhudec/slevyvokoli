@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1493">
+      <name>Nakladatelství Slovart - knihy</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, eshop</address>
+      <phone>266 773 774</phone>
+      <email>objednavky@slovart.cz</email>
+      <web>www.slovart.cz</web>
+      <info>sleva 20% při nákupu knih v českém jazyce v eshopu www.slovart.cz.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

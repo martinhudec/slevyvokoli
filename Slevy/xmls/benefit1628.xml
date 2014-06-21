@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1628">
+      <name>Smart store.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, eshop</address>
+      <phone>777 593 547</phone>
+      <email>info@smartstore.cz</email>
+      <web>www.smartstore.cz</web>
+      <info>sleva 10 % na zboží bez dopravy. Slevu je možno uplatnit pouze v e-shopech www.smartstore.cz.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="308">
+      <name>LEO Express</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Jana Pernera 217, Pardubice</address>
+      <phone/>
+      <email>ludekf@dpmp.cz</email>
+      <web>www.le.cz</web>
+      <info>10% sleva z aktuálních cen všech prodávaných jízdenek v tarifní kategorii "Dospělý" po dobu celého roku (včetně letních prázdnin). sleva platí do třídy ECONOMY. Slevu je možno uplatnit v kamenných provozovnách i  v e-shopech www.le.cz.</info>
+   <latitude>50.0323519</latitude>
+   <longitude>15.7563029</longitude>
+</benefit>

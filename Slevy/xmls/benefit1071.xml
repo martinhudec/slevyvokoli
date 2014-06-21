@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1071">
+      <name>Condor - levné letenky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Letiště Ruzyně - terminál 2, P.O.Box 115, Praha 6</address>
+      <phone>220 113 808</phone>
+      <email>airport@condor.cz</email>
+      <web>www.condor.cz</web>
+      <info>sleva 390 Kč na servisním poplatku při zakoupení letenky. sleva 250 Kč na servisním poplatku při objednání víza. sleva 10 % z vlastních eurovíkendů či zájezdů. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou. sleva 390 Kč na servisním poplatku při zakoupení letenky sleva 250 Kč na servisním poplatku při objednání víza sleva 10 % z vlastních eurovíkendů či zájezdů</info>
+   <latitude>50.1050460</latitude>
+   <longitude>14.2681100</longitude>
+</benefit>

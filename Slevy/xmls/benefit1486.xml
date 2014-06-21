@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1486">
+      <name>Rekreační areály Vysoká Srbská</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vysoká Srbská 98, Hronov</address>
+      <phone>495 518 151, 737 710 081</phone>
+      <email>rezervace@bktour.cz</email>
+      <web>www.vysoka-srbska.cz</web>
+      <info>sleva 10%</info>
+   <latitude>50.4986567</latitude>
+   <longitude>16.1783101</longitude>
+</benefit>

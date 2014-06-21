@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1042">
+      <name>GES-ELECTRONICS</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Křenová 29, Brno</address>
+      <phone>543 254 404</phone>
+      <email>ges.brno@ges.cz</email>
+      <web>www.ges.cz</web>
+      <info>sleva 10% na všechny produkty</info>
+   <latitude>49.1916574</latitude>
+   <longitude>16.6203710</longitude>
+</benefit>

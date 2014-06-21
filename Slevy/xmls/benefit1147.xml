@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1147">
+      <name>Knihkupectví - Barvič a Novotný</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kounicova 65a, Brno</address>
+      <phone>541 646 270</phone>
+      <email>kounicova@barvic-novotny.cz</email>
+      <web>www.barvic-novotny.cz</web>
+      <info>Sleva 5 % na veškerý sortiment při platbě v hotovosti. Slevu nelze uplatnit na již zlevněné tituly.</info>
+   <latitude>49.2086481</latitude>
+   <longitude>16.5940332</longitude>
+</benefit>

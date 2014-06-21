@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="819">
+      <name>Jazykové centrum Correct</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kozí 2, Brno</address>
+      <phone>777 99 66 90</phone>
+      <email>info@jc-correct.com</email>
+      <web>www.jc-correct.com</web>
+      <info>11% sleva na jazykové kurzy více než 15 jazyků</info>
+   <latitude>49.1954726</latitude>
+   <longitude>16.6098919</longitude>
+</benefit>

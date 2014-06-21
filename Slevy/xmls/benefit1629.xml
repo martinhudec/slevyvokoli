@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1629">
+      <name>Nová Akropolis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Blatného 3078/24, Brno</address>
+      <phone>545 241 855</phone>
+      <email>nova@akropolis.cz</email>
+      <web>www.akropolis.cz</web>
+      <info>zvýhodněné vstupné na přednášky, přednáškové cykly, kurzy, semináře, cestovatelské večery, výtvarné dílny (workshopy)</info>
+   <latitude>49.2151029</latitude>
+   <longitude>16.5740617</longitude>
+</benefit>

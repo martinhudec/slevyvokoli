@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="198">
+      <name>Albi</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Futurum, Brněnská 1825/23a, Hradec Králové</address>
+      <phone>495 426 072</phone>
+      <email>hk.futurum@albi.cz</email>
+      <web>www.albi.cz</web>
+      <info>sleva 10 % na veškerý sortiment. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1970122</latitude>
+   <longitude>15.8489385</longitude>
+</benefit>

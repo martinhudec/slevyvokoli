@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1683">
+      <name>Megabooks cz - Oxford Bookshop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Jurije Gagarina 9, Ostrava</address>
+      <phone>596 613 779</phone>
+      <email>ostrava@megabooks.cz</email>
+      <web>www.megabooks.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>49.8394911</latitude>
+   <longitude>18.2965310</longitude>
+</benefit>

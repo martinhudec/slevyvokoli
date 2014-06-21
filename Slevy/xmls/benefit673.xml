@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="673">
+      <name>EXPRESKA Hostivice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husovo nám. 14, Praha Hostivice</address>
+      <phone>776 739 999</phone>
+      <email>praha-hostivice@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>50.0808409</latitude>
+   <longitude>14.2555611</longitude>
+</benefit>

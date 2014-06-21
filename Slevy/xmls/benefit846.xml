@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="846">
+      <name>EXPRESKA Most</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lipová 805/8, Most</address>
+      <phone>606 097 048</phone>
+      <email>most@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>50.4926375</latitude>
+   <longitude>13.6493401</longitude>
+</benefit>

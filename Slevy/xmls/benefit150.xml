@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="150">
+      <name>Daniel's Donuts - OG Mortiz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>8. Května 465/24, Olomouc</address>
+      <phone>775 366 200</phone>
+      <email>info@daniels-donuts.eu</email>
+      <web>www.daniels-donuts.eu</web>
+      <info>10% sleva na produkty. Slevu je možno uplatnit pouze na prodejních místech. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.5952860</latitude>
+   <longitude>17.2501507</longitude>
+</benefit>

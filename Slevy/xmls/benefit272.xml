@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="272">
+      <name>Zámek Vrchotovy Janovice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Vrchotovy Janovice, Vrchotovy Janovice</address>
+      <phone>317 835 181</phone>
+      <email>vrchotovy_janovice@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>Snížená cena vsttupného pro džitele karet. Běžná cena 50 kč, cena po slevě 30 Kč.</info>
+   <latitude>49.6691833</latitude>
+   <longitude>14.5778888</longitude>
+</benefit>

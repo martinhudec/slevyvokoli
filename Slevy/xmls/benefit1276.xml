@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1276">
+      <name>Národní muzeum - Nová budova</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Vinohradská 1, Praha 1</address>
+      <phone>224 497 111, 224 497 352</phone>
+      <email>nm@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>snížené vstupné dle aktuálního ceníku (běžná cena 110 Kč, snížená cena 80 Kč)</info>
+   <latitude>50.0775877</latitude>
+   <longitude>14.4577544</longitude>
+</benefit>

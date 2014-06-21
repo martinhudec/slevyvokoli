@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="133">
+      <name>Starbucks Palladium Kiosk</name>
+      <cardType>ISIC</cardType>
+      <address>Náměstí Repibliky 1, Praha 1</address>
+      <phone>235 013 503, 725 526 644</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.0893185</latitude>
+   <longitude>14.4285647</longitude>
+</benefit>

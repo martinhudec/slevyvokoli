@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1362">
+      <name>Eiffel optic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Metropole Zličín, Řevnická 1, Praha 5 - Zličín</address>
+      <phone>272 940 323</phone>
+      <email>info@eiffeloptic.cz</email>
+      <web>www.eiffeloptic.cz</web>
+      <info>10% sleva na nezlevněné dioptrické obruby a sluneční brýle nad 1500 Kč</info>
+   <latitude>50.0532950</latitude>
+   <longitude>14.2875481</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1005">
+      <name>Optika Letná</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Milady Horákové 31, Praha 7</address>
+      <phone>233 373 369</phone>
+      <email>optika@optikaletna.cz</email>
+      <web>www.optikaletna.cz</web>
+      <info>sleva 20 % na kompletní dioptrické brýle, skla i obruby, sleva 10 % na kontaktní čočky, roztoky, sluneční brýle a doplňky</info>
+   <latitude>50.0994685</latitude>
+   <longitude>14.4288864</longitude>
+</benefit>

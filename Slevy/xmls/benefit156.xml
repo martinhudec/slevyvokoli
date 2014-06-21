@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="156">
+      <name>Subway - Zelný Trh</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zelný Trh 318/1, Brno - Modřice</address>
+      <phone>608 875 955</phone>
+      <email>info@subwaycentrumbrna.cz</email>
+      <web>www.subwaysandwiches.cz, www.subway.cz</web>
+      <info>20% sleva z celkové útraty. Sleva se nevztahuje na již zlevněné zboží a akční nabídky. Sleva platí v kamenné provozovně po předložení platné karty.</info>
+   <latitude>49.1928374</latitude>
+   <longitude>16.6097884</longitude>
+</benefit>

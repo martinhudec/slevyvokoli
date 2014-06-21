@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1304">
+      <name>Bohemia Bagel</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lázeňská 19, Praha 1</address>
+      <phone>257 218 192</phone>
+      <email>pavel.matousek@bohemiabagels.cz</email>
+      <web>www.bohemiabagel.cz</web>
+      <info>sleva 10 % na jídlo a pití</info>
+   <latitude>50.0872257</latitude>
+   <longitude>14.4060774</longitude>
+</benefit>

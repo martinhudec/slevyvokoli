@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1063">
+      <name>Optik Jamnický</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Solná 5, Opava</address>
+      <phone>553 623 432</phone>
+      <email>optik.jamnicka@quick.cz</email>
+      <web>www.jamnicky.cz</web>
+      <info>sleva 10 % na brýlové obruby sleva 10 % na kontaktní čočky</info>
+   <latitude>49.9408698</latitude>
+   <longitude>17.9027442</longitude>
+</benefit>

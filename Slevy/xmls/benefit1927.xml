@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1927">
+      <name>Montana sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kříženeckého náměstí 990, Praha 5 - Hlubočepy</address>
+      <phone>222 741 430, 739 220 330</phone>
+      <email>info@montanasport.cz</email>
+      <web>www.montanasport.cz</web>
+      <info>sleva 20 % testcentrum lyží sleva 20 % půjčovna (mimo sezónní půjčovny) sleva 10 % servis</info>
+   <latitude>50.0312643</latitude>
+   <longitude>14.3917925</longitude>
+</benefit>

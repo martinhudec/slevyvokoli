@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1560">
+      <name>EU Hotels - Garnihotel/Pension FAN</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Trati 57/5, Karlovy Vary</address>
+      <phone>353 997 086</phone>
+      <email>reception@penzionfan.cz</email>
+      <web>www.penzionfan.cz</web>
+      <info>sleva 20% ze základní ceny ubytování</info>
+   <latitude>50.2414816</latitude>
+   <longitude>12.8785435</longitude>
+</benefit>

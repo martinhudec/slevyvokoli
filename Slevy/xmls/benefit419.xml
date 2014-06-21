@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="419">
+      <name>Pharma 2</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Suchdolské nám. 7/445, Praha</address>
+      <phone>220920135</phone>
+      <email>lekarna.suchdol@seznam.cz</email>
+      <web/>
+      <info>8% sleva na hormonální antikoncepci 10% sleva na produkty pro zlepšení výkonnosti 10% sleva na kosmetiku  </info>
+   <latitude>50.1365768</latitude>
+   <longitude>14.3807072</longitude>
+</benefit>

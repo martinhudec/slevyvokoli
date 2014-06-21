@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1904">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zlatý Anděl, Plzeňská 344, Praha 5</address>
+      <phone>257 321 470</phone>
+      <email>andel@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

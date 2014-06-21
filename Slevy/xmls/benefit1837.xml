@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1837">
+      <name>Skřivánek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Žerotínova 2, Vyškov</address>
+      <phone>517 333 090</phone>
+      <email>vyskov@skrivanek.cz</email>
+      <web>www.skrivanek.cz</web>
+      <info>sleva 10% na všechny poskytované služby (jazyková výuka, veřejnostní kurzy, firemní kurzy, pobytové kurzy, individuální kurzy, e-learning, zahraniční kurzy), překlady, DTP služby, lokalizace, tlumočení</info>
+   <latitude>49.2800042</latitude>
+   <longitude>17.0013237</longitude>
+</benefit>

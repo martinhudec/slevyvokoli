@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1485">
+      <name>Rekreační areály Ostružno</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Letovisko SKLÁŘ, Ostružno u Jičína, Jičín</address>
+      <phone>495 518 151, 493 799 171, 777</phone>
+      <email>rezervace@bktour.cz</email>
+      <web>www.sklar-ostruzno.cz</web>
+      <info>sleva 10%</info>
+   <latitude>50.4432971</latitude>
+   <longitude>15.2896335</longitude>
+</benefit>

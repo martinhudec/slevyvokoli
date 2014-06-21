@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="218">
+      <name>Neoluxor Books - Knihkupectví Nisa</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>České Mládeže 456, OC Nisa, Liberec</address>
+      <phone>487 919 945</phone>
+      <email>nisa@neoluxorbooks.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>Sleva 10% na kompletní sortiment knih a doplňkového zboží, nelze uplatnit na dárkové knižní poukázky a vstupenky Ticketpro. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.7414746</latitude>
+   <longitude>15.0490843</longitude>
+</benefit>

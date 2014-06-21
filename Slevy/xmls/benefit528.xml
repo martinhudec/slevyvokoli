@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="528">
+      <name>Dancers' Club</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Koněvova 19, Praha 3</address>
+      <phone>724115412</phone>
+      <email>info@dancersclub.cz</email>
+      <web>www.dancersclub.cz</web>
+      <info>20% sleva na všechny taneční kurzy a permanetky</info>
+   <latitude>50.0876149</latitude>
+   <longitude>14.4558590</longitude>
+</benefit>

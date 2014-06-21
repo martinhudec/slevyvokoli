@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1076">
+      <name>Condor - levné letenky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Benešovo náměstí 7, Teplice</address>
+      <phone>417 534 430</phone>
+      <email>teplice@condor.cz</email>
+      <web>www.condor.cz</web>
+      <info>sleva 390 Kč na servisním poplatku při zakoupení letenky. sleva 250 Kč na servisním poplatku při objednání víza. sleva 10 % z vlastních eurovíkendů či zájezdů. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou. sleva 390 Kč na servisním poplatku při zakoupení letenky sleva 250 Kč na servisním poplatku při objednání víza sleva 10 % z vlastních eurovíkendů či zájezdů</info>
+   <latitude>50.6422561</latitude>
+   <longitude>13.8267680</longitude>
+</benefit>

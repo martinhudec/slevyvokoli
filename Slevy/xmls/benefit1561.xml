@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1561">
+      <name>Modrý Anděl - taxi</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Cukrovarská 33, Praha 9</address>
+      <phone>737 222 333</phone>
+      <email>online@modryandel.cz</email>
+      <web>www.modryandel.cz</web>
+      <info>Sleva na služby v hodnotě stříbrné VIP karty více info o slevě na http://www.modryandel.cz/doporucujeme/isic Uplatnění slevy ja podmíněno nahlášením kódu STUDENT při objednávce služby a předložení ISIC, ALIVE, ITIC průkazu řidiči.</info>
+   <latitude>50.1518582</latitude>
+   <longitude>14.5236847</longitude>
+</benefit>

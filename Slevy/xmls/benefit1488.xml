@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1488">
+      <name>B a K Tour - zájezdy a pobyty</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Slezské předměstí Hradec Králové, SNP 699, Hradec Králové</address>
+      <phone>495 408 090, 495 408 198</phone>
+      <email>prodejna@bktour.cz</email>
+      <web>www.bktour.cz</web>
+      <info>sleva 5 % na zájezdy</info>
+   <latitude>50.2168292</latitude>
+   <longitude>15.8494302</longitude>
+</benefit>

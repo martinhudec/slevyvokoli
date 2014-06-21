@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1719">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Galerie Fénix, Freyova 35, Praha 9</address>
+      <phone>211 138 401</phone>
+      <email>vysocany@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.1099801</latitude>
+   <longitude>14.5015913</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1037">
+      <name>Lingea</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vackova 9, Brno</address>
+      <phone>541 233 160</phone>
+      <email>info@lingea.cz</email>
+      <web>www.lingea.cz</web>
+      <info>15% sleva z doporučené koncové ceny se poskytuje na všechny knižní i elektronické produkty LINGEA</info>
+   <latitude>49.2212215</latitude>
+   <longitude>16.5948803</longitude>
+</benefit>

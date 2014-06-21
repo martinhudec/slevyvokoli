@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1589">
+      <name>Subway - OC Campus, Netroufalky 770</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Campus, Netroufalky 770, Brno</address>
+      <phone>547 211 988</phone>
+      <email>campus.brno@subhell.cz</email>
+      <web>www.subwaysandwiches.cz, www.subway.cz</web>
+      <info>20% sleva z celkové útraty. Sleva se nevztahuje na již zlevněné zboží a akční nabídky. Sleva platí v kamenné provozovně po předložení platné karty.</info>
+   <latitude>49.1768461</latitude>
+   <longitude>16.5663968</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1693">
+      <name>Studio Papilon</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Budějovická 1126/9, Praha 4</address>
+      <phone>241 732 104</phone>
+      <email>studiopapilon@seznam.cz</email>
+      <web>www.studiopapilon.cz</web>
+      <info>40% sleva na solária</info>
+   <latitude>50.0473317</latitude>
+   <longitude>14.4457050</longitude>
+</benefit>

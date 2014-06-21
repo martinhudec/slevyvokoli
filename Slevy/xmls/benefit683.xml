@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="683">
+      <name>Vancl sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Horská 117, Vrchlabí</address>
+      <phone>739 506 062</phone>
+      <email>info@vanclsport.cz</email>
+      <web>www.vanclsport.cz</web>
+      <info>Slevy: Obchod 10 %, servis 10 %, půjčovna 20 %, bootfitting 10 %</info>
+   <latitude>50.6529111</latitude>
+   <longitude>15.6046760</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1637">
+      <name>Autoškola Chaloupková</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nádražní 1, Praha 5</address>
+      <phone>603 43 42 51</phone>
+      <email>chaloupkova.praha@seznam.cz</email>
+      <web>www.autoskola-chaloupkova.kvalitne.cz</web>
+      <info>10% sleva na všechny kurzy autoškoly. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0615066</latitude>
+   <longitude>14.4090763</longitude>
+</benefit>

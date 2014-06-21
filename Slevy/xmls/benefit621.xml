@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="621">
+      <name>KFC - Praha Prague Gate</name>
+      <cardType>ISIC</cardType>
+      <address>Türkova 5, Praha 4</address>
+      <phone>235 013 417</phone>
+      <email>kfcpgate@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>50.0371687</latitude>
+   <longitude>14.4932504</longitude>
+</benefit>

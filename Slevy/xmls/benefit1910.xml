@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1910">
+      <name>mojekolo.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>30. Dubna 3003/1A, Ostrava</address>
+      <phone>596 112 333, 725 855 888</phone>
+      <email>ostrava@mojekolo.cz</email>
+      <web>www.mojekolo.cz</web>
+      <info>sleva 5 % na jízdní kola a doplňky sleva 10% na servisní práce</info>
+   <latitude>49.8396193</latitude>
+   <longitude>18.2821276</longitude>
+</benefit>

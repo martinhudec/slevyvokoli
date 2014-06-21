@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="860">
+      <name>Knihcentrum Český Těšín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hlavní 19, Český Těšín</address>
+      <phone>725963177</phone>
+      <email>cesky.tesin@knihcentrum.cz</email>
+      <web>www.knihcentrum-cesky-tesin.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)  </info>
+   <latitude>49.7470063</latitude>
+   <longitude>18.6236259</longitude>
+</benefit>

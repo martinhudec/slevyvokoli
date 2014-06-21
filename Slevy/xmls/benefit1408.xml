@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1408">
+      <name>Rilife - tanec a taneční kurzy</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husitská 502/36, Praha 3</address>
+      <phone>775 189 826, 775 305 456</phone>
+      <email>richard.ballek@rilife.com</email>
+      <web>www.rilife.com</web>
+      <info>Až 20% sleva na taneční kurzy  </info>
+   <latitude>50.0867706</latitude>
+   <longitude>14.4453010</longitude>
+</benefit>

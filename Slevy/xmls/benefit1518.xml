@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1518">
+      <name>Dream</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Hradbách 2, Ostrava</address>
+      <phone>596 116 593</phone>
+      <email>ova@dreamboardshop.cz</email>
+      <web>www.dreamboardshop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>49.8370473</latitude>
+   <longitude>18.2914100</longitude>
+</benefit>

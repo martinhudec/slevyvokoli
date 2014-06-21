@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="809">
+      <name>DP Plzeň</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 4, Plzeň</address>
+      <phone>378 037 485, 378 035 959</phone>
+      <email/>
+      <web>www.pmdp.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>49.7478890</latitude>
+   <longitude>13.3792328</longitude>
+</benefit>

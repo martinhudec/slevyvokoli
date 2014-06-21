@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1061">
+      <name>Autoturist</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sady Pětatřicátníků 3, Plzeň</address>
+      <phone>377 221 334, 724 750 006</phone>
+      <email>info@plzen.autoturist.cz</email>
+      <web>www.autoturist.cz</web>
+      <info>sleva 10 % na zájezdy z katalogu Autoturist v tištěné i online verzi sleva na asistenční klubové karty pro motoristy ÚAMK: 200 Kč roční, platná pro EU 100 Kč tříměsíční, platná pro EU 100 Kč roční, platná pro ČR</info>
+   <latitude>49.7456918</latitude>
+   <longitude>13.3727074</longitude>
+</benefit>

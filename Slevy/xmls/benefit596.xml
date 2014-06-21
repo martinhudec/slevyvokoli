@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="596">
+      <name>Franck Provost</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Rytířská 1 , Praha 1</address>
+      <phone>224218425</phone>
+      <email>lorma@volny.cz</email>
+      <web>www.franckprovost.cz</web>
+      <info>35% sleva na služby Po-Pá 8-14 hod.</info>
+   <latitude>50.0846910</latitude>
+   <longitude>14.4221675</longitude>
+</benefit>

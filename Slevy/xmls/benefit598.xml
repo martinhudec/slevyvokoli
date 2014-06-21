@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="598">
+      <name>Franck Provost - Grandhotel Pupp</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Mírové náměstí 2, Karlovy Vary</address>
+      <phone>353109488</phone>
+      <email>lorma@volny.cz</email>
+      <web>www.franckprovost.cz</web>
+      <info>35% sleva na služby Po-Pá 8- 14 hod.</info>
+   <latitude>50.2200320</latitude>
+   <longitude>12.8785775</longitude>
+</benefit>

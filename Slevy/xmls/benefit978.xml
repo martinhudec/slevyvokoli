@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="978">
+      <name>Business Institut</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Charkovská 399/16, Praha</address>
+      <phone>776101323</phone>
+      <email>info@businessinstitut.cz</email>
+      <web>www.businessinstitut.cz</web>
+      <info>5% sleva z uvedených cen studia</info>
+   <latitude>50.0704050</latitude>
+   <longitude>14.4490737</longitude>
+</benefit>

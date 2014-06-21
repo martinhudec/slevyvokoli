@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1706">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Wilsonova 6, Přerov</address>
+      <phone>581 219 764</phone>
+      <email>prerov@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-pá: 9-18 h so: 9-12 h</info>
+   <latitude>49.4543554</latitude>
+   <longitude>17.4505956</longitude>
+</benefit>

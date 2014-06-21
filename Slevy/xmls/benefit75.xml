@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="75">
+      <name>LIBREX Frýdek - Místek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>T. G. Masaryka 2320, Frýdek - Místek</address>
+      <phone>+420558680246</phone>
+      <email>knihkupectvi23@librex.cz</email>
+      <web>www.librex.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)</info>
+   <latitude>49.6799212</latitude>
+   <longitude>18.3564884</longitude>
+</benefit>

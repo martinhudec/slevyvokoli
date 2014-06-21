@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="222">
+      <name>KFC Plzeň Plaza</name>
+      <cardType>ISIC</cardType>
+      <address>Radčická 2, Plzeň</address>
+      <phone>230 013 443</phone>
+      <email>kfcplazaplzen@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč</info>
+   <latitude>49.7496381</latitude>
+   <longitude>13.3695612</longitude>
+</benefit>

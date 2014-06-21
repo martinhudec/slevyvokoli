@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="983">
+      <name>Sweet-epil studio</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vyšehradská 31, Praha 2</address>
+      <phone>224 910 599</phone>
+      <email>info@sweet-epil.cz</email>
+      <web>www.sweet-epil.cz</web>
+      <info>15% sleva na veškeré úkony a služby</info>
+   <latitude>50.0698244</latitude>
+   <longitude>14.4185523</longitude>
+</benefit>

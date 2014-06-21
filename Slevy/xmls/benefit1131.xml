@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1131">
+      <name>Ewto</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sportovní centrum Mlýn, Za mlýnem 2, Přerov</address>
+      <phone>603 814 478</phone>
+      <email>ivo.machacek@ewto.cz</email>
+      <web>www.ewto.cz</web>
+      <info>sleva 10 % na veškeré pořádané kurzy sebeobrany WingTsun</info>
+   <latitude>49.4576772</latitude>
+   <longitude>17.4502509</longitude>
+</benefit>

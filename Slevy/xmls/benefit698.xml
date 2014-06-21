@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="698">
+      <name>CK MUNDO</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Balbínova 1260, Hradec Králové</address>
+      <phone>773 104 010</phone>
+      <email>mundo@mundo.cz</email>
+      <web>www.mundo.cz</web>
+      <info>5% sleva z ceny zájezdu, maximálně 500 Kč</info>
+   <latitude>50.2075235</latitude>
+   <longitude>15.8377574</longitude>
+</benefit>

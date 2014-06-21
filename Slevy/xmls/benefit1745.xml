@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1745">
+      <name>Student Agency</name>
+      <cardType>ISIC</cardType>
+      <address>Náměstí Republiky 9, Plzeň</address>
+      <phone>377 333 222</phone>
+      <email>plzen@studentagency.cz</email>
+      <web>www.studentagency.cz</web>
+      <info>Specifikace slev: Autobusy - Sleva 15% z ceny mezinárodní autobusové jízdenky. Sleva na platné průkazy ISIC je omezena věkem 29 let včetně. Sleva na platné průkazy ALIVE není omezena věkem. Další slevy: Letenky - Speciální studentské letenky pro studenty až do 31 let. Jazykové pobyty - sleva 3 % z ceny kurzovného. Studijní pobyty - sleva 1500 Kč z ceny kurzovného u programu High School. Au Pair - sleva 10% z registračního poplatku na Au pair v USA a Evropě. Pracovní pobyty - 300 Kč sleva za zprostředkování  na pracovní pobyty v USA, Evropě, Kanadě a Nového Zélandu. Víza - 10% sleva z transakčního poplatku. Průvodci, Mapy - 20% sleva z konečné ceny. Slevu je možno uplatnit v kamenných prodejnách nebo prostřednictvím eshopu www.studentagency.cz. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>49.7475226</latitude>
+   <longitude>13.3786704</longitude>
+</benefit>

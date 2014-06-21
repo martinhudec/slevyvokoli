@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1248">
+      <name>Miss Cosmetic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ostrovského 3, Praha 5</address>
+      <phone>733 500 595</phone>
+      <email>sona.kolmanova@misscosmetic.cz</email>
+      <web>www.ceske-wellness.cz</web>
+      <info>sleva 17 % na produkty Miss Cosmetic sleva 270 Kč na poradenství v oblasti péče o pleť (původní cena 400 Kč) na pobočky je nutné se předem objednat</info>
+   <latitude>50.0686645</latitude>
+   <longitude>14.4027692</longitude>
+</benefit>

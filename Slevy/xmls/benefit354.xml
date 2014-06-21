@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="354">
+      <name>B-Fit fitness</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>8. pěšího pluku 1975, Frýdek Místek</address>
+      <phone>724 033 533</phone>
+      <email>sport@sportplex.cz</email>
+      <web>www.b-fitness.cz</web>
+      <info>Zvýhodněné vstupné v závislosti na typu vstupu a to maximálně 40%</info>
+   <latitude>49.6768728</latitude>
+   <longitude>18.3393034</longitude>
+</benefit>

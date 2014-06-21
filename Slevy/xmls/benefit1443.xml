@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1443">
+      <name>Purple shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bartošova 4393, Zlín</address>
+      <phone>605 564 632</phone>
+      <email>purpleshop@email.cz</email>
+      <web>www.purpleshop.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>49.2270206</latitude>
+   <longitude>17.6632892</longitude>
+</benefit>

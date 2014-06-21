@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1125">
+      <name>Squash Centrum Strahov</name>
+      <cardType>ISIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vaníčkova 2b, Praha</address>
+      <phone>233 109 301</phone>
+      <email>squash.strahov@iol.cz</email>
+      <web>www.squashstrahov.cz</web>
+      <info>sleva 20 % na squash</info>
+   <latitude>50.0852999</latitude>
+   <longitude>14.3830676</longitude>
+</benefit>

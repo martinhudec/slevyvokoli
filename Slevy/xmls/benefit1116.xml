@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1116">
+      <name>A Rent Car</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Shopping Mall - Millenium Plaza, V Celnici 10, Praha 1</address>
+      <phone>224 211 587, 224 229 848, 602</phone>
+      <email>arentcar@iol.cz</email>
+      <web>www.arentcar.cz</web>
+      <info>sleva 10 % na zapůjčení auta. Slevu je možno uplatnit pouze v kamenné provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>50.0883871</latitude>
+   <longitude>14.4301941</longitude>
+</benefit>

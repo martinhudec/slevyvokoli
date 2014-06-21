@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1206">
+      <name>Mironet</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Habrmanova 165, Hradec Králové</address>
+      <phone>495 534 552</phone>
+      <email>hradec@mironet.cz</email>
+      <web>www.mironet.cz</web>
+      <info>nákup zboží za velkoobchodní ceny student se zaregistruje, uvede číslo své ISIC karty a pokaždé, když se pod touto registrací přihlásí na stránkách www.mironet.cz zobrazí se mu studentské (= velkoobchodní) ceny Sleva je do odvolání pozastavena!!</info>
+   <latitude>50.2093898</latitude>
+   <longitude>15.8121918</longitude>
+</benefit>

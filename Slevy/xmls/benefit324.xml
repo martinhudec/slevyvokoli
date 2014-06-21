@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="324">
+      <name>Secret of raw restaurant</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Seifertova 13, Praha 3</address>
+      <phone>222 513 258</phone>
+      <email>info@secretofraw.cz</email>
+      <web>www.secretofraw.cz</web>
+      <info>20% na fresh džusy, k polednímu menu dezert zdarma</info>
+   <latitude>50.0854459</latitude>
+   <longitude>14.4410472</longitude>
+</benefit>

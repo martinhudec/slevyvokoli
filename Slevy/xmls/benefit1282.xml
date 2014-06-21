@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1282">
+      <name>Knihkupectví Beta Dobrovský</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Atrium, Dukelská třída 1713/7, Hradec Králové</address>
+      <phone>495 582 486</phone>
+      <email>hradec.kralove@dobrovsky.cz</email>
+      <web>www.dobrovsky.cz</web>
+      <info>sleva 10 % na knihy, mapy a reprodukce sleva 5 % na učebnice a CD-ROM</info>
+   <latitude>50.2136664</latitude>
+   <longitude>15.8187410</longitude>
+</benefit>

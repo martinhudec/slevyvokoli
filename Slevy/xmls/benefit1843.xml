@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1843">
+      <name>Cyklo Vačkář</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Úprkova 16, Prostějov</address>
+      <phone>582346684</phone>
+      <email>info@vackar.cz</email>
+      <web>www.vackar.cz</web>
+      <info>sleva 5 % na nezlevněné zboží sleva 10 % na servis</info>
+   <latitude>49.4710277</latitude>
+   <longitude>17.1118783</longitude>
+</benefit>

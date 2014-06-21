@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="370">
+      <name>Centrum Tance</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Václavská 237/6, Brno</address>
+      <phone>266 190 305</phone>
+      <email>info@centrumtance.cz</email>
+      <web>www.centrumtance.cz</web>
+      <info>20% sleva pro katy ISIC, IYTC a ITIC 10% pro kartu ALIVE na kurzy, otevřené lekce a semináře v Centru Tance s tuzemskými lektory.</info>
+   <latitude>49.1895280</latitude>
+   <longitude>16.5974676</longitude>
+</benefit>

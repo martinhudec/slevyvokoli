@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="146">
+      <name>Starbucks Nová Karolina</name>
+      <cardType>ISIC</cardType>
+      <address>Jantarová 3344/4, Ostrava</address>
+      <phone>235 013 530, 724 894 035</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>49.8307049</latitude>
+   <longitude>18.2867159</longitude>
+</benefit>

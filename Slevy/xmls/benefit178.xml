@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="178">
+      <name>GM Eletronic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dukelská tř. 1713/7, NC Atrium, Hradec Králové</address>
+      <phone>491 201514</phone>
+      <email>marketing@gme.cz</email>
+      <web>www.gme.cz</web>
+      <info>10% sleva pro držitele karet. Slevu je možno uplatnit pouze v kamenné prodejně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.2103605</latitude>
+   <longitude>15.8252110</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1588">
+      <name>Husky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sokolovská 222/39, Praha 8</address>
+      <phone>222 311 836</phone>
+      <email>husky.karlin@huskycz.cz</email>
+      <web>www.huskycz.cz</web>
+      <info>sleva 5% na veškerý sortiment</info>
+   <latitude>50.0924308</latitude>
+   <longitude>14.4434117</longitude>
+</benefit>

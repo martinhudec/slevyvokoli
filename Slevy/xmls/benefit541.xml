@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="541">
+      <name>Food bar</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Jindřišská 3, Praha 1</address>
+      <phone>775904516</phone>
+      <email>info@foodbar.cz</email>
+      <web>www.foodbar.cz</web>
+      <info>1 + 1 zdarma: Káva + káva Káva + čaj Čaj + čaj</info>
+   <latitude>50.0832220</latitude>
+   <longitude>14.4270698</longitude>
+</benefit>

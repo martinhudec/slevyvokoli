@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1034">
+      <name>Leksil medical - lékárna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Opavská 774, Ostrava</address>
+      <phone>596 911 775</phone>
+      <email>lekarna.silesia@gmail.com</email>
+      <web/>
+      <info>sleva 7 % na potravinové doplňky a na léčiva, které nejsou vázané na recept</info>
+   <latitude>49.8341512</latitude>
+   <longitude>18.1684895</longitude>
+</benefit>

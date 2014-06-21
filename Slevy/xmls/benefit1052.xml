@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1052">
+      <name>Ranč Všemina</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Všemina 25, Slušovice</address>
+      <phone>732 606 015</phone>
+      <email>vsemina@ranc.cz</email>
+      <web>www.ranc.cz</web>
+      <info>celodenní strávení na ranči + 1 hod jízdy na koni za 300 Kč + bonus  30 min jízdy zdarma</info>
+   <latitude>49.2955057</latitude>
+   <longitude>17.8729728</longitude>
+</benefit>

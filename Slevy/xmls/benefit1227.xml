@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1227">
+      <name>Mironet</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Svaté Markéty 56, Strakonice</address>
+      <phone>383 328 346</phone>
+      <email>strakonice@mironet.cz</email>
+      <web>www.mironet.cz</web>
+      <info>nákup zboží za velkoobchodní ceny student se zaregistruje, uvede číslo své ISIC karty a pokaždé, když se pod touto registrací přihlásí na stránkách www.mironet.cz zobrazí se mu studentské (= velkoobchodní) ceny Sleva je do odvolání pozastavena!!</info>
+   <latitude>49.2608108</latitude>
+   <longitude>13.9024544</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1603">
+      <name>Royal School</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Údolní 222/5, Brno</address>
+      <phone>739 454 694</phone>
+      <email>brno@royalschool.cz</email>
+      <web>www.royalschool.cz</web>
+      <info>sleva 5%</info>
+   <latitude>49.1960374</latitude>
+   <longitude>16.6020904</longitude>
+</benefit>

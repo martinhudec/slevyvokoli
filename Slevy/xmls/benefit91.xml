@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="91">
+      <name>GALEX</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kobližná 14, Brno</address>
+      <phone>+420 734 257 627</phone>
+      <email>galex22@karatrutnov.cz</email>
+      <web>www.karatrutnov.cz</web>
+      <info>Sleva ve výši 5% na veškeré nezlevněné zboží. Sleva platí pouze v kamenných prodejnách.</info>
+   <latitude>49.1951713</latitude>
+   <longitude>16.6109613</longitude>
+</benefit>

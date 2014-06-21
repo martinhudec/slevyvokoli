@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="881">
+      <name>FAnn parfumérie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Atrium Flóra, Vinohradská 151, Praha 3</address>
+      <phone>255742042</phone>
+      <email>flo@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20% sleva na kosmetické ošetření v salónech</info>
+   <latitude>50.0776555</latitude>
+   <longitude>14.4336163</longitude>
+</benefit>

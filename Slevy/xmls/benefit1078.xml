@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1078">
+      <name>Draps sport centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Provaznická 318/5, Opava</address>
+      <phone>776 522 883, 737 387 795</phone>
+      <email>sportcentrum@draps.cz</email>
+      <web>www.drapssportcentrum.cz</web>
+      <info>squash: 1 hrací jednotka (30 min) 75 Kč (8 - 15 hod), 100 Kč (15 - 24 hod) badminton: 1 hrací jednotka (30 min) 70 Kč (8 - 15 hod), 90 Kč (15 - 24 hod)  </info>
+   <latitude>49.9402490</latitude>
+   <longitude>17.8962200</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1425">
+      <name>wearhouse.cz - netradiční designové oblečení</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Daškova 3076, Praha 4</address>
+      <phone>777 244 604</phone>
+      <email>info@wearhouse.cz</email>
+      <web>www.wearhouse.cz</web>
+      <info>sleva 15 % na veškerý sortiment</info>
+   <latitude>50.0132308</latitude>
+   <longitude>14.4231452</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="814">
+      <name>DP města Olomouc</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Koželužská 563/1, Olomouc</address>
+      <phone>585 533 111</phone>
+      <email/>
+      <web>www.dpmo.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>49.5967809</latitude>
+   <longitude>17.2542721</longitude>
+</benefit>

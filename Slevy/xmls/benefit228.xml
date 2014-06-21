@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="228">
+      <name>Lékárna CLINICUM</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sokolovská 810/304, Praha 9</address>
+      <phone/>
+      <email/>
+      <web>www.mediconas.cz</web>
+      <info>sleva 5 % na veškerý sortiment. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1077362</latitude>
+   <longitude>14.4940991</longitude>
+</benefit>

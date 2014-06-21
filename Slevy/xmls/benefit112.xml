@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="112">
+      <name>Fit4Slim Most</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lipová 805/8, Most</address>
+      <phone>606 097 048</phone>
+      <email>fit4slim@fit4slim.cz</email>
+      <web>www.fit4slim.cz</web>
+      <info>25% sleva na registraci do klubu Fit4Slim</info>
+   <latitude>50.4926375</latitude>
+   <longitude>13.6493401</longitude>
+</benefit>

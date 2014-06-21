@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1236">
+      <name>SUBFORM - snow &amp; skate shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Nový Jičín</address>
+      <phone/>
+      <email>subform.novyjicin@seznam.cz</email>
+      <web>www.subform.cz</web>
+      <info>sleva 5 % na nezlevněné zboží slevy se nesčítají s dalšími slevami</info>
+   <latitude>49.5943251</latitude>
+   <longitude>18.0135356</longitude>
+</benefit>

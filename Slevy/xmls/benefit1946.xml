@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1946">
+      <name>ForBikers</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NC Eden, Všovická 68b, Praha 10 - Vršovice</address>
+      <phone>774 453 553</phone>
+      <email>obchod@forbikers.cz</email>
+      <web>www.forbikers.cz</web>
+      <info>sleva 10% na veškerý sortiment sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>49.8848249</latitude>
+   <longitude>17.9353205</longitude>
+</benefit>

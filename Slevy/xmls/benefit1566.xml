@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1566">
+      <name>Apela - golf</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Újezd 40/450, Praha 1</address>
+      <phone>776 715 176</phone>
+      <email>info@apela.cz</email>
+      <web>www.apela.cz</web>
+      <info>sleva 5 % na pořádané studentské akce sleva 5 % na golfové zájezdy do zahraničí sleva 5 % na golfové míčky sleva 5 % na potisk golfových míčků</info>
+   <latitude>50.0834633</latitude>
+   <longitude>14.4049046</longitude>
+</benefit>

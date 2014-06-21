@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1055">
+      <name>Foto24</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Binarova 1661/2, Praha 8 - Kobylisy</address>
+      <phone>283 880 804, 777 640 804</phone>
+      <email/>
+      <web>www.foto-24.cz</web>
+      <info>sleva 15 % na veškeré služby (kopírování, laminace, potisk, fotografické služby)  </info>
+   <latitude>50.1268560</latitude>
+   <longitude>14.4706342</longitude>
+</benefit>

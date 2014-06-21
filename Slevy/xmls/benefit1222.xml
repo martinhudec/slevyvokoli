@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1222">
+      <name>Hotel Vltava***</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Červená nad Vltavou 126, Jetětice</address>
+      <phone>382 587 436, 605 205 430</phone>
+      <email>info@vltava-hotel.cz</email>
+      <web>www.vltava-hotel.cz</web>
+      <info>sleva 20 % z celkové částky pobytu mimo Vánoc a Silvestra</info>
+   <latitude>49.3696178</latitude>
+   <longitude>14.2677483</longitude>
+</benefit>

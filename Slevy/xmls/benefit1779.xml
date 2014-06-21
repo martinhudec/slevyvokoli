@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1779">
+      <name>Autoškola DUDEK</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>J. Masaryka 605 , Hradec Králové</address>
+      <phone>603 220 822</phone>
+      <email>autoskoladudek@seznam.cz</email>
+      <web>www.autoskola-dudek.cz</web>
+      <info>5 % sleva z aktuální ceny kurzu (nelze kombinovat s jinou slevou)</info>
+   <latitude>50.1956785</latitude>
+   <longitude>15.8457090</longitude>
+</benefit>

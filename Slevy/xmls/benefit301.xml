@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="301">
+      <name>ESENNCE</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pod Hájkem 406/1, Praha 8</address>
+      <phone>724815847</phone>
+      <email>esennce@esennce.cz</email>
+      <web>www.esennce.cz</web>
+      <info>10% sleva na zážitkové dárky</info>
+   <latitude>50.1055664</latitude>
+   <longitude>14.4789099</longitude>
+</benefit>

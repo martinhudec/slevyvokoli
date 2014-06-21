@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="331">
+      <name>ICEO</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Staropramenná 3117/17, Praha 5</address>
+      <phone>775 411 811</phone>
+      <email>info@iceo.cz</email>
+      <web>www.iceo.cz</web>
+      <info>50% sleva na jazykové kurzy STANDARD, PREMIUM, PLUS. Učebny se nachází na metru Anděl, Muzeum a I.P. Pavlova</info>
+   <latitude>50.0709205</latitude>
+   <longitude>14.4064332</longitude>
+</benefit>

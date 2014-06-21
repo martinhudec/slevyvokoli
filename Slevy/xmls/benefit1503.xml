@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1503">
+      <name>Optika Kocandová</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykovo náměstí 1191/42, Jihlava</address>
+      <phone>567 212 031</phone>
+      <email>jihlava@optikakocandova.cz</email>
+      <web>www.optikakocandova.cz</web>
+      <info>sleva 12 % na dioptrické brýle</info>
+   <latitude>49.3951794</latitude>
+   <longitude>15.5902352</longitude>
+</benefit>

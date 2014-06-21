@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="325">
+      <name>Salon Yvett</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Zvonařky 15 (rohový dům Bělehradská 66), Praha 2</address>
+      <phone>728 101 377</phone>
+      <email>kucit@email.cz</email>
+      <web>www.salon-yvett.cz</web>
+      <info>30% sleva na služby: kadeřnictví, kosmetik a nehtová modeláž</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1720">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sedláčkova 109, Čelákovice</address>
+      <phone>326 921 547</phone>
+      <email>celakovice@kenzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.1624767</latitude>
+   <longitude>14.7518294</longitude>
+</benefit>

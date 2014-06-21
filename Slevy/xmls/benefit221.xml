@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="221">
+      <name>Neoluxor Books - Knihkupectví Avion</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Skandinávská 2, Avion Shopping Park, Brno</address>
+      <phone>532 199 896</phone>
+      <email>avion@neoluxorbooks.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>Sleva 10% na kompletní sortiment knih a doplňkového zboží, nelze uplatnit na dárkové knižní poukázky a vstupenky Ticketpro. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.1575366</latitude>
+   <longitude>16.6276810</longitude>
+</benefit>

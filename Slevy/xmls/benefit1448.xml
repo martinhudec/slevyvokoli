@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1448">
+      <name>Staročeská restaurace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Michalská 2, Olomouc</address>
+      <phone>605 279 015</phone>
+      <email>ukejklire@olrestaurace.eu</email>
+      <web>ukejklire.olrestaurace.eu</web>
+      <info>sleva 10 % na veškerý sortiment po 15 hod</info>
+   <latitude>49.5940158</latitude>
+   <longitude>17.2527679</longitude>
+</benefit>

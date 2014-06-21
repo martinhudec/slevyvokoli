@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="105">
+      <name>MY-STORE</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>eshop,</address>
+      <phone>725 163 844</phone>
+      <email>martina@my-store.cz</email>
+      <web>www.my-store.cz</web>
+      <info>10% sleva na veškeré zboží.   Slevu je možno uplatnit pouze v e-shopech www.my-store.cz nebo www.boty-mel.cz Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

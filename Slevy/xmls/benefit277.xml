@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="277">
+      <name>Lékárna Eden</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Purkyňova 35c, Brno</address>
+      <phone>549 211011</phone>
+      <email>lekarna.eden@seznam.cz</email>
+      <web>lekarna-eden.webnode.cz</web>
+      <info>6% sleva z prodejní ceny (volný prodej) 3% sleva při platbě kartou</info>
+   <latitude>49.2208672</latitude>
+   <longitude>16.5855133</longitude>
+</benefit>

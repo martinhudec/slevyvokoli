@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="695">
+      <name>OptikDoDomu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Komenského 266, Náchod</address>
+      <phone>605 912 500</phone>
+      <email/>
+      <web>www.OptikDoDomu.cz</web>
+      <info>30% sleva na celý sortiment (sleva nelze kombinovat s probíhajícími akcemi)</info>
+   <latitude>50.4129128</latitude>
+   <longitude>16.1585785</longitude>
+</benefit>

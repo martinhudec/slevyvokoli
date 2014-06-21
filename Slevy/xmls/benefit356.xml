@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="356">
+      <name>Divadlo 29</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sv. Anežky České 29, Pardubice</address>
+      <phone/>
+      <email>info@divadlo29.cz</email>
+      <web>www.divadlo29.cz</web>
+      <info>50% sleva z běžné ceny vstupenky na akce pořádané Divadlem 29</info>
+   <latitude>50.0400223</latitude>
+   <longitude>15.7797819</longitude>
+</benefit>

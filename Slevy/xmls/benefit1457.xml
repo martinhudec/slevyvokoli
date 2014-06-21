@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1457">
+      <name>Pizzeria U Kalvodů</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pionýrská 9, Brno</address>
+      <phone>543 211 501</phone>
+      <email>martin@izabel.eu</email>
+      <web>www.pizza-ukalvodu.cz</web>
+      <info>restaurace: 2 za 1 na pizzu rozvoz: 2 za 1 na pizzu - druhá pizza jen za 60,- (nutno nahlásit při objednávce, jinak nemůže být sleva uplatněna) po předložení průkazu obsluze při objednávce, dostanete 1 pizzu zdarma, když zakoupíte další pizzu ve stejné či vyšší cenně slevu lze uplatnit i na rozvoz, v tom případě druhá pizza jen za 60 Kč (nutno nahlásit při objednávce, jinak nemůže být sleva uplatněna)    </info>
+   <latitude>49.2080745</latitude>
+   <longitude>16.6052957</longitude>
+</benefit>

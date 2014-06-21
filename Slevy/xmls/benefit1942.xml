@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1942">
+      <name>MX - BOARD s.r.o.</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Plotní 75, Brno</address>
+      <phone/>
+      <email/>
+      <web>www.subform.cz</web>
+      <info>Sleva 5% na nákup zboží v prodejnách Subform. Nelze kombinovat s jinými slevami</info>
+   <latitude>49.1821423</latitude>
+   <longitude>16.6202209</longitude>
+</benefit>

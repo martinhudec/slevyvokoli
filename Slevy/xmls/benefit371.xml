@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="371">
+      <name>Centrum Tance</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Republiky 202/28, Plzeň</address>
+      <phone>226 190 303</phone>
+      <email>info@centrumtance.cz</email>
+      <web>www.centrumtance.cz</web>
+      <info>20% sleva pro katy ISIC, IYTC a ITIC 10% pro kartu ALIVE na kurzy, otevřené lekce a semináře v Centru Tance s tuzemskými lektory.</info>
+   <latitude>49.7468496</latitude>
+   <longitude>13.3761297</longitude>
+</benefit>

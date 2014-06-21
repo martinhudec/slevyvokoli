@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="938">
+      <name>The Amazon</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Svobody 86/17 v Domě pánů z Lipé, 2. patro, Brno</address>
+      <phone>777004087</phone>
+      <email>theamazonBrno@gmail.com</email>
+      <web>www.TheAmazon.cz</web>
+      <info>10 - 30% sleva na všechny služby (slevu nelze kombinovat s již zlevněným zbožím nebo zvýhodněným programem). Slevu je možno uplatnit pouze v kamenné prodejně.</info>
+   <latitude>49.1943749</latitude>
+   <longitude>16.6084112</longitude>
+</benefit>

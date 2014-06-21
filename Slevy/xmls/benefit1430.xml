@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1430">
+      <name>Crystalshop - snow&amp;skate shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého 44, Poděbrady</address>
+      <phone>731 111 042</phone>
+      <email>crystalshop@centrum.cz</email>
+      <web>www.crystalshop.cz</web>
+      <info>sleva 10 % na nezlevněný sortiment</info>
+   <latitude>50.1415405</latitude>
+   <longitude>15.1256764</longitude>
+</benefit>

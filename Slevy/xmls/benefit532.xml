@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="532">
+      <name>Knihkupectví a antikvariát Aurora</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Spálená 53, Praha 1</address>
+      <phone>222 362 756</phone>
+      <email>knihkupectvi@eaurora.cz</email>
+      <web>www.knihkupectvipraha1.cz</web>
+      <info>10% sleva na vše v knihkupectví, 10% sleva v antikvariátu při nákupu nad 100 Kč</info>
+   <latitude>50.0818497</latitude>
+   <longitude>14.4191182</longitude>
+</benefit>

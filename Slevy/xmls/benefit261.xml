@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="261">
+      <name>Půjčovna lodí SAMBA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Český Šternberk 17, Český Šternberk - Sázava</address>
+      <phone>604 904 737</phone>
+      <email>info@pujcovna-lodi.cz</email>
+      <web>www.pujcovna-lodi.cz</web>
+      <info>10% sleva na zapůjčení vodáckého vybavení na řekách Sázava a Otava Speciální akce mimo hlavní sezónu (do 31.5.2013 - a od 19.8. 2013 - rozhodujíscí je datum vypůjčky - 2+1 zdarma ( při zapůjčení 2 kanoí nebo 2 raftů zapůjjčení 3. lodi zdarma) NA tuto akci se nevztahují žádné další slevy</info>
+   <latitude>49.8115943</latitude>
+   <longitude>14.9294934</longitude>
+</benefit>

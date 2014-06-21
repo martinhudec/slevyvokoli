@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1256">
+      <name>Rock Point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Olympia, U Dálnice 777, Brno - Modřice</address>
+      <phone>547 211 141</phone>
+      <email>brnoolympia@rockpoint.cz</email>
+      <web>www.rockpoint.cz</web>
+      <info>sleva 5 % na zboží</info>
+   <latitude>49.1377451</latitude>
+   <longitude>16.6338208</longitude>
+</benefit>

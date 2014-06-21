@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="489">
+      <name>McDonald's</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mrakodrap, Americká 46, Plzeň</address>
+      <phone/>
+      <email/>
+      <web>www.mcdonalds.cz</web>
+      <info>Denní nabídka: Big Mac a nebo McChicken a střední hranolky za 79 Kč   Ranní nabídka: McMuffin se slaninou a Cappuccino za 49 Kč    </info>
+   <latitude>49.7432527</latitude>
+   <longitude>13.3793470</longitude>
+</benefit>

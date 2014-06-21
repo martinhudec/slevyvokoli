@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="841">
+      <name>Well food</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vrbova 1233/34, Praha 4</address>
+      <phone>244 007 122</phone>
+      <email>jpetrik@zelenypruh.cz</email>
+      <web>www.wellfood.cz</web>
+      <info>Celodenní stravování za 160 Kč (běžná cena 250 Kč)</info>
+   <latitude>50.0316673</latitude>
+   <longitude>14.4257355</longitude>
+</benefit>

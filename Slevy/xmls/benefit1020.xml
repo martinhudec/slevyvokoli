@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1020">
+      <name>Krušnohorské knihkupectví</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Míru 14, Litvínov</address>
+      <phone>476 752 332</phone>
+      <email/>
+      <web>www.nakladatelskyservis.cz</web>
+      <info>sleva 11 % na veškerý sortiment po celý rok!</info>
+   <latitude>50.5982442</latitude>
+   <longitude>13.6116986</longitude>
+</benefit>

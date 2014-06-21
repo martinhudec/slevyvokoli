@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="317">
+      <name>TAVOČER</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nad Vinným potokem 2/1149, Praha 10</address>
+      <phone>800 100 056, 607 855 644, 608</phone>
+      <email>stehovani@tavocer</email>
+      <web>www.stehovani-tavocer.cz</web>
+      <info>5% sleva na celkovou konečnou částku při stěhování</info>
+   <latitude>50.0607391</latitude>
+   <longitude>14.4559504</longitude>
+</benefit>

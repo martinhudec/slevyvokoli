@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1067">
+      <name>Pizzeria Paradiso</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Milady Horákové 77, Praha 7</address>
+      <phone>220 570 746</phone>
+      <email>praha@paradiso.cz</email>
+      <web/>
+      <info>sleva 1 + 1 za 50 % slevy se nesčítají</info>
+   <latitude>50.0999178</latitude>
+   <longitude>14.4232509</longitude>
+</benefit>

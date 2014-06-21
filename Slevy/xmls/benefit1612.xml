@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1612">
+      <name>Bike-eshop.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zdibská 229/2, Praha 8</address>
+      <phone>245 007 038</phone>
+      <email>obchod@bike-eshop.cz</email>
+      <web>www.bike-eshop.cz</web>
+      <info>6% sleva na zboží</info>
+   <latitude>50.1259686</latitude>
+   <longitude>14.4584870</longitude>
+</benefit>

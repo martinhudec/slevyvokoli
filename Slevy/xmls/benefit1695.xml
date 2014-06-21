@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1695">
+      <name>ASSIST POINT</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hvězdova 21, Praha 4</address>
+      <phone>241 411 166</phone>
+      <email>info@assistpoint.cz</email>
+      <web>www.assistpoint.cz</web>
+      <info>25% sleva na průkazové fotografie a fotografie na počkání 10% sleva na záchranu dat a ostatní služby</info>
+   <latitude>50.0521586</latitude>
+   <longitude>14.4375354</longitude>
+</benefit>

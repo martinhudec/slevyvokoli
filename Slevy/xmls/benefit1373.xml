@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1373">
+      <name>M-klub</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Komenského 1, Valašské Meziříčí</address>
+      <phone>571 684 111</phone>
+      <email>kzvalmez@kzvalmez.cz</email>
+      <web>www.kzvalmez.cz</web>
+      <info>20% na veškeré akce pořádané v M-klubu a na každoročně konané festivaly Setkání divadel - Malé jevištní formy a Valašský špalíček</info>
+   <latitude>49.4718290</latitude>
+   <longitude>17.9701272</longitude>
+</benefit>

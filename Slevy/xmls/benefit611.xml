@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="611">
+      <name>KFC - Praha Dejvice</name>
+      <cardType>ISIC</cardType>
+      <address>Vítězné nám. 1, Praha 6</address>
+      <phone>235 013 414</phone>
+      <email>kfcdejvice@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč</info>
+   <latitude>50.0998277</latitude>
+   <longitude>14.3962625</longitude>
+</benefit>

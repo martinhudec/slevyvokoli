@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1682">
+      <name>Megabooks cz - Oxford Bookshop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ostružnická 21, Olomouc</address>
+      <phone>585 204 397</phone>
+      <email>olomouc@megabooks.cz</email>
+      <web>www.megabooks.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>49.5951134</latitude>
+   <longitude>17.2531597</longitude>
+</benefit>

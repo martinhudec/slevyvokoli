@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1592">
+      <name>Husky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pařížská 1128/14, Ústí nad Labem</address>
+      <phone>475 201 601</phone>
+      <email>husky.usti@huskycz.cz</email>
+      <web>www.huskycz.cz</web>
+      <info>sleva 5% na veškerý sortiment</info>
+   <latitude>50.6610436</latitude>
+   <longitude>14.0364529</longitude>
+</benefit>

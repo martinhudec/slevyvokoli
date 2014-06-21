@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1590">
+      <name>Husky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Krupská 10/15, Teplice</address>
+      <phone>417 531 757</phone>
+      <email>husky.teplice@huskycz.cz</email>
+      <web>www.huskycz.cz</web>
+      <info>sleva 5% na veškerý sortiment</info>
+   <latitude>50.6412736</latitude>
+   <longitude>13.8254788</longitude>
+</benefit>

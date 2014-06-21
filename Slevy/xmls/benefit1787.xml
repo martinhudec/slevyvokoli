@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1787">
+      <name>Pizza U Staré pece - Pizzeria Einstein</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štefánikova 52, Praha 5 - Smíchov</address>
+      <phone>257 322 161</phone>
+      <email/>
+      <web>www.pizza-einstein.cz</web>
+      <info>Sleva: 1 + 1 ZDARMA Nabídka platí pro: pizza 400 g, těstoviny 400 g a saláty 400 g. Nabídka platí pouze v kamenné provozovně. Kartu, prosím, předložte vždy před objednáním. V opačném případě nelze uplatnit slevu při závěrečném vyúčtování. Při použití karty ISIC/ITIC/ALIVE/IYTC již není možné využívat jiné slevy poskytované restaurací.</info>
+   <latitude>50.0778949</latitude>
+   <longitude>14.4043736</longitude>
+</benefit>

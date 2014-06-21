@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1928">
+      <name>Prague Travel</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vinohradska 28, Praha 2</address>
+      <phone>222 516 064, 777 070 783</phone>
+      <email>praguetravel@praguetravel.cz</email>
+      <web>www.praguetravel.cz</web>
+      <info>Explorer Tour z ceny 1200 Kč - sleva 200 Kč Best of Prague z ceny 600 Kč - sleva 200 Kč ostatní procházky z ceny 300 Kč - sleva 100 Kč</info>
+   <latitude>50.0777597</latitude>
+   <longitude>14.4371434</longitude>
+</benefit>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="606">
+      <name>PNB - Gaapa</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Lomnického 7/1705, Praha 4</address>
+      <phone>211153200</phone>
+      <email>podpora@garantovanaplatba.cz</email>
+      <web>www.gaapa.cz</web>
+      <info>100% sleva na poplatky spojené s úschovou prostředků na portálu www.gaapa.cz, nejvýše však 250 Kč na osobu za měsíc.</info>
+   <latitude>50.0570328</latitude>
+   <longitude>14.4328393</longitude>
+</benefit>

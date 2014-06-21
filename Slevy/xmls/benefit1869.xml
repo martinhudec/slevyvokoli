@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1869">
+      <name>Proptic oční optika</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Seifertova 37, Praha 3</address>
+      <phone>222 543 293</phone>
+      <email>info@proptic.cz</email>
+      <web>www.proptic.cz</web>
+      <info>sleva 20 % na brýlové obruby včetně skel, sluneční brýle sleva 10 % na kontaktní čočky a roztoky</info>
+   <latitude>50.0853153</latitude>
+   <longitude>14.4437915</longitude>
+</benefit>

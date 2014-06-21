@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1660">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC - HyperTesco, Rašínova třída 1669, Hradec Králové</address>
+      <phone>495 530 089, 775 705 635</phone>
+      <email>hradeckralova2@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>sleva 5 % z celkové ceny zboží sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>50.1904591</latitude>
+   <longitude>15.8034181</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="879">
+      <name>FAnn beauty centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>nám. Svobody 4, Brno</address>
+      <phone>542221451</phone>
+      <email>svo@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20% sleva na kosmetické ošetření v salónech</info>
+   <latitude>49.1955672</latitude>
+   <longitude>16.6077779</longitude>
+</benefit>

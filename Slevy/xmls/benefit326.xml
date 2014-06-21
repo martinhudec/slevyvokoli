@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="326">
+      <name>SCHNITZEL KING</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Seifertova 2, Praha 3</address>
+      <phone>222 222 977</phone>
+      <email>schnitzelkonig@gmail.com</email>
+      <web>facebook/schnitzel king</web>
+      <info>65 Kč za Studentské menu: schnitzelburger, hranolky, coca-cola 0,25l 15% sleva na ostatní menu 10% sleva ostatní produkty</info>
+   <latitude>50.0844925</latitude>
+   <longitude>14.4501823</longitude>
+</benefit>

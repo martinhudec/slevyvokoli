@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="175">
+      <name>GM Eletronic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dlouhá 1485/8, Ostrava</address>
+      <phone>555 308 793</phone>
+      <email>marketing@gme.cz</email>
+      <web>www.gme.cz</web>
+      <info>10% sleva pro držitele karet. Slevu je možno uplatnit pouze v kamenné prodejně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.8444897</latitude>
+   <longitude>18.1960050</longitude>
+</benefit>

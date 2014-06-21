@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1024">
+      <name>Beachklub</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Horáčkova 1100, Praha 4</address>
+      <phone>724 337 967</phone>
+      <email>info@beachklub.cz</email>
+      <web>www.beachklub.cz</web>
+      <info>25% sleva na pronájem kurtu v hodinách mimo špičku</info>
+   <latitude>50.0465528</latitude>
+   <longitude>14.4364270</longitude>
+</benefit>

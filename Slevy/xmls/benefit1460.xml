@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1460">
+      <name>KAMA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kamýcká 241, Praha 6</address>
+      <phone>233 920 412</phone>
+      <email>info@kama.cz</email>
+      <web>www.kama.cz</web>
+      <info>sleva 10% na veškeré zboží  </info>
+   <latitude>50.1296507</latitude>
+   <longitude>14.3846297</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="310">
+      <name>Cyklo Point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Pardubice, Palackého třída 2857, Pardubice</address>
+      <phone>734314318</phone>
+      <email>pardubice@cyklopoint.cz</email>
+      <web>www.cyklopoint.cz</web>
+      <info>sleva 6 % na jízdní kola Merida  a kompletní nabídku příslušenství pro cyklistiku (nelze uplatnit na již zlevněné zboží) sleva 10 % servis slevu nelze kombinovat s dalšími slevami sleva 6 % na jízdní kola Merida  a kompletní nabídku příslušenství pro cyklistiku (nelze uplatnit na již zlevněné zboží) sleva 10 % servis slevu nelze kombinovat s dalšími slevami</info>
+   <latitude>50.0342522</latitude>
+   <longitude>15.7604758</longitude>
+</benefit>

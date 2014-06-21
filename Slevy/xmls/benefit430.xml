@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="430">
+      <name>Lexum Brno</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bezručova 22, Brno</address>
+      <phone>810800009</phone>
+      <email/>
+      <web>www.lexum.cz</web>
+      <info>Sleva 1500,-Kč v případě laserové operace obou očí, tzn. 750,-Kč na jedno oko Uvedená sleva se vztahuje na laserové operace, které se standardně pohybují od 15.000 Kč nahoru.</info>
+   <latitude>49.1874287</latitude>
+   <longitude>16.6016584</longitude>
+</benefit>

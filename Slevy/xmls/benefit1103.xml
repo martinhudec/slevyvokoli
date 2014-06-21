@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1103">
+      <name>Minerál - Purkart Milan</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OD Bílá Labuť, Na Poříčí 23, Praha 1</address>
+      <phone>603 271 166</phone>
+      <email>info@mineral-purkart.cz</email>
+      <web>www.mineral-purkart.cz</web>
+      <info>sleva 10 % z nákupu nad 1000 Kč (minerály, stříbro, keramika, bižuterie, …)</info>
+   <latitude>50.0900196</latitude>
+   <longitude>14.4338376</longitude>
+</benefit>

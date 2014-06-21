@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1772">
+      <name>MONADA - klinika komplexní rehabilitace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nad Opatovem 2140, Praha 11</address>
+      <phone>272940401, 272941500, 736 750</phone>
+      <email>klinika@monada.cz</email>
+      <web>www.monada.cz</web>
+      <info>vstupní holistické vyšetření lékářem specialistou oboru rehabilitační medicíny nebo neurologie včetně terapie ZDARMA (tj.: mobilizace, manipulace, měkká technika svalová a kloubní) 10% sleva na veškeré procedury na naší klinice (masáže, akupunktura, akupresura, koupele, individuální kineziologická analýza sportovní aktivity s možností využití programu Dart Fish, podolické vyšetření a jiné dle nabídky)</info>
+   <latitude>50.0265651</latitude>
+   <longitude>14.5112885</longitude>
+</benefit>

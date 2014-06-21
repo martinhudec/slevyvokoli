@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1665">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC - Kaufland, Štefánikova 1408/18e, Kopřivnice</address>
+      <phone>724 484 955</phone>
+      <email>koprivnice@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>sleva 5% z celkové ceny zboží sleva se nevztahuje na již zlevněné zboží či zboží v akci</info>
+   <latitude>49.6016042</latitude>
+   <longitude>18.1488653</longitude>
+</benefit>

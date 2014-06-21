@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1157">
+      <name>Golf Club Ještěd</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rozstání 5, Český Dub</address>
+      <phone>604 247 053</phone>
+      <email>info@golfjested.cz</email>
+      <web>www.golfjested.cz</web>
+      <info>vstup zdarma + sleva 50 % na pujčení holí</info>
+   <latitude>50.6857529</latitude>
+   <longitude>14.9718294</longitude>
+</benefit>

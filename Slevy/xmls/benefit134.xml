@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="134">
+      <name>Starbucks Malostranská</name>
+      <cardType>ISIC</cardType>
+      <address>Malostranské náměstí 28/5, Praha 1</address>
+      <phone>235 013 500, 725 562 767</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.0886429</latitude>
+   <longitude>14.4027749</longitude>
+</benefit>

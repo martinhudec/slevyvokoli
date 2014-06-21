@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="90">
+      <name>GALEX</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nákupní centrum Olympia, U Dálnice 777, Brno</address>
+      <phone>+420 734 257 628</phone>
+      <email>galex21@karatrutnov.cz</email>
+      <web>www.karatrutnov.cz</web>
+      <info>Sleva ve výši 5% na veškeré nezlevněné zboží. Sleva platí pouze v kamenných prodejnách.</info>
+   <latitude>49.1950602</latitude>
+   <longitude>16.6068371</longitude>
+</benefit>

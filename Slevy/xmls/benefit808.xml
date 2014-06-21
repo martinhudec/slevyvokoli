@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="808">
+      <name>Městský DP Opava a.s.</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Horní nám. 33, Opava</address>
+      <phone>553 712 521</phone>
+      <email>predprodej@mdpo.cz</email>
+      <web>www.mdpo.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>49.9394163</latitude>
+   <longitude>17.9018603</longitude>
+</benefit>

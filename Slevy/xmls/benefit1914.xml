@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1914">
+      <name>Neoluxor - Knihkupectví Palladium</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Republiky 1, OC Palladium, Praha 1</address>
+      <phone>historie, umění: 296 110 100 o</phone>
+      <email>infoneopalladium@neoluxor.cz</email>
+      <web>www.neopalladium.cz</web>
+      <info>sleva 10 % na knihy neplatí v rámci internetového knihkupectví www.neoluxor.cz</info>
+   <latitude>50.0878334</latitude>
+   <longitude>14.4210489</longitude>
+</benefit>

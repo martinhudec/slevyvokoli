@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1532">
+      <name>RICOH - tiskové a kopírovací centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sadová 3053, Zlín</address>
+      <phone>577 434 364</phone>
+      <email>info@cdprezentace.com</email>
+      <web>www.cdprezentace.com</web>
+      <info>sleva 10 % na veškeré služby</info>
+   <latitude>49.2245580</latitude>
+   <longitude>17.6661459</longitude>
+</benefit>

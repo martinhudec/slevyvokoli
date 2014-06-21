@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="827">
+      <name>Vivid cafe &amp; Coctail bar</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vinohradská 63, Praha 2</address>
+      <phone>774 050 289</phone>
+      <email>vivid-cafe@email.cz</email>
+      <web>www.facebook.com/vivid.cocktails</web>
+      <info>PO-SO 16:00-20:00 1 panák +1 zdarma, 15% sleva na ostatní drinky - nevztahuje se na drinky v akci</info>
+   <latitude>50.0771110</latitude>
+   <longitude>14.4428813</longitude>
+</benefit>

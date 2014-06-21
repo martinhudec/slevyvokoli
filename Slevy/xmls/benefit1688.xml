@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1688">
+      <name>AS Optic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Újezd 454/46, Praha 1</address>
+      <phone>257 311 237</phone>
+      <email>alena.schopfova@seznam.cz</email>
+      <web>www.asoptic.cz</web>
+      <info>15% sleva na celý sortiment</info>
+   <latitude>50.0840981</latitude>
+   <longitude>14.4046273</longitude>
+</benefit>

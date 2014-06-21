@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1766">
+      <name>Hostel Bernarda Bolzana</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Školní náměstí 199, Tábor</address>
+      <phone>381 200 251, 604758036</phone>
+      <email>info@skolabolzano.cz</email>
+      <web>www.skolabolzano.czubytovani/</web>
+      <info>25% z ceny ubytování</info>
+   <latitude>49.4128612</latitude>
+   <longitude>14.6607124</longitude>
+</benefit>

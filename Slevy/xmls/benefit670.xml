@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="670">
+      <name>Subway</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Solniční 631/13, Brno - Město</address>
+      <phone>+420 777 941 396</phone>
+      <email>info@subsandwiches.cz</email>
+      <web>www.subway-solnicni.cz</web>
+      <info>20% sleva z celkové útraty. Sleva se nevztahuje na již zlevněné zboží a akční nabídky. Sleva platí v kamenné provozovně po předložení platné karty.</info>
+   <latitude>49.1965979</latitude>
+   <longitude>16.6052956</longitude>
+</benefit>

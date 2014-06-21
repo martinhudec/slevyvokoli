@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="124">
+      <name>Městské kulturní zařízení Uničov</name>
+      <cardType>ISIC</cardType>
+      <address>Moravské nám. 1143, Uničov</address>
+      <phone>585 054 060</phone>
+      <email>kino@mkzunicov.cz</email>
+      <web>www.mkzunicov.cz</web>
+      <info>10% sleva z ceny vstupenky na označená filmová představení.</info>
+   <latitude>49.7703304</latitude>
+   <longitude>17.1127180</longitude>
+</benefit>

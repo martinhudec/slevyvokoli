@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1281">
+      <name>Knihkupectví Beta Dobrovský</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Komenského 4, Jablonec n. Nisou</address>
+      <phone>483 312 558</phone>
+      <email>jablonec-komenskeho@dobrovsky.cz</email>
+      <web>www.dobrovsky.cz</web>
+      <info>sleva 10 % na knihy, mapy a reprodukce sleva 5 % na učebnice a CD-ROM</info>
+   <latitude>50.7240506</latitude>
+   <longitude>15.1701389</longitude>
+</benefit>

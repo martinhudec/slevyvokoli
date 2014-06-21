@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1752">
+      <name>Fruitisimo Fresh</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>City Park Jihlava, Hradební 1, Jihlava</address>
+      <phone>774 300 330</phone>
+      <email>fruitisimo@fruitisimo.net</email>
+      <web>www.fruitisimo.net</web>
+      <info>sleva 10 % na produkty Fruitisimo Fresh (neplatí pro nabízené odšťavňovače)</info>
+   <latitude>49.3928006</latitude>
+   <longitude>15.5933140</longitude>
+</benefit>

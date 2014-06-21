@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1422">
+      <name>Zelená Kuchyně</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Milíčova 5, Praha 3</address>
+      <phone>222 220 114</phone>
+      <email>info@zelenakuchyne.cz</email>
+      <web>www.zelenakuchyne.cz</web>
+      <info>1+1 zdrama na denní nabídku jídel od 14:30 sleva 20% na rozlévané víno a točené pivo Bernard 12° po celý den</info>
+   <latitude>50.0847240</latitude>
+   <longitude>14.4509225</longitude>
+</benefit>

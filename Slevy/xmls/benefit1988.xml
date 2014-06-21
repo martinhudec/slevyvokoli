@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1988">
+      <name>Rock point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vrážská 1507, Praha 5 - Radotín</address>
+      <phone>257 811 451-2</phone>
+      <email>outlet@rockpoint.cz</email>
+      <web>www.rockpoint.cz</web>
+      <info>sleva 5 % na nákup zboží</info>
+   <latitude>49.9858517</latitude>
+   <longitude>14.3647823</longitude>
+</benefit>

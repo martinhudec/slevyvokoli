@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1329">
+      <name>Mystic Temple masážní a kosmetický salon</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Waschingtonova 1599/17, Praha 1</address>
+      <phone>+420221779510-2;+420724002389</phone>
+      <email>info@mystictemple.cz</email>
+      <web>www.mystictemple.cz</web>
+      <info>20% sleva na thajské a ostatní masáže (sleva se nevztahuje na Ayurvédké masáže) 15% sleva na služby kosmetického salonu 15% sleva na nákup dárkových certifikátů</info>
+   <latitude>50.0816031</latitude>
+   <longitude>14.4318357</longitude>
+</benefit>

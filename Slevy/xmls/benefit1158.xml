@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1158">
+      <name>DataHelp</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jirsíkova 1, Praha 8</address>
+      <phone>775 220 440</phone>
+      <email>info@datahelp.cz</email>
+      <web>www.datahelp.cz</web>
+      <info>20% sleva na provedené služby</info>
+   <latitude>50.0893849</latitude>
+   <longitude>14.4445124</longitude>
+</benefit>

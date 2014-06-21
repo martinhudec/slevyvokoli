@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1636">
+      <name>Lékárna U sv. Augustina</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Míru 1, Brno</address>
+      <phone>543 248 734</phone>
+      <email>ulux@seznam.cz</email>
+      <web/>
+      <info>sleva 5% na zboží ve volném prodeji bez receptu sleva se nevztahuje na zboží ve slevě slevu nelze sčítat s jinými slevami</info>
+   <latitude>49.2020887</latitude>
+   <longitude>16.5803367</longitude>
+</benefit>

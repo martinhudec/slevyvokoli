@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="107">
+      <name>Pizzeria Siesta</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Pískách 74, Praha 6</address>
+      <phone>222 365 853, 605 174 546</phone>
+      <email>pour.z@seznam.cz</email>
+      <web>www.pizzeriasiesta.cz</web>
+      <info>1 + druhé jídlo za 50% ceny</info>
+   <latitude>50.1070332</latitude>
+   <longitude>14.3741306</longitude>
+</benefit>

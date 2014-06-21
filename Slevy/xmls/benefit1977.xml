@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1977">
+      <name>TS Bohemia - výpočetní technika</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husitská 3422, Znojmo</address>
+      <phone>585 157 495</phone>
+      <email>znojmo@tsbohemia.cz</email>
+      <web>www.tsbohemia.cz</web>
+      <info>nákup celého aktuálního sortimentu za ceny určené velkoobchodním odběratelům</info>
+   <latitude>48.8667376</latitude>
+   <longitude>16.0353662</longitude>
+</benefit>

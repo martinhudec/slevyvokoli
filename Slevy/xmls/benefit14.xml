@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="14">
+      <name>mojekolo.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nové sady 591/24, Brno</address>
+      <phone>595532419</phone>
+      <email>brno@mojekolo.cz</email>
+      <web>www.mojekolo.cz</web>
+      <info>5% sleva na jízdní kola a doplňky 10% sleva na servisní práce</info>
+   <latitude>49.1872391</latitude>
+   <longitude>16.6049944</longitude>
+</benefit>

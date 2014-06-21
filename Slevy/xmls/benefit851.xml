@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="851">
+      <name>EXPRESKA Beroun</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Česká 57, Beroun</address>
+      <phone>604 581 576</phone>
+      <email>beroun@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>49.9779738</latitude>
+   <longitude>14.0329904</longitude>
+</benefit>

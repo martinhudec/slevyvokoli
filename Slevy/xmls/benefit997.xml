@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="997">
+      <name>Alanya Kebab</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Roosveltova 7, Plzeň</address>
+      <phone>724 284 834</phone>
+      <email>info@alanya-kebab.cz</email>
+      <web>www.alanya-kebab.cz</web>
+      <info>10% sleva na celý sortiment. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>49.7483885</latitude>
+   <longitude>13.3787722</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="834">
+      <name>Inlinebus</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Chopinova 483/8, Ostrava</address>
+      <phone>775 724 642</phone>
+      <email>ostrava@ulozenka.cz</email>
+      <web>www.inlinebus.cz</web>
+      <info>Sleva 10% na veškerý sortiment, při nákupu dvou položek s celkovou cenou nad 5000,- Kč sleva 15% na celý nákup. Slevy se netýkají poštovného a balného</info>
+   <latitude>49.8493313</latitude>
+   <longitude>18.2732146</longitude>
+</benefit>

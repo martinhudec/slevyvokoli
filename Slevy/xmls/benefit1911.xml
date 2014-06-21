@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1911">
+      <name>Optika Lenka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Žerotínova 9, Nový Jičín</address>
+      <phone>556 708 184</phone>
+      <email>lenka.malinova@tiscali.cz</email>
+      <web>www.sweb.cz/optikalenka</web>
+      <info>sleva 6 % na zboží (mimo sezónně zlevněných produktů)</info>
+   <latitude>49.5942806</latitude>
+   <longitude>18.0115402</longitude>
+</benefit>

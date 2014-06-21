@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="11">
+      <name>design SUPERMARKET</name>
+      <cardType>ISIC</cardType>
+      <address>, Praha</address>
+      <phone/>
+      <email/>
+      <web>http://www.designsupermarket.cz/</web>
+      <info>studentská sleva na lístky/ vstupné vstupné za 100 Kč (dospělí 120 Kč) zahájení platnosti slevy: 11.-14.12.2014</info>
+   <latitude>50.0755381</latitude>
+   <longitude>14.4378005</longitude>
+</benefit>

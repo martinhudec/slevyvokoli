@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="229">
+      <name>Spirit Restaurant - kongresové centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. T. G. Masaryka 5556, Zlín</address>
+      <phone>577 008 907, 725 111 575</phone>
+      <email>spirit@spiritrestaurant.cz</email>
+      <web>www.spiritrestaurant.cz</web>
+      <info>20% sleva z celkové útraty. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.2231503</latitude>
+   <longitude>17.6643683</longitude>
+</benefit>

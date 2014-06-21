@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1593">
+      <name>Husky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Podhorská 5, Jablonec nad Nisou</address>
+      <phone>483 300 987</phone>
+      <email>husky.jablonec@huskycz.cz</email>
+      <web>www.huskycz.cz</web>
+      <info>sleva 5% na veškerý sortiment</info>
+   <latitude>50.7238823</latitude>
+   <longitude>15.1724774</longitude>
+</benefit>

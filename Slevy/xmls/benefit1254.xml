@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1254">
+      <name>Rock Point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Riegrova 3, Olomouc</address>
+      <phone>585 242 701</phone>
+      <email>olmikmesto@rockpoint.cz</email>
+      <web>www.rockpoint.cz</web>
+      <info>sleva 5 % na zboží</info>
+   <latitude>49.5941673</latitude>
+   <longitude>17.2494850</longitude>
+</benefit>

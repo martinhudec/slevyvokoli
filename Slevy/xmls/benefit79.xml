@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="79">
+      <name>FERR.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Hřbitova 1115, Polná 58 813</address>
+      <phone/>
+      <email>broz@ferr.cz</email>
+      <web>www.ferr.cz</web>
+      <info>15% sleva na zboží, 5% sleva na zlevněné zboží Sleva platí v e-shopu.</info>
+   <latitude>49.4901140</latitude>
+   <longitude>15.7223387</longitude>
+</benefit>

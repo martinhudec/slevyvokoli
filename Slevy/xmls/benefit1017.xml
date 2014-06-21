@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1017">
+      <name>Knihkupectví</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Panská 110, Jindřichův Hradec</address>
+      <phone>384 361 375</phone>
+      <email/>
+      <web>www.nakladatelskyservis.cz</web>
+      <info>sleva 11 % na celý sortiment zboží po celý rok</info>
+   <latitude>49.1453674</latitude>
+   <longitude>15.0034672</longitude>
+</benefit>

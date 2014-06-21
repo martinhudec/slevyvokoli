@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="41">
+      <name>Datour</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Antala Staška 1565/30, Praha 4</address>
+      <phone>212241750</phone>
+      <email>praha@datour.cz</email>
+      <web>www.datour.cz</web>
+      <info>Sleva 8% na zájezdy z katalogů Datour s.r.o. v tištěné i online verzi, slevu nelze sčítat s ostatními slevami a nevztahuje se na zájezdy last minute. Více info na www.rakousko-dovolena.cz, www.korfu-dovolena.cz, www.datour.cz nebo napraha@datour.cz, dana.rakusanova@datour.cz</info>
+   <latitude>50.0403156</latitude>
+   <longitude>14.4388811</longitude>
+</benefit>

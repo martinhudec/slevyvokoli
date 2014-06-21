@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1543">
+      <name>ASAP Rent Car - autopůjčovna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Modletice 75, Říčany</address>
+      <phone>602 307 835, 6</phone>
+      <email>asap@asap-rentcar.cz</email>
+      <web>www.autopujcovna-praha.cz</web>
+      <info>sleva 10 % na zapůjčení auta. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.9690987</latitude>
+   <longitude>14.5965852</longitude>
+</benefit>

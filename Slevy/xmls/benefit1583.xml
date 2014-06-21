@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1583">
+      <name>THERAP - relaxace, regenerace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štefánikova 2532, Zlín</address>
+      <phone>577 018 448</phone>
+      <email>info@therap.cz</email>
+      <web>www.therap.cz</web>
+      <info>sleva 15% na relaxace a regenerace</info>
+   <latitude>49.2237969</latitude>
+   <longitude>17.6668588</longitude>
+</benefit>

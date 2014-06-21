@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="216">
+      <name>Neoluxor - Knihkupectví Futurum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Brněnská 1825/23a, OC Futurum, Hradec Králové</address>
+      <phone>498 501 110</phone>
+      <email>futurum@neoluxor.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>sleva 10 % na knihy neplatí v rámci internetového knihkupectví ww.neoluxor.cz</info>
+   <latitude>50.1970122</latitude>
+   <longitude>15.8489385</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1441">
+      <name>Computer s DVD</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jakubská 5, Brno</address>
+      <phone>800 300 302</phone>
+      <email>predplatne.mf@cpost.cz</email>
+      <web>www.mf.cz/produkty/computer</web>
+      <info>cena předplatného je 1780 Kč – sleva ISIC je 17 % tj. 1477 Kč</info>
+   <latitude>49.1963890</latitude>
+   <longitude>16.6070779</longitude>
+</benefit>

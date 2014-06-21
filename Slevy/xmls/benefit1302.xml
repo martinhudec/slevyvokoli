@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1302">
+      <name>Nový pivovar - restaurace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pivovarské náměstí 1245, Hradec Králové</address>
+      <phone>495 530 079, 602 152 089</phone>
+      <email>info@novy-pivovar.cz</email>
+      <web>www.novy-pivovar.cz</web>
+      <info>polední menu: 10 % sleva, sleva 15 % na ostatní jídla z denní nabídky placený vstup na večerní akce: sleva 50 % z ceny vstupenky, sleva 10-15 % z ceny vybraných drinků</info>
+   <latitude>50.2077248</latitude>
+   <longitude>15.8292559</longitude>
+</benefit>

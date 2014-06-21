@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1992">
+      <name>Mader Computer</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>S. K. Neumanna 1257, Hradec Králové</address>
+      <phone>495 532 318, 737 249 501, 737</phone>
+      <email>hradec@mader.cz</email>
+      <web>www.mader.cz</web>
+      <info>sleva 10 % na repasovanou výpočetní techniku a služby sleva 3 % na notebooky a komponenty sleva 5 % na PC sestavy slevy se nevztahují na nákup na internetu</info>
+   <latitude>50.2137577</latitude>
+   <longitude>15.8142484</longitude>
+</benefit>

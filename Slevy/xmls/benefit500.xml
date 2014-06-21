@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="500">
+      <name>McDonald's</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Flóra, Vinohradská 149, Praha 3</address>
+      <phone/>
+      <email/>
+      <web>www.mcdonalds.cz</web>
+      <info>Denní nabídka: Big Mac a nebo McChicken a střední hranolky za 79 Kč   Ranní nabídka: McMuffin se slaninou a Cappuccino za 49 Kč    </info>
+   <latitude>50.0780199</latitude>
+   <longitude>14.4614004</longitude>
+</benefit>

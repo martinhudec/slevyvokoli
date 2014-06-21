@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="351">
+      <name>SEEFOOD Shop, Palladium</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Republiky 1, Praha 1</address>
+      <phone>60 2642 412</phone>
+      <email>palladium@seefood.cz</email>
+      <web>www.seefood.cz</web>
+      <info>10% sleva na veškerý sortiment</info>
+   <latitude>50.0892824</latitude>
+   <longitude>14.4285598</longitude>
+</benefit>

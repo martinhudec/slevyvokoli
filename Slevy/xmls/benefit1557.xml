@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1557">
+      <name>ATI ZONE s.r.o. - levné ubytování v Praze</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Prokopka 4, Praha 4</address>
+      <phone>266 311 279, 602 722 877</phone>
+      <email>prokopka4@seznam.cz</email>
+      <web>www.praha-levneubytovani.cz</web>
+      <info>sleva 5% pro 2lůžkový pokoj na osobu a noc sleva 10% pro 3 a vícelůžkový pokoj na osobu a noc sleva se týká pouze krátkodobého ubytování cca 1 až 3 noci</info>
+   <latitude>50.1010867</latitude>
+   <longitude>14.4905462</longitude>
+</benefit>

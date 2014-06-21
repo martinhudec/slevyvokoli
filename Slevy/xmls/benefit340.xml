@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="340">
+      <name>SKi areál Benecko</name>
+      <cardType>ISIC</cardType>
+      <address>Štěpanická Lhota 35, Benecko</address>
+      <phone/>
+      <email>dominik.brozek@benecko.info</email>
+      <web>www.benecko.info/skiareal.html</web>
+      <info>20% sleva z denní jízdenky v době od 9 do 17 hod v hlavní sezóně</info>
+   <latitude>50.6312376</latitude>
+   <longitude>15.5194079</longitude>
+</benefit>

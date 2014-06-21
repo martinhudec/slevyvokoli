@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="31">
+      <name>Horsefeathers store Jihlava</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kosmákova 21, Jihlava</address>
+      <phone>730162162</phone>
+      <email>jihlava@hfshop.cz</email>
+      <web>www.horsefeathers-store.eu</web>
+      <info>10% sleva na nezlevněné zboží na kamenných obchodech i e-shopu Horsefeathers store</info>
+   <latitude>49.3937146</latitude>
+   <longitude>15.5895605</longitude>
+</benefit>

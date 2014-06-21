@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1417">
+      <name>Restaurace Božolé</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lazebnická 5, Mohelnice</address>
+      <phone>583456066</phone>
+      <email>info@ppssro.cz</email>
+      <web>www.bozole.cz</web>
+      <info>1 + 1 ZDARMA na pizzu (při objednání 2ks pizza levnější zdarma) - podmínkou je objednání alespoň 1ks nealka "Jíme abychom žili, ale u nás budete žít, aby jste jedli."</info>
+   <latitude>49.7761642</latitude>
+   <longitude>16.9176206</longitude>
+</benefit>

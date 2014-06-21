@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1690">
+      <name>HC Sparta Praha</name>
+      <cardType>ISIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Za Elektrárnou 419, Praha 7</address>
+      <phone>266 727 443</phone>
+      <email>predprodej@hcsparta.cz</email>
+      <web>www.hcsparta.cz</web>
+      <info>sleva 30 Kč na vstupenku na sezení na domácí extraligová utkání HC Sparty Praha v základní části ELH  </info>
+   <latitude>50.1077800</latitude>
+   <longitude>14.4341933</longitude>
+</benefit>

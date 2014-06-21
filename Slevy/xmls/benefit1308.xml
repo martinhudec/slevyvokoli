@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1308">
+      <name>ADK - vybavení pro manažery</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Těšnov 1 - vchod z ulice Na Poříčí, Praha 1</address>
+      <phone>224 813 040</phone>
+      <email>adk@adk.cz</email>
+      <web>www.adk.cz</web>
+      <info>sleva 10%</info>
+   <latitude>50.0897446</latitude>
+   <longitude>14.4328521</longitude>
+</benefit>

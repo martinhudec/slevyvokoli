@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="880">
+      <name>FAnn beauty centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Olympia Brno, U Dálnice 777, Modřice</address>
+      <phone>542212881</phone>
+      <email>fbc.obr@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20% sleva na kosmetické ošetření v salónech</info>
+   <latitude>49.1377451</latitude>
+   <longitude>16.6338208</longitude>
+</benefit>

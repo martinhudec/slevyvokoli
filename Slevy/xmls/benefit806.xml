@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="806">
+      <name>Holmes Place Premium Karlín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Křižíkova 44, Praha 8</address>
+      <phone>222 331 111</phone>
+      <email>karlin@holmesplace.cz</email>
+      <web>http://www.holmesplace.cz</web>
+      <info>Sleva 20% na dlouhodobá členství</info>
+   <latitude>50.0928482</latitude>
+   <longitude>14.4530903</longitude>
+</benefit>

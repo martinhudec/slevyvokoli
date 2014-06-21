@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="343">
+      <name>Salon Beauty</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Antala Staška 114/20, Praha 4</address>
+      <phone>739103633</phone>
+      <email>salon@salonbeauty.cz</email>
+      <web>www.salonbeauty.cz</web>
+      <info>10% sleva na kosmetiku, kadeřnictví a masáže  </info>
+   <latitude>50.0402102</latitude>
+   <longitude>14.4366331</longitude>
+</benefit>

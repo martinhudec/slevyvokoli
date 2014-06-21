@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="226">
+      <name>Penzion Loreta</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Holubyho 448, Luhačovice</address>
+      <phone>731 165 231, 728 298 028</phone>
+      <email>Penzion.Loreta@seznam.cz</email>
+      <web>www.penzionloreta.cz</web>
+      <info>10% sleva z pultové ceny za ubytování. Slevu je možno uplatnit pouze na místě. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.1141380</latitude>
+   <longitude>17.7658876</longitude>
+</benefit>

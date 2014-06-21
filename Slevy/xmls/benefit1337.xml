@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1337">
+      <name>PAPpAToria</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kanovnická 11, České Budějovice</address>
+      <phone>380 123 108</phone>
+      <email>info@autob.cz</email>
+      <web>pappatoria.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>48.9749329</latitude>
+   <longitude>14.4778949</longitude>
+</benefit>

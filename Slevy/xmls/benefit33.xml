@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="33">
+      <name>Eiffel optic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Českomoravská 2420/15a, Praha</address>
+      <phone/>
+      <email>info@eiffeloptic.cz</email>
+      <web>www.eiffeloptic.cz</web>
+      <info>10%sleva na nezlevněné dioptrické obruby a sluneční brýle nad 1500 Kč</info>
+   <latitude>50.1039042</latitude>
+   <longitude>14.4908306</longitude>
+</benefit>

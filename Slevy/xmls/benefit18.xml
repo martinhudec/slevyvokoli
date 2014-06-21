@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="18">
+      <name>Subway - Galerie Šantovka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Polská 1201/1, Olomouc</address>
+      <phone>+420 777 405 394</phone>
+      <email/>
+      <web/>
+      <info>20% sleva z celkové útraty. Sleva se nevztahuje na již zlevněné zboží a akční nabídky. Sleva platí v kamenné provozovně po předložení platné karty.</info>
+   <latitude>49.5886593</latitude>
+   <longitude>17.2571042</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1902">
+      <name>Oční ambulance</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Malé náměstí 1700, Benešov</address>
+      <phone>317 725 705</phone>
+      <email>info@ocnibn.cz</email>
+      <web>www.ocnibn.cz</web>
+      <info>5% sleva na kontaktní čočky a příslušenství v ordinaci 3% sleva na kontaktní čočky a příslušenství v e-shopu (www.netcocky.cz)</info>
+   <latitude>49.7827763</latitude>
+   <longitude>14.6911598</longitude>
+</benefit>

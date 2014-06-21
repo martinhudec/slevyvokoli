@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1692">
+      <name>Autoškola Chaloupková</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Spodní 679/18, Brno</address>
+      <phone>603 43 42 51</phone>
+      <email>chaloupkova.praha@seznam.cz</email>
+      <web>www.autoskola-chaloupkova.kvalitne.cz</web>
+      <info>10% sleva na všechny kurzy autoškoly. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.1675198</latitude>
+   <longitude>16.5764411</longitude>
+</benefit>

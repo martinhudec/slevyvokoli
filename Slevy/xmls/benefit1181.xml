@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1181">
+      <name>Lékárna Pod Smrkem</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vaňkova 225, Nové Město Pod Smrkem</address>
+      <phone>482 311 070</phone>
+      <email>podsmrkem@mediconas.cz</email>
+      <web>www.mediconas.cz/cs/lekarny</web>
+      <info>sleva 5 % na veškerý sortiment</info>
+   <latitude>50.9259907</latitude>
+   <longitude>15.2274192</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="52">
+      <name>Výtvarné potřeby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Republiky 1, Žilina</address>
+      <phone>+421 692 866</phone>
+      <email>predajna.zilina@optys.sk</email>
+      <web>www.optys.cz</web>
+      <info>Sleva 10% z celkového nákupu. Nevztahuje se na již zlevněné produkty. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.2245001</latitude>
+   <longitude>18.7425208</longitude>
+</benefit>

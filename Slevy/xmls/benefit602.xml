@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="602">
+      <name>Trimm Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Chebská 79/23, Plzeň</address>
+      <phone>377822236</phone>
+      <email>trimm@trimm.cz</email>
+      <web>www.trimm.cz</web>
+      <info>20% sleva na nezlevněné zboží</info>
+   <latitude>49.7499719</latitude>
+   <longitude>13.3190926</longitude>
+</benefit>

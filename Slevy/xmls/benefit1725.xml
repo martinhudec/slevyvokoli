@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1725">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC City Park, Hradební 1, Jihlava</address>
+      <phone>567 213 929</phone>
+      <email>jihlava@knazelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>49.3928006</latitude>
+   <longitude>15.5933140</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="109">
+      <name>Oční klinika NeoVize</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Viniční 216, Brno - Židenice</address>
+      <phone>517 070 700, 775 858 700</phone>
+      <email>info@neovize.cz</email>
+      <web>www.neovize.cz</web>
+      <info>15% sleva na laserové operace metodou NeoLASIK HD.</info>
+   <latitude>49.1980037</latitude>
+   <longitude>16.6530567</longitude>
+</benefit>

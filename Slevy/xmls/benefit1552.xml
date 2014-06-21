@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1552">
+      <name>Knihkupectví Beta Dobrovský</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Futurum Kolín, Rorejcova 906, Kolín IV., Kolín</address>
+      <phone>321 672 151</phone>
+      <email>kolin@knihydobrovsky.cz</email>
+      <web>www.dobrovsky.cz</web>
+      <info>sleva 10% na knihy, mapy a reprodukce sleva 5% na učebnice, CD-ROM</info>
+   <latitude>50.0257091</latitude>
+   <longitude>15.2093322</longitude>
+</benefit>

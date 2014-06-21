@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1536">
+      <name>Big One Fitness Club</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Benešova 14/16, Brno</address>
+      <phone>542 211 903</phone>
+      <email>info@big1fitness.cz</email>
+      <web>www.big1fitness.cz</web>
+      <info>sleva 20% na měsíční permanentku do Big One Fitness sleva 20% na denní trialové členství do Big One Fitness Club</info>
+   <latitude>49.1929722</latitude>
+   <longitude>16.6133634</longitude>
+</benefit>

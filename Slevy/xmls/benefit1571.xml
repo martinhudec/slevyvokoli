@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1571">
+      <name>Levi´s Store</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Palladium, Naměstí Republiky 1078, Praha 1</address>
+      <phone>225 77 11 56</phone>
+      <email>levisobchod@tiscali.cz</email>
+      <web>www.eu.levi.com</web>
+      <info>sleva 10 % na veškeré nezlevněné zboží</info>
+   <latitude>50.0878334</latitude>
+   <longitude>14.4210489</longitude>
+</benefit>

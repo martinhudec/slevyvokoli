@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="73">
+      <name>LIBREX</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí 75, Valašské Meziříčí</address>
+      <phone>+420571611067</phone>
+      <email>knihkupectvi18@librex.cz</email>
+      <web>www.librex.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)</info>
+   <latitude>49.4709615</latitude>
+   <longitude>17.9721503</longitude>
+</benefit>

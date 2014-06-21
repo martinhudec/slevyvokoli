@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="407">
+      <name>To či to</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Milady Horákové 47, Praha 7</address>
+      <phone>731150178</phone>
+      <email>info@tocito.cz</email>
+      <web>www.tocito.cz</web>
+      <info>20% slev na produkty (nevztahuje se na již slevněné zboží, v akci a na dopravu). slevy nelze sčítat s jinými typy průkazů.</info>
+   <latitude>50.0998117</latitude>
+   <longitude>14.4270543</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1940">
+      <name>HoSport</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dolní 196, Staré Hodějovice, České Budějovice</address>
+      <phone>723 111 313</phone>
+      <email>info@hosport.cz</email>
+      <web>www.hosport.cz</web>
+      <info>sleva 10 - 35 % z ceny pronájmu sportovní haly a venkovního tartanového kurtu</info>
+   <latitude>48.9465058</latitude>
+   <longitude>14.5183976</longitude>
+</benefit>

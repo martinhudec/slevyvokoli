@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="362">
+      <name>OF - online fashion</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zborovská 35, Praha</address>
+      <phone>257 310 083</phone>
+      <email>info@of.cz</email>
+      <web>www.of.cz</web>
+      <info>2+1 ZDARMA - vyber si dva výrobky a třetí nejlevnější máš zdarma</info>
+   <latitude>50.0781151</latitude>
+   <longitude>14.4069514</longitude>
+</benefit>

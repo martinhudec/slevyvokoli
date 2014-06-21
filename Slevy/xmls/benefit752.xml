@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="752">
+      <name>AVACOM</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Drahobejlova 1073/36, Praha 9</address>
+      <phone>284 021 950</phone>
+      <email>info@avacom.cz</email>
+      <web>www.avacom.cz</web>
+      <info>15% sleva na baterie, nabíječky a příslušenství pro mobilní telefony</info>
+   <latitude>50.1058189</latitude>
+   <longitude>14.4903222</longitude>
+</benefit>

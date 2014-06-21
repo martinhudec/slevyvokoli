@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1336">
+      <name>Pizza periferie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ivana Olbrachta 2618, Kladno</address>
+      <phone>606 377 685, 220 972 258</phone>
+      <email>periferierestaurant@seznam.cz</email>
+      <web>www.pizzarestaurantperiferie.eu</web>
+      <info>15% sleva na veškeré jídlo. 4 + 1 (Pizza, těstoviny, salát) zdarma. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>50.1447600</latitude>
+   <longitude>14.1043425</longitude>
+</benefit>

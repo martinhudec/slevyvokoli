@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="831">
+      <name>Čajovna 82 vůní</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sokolovské nám. 307/6, Liberec</address>
+      <phone>774 113 567</phone>
+      <email>82.vuni@atlas.cz</email>
+      <web>www.cajovna-liberec.cz</web>
+      <info>Do 14 hodin sleva 20% na čaje, čokolády, horké nápoje a koktejly</info>
+   <latitude>50.7700956</latitude>
+   <longitude>15.0546819</longitude>
+</benefit>

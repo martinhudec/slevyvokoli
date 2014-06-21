@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1039">
+      <name>MPalán - www.svet-piva.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Stránského 28, Brno-Žabovřesky</address>
+      <phone>530 341 706</phone>
+      <email>info@svet-piva.cz</email>
+      <web>www.svet-piva.cz</web>
+      <info>Půjčovna výčepních zařízení: sleva 15 % z ceny výpůjčky. Obchod: sleva 10 % při nákupu v kamenné prodejně. (nevztahuje se na e-shop)</info>
+   <latitude>49.2123969</latitude>
+   <longitude>16.5679193</longitude>
+</benefit>

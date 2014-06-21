@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="297">
+      <name>Burger King - 28. Října</name>
+      <cardType>ISIC</cardType>
+      <address>28 Října 12, Praha 1</address>
+      <phone>235 013 311</phone>
+      <email>bkcity@amrest.eu</email>
+      <web>www.myburgerking.cz</web>
+      <info>15% sleva na libovolné menu dle aktuální nabídky nebo Hamburger k libovolnému menu ZDARMA Sleva se nevztahuje na provozovnu na Hl. nádraží, Praha.</info>
+   <latitude>50.0835270</latitude>
+   <longitude>14.4226052</longitude>
+</benefit>

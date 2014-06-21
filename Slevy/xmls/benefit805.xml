@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="805">
+      <name>Holmes place Energy Smíchov</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nádražní 762/32, Praha 5</address>
+      <phone>221 420 800</phone>
+      <email>smichov@holmesplace.cz</email>
+      <web>http://www.holmesplace.cz</web>
+      <info>Sleva 20% na dlouhodobá členství</info>
+   <latitude>50.0698903</latitude>
+   <longitude>14.4052015</longitude>
+</benefit>

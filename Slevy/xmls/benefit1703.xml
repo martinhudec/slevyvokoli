@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1703">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husovo nám. 34, Rakovník</address>
+      <phone>313 512 775</phone>
+      <email>rakovnik@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-pá: 8-18 h so: 8-12 h</info>
+   <latitude>50.1044425</latitude>
+   <longitude>13.7300565</longitude>
+</benefit>

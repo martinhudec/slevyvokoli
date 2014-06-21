@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="492">
+      <name>McDonald's</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jugoslávská 11, Praha 2</address>
+      <phone/>
+      <email/>
+      <web>www.mcdonalds.cz</web>
+      <info>Denní nabídka: Big Mac a nebo McChicken a střední hranolky za 79 Kč   Ranní nabídka: McMuffin se slaninou a Cappuccino za 49 Kč   McCafe nabídka: Jablečný dort nebo Cheesecake + Cappuccino (0,2 l) nebo Espresso jen za 59 Kč  </info>
+   <latitude>50.0755224</latitude>
+   <longitude>14.4321676</longitude>
+</benefit>

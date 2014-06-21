@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="817">
+      <name>ODIS</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Hradbách 1440/16, Ostrava</address>
+      <phone>596 941 108</phone>
+      <email>info@kodis.cz</email>
+      <web>www.kodis.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>49.8377178</latitude>
+   <longitude>18.2938602</longitude>
+</benefit>

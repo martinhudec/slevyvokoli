@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="139">
+      <name>Starbucks Václavské náměstí</name>
+      <cardType>ISIC</cardType>
+      <address>Václavské náměstí 40, Praha 1</address>
+      <phone>235 013 517, 725 800 358</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.0814531</latitude>
+   <longitude>14.4267501</longitude>
+</benefit>

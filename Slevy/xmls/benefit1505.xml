@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1505">
+      <name>Optika Kocandová</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého náměstí 43, Ivančice</address>
+      <phone>546 437 116</phone>
+      <email>ivancice@optikakocandova.cz</email>
+      <web>www.optikakocandova.cz</web>
+      <info>sleva 12 % na dioptrické brýle</info>
+   <latitude>49.1014500</latitude>
+   <longitude>16.3787534</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="352">
+      <name>SEEFOOD Shop Kamýcká</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kamýcká 40/7, Praha 6 - Sedlec</address>
+      <phone>220 941 284</phone>
+      <email>box@seefood.cz</email>
+      <web>www.seefood.cz</web>
+      <info>10 % sleva na veškerý sortiment</info>
+   <latitude>50.1280961</latitude>
+   <longitude>14.3955955</longitude>
+</benefit>

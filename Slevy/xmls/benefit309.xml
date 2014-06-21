@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="309">
+      <name>LEO Express</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Wilsonova 8, Praha 1</address>
+      <phone>777490002</phone>
+      <email>info@le.cz</email>
+      <web>www.le.cz</web>
+      <info>10% sleva z aktuálních cen všech prodávaných jízdenek v tarifní kategorii "Dospělý" po dobu celého roku (včetně letních prázdnin). sleva platí do třídy ECONOMY. Slevu je možno uplatnit v kamenných provozovnách i  v e-shopech www.le.cz.</info>
+   <latitude>50.0792215</latitude>
+   <longitude>14.4300174</longitude>
+</benefit>

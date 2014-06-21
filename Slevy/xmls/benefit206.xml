@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="206">
+      <name>Neoluxor - Knihkupectví Flora</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vinohradská 2828/151, OC Atrium Flora, Praha 2</address>
+      <phone>296 110 801</phone>
+      <email>flora@neoluxor.cz</email>
+      <web>www.neoluxor.cz</web>
+      <info>sleva 10 % na knihy neplatí v rámci internetového knihkupectví ww.neoluxor.cz</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

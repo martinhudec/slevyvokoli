@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1366">
+      <name>Wellness Rooseveltova</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Roosveltova 10, Praha 6</address>
+      <phone>724 509 115</phone>
+      <email>info@centrum-relaxace.cz</email>
+      <web>www.centrum-relaxace.cz</web>
+      <info>HAPPY HOURS po – pá, 10:00 – 15:00 hod. -  30% sleva na Tradiční thajskou masáž 60 minut a Computer Therapy masáž 30 minut</info>
+   <latitude>50.1047414</latitude>
+   <longitude>14.4028525</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="262">
+      <name>Botas Praha</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Radlická 640/11, Praha 5</address>
+      <phone>251 552 906</phone>
+      <email>lerko@lerko.cz</email>
+      <web>www.botas-praha.cz</web>
+      <info>10% sleva na veškerý sortiment, slevu nelze kombinovat s jinými akcemi.  </info>
+   <latitude>50.0625531</latitude>
+   <longitude>14.4045841</longitude>
+</benefit>

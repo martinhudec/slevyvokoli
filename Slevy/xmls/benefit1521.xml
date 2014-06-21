@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1521">
+      <name>Subway - Spálená 59</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Spálená 59, Praha 1</address>
+      <phone>739 232 386</phone>
+      <email>info@mujsub.cz</email>
+      <web>www.subwaysandwiches.cz, www.subway.cz</web>
+      <info>1 + 1 zdarma; druhý sendvič 15 cm ZDARMA při zakoupení sendviče a 0,4l nápoje Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0821372</latitude>
+   <longitude>14.4190294</longitude>
+</benefit>

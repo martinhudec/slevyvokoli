@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="848">
+      <name>Knihcentrum - Obchodní centrum Silesia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Těšínská 44, Opava</address>
+      <phone>725963185</phone>
+      <email>opava.silesia@knihcentrum.cz</email>
+      <web>www.knihcentrum-opava-silesia.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)  </info>
+   <latitude>49.9319144</latitude>
+   <longitude>17.9178141</longitude>
+</benefit>

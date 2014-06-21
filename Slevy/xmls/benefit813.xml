@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="813">
+      <name>DP měst Liberce a Jablonce nad Nisou</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Fügnerova, Liberec</address>
+      <phone>485 344 111</phone>
+      <email>dpml@dpml.cz</email>
+      <web>http://www.dpmlj.cz/</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>50.7657523</latitude>
+   <longitude>15.0573421</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1502">
+      <name>Optika Kocandová</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karlovo náměstí 32/43, Třebíč</address>
+      <phone>568 843 043</phone>
+      <email>trebic@optikakocandova.cz</email>
+      <web>www.optikakocandova.cz</web>
+      <info>sleva 12 % na dioptrické brýle</info>
+   <latitude>49.2154239</latitude>
+   <longitude>15.8826522</longitude>
+</benefit>

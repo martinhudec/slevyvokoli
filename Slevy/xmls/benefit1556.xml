@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1556">
+      <name>Agentura Zvonek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pod Nivami 330, Zlín</address>
+      <phone>577 200 100</phone>
+      <email>zvonek@zvonek.cz</email>
+      <web>www.zvonek.cz</web>
+      <info>sleva 10 % z provize realitní kanceláře při pronájmu či koupi bytu. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>49.2326138</latitude>
+   <longitude>17.6732586</longitude>
+</benefit>

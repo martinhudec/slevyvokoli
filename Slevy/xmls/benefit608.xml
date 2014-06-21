@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="608">
+      <name>Burger King - Václavské náměstí</name>
+      <cardType>ISIC</cardType>
+      <address>Václavské náměstí 801/52, Praha 1</address>
+      <phone/>
+      <email/>
+      <web>www.myburgerking.cz</web>
+      <info>15% sleva na libovolné menu dle aktuální nabídky nebo Hamburger k libovolnému menu ZDARMA Sleva se nevztahuje na provozovnu na Hl. nádraží, Praha.</info>
+   <latitude>50.0805460</latitude>
+   <longitude>14.4280685</longitude>
+</benefit>

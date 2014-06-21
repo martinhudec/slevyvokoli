@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1434">
+      <name>Hotel Ibis Plzeň</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Univerzitní 65, Plzeň</address>
+      <phone>377 887 777</phone>
+      <email>h6734@accor.com</email>
+      <web>www.hotelibis.cz</web>
+      <info>Sleva 30% z nesnížených cen v období od 1.11. do 30.04.. Poté sleva 10% od 1.05. do 31.12.</info>
+   <latitude>49.7252698</latitude>
+   <longitude>13.3273373</longitude>
+</benefit>

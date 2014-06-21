@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1989">
+      <name>Rock point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Poříčí 10, Praha 1</address>
+      <phone>221 899 326, 328</phone>
+      <email>porici@rockpoint.cz</email>
+      <web>www.rockpoint.cz</web>
+      <info>sleva 5 % na nákup zboží</info>
+   <latitude>50.0890938</latitude>
+   <longitude>14.4309910</longitude>
+</benefit>

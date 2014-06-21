@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1950">
+      <name>Repasport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Stupkova 1e, Olomouc</address>
+      <phone>585 411 166, 608 784 862</phone>
+      <email>info@repasport.cz</email>
+      <web>www.repasport.cz</web>
+      <info>sleva 10 % na nezlevněné zboží sleva 20 % na servis</info>
+   <latitude>49.5883457</latitude>
+   <longitude>17.2305746</longitude>
+</benefit>

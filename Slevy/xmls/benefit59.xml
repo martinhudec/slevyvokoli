@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="59">
+      <name>Vitaland</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NC Galerie Butovice, Radlická 117, Praha 5</address>
+      <phone>800 117 800</phone>
+      <email>info@vitaland.cz</email>
+      <web>www.vitaland.cz</web>
+      <info>Sleva 20% na doplňky stravy v síti prodejen Vitaland. Sleva platí v síti prodejen uvedených na: http://www.vitaland.cz/prodejny</info>
+   <latitude>50.0486204</latitude>
+   <longitude>14.3547279</longitude>
+</benefit>

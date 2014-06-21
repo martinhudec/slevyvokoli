@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1586">
+      <name>ADK - vybavení pro manažery</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Průhonu 22, Praha 7</address>
+      <phone>220 386 492</phone>
+      <email>adk@adk.cz</email>
+      <web>www.adk.cz</web>
+      <info>sleva 10% na veškerý sortiment</info>
+   <latitude>50.1049070</latitude>
+   <longitude>14.4478148</longitude>
+</benefit>

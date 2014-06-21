@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1730">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Orbis, Václavské náměstí 42, Praha 1</address>
+      <phone>224 217 335</phone>
+      <email>orbis@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.0811863</latitude>
+   <longitude>14.4270996</longitude>
+</benefit>

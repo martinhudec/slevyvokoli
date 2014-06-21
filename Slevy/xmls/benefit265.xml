@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="265">
+      <name>Rozečti.se</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, e-learning</address>
+      <phone>776 035 931</phone>
+      <email>info@rozectise.cz</email>
+      <web>www.rozectise.cz</web>
+      <info>50 % sleva z plné ceny online kurzů.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

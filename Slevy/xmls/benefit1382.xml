@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1382">
+      <name>Juva Cyklo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sloupského 1197, Uherské Hradiště</address>
+      <phone>572 552 833</phone>
+      <email>juvacyklo@juvacyklo.cz</email>
+      <web>www.juvacyklo.cz</web>
+      <info>sleva 10% na nezlevněné zboží</info>
+   <latitude>49.0697635</latitude>
+   <longitude>17.4572032</longitude>
+</benefit>

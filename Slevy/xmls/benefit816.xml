@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="816">
+      <name>DP města České Budějovice</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Novohradská 738/40, České Budějovice</address>
+      <phone>387 719 111</phone>
+      <email>ik.mercury@dpmcb.cz</email>
+      <web>www.dpmcb.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>48.9628185</latitude>
+   <longitude>14.4878510</longitude>
+</benefit>

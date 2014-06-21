@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1145">
+      <name>Ramala</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hlavní 267, Mariánské Lázně</address>
+      <phone>354 595 240</phone>
+      <email>mar.lazne@ramala.cz</email>
+      <web>www.ramala.cz</web>
+      <info>sleva 5 % na nákup zboží sleva 15 % na servis</info>
+   <latitude>49.9635342</latitude>
+   <longitude>12.7022173</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1143">
+      <name>MTB &amp; SNB Shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Brněnská 24, Svitavy</address>
+      <phone>461 530 614</phone>
+      <email/>
+      <web>http://www.sensor.cz/</web>
+      <info>sleva 10% při platbě v hotovosti</info>
+   <latitude>49.7528887</latitude>
+   <longitude>16.4743002</longitude>
+</benefit>

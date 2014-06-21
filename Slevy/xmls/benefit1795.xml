@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1795">
+      <name>Hotel Starý Pivovar</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Plzeňská 9/229, Praha 5</address>
+      <phone>+420 257 220 631</phone>
+      <email>recepce@hotelstarypivovar.cz</email>
+      <web>www.hotelstarypivovar.cz</web>
+      <info>2 za 1 (2lůžkový pokoj za cenu 1lůžkového) 20% sleva na 3-4lůžkový pokoj</info>
+   <latitude>50.0668498</latitude>
+   <longitude>14.3301650</longitude>
+</benefit>

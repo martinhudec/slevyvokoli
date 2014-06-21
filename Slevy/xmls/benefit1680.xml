@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1680">
+      <name>Megabooks cz - Librairie Francophone</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štěpánská 35, Praha 1</address>
+      <phone>221 401 065</phone>
+      <email>librairie@megabooks.cz</email>
+      <web>www.megabooks.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>50.0787335</latitude>
+   <longitude>14.4251534</longitude>
+</benefit>

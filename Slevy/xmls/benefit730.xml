@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="730">
+      <name>CK Čedok</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>České Vrbné 2327, České Budějovice</address>
+      <phone>385 310 305</phone>
+      <email>cedok-cbudejovice-globus@cedok.cz</email>
+      <web>www.cedok.cz</web>
+      <info>7 % sleva ze základní ceny leteckých pobytových zájezdů , vyjmazájezdů do Tuniska na Kanárské ostrovy 5 % sleva ze základní ceny ostatních katalogových zájezdů svýjimkou pobytů označených „Délka pobytu dle přání zákazníka“ Sleva 100 Kč z ceny manipulačního poplatku na vystavenou letenku v kterékoliv kmenové pobočce Čedok a.s.</info>
+   <latitude>49.0014232</latitude>
+   <longitude>14.4508775</longitude>
+</benefit>

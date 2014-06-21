@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="470">
+      <name>McDonald's</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Příkopě 3624, Frýdek Místek</address>
+      <phone/>
+      <email/>
+      <web>www.mcdonalds.cz</web>
+      <info>Denní nabídka: Big Mac a nebo McChicken a střední hranolky za 79 Kč   Ranní nabídka: McMuffin se slaninou a Cappuccino za 49 Kč   McCafe nabídka: Jablečný dort nebo Cheesecake + Cappuccino (0,2 l) nebo Espresso jen za 59 Kč</info>
+   <latitude>49.6812998</latitude>
+   <longitude>18.3491502</longitude>
+</benefit>

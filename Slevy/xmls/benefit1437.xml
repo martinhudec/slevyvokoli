@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1437">
+      <name>Ibis Praha Malá Strana</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Plzeňská 14, Praha 5</address>
+      <phone>221 701 700</phone>
+      <email>resa-praha-re09@accor.com</email>
+      <web>www.hotelibis.cz</web>
+      <info>Sleva 30% z nesnížených cen v období od 1.11. do 30.4.. Poté sleva 10% od 1.05. do 31.12.</info>
+   <latitude>50.0719159</latitude>
+   <longitude>14.4005626</longitude>
+</benefit>

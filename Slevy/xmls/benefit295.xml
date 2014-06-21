@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="295">
+      <name>Burger King - NC Metropole Zličín</name>
+      <cardType>ISIC</cardType>
+      <address>Řevnická 1, Praha</address>
+      <phone>235 013 311</phone>
+      <email>bkmetropole@amrest.eu</email>
+      <web>www.myburgerking.cz</web>
+      <info>15% sleva na libovolné menu dle aktuální nabídky nebo Hamburger k libovolnému menu ZDARMA Sleva se nevztahuje na provozovnu na Hl. nádraží, Praha.</info>
+   <latitude>50.0532950</latitude>
+   <longitude>14.2875481</longitude>
+</benefit>

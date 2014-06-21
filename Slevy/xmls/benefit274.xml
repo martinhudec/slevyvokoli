@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="274">
+      <name>Muzeum české loutky a cirkusu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Velké náměstí 43, Prachatice</address>
+      <phone>388 385 716</phone>
+      <email>loutky_cirkus@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>Snížená cena vstupného pro držitele karet. Běžná cena 50 Kč, cena se slevou 30 Kč.</info>
+   <latitude>49.0124424</latitude>
+   <longitude>13.9980255</longitude>
+</benefit>

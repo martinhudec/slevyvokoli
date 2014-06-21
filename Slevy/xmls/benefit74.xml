@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="74">
+      <name>LIBREX Havířov - Knihkupectví v obchodním domě ELÁN</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>nám. Republiky 860, , Havířov</address>
+      <phone>+420596810074</phone>
+      <email>knihkupectvi14@librex.cz</email>
+      <web>www.librex.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)</info>
+   <latitude>49.7788494</latitude>
+   <longitude>18.4307654</longitude>
+</benefit>

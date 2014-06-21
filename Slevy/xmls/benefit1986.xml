@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1986">
+      <name>Divadlo Minor</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vodičkova 6, Praha 1</address>
+      <phone>222 231 351</phone>
+      <email>minor@minor.cz</email>
+      <web>www.minor.cz</web>
+      <info>sleva 50 % ze vstupného</info>
+   <latitude>50.0784656</latitude>
+   <longitude>14.4217288</longitude>
+</benefit>

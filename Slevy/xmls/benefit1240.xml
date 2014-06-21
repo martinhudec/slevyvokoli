@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1240">
+      <name>SUBFORM - snow &amp; skate shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štěpánská 647/31, Praha 1</address>
+      <phone>222 232 027</phone>
+      <email>office@mysticskates.cz</email>
+      <web>www.subform.cz</web>
+      <info>sleva 5 % na nezlevněné zboží slevy se nesčítají s dalšími slevami</info>
+   <latitude>50.0783549</latitude>
+   <longitude>14.4249763</longitude>
+</benefit>

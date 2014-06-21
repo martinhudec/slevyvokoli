@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="603">
+      <name>Kavárna u Borůvky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Sokolská tř. 943/20, Moravská Ostrava</address>
+      <phone>608231056</phone>
+      <email>karel.chromy@post.cz</email>
+      <web>www.uboruvky.cz</web>
+      <info>Sleva 10% na konzumaci, nevztahuje se na akční sety.</info>
+   <latitude>49.8389166</latitude>
+   <longitude>18.2926113</longitude>
+</benefit>

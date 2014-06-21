@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="10">
+      <name>Optik-centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jeseniova 93, Praha 3</address>
+      <phone>222583399</phone>
+      <email>info@optik-centrum.cz</email>
+      <web>www.optik-centrum.cz</web>
+      <info>25% sleva na brýlové obruby včetně skel a sluneční brýle. 10% sleva na kontaktní čočky a roztoky 10% sleva na ostatní sortiment</info>
+   <latitude>50.0885560</latitude>
+   <longitude>14.4691955</longitude>
+</benefit>

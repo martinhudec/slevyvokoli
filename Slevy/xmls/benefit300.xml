@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="300">
+      <name>Atlant taxi s.r.o.</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>tř. Kosmonautů 8, Olomouc</address>
+      <phone>800113030</phone>
+      <email>info@atlanttaxi.cz</email>
+      <web>www.atlanttaxi.cz</web>
+      <info>22% sleva na jízdné, 17% sleva nástupní sazba, 16% sleva na čekání slevy platné pro rok 2013. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.5892117</latitude>
+   <longitude>17.2684626</longitude>
+</benefit>

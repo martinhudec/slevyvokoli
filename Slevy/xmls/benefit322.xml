@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="322">
+      <name>NICOM</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Smetanova 3, Brno</address>
+      <phone>602323906</phone>
+      <email>valkova@nicom.cz</email>
+      <web>www.nicom.cz</web>
+      <info>15% sleva na všechny kurzy 50% sleva na ponory na zkoušku</info>
+   <latitude>49.2010064</latitude>
+   <longitude>16.6007853</longitude>
+</benefit>

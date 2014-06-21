@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1865">
+      <name>Čajovna Na cestě</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kateřinská 4, Praha 2</address>
+      <phone>774 697 748</phone>
+      <email>cajovnanaceste@email.cz</email>
+      <web>www.cajovna-naceste.cz</web>
+      <info>sleva 10 % na nápoje, jídlo a pochutiny nabízené v čajovně</info>
+   <latitude>50.0727397</latitude>
+   <longitude>14.4232503</longitude>
+</benefit>

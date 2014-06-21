@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="330">
+      <name>General Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Cimburkova 284/4, Praha 3</address>
+      <phone>+420 776 731 049, +420 774 582</phone>
+      <email>info@generalsport.cz</email>
+      <web>www.generalsport.cz</web>
+      <info>10% sleva na sportovní  oblečení značky Under Armour</info>
+   <latitude>50.0848721</latitude>
+   <longitude>14.4492821</longitude>
+</benefit>

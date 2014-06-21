@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1565">
+      <name>Darujsen CZ - dárek pro každého</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jarkovská 362/35, Praha 1</address>
+      <phone>603 205 999</phone>
+      <email>darujsen@darujsen.cz</email>
+      <web>www.darujsen.cz</web>
+      <info>5% sleva</info>
+   <latitude>49.9915230</latitude>
+   <longitude>14.3510107</longitude>
+</benefit>

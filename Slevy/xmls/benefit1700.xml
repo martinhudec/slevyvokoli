@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1700">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého 96, Beroun</address>
+      <phone>311 611 244</phone>
+      <email>beroun@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-pá: 8-18 h so: 8-12 h</info>
+   <latitude>49.9631813</latitude>
+   <longitude>14.0713782</longitude>
+</benefit>

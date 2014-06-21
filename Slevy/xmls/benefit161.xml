@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="161">
+      <name>Státní zámek Náchod</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Náchod</address>
+      <phone>491 426 201</phone>
+      <email>objednávky.nachod@josefov.npu.cz</email>
+      <web>www.zameknachod.cz</web>
+      <info>Sleva z plného vstupného na úroveň sníženého vstupného. Věková hranice pro uplatnění slev je 26 let (včetně). Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.4145722</latitude>
+   <longitude>16.1656347</longitude>
+</benefit>

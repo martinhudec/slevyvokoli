@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="671">
+      <name>Expreska Praha Stodůlky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Suchý Vršek 2122/33, Praha 5</address>
+      <phone>777 787 623</phone>
+      <email>praha-stodulky@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>50.0473841</latitude>
+   <longitude>14.3449111</longitude>
+</benefit>

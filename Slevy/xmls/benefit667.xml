@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="667">
+      <name>Oblastní spolek Českého červeného kříže Hradec Králové</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Mostecká 290/3, Hradec Králové</address>
+      <phone>495 458 326</phone>
+      <email>hradeckralove@cervenykriz.eu</email>
+      <web>www.cckhk.cz</web>
+      <info>Sleva 15% na kurzy první pomoci pro veřejnost. Slevu je možno uplatnit pouze osbně v organizaci. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.2099247</latitude>
+   <longitude>15.8294373</longitude>
+</benefit>

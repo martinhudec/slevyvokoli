@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1926">
+      <name>Studio KMM - výtvarné a tvořivé kurzy</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Horňátecká 1772/19, Praha 8 - Kobylisy</address>
+      <phone>739 251 148</phone>
+      <email>studio.kmm@seznam.cz</email>
+      <web>www.studiokmm.com</web>
+      <info>sleva 15% ze základní ceny kurzu slevy se nedají sčítat a kombinovat s ostatními slevami</info>
+   <latitude>50.1298704</latitude>
+   <longitude>14.4515842</longitude>
+</benefit>

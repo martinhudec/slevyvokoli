@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="662">
+      <name>KFC - Liberec</name>
+      <cardType>ISIC</cardType>
+      <address>Soukenné nám. 121/1, Liberec 4</address>
+      <phone>235 013 441</phone>
+      <email>kfcliberec@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>50.7666873</latitude>
+   <longitude>15.0563427</longitude>
+</benefit>

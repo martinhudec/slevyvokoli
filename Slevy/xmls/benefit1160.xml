@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1160">
+      <name>HUDYsport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jungmannova 30, Praha 1</address>
+      <phone>224 946 893</phone>
+      <email>praha.jungmannova@hudy.cz</email>
+      <web>www.hudy.cz</web>
+      <info>sleva 7 % na nákup zboží</info>
+   <latitude>50.0905604</latitude>
+   <longitude>14.4203810</longitude>
+</benefit>

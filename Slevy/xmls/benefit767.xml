@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="767">
+      <name>Lyžařský areál a rekreační středisko Trnava u Zlína</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Trnava-Luhy, Trnava u Zlína</address>
+      <phone>577 988 212</phone>
+      <email>info@rstrnava.cz</email>
+      <web>www.rstrnava.cz</web>
+      <info>10% sleva z ceny jakékoliv permanentní jízdenky</info>
+   <latitude>49.2960320</latitude>
+   <longitude>17.8419171</longitude>
+</benefit>

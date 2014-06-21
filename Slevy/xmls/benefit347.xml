@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="347">
+      <name>Lee Cooper Plaza</name>
+      <cardType>ISIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palachova 1440, Liberec</address>
+      <phone>251011012</phone>
+      <email>f5412k1@lee-cooper.net</email>
+      <web>https://www.leecooper.com/</web>
+      <info>20% sleva na nezlevněné zboží</info>
+   <latitude>50.7696417</latitude>
+   <longitude>15.0605583</longitude>
+</benefit>

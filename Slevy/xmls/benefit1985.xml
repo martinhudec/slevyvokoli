@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1985">
+      <name>Lékárna na Mendlově náměstí</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mendlovo náměstí 14, Brno</address>
+      <phone>543 212 557</phone>
+      <email>info@24-lekarna.cz</email>
+      <web>www.lekarna.zdravcentra.cz/mendlovonam…</web>
+      <info>sleva 6 % z prodejní ceny (volný prodej)</info>
+   <latitude>49.1898505</latitude>
+   <longitude>16.5945000</longitude>
+</benefit>

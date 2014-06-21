@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1530">
+      <name>Požitkáři.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 18, Jablonec nad Nisou</address>
+      <phone>840 113 322, 777 010 438</phone>
+      <email>zijeme@pozitkari.cz</email>
+      <web>www.pozitkari.cz</web>
+      <info>sleva 8 % ze všech produktů</info>
+   <latitude>50.7209591</latitude>
+   <longitude>15.1663679</longitude>
+</benefit>

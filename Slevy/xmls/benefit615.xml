@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="615">
+      <name>KFC - Praha Anděl</name>
+      <cardType>ISIC</cardType>
+      <address>Plzeňská 2, Praha 5</address>
+      <phone>235 013 403</phone>
+      <email>kfcandel@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč Sleva platí pouze v kamenné prodejně.      </info>
+   <latitude>50.0719213</latitude>
+   <longitude>14.3999873</longitude>
+</benefit>

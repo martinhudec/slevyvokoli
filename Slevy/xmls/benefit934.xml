@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="934">
+      <name>Optika Kroumanová</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mariánské nám.1 - budova Gity, Brno</address>
+      <phone>734 619 336</phone>
+      <email>optikavbrne@seznam.cz</email>
+      <web>www.optikavbrne.cz</web>
+      <info>Sleva 10% na veškerý servis a služby.</info>
+   <latitude>49.1950602</latitude>
+   <longitude>16.6068371</longitude>
+</benefit>

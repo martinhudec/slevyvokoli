@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1210">
+      <name>O KČT Bolevec Plzeň</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Brněnská 43, Plzeň</address>
+      <phone>37705210106</phone>
+      <email>ptacek.kctbolevec@seznam.cz</email>
+      <web>http://kctrozvoj.sweb.cz</web>
+      <info>sleva ze základního startovného při mezinárodních turistických akcích IVV a dalších předem vyhlášených akcích výše slevy je vždy předem vyhlášena v propozicích akce</info>
+   <latitude>49.7615345</latitude>
+   <longitude>13.3531224</longitude>
+</benefit>

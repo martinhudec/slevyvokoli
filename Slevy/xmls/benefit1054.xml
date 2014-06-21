@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1054">
+      <name>Autoturist</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Divadelní 3, Brno</address>
+      <phone>542 212 907, 724 750 021</phone>
+      <email>info@brno.autoturist.cz</email>
+      <web>www.autoturist.cz</web>
+      <info>sleva 10 % na zájezdy z katalogu Autoturist v tištěné i online verzi sleva na asistenční klubové karty pro motoristy ÚAMK: 200 Kč roční, platná pro EU 100 Kč tříměsíční, platná pro EU 100 Kč roční, platná pro ČR</info>
+   <latitude>49.1948468</latitude>
+   <longitude>16.6142283</longitude>
+</benefit>

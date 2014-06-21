@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="507">
+      <name>McDonald's</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rudná 2, dálnice D5 (4 km), směr Plzeň - Drahelčice, Rudná u Prahy</address>
+      <phone/>
+      <email/>
+      <web>www.mcdonalds.cz</web>
+      <info>Denní nabídka: Big Mac a nebo McChicken a střední hranolky za 79 Kč   Ranní nabídka: McMuffin se slaninou a Cappuccino za 49 Kč  </info>
+   <latitude>50.0755381</latitude>
+   <longitude>14.4378005</longitude>
+</benefit>

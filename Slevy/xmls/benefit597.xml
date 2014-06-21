@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="597">
+      <name>Franck Provost - The Park</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>V Parku 2308/08, Praha 4 - Chodov</address>
+      <phone>272659951</phone>
+      <email>lorma@volny.cz</email>
+      <web>www.franckprovost.cz</web>
+      <info>35% sleva na služby Po-Pá 8-14 hod.</info>
+   <latitude>50.0284058</latitude>
+   <longitude>14.4934399</longitude>
+</benefit>

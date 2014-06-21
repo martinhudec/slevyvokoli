@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="637">
+      <name>KFC - Praha Globus</name>
+      <cardType>ISIC</cardType>
+      <address>Sárská 124, Praha 13</address>
+      <phone>235 013 408</phone>
+      <email>kfcglobus@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč</info>
+   <latitude>50.0525615</latitude>
+   <longitude>14.2923388</longitude>
+</benefit>

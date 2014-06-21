@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="374">
+      <name>Jazz Rock Cafe</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sedláčkova 18, Plzeň</address>
+      <phone>377 224 294</phone>
+      <email>info@jazzrockcafe.cz</email>
+      <web>http://jazz.magicpoint.cz</web>
+      <info>Happy Hour: 19 - 21 hod - dle denní nabídky sleva až 50% na drinky, mimo dny s živou hudbou</info>
+   <latitude>49.7475664</latitude>
+   <longitude>13.3755378</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1941">
+      <name>HG sport - vodácké vybavení</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vodácká 835, Praha 7</address>
+      <phone>251510464</phone>
+      <email>info@hgsport.cz</email>
+      <web>www.hgsport.cz</web>
+      <info>7% sleva na veškerý sortiment při platbě v hotovosti</info>
+   <latitude>50.1148508</latitude>
+   <longitude>14.4374400</longitude>
+</benefit>

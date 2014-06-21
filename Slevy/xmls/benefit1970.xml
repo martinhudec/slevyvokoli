@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1970">
+      <name>TS Bohemia - výpočetní technika</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Veveří 2581/102, Brnoc - Žabovřesky</address>
+      <phone>585 157 490</phone>
+      <email>brno@tsbohemia.cz</email>
+      <web>www.tsbohemia.cz</web>
+      <info>nákup celého aktuálního sortimentu za ceny určené velkoobchodním odběratelům</info>
+   <latitude>49.2101926</latitude>
+   <longitude>16.5899805</longitude>
+</benefit>

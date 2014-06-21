@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1732">
+      <name>Dům knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dům knihy, Václavské náměstí 4, Praha 1</address>
+      <phone>224 219 214</phone>
+      <email>dumknihy@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.0838284</latitude>
+   <longitude>14.4236625</longitude>
+</benefit>

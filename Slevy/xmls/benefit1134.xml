@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1134">
+      <name>Hotel Albatros****</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vodnanská 1277, Prachatice</address>
+      <phone>388 311 400, 388 311 245</phone>
+      <email>albatros-pt@albatros-pt.cz</email>
+      <web>www.hotelalbatros.cz</web>
+      <info>sleva 10 % na veškeré služby zařízení kromě stravování sleva se nevztahuje na již ceny po slevě</info>
+   <latitude>49.0198693</latitude>
+   <longitude>14.0063086</longitude>
+</benefit>

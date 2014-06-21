@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1246">
+      <name>Miss Cosmetic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Stodolní 17, Ostrava</address>
+      <phone>725 772 834</phone>
+      <email>jarmila.muranova@misscosmetic.cz</email>
+      <web>www.ceske-wellness.cz</web>
+      <info>sleva 17 % na produkty Miss Cosmetic sleva 270 Kč na poradenství v oblasti péče o pleť (původní cena 400 Kč) na pobočky je nutné se předem objednat</info>
+   <latitude>49.8354146</latitude>
+   <longitude>18.2836567</longitude>
+</benefit>

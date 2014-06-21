@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1004">
+      <name>Buy it now - Krámky.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, eshop</address>
+      <phone>728 968 706</phone>
+      <email>borovsky@gmail.com</email>
+      <web>www.kramky.cz/buy-it-now</web>
+      <info>sleva 10 % na veškeré zboží an eshopu www.kramky.cz/buy-it-now.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

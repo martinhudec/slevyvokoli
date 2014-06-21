@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="368">
+      <name>Centrum Tance</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Novákových 1954/20a, Praha 8</address>
+      <phone>266 190 300</phone>
+      <email>infovcentrumtance.cz</email>
+      <web>www.centrumtance.cz</web>
+      <info>  20% sleva pro katy ISIC, IYTC a ITIC 10% pro kartu ALIVE na kurzy, otevřené lekce a semináře v Centru Tance s tuzemskými lektory.  </info>
+   <latitude>50.1032626</latitude>
+   <longitude>14.4765975</longitude>
+</benefit>

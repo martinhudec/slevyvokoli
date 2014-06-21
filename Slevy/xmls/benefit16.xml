@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="16">
+      <name>Městská kina Uherské Hradiště</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Míru 951, Uherské Hradiště</address>
+      <phone>+420 576 514 200</phone>
+      <email>info@mkuh.cz</email>
+      <web>www.mkuh.cz</web>
+      <info>20,- Kč sleva na zakoupení průkazu Zlatého fondu a Artu 20,- Kč sleva na projekce Zlatého fondu a Artu slevy nelze sčítat</info>
+   <latitude>49.0674449</latitude>
+   <longitude>17.4688436</longitude>
+</benefit>

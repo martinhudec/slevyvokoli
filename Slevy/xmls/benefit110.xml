@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="110">
+      <name>Oční klinika DuoVize</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sokolská 35, Praha 2</address>
+      <phone>223 009 068, 777 643 020</phone>
+      <email>info@duovize.cz</email>
+      <web>www.duovize.cz</web>
+      <info>15%  sleva na laserové operace metodou NeoLASIK HD.</info>
+   <latitude>50.0757503</latitude>
+   <longitude>14.4289674</longitude>
+</benefit>

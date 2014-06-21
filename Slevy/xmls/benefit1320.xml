@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1320">
+      <name>Obří akvárium</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Baarova 1663/10, Hradec Králové</address>
+      <phone>495 534 555</phone>
+      <email>web@obriakvarium.cz</email>
+      <web>www.obriakvarium.cz</web>
+      <info>Vstup pro držitele karet za cenu dětského vstupného, a to v pracovní dny, tedy mimo víkendů a státních svátků. Vstup bude umožněn jen v průběhu běžné otevírací doby provozovny. Více informací zde.</info>
+   <latitude>50.2046163</latitude>
+   <longitude>15.8188677</longitude>
+</benefit>

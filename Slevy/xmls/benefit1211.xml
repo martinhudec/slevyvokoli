@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1211">
+      <name>SUBFORM - snow &amp; skate shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Běhounská 7, Brno</address>
+      <phone>542 221 262</phone>
+      <email>shop@subform.cz</email>
+      <web>www.subform.cz</web>
+      <info>sleva 5 % na nezlevněné zboží slevy se nesčítají s dalšími slevami</info>
+   <latitude>49.1961545</latitude>
+   <longitude>16.6088758</longitude>
+</benefit>

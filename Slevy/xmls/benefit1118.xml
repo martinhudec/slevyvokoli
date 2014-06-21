@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1118">
+      <name>Oční optika APIA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Arkády Pankrác, Na Pankráci 86, Praha 4</address>
+      <phone>225 111 522, 725 579 935</phone>
+      <email>arkady@ocnioptika.com</email>
+      <web>www.ocnioptika.com</web>
+      <info>sleva 10 % na brýlové dioptrické obruby a sluneční brýle sleva 7 % na kontaktní čočky</info>
+   <latitude>50.0511586</latitude>
+   <longitude>14.4391031</longitude>
+</benefit>

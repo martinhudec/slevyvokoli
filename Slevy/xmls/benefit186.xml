@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="186">
+      <name>D-Sport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tesco, Železničářů 8, Havířov</address>
+      <phone>553 034 230, 730 515 560</phone>
+      <email>havirov.decko@seznam.cz</email>
+      <web>www.dsport.eu</web>
+      <info>15% sleva  na nezlevnéné zboží 5% sleva na již zlevněné zboží Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7914546</latitude>
+   <longitude>18.4197989</longitude>
+</benefit>

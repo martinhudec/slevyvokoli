@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="975">
+      <name>Helly Hansen</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nádražní 1759, České Budějovice - DOC Mercury</address>
+      <phone>386 221 609</phone>
+      <email>hellyhansenbudejovice@email.cz</email>
+      <web>www.hellyhansen.cz</web>
+      <info>15% sleva na nezlevněné zboží</info>
+   <latitude>48.9726997</latitude>
+   <longitude>14.4874059</longitude>
+</benefit>

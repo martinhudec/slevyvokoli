@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1694">
+      <name>Studio Papilon</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Komenského 1683, Vlašim</address>
+      <phone>317 847 534</phone>
+      <email>studiopapilon@seznam.cz</email>
+      <web>www.studiopapilon.cz</web>
+      <info>40% sleva na solária</info>
+   <latitude>49.7050936</latitude>
+   <longitude>14.8973455</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1120">
+      <name>Restaurant Jáva Café</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štěpánská 61 (pasáž Lucerna), Praha 1</address>
+      <phone>296 236 343</phone>
+      <email>info@javacafe.cz</email>
+      <web>www.javacafe.cz</web>
+      <info>sleva 30 % na hlavní jídlo dle denní nabídky 15 - 17 hod ve všední dny</info>
+   <latitude>50.0878334</latitude>
+   <longitude>14.4210489</longitude>
+</benefit>

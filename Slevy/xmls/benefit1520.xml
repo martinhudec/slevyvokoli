@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1520">
+      <name>El Nino</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého náměstí 2, Praha 2</address>
+      <phone>224 914 291</phone>
+      <email>elnino@extremedistribution.cz</email>
+      <web>www.elninoshop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>50.0734848</latitude>
+   <longitude>14.4145152</longitude>
+</benefit>

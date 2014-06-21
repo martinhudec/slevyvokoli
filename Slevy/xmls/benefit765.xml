@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="765">
+      <name>Ski areál Tanvaldský Špičák</name>
+      <cardType>ISIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Údolí Kamenice, Tanvald</address>
+      <phone>731 412 102, 733 535 350</phone>
+      <email>info@skijizerky.cz</email>
+      <web>www.skijizerky.cz</web>
+      <info>10% v období 26.12.2012 - 18.3.2013 20% v období do 25.12.2012 a od 19.3.2013 sleva platí pouze pro časové skipasy</info>
+   <latitude>50.7496440</latitude>
+   <longitude>15.2668752</longitude>
+</benefit>

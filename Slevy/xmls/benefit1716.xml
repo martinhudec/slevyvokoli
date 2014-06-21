@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1716">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NC Eden, U Slávie 1527, Praha 10</address>
+      <phone>272 731 985</phone>
+      <email>eden@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>35.7595731</latitude>
+   <longitude>-79.0192997</longitude>
+</benefit>

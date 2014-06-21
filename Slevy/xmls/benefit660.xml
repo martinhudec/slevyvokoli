@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="660">
+      <name>KFC - Liberec Nisa</name>
+      <cardType>ISIC</cardType>
+      <address>České Mládeže 456, Liberec</address>
+      <phone>235 013 452</phone>
+      <email>kfcnisa@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč 2x iTwist nebo 2x Longer nebo 1x iTwist a 1x Longer za 49 Kč  </info>
+   <latitude>50.7414746</latitude>
+   <longitude>15.0490843</longitude>
+</benefit>

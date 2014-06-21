@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1273">
+      <name>Divadlo J. K. Tyla v Plzni - Komorní divadlo</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Prokopova 14, Plzeň</address>
+      <phone>377 226 743</phone>
+      <email/>
+      <web>www.djkt-plzen.cz</web>
+      <info>sleva 2 za 1 - 30 minut před začátkem představení na 2 vstupenky studentské slevy se neposkytují na představení Divadla v klubu, premiéry a představení hostujících souborů</info>
+   <latitude>49.7427858</latitude>
+   <longitude>13.3788425</longitude>
+</benefit>

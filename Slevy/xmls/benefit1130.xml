@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1130">
+      <name>Ewto</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Gymnázium Třinec, Komenského 713, Třinec</address>
+      <phone>777 344 224</phone>
+      <email>michal.macura@ewto.cz</email>
+      <web>www.ewto.cz</web>
+      <info>sleva 10 % na veškeré pořádané kurzy sebeobrany WingTsun</info>
+   <latitude>49.6731876</latitude>
+   <longitude>18.6745872</longitude>
+</benefit>

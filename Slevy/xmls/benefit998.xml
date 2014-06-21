@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="998">
+      <name>Solárium PROFI</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bubeníčkova 8, Brno</address>
+      <phone>548 214 686</phone>
+      <email>info@solariumprofi.cz</email>
+      <web>www.solariumprofi.cz</web>
+      <info>15 % na jednorázové opalování a permanentky v solárním studiu, 15 % na solární kosmetiku</info>
+   <latitude>49.2010811</latitude>
+   <longitude>16.6365545</longitude>
+</benefit>

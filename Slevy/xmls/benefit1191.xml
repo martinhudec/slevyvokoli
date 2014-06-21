@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1191">
+      <name>Zelená hvězda - prodejna zdravotnických potřeb</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hlinky 64, Brno</address>
+      <phone>543 215 444</phone>
+      <email>info@steriway.cz</email>
+      <web>www.steriway.cz/Prodejny_Brno.aspx</web>
+      <info>sleva 5 % na zboží</info>
+   <latitude>49.1935915</latitude>
+   <longitude>16.5701180</longitude>
+</benefit>

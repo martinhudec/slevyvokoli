@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1627">
+      <name>Křížem Krážem - restuarace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Krocínova 5, Praha 1</address>
+      <phone>224 226 666</phone>
+      <email>restaurante@email.cz</email>
+      <web>www.krizemkrazem.net</web>
+      <info>sleva 10 % na jídlo a nealkoholické nápoje z menu sleva neplatí na již zvýhodněná polední menu a happy hours slevu nelze sčítat s jinými slevami</info>
+   <latitude>50.0822036</latitude>
+   <longitude>14.4146773</longitude>
+</benefit>

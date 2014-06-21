@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1280">
+      <name>Zážitky.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Poříčí 12, Praha 1</address>
+      <phone>222 313 010</phone>
+      <email>info@zazitky.cz</email>
+      <web>www.zazitky.cz</web>
+      <info>sleva 10 % na všechny produkty, mimo označených lokalit textem: "ZÁRUKA NEJLEPŠÍ CENY"</info>
+   <latitude>50.0892171</latitude>
+   <longitude>14.4310054</longitude>
+</benefit>

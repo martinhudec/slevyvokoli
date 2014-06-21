@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1146">
+      <name>Ramala</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Niederleho 84, Klatovy</address>
+      <phone>376 323 377</phone>
+      <email>klatovy@ramala.cz</email>
+      <web>www.ramala.cz</web>
+      <info>sleva 5 % na nákup zboží sleva 15 % na servis</info>
+   <latitude>49.3957471</latitude>
+   <longitude>13.2846460</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1681">
+      <name>Megabooks cz - Academic Bookshop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kateřinská 15, Praha 2</address>
+      <phone>224 941 399</phone>
+      <email>katerinska@megabooks.cz</email>
+      <web>www.megabooks.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>50.0749173</latitude>
+   <longitude>14.4268664</longitude>
+</benefit>

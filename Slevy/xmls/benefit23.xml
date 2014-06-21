@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="23">
+      <name>Burrito Loco</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Spálená 43, Praha</address>
+      <phone>606039333</phone>
+      <email>info@burritoloco.cz</email>
+      <web>www.burritoloco.cz</web>
+      <info>10% sleva</info>
+   <latitude>50.0813110</latitude>
+   <longitude>14.4193684</longitude>
+</benefit>

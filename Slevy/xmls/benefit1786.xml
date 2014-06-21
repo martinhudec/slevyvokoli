@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1786">
+      <name>Pizza U Staré pece - Pizzeria Einstein</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Olšanské nám.8, Praha 3</address>
+      <phone>222 733 554</phone>
+      <email/>
+      <web>www.pizzaustarepece.cz</web>
+      <info>Sleva: 1 + 1 ZDARMA Nabídka platí pro: pizza 400 g, těstoviny 400 g a saláty 400 g. Nabídka platí pouze v kamenné provozovně. Kartu, prosím, předložte vždy před objednáním. V opačném případě nelze uplatnit slevu při závěrečném vyúčtování. Při použití karty ISIC/ITIC/ALIVE/IYTC již není možné využívat jiné slevy poskytované restaurací.</info>
+   <latitude>50.0824388</latitude>
+   <longitude>14.4588258</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="9">
+      <name>Sartor - hedvábný obchod</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karmelitská 14, Praha 1</address>
+      <phone>777 511 114</phone>
+      <email>sartor@sartor.cz</email>
+      <web>www.sartor.cz</web>
+      <info>10% sleva na veškerý sortiment. Slevu je možno uplatnit v kamenné prodejně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0859086</latitude>
+   <longitude>14.4042771</longitude>
+</benefit>

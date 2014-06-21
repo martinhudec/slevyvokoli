@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="383">
+      <name>Fitness centrum Contours Kladno</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Osvob. politických vězňů 341, Kladno</address>
+      <phone>604 658 434</phone>
+      <email>kladno@contours.cz</email>
+      <web>www.contours.cz/kladno</web>
+      <info>10% sleva na členství. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1416986</latitude>
+   <longitude>14.1067465</longitude>
+</benefit>

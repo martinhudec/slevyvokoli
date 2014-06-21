@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1844">
+      <name>Excel - jazykové centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Přemyslovců 33, Ostrava</address>
+      <phone>596 630 138</phone>
+      <email>info@excel-jc.cz</email>
+      <web>www.excel-jc.cz</web>
+      <info>10 % z katalogové ceny jazykových kurzů pro veřejnost</info>
+   <latitude>49.8303249</latitude>
+   <longitude>18.2546165</longitude>
+</benefit>

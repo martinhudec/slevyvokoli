@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="130">
+      <name>K3 Bohumín, příspěvková organizace - Knihovna</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vrchlického 262, Bohumín</address>
+      <phone>596 013 027</phone>
+      <email>k3@k3bohumin.cz</email>
+      <web>www.k3bohumin.cz</web>
+      <info>20 Kč sleva z ročního registračního poplatku pro dospělé ve všech pobočkách K3 Bohumín. Běžná cena 110 Kč, cena po slevě 90 Kč.</info>
+   <latitude>49.9045396</latitude>
+   <longitude>18.3596892</longitude>
+</benefit>

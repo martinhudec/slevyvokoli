@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="154">
+      <name>Salvia - lékárna</name>
+      <cardType>ISIC</cardType>
+      <address>Tř, Tomáše Bati 3119, Zlín</address>
+      <phone>+420 577 221 511</phone>
+      <email>lekarna@salviazlin.cz</email>
+      <web>www.salviazlin.cz</web>
+      <info>5 % sleva na veškerý sortiment, nevztahuje se na zboží ve slevě a regulační poplatky. Slevu je možno uplatnit pouze v kamenné prodejně. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>49.2255325</latitude>
+   <longitude>17.6669005</longitude>
+</benefit>

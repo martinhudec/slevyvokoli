@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="26">
+      <name>Veterinární klinika a chovatelské potřeby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kounicova 2, Brno</address>
+      <phone>777 322 230, 541 213 311</phone>
+      <email>katulka.de@gmail.com</email>
+      <web>www,brno-veterina.cz</web>
+      <info>10% sleva na veškeré úkony ve veterinární klinice. 10% sleva na nákup chovatelských potřeb. Sleva platí v kamenné provozovně.</info>
+   <latitude>49.1999810</latitude>
+   <longitude>16.6053255</longitude>
+</benefit>

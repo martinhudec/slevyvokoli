@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="398">
+      <name>Study Line</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Uhelný trh 9, Praha 1</address>
+      <phone>224233428</phone>
+      <email>jtykal@studyline.cz</email>
+      <web>www.studyline.cz</web>
+      <info>500 Kč sleva u pobytů na 2-4 týdny, 1000 Kč sleva u pobytů na 5 - 10 týdnů, 1500 Kč sleva u pobytů na 11 a více týdnů</info>
+   <latitude>50.0837090</latitude>
+   <longitude>14.4205197</longitude>
+</benefit>

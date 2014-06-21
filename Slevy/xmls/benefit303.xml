@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="303">
+      <name>Ovocné kytice Frutiko</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mánesova 11, Praha 2</address>
+      <phone>601570492</phone>
+      <email>info@frutiko.cz</email>
+      <web>www.frutiko.cz</web>
+      <info>20% sleva na ovocné kytice a bonboniéry Frutiko.cz při online objednávce zadáním čísla karty do pole na slevu.  </info>
+   <latitude>50.0791308</latitude>
+   <longitude>14.4361197</longitude>
+</benefit>

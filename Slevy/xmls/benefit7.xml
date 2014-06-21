@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="7">
+      <name>Lokál Nad Stromovkou</name>
+      <cardType>ISIC</cardType>
+      <address>Nad Královskou oborou 232/31, Praha 7 - Bubenč</address>
+      <phone>220 912 319</phone>
+      <email>nadstromovkou@ambi.cz</email>
+      <web>www.lokal.cz</web>
+      <info>20% sleva na jídlo objednané do 18. hodiny ve všech restauracích Lokál. Kartu Lokál  získá student po předložení platného průkazu ISIC.</info>
+   <latitude>50.1030876</latitude>
+   <longitude>14.4182643</longitude>
+</benefit>

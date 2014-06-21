@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="984">
+      <name>SEG AGENCY</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husova 8a, Brno</address>
+      <phone>776050600</phone>
+      <email>info@segagency.cz</email>
+      <web>www.segagency.cz</web>
+      <info>Segway Tour s průvodcem (1+1 osoba za 50 % základní ceny) Segway Tour bez průvodce (1+1 osoba za 50 % základní ceny)</info>
+   <latitude>49.1931227</latitude>
+   <longitude>16.6051900</longitude>
+</benefit>

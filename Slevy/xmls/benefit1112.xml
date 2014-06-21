@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1112">
+      <name>Paneria</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Francouzská 20, Praha 2</address>
+      <phone>222 515 473, 606 640 134</phone>
+      <email>paneria.14@eureca-shops.cz</email>
+      <web>www.paneria.cz</web>
+      <info>ISIC Alive Menu: Kuřecí panini a Coca Cola 0,5l pet, cena menu 65,-Kč sleva 10 % při nákupu nad 100,-Kč slevy nelze kombinovat</info>
+   <latitude>50.0737386</latitude>
+   <longitude>14.4396882</longitude>
+</benefit>

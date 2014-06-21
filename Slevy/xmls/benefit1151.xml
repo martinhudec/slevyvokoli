@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1151">
+      <name>Ramala</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pod Baštami 3, Praha 6</address>
+      <phone>222 516 800</phone>
+      <email>praha@ramala.cz</email>
+      <web>www.ramala.cz</web>
+      <info>sleva 5 % na nákup zboží sleva 15 % na servis</info>
+   <latitude>50.0965239</latitude>
+   <longitude>14.4039318</longitude>
+</benefit>

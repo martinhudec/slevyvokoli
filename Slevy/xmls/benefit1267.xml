@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1267">
+      <name>Hannah</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Veselská 663, Praha 9</address>
+      <phone>286 583 911</phone>
+      <email>prodejna.letnany@hannah.cz</email>
+      <web>www.hannah.cz</web>
+      <info>sleva 5 % na nákup sortimentu</info>
+   <latitude>50.1350535</latitude>
+   <longitude>14.5012747</longitude>
+</benefit>

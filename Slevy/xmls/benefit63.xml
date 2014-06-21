@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="63">
+      <name>KFC - Olomouc Šantovka</name>
+      <cardType>ISIC</cardType>
+      <address>Polská 1, Olomouc</address>
+      <phone>235 013 400</phone>
+      <email>kfcsantovka@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč Sleva platí pouze v kamenné prodejně.</info>
+   <latitude>49.5886593</latitude>
+   <longitude>17.2571042</longitude>
+</benefit>

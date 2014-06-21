@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1414">
+      <name>SPRINT tenisová a badmintonová hala</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sportovní 2a, Brno</address>
+      <phone>541 210 455</phone>
+      <email>info@sprinttenis.cz</email>
+      <web>www.sprinttenis.cz</web>
+      <info>až 30% sleva na pronájem tenisové haly a badmintonových kurtů</info>
+   <latitude>49.2122925</latitude>
+   <longitude>16.6080619</longitude>
+</benefit>

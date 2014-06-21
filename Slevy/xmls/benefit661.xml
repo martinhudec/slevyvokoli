@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="661">
+      <name>KFC - Liberec Globus</name>
+      <cardType>ISIC</cardType>
+      <address>Sousedská 624, Liberec</address>
+      <phone>235 013 461</phone>
+      <email>kfcglobusliberec@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč  </info>
+   <latitude>50.7749487</latitude>
+   <longitude>15.0296253</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1701">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Krakonošovo n. 19, Trutnov</address>
+      <phone>499 819 183</phone>
+      <email>trutnov@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-pá: 8-18 h so: 8-12 h</info>
+   <latitude>50.5601951</latitude>
+   <longitude>15.9132790</longitude>
+</benefit>

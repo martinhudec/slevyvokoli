@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1144">
+      <name>HUDYsport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Letiště Ruzyně,Terminál 2 (poblíž brány G5) , praha 6</address>
+      <phone>220 118 547</phone>
+      <email>praha.ruzyne@hudy.cz</email>
+      <web>www.hudy.cz</web>
+      <info>sleva 7 % na nákup zboží</info>
+   <latitude>50.1005785</latitude>
+   <longitude>14.3954363</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="113">
+      <name>Fit4Slim Benešov</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 295, Benešov</address>
+      <phone>734 408 005</phone>
+      <email>fit4slim@fit4slim.cz</email>
+      <web>www.fit4slim.cz</web>
+      <info>25% sleva na registraci do klubu Fit4Slim</info>
+   <latitude>49.7842200</latitude>
+   <longitude>14.6861794</longitude>
+</benefit>

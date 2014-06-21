@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="350">
+      <name>SEEFOOD Shop, Zborovská</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zborovská 49, Praha 5</address>
+      <phone>257 320 109</phone>
+      <email>zborovska@seefood.cz</email>
+      <web>www.seefood.cz</web>
+      <info>10% sleva na veškerý sortiment</info>
+   <latitude>50.0809921</latitude>
+   <longitude>14.4068445</longitude>
+</benefit>

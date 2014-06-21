@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="168">
+      <name>Státní zámek Litomyšl</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Litomyšl</address>
+      <phone>461 615 067, 775 422 218</phone>
+      <email>litomysl@pardubice.npu.cz</email>
+      <web>www.zamek-litomysl.cz</web>
+      <info>Sleva z plného vstupného na úroveň sníženého vstupného. Věková hranice pro uplatnění slev je 26 let (včetně). Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.8705226</latitude>
+   <longitude>16.3110623</longitude>
+</benefit>

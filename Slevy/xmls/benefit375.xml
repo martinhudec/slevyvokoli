@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="375">
+      <name>Archa Music Bar</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Veleslavínova 22, Plzeň</address>
+      <phone>377 329 536</phone>
+      <email>archa@magicpoint.cz</email>
+      <web>http://archa.magicpoint.cz</web>
+      <info>Happy Hour 19 - 21 hod - dle denní nabídky sleva až 50% na drinky. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7488902</latitude>
+   <longitude>13.3796568</longitude>
+</benefit>

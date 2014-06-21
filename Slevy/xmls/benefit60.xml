@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="60">
+      <name>newbike.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lysovice 121, Vyškov</address>
+      <phone>777 915 665</phone>
+      <email>obchod@newbike.cz</email>
+      <web>www.newbike.cz</web>
+      <info>Sleva 8% na veškeré zboží. Sleva se nevztahuje na již zlevněné zboží, zboží v akci. Sleva platí v e-shopu.</info>
+   <latitude>49.2199498</latitude>
+   <longitude>16.9737363</longitude>
+</benefit>

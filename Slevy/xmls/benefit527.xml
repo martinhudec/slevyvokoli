@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="527">
+      <name>Oxford TEFL</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Národní 25/B, Praha 1</address>
+      <phone>221085255</phone>
+      <email>info@oxfordtefl.cz</email>
+      <web>www.oxfordtefl.cz</web>
+      <info>10% sleva kurzů English 1000, English 1500 a Big Package + 1 měsíc kurzu English 1000 zdarma</info>
+   <latitude>50.0821357</latitude>
+   <longitude>14.4180018</longitude>
+</benefit>

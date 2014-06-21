@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="264">
+      <name>Království hodinek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bohunická 403/55a, Brno</address>
+      <phone>731 464 368</phone>
+      <email>info@kralovstvihodinek.cz</email>
+      <web>www.kralovstvihodinek.cz</web>
+      <info>20% sleva na nabízené zboží</info>
+   <latitude>49.1626645</latitude>
+   <longitude>16.6010304</longitude>
+</benefit>

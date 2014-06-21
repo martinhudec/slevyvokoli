@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1901">
+      <name>Ristorante Bonaccia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Bendovce 16, Praha 8</address>
+      <phone>233 552 581</phone>
+      <email>martin.sos@gastroparty.cz</email>
+      <web>www.bonaccia.eu</web>
+      <info>2 za 1 v době po-pá 13-17 hod</info>
+   <latitude>50.1324463</latitude>
+   <longitude>14.4123872</longitude>
+</benefit>

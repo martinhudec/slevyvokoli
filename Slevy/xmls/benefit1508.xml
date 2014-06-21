@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1508">
+      <name>Easy Rider</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Škroupova 3 (vchod ul. Americká), Plzeň</address>
+      <phone>377 321 214</phone>
+      <email>easyrider.plzen@extremedistribution.cz</email>
+      <web>www.easyridershop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>49.7433857</latitude>
+   <longitude>13.3792335</longitude>
+</benefit>

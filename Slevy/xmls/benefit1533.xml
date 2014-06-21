@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1533">
+      <name>Fitness Cat</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Zimního stadionu 4286, Zlín</address>
+      <phone>577 217 068</phone>
+      <email>info@fitnesscat.com</email>
+      <web>www.fitnesscat.com</web>
+      <info>sleva 15 % na permanentku na 10 vstupů sleva 15 % na měsíční permanentku  </info>
+   <latitude>49.2184917</latitude>
+   <longitude>17.6594257</longitude>
+</benefit>

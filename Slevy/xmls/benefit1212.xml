@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1212">
+      <name>Lovecká chata Na Tokáni</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rynatice 82, Chřibská</address>
+      <phone>412 381 397, 605 205 408</phone>
+      <email>info@tokan-loveckachata.cz</email>
+      <web>www.tokan-loveckachata.cz</web>
+      <info>sleva 20 % z celkové částky pobytu mimo Vánoc a Silvestra</info>
+   <latitude>50.8657940</latitude>
+   <longitude>14.4529281</longitude>
+</benefit>

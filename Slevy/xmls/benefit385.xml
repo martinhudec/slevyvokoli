@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="385">
+      <name>Horsefeathers store Praha</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Revoluční 3, Praha 1</address>
+      <phone>730162163</phone>
+      <email>praha@hfshop.cz</email>
+      <web>www.horsefeathers-store.eu</web>
+      <info>10% sleva na nezlevněné zboží v kamenných obchodech i na e-shopu Horsenfeather store</info>
+   <latitude>50.0897832</latitude>
+   <longitude>14.4278632</longitude>
+</benefit>

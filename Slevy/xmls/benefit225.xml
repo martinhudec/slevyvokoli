@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="225">
+      <name>CK Kudrna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hněvkovského 75, Brno - Komárov</address>
+      <phone>542 216 764, 777 583 762</phone>
+      <email>ck@kudrna.cz</email>
+      <web>www.kudrna.cz</web>
+      <info>cca 12% pro držitele karet ISIC (speciální ceník) 5% pro držitele všech ostatních karet ITIC, IYTC, ALIVE</info>
+   <latitude>49.1684203</latitude>
+   <longitude>16.6281813</longitude>
+</benefit>

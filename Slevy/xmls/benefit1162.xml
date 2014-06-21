@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1162">
+      <name>Moira</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Antala Staška 114/20, Praha 4</address>
+      <phone>389 502 900</phone>
+      <email>info@moira.cz</email>
+      <web>www.moira.cz</web>
+      <info>10% sleva na oblečení</info>
+   <latitude>50.0402102</latitude>
+   <longitude>14.4366331</longitude>
+</benefit>

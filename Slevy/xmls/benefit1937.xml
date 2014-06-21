@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1937">
+      <name>Čočkyshop.cz - centrum kontaktních čoček a brýlí</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pobřežní 620/3, Praha 8</address>
+      <phone>+420 226 200 370</phone>
+      <email>info@cockyshop.cz</email>
+      <web>www.cockyshop.cz</web>
+      <info>5% sleva na všechny brýle vč. brýlových čoček, 3% sleva na kontaktní čočky, roztoky a kontrolu zraku. Osobní odběr zdarma.</info>
+   <latitude>50.0927888</latitude>
+   <longitude>14.4411352</longitude>
+</benefit>

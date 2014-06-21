@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1413">
+      <name>Salon Sanett</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Studentská 5, Praha 6</address>
+      <phone>777 779 255</phone>
+      <email>eva.kominek@seznam.cz</email>
+      <web>www.sanett.cz</web>
+      <info>sleva 15% na kadeřnické a kosmetické služby Po - Pá od 9.00 do 14.00</info>
+   <latitude>50.1011811</latitude>
+   <longitude>14.3888816</longitude>
+</benefit>

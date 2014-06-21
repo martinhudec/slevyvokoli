@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="227">
+      <name>ALFA TAXI</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>8. Května 522/5, Olomouc</address>
+      <phone>800 15 05 05, 608 15 05 05</phone>
+      <email>alfataxiolomouc@seznam.cz</email>
+      <web>www.alfa.taxi.cz</web>
+      <info>22% na jízdné (sazba č.2)</info>
+   <latitude>49.5956429</latitude>
+   <longitude>17.2485866</longitude>
+</benefit>

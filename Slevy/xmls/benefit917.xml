@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="917">
+      <name>Čajovna Šamanka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hálkova 8, Praha</address>
+      <phone>223016890</phone>
+      <email>cajovna.metamorfoza@gmail.com</email>
+      <web>www.cajovna-metamorfoza.cz</web>
+      <info>čaje 2 za cenu 1, ISIC sleva 20 %, ostatní průkazy 10 %</info>
+   <latitude>50.0762018</latitude>
+   <longitude>14.4286075</longitude>
+</benefit>

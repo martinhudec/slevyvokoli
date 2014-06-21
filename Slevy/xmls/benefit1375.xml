@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1375">
+      <name>SÝRAkus</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ostružnická 350/27, Olomouc</address>
+      <phone>777 737 565</phone>
+      <email>info@kussyra.cz</email>
+      <web>www.kussyra.cz</web>
+      <info>sleva 10% na veškeré produkty</info>
+   <latitude>49.5953049</latitude>
+   <longitude>17.2533887</longitude>
+</benefit>

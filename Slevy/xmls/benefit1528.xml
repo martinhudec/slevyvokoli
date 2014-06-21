@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1528">
+      <name>Pizza Padrino</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Míru 158, Jindřichův Hradec</address>
+      <phone>777 660 870</phone>
+      <email>info@pizza-padrino.cz</email>
+      <web>www.pizza-padrino.cz</web>
+      <info>sleva 20% na pizzu akce neplatí vždy v období 1. 7. - 31. 8.</info>
+   <latitude>49.1438023</latitude>
+   <longitude>15.0040883</longitude>
+</benefit>

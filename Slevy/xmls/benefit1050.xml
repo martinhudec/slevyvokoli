@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1050">
+      <name>GM5 - služby k Hotelu Všemina</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Všemina 300, Slušovice</address>
+      <phone>733 516 995</phone>
+      <email>gm5@vsemina.cz</email>
+      <web>www.gm5.cz</web>
+      <info>sleva 10 % na všechny programy pro hosty ubytované v Parkhotelu Všemina sleva se nesčítá s jinými slevami</info>
+   <latitude>49.2920589</latitude>
+   <longitude>17.8630586</longitude>
+</benefit>

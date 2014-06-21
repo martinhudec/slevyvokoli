@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="974">
+      <name>Helly Hansen</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kpt. Jaroše 375/31, Karlovy Vary - OC Varyáda</address>
+      <phone>353 221 930</phone>
+      <email/>
+      <web>www.hellyhansen.cz</web>
+      <info>15% sleva na nezlevněné zboží</info>
+   <latitude>50.2268558</latitude>
+   <longitude>12.8409924</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1265">
+      <name>Hannah</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Olympie, Písecká 1, Plzeň</address>
+      <phone>377 946 302</phone>
+      <email>prodejna.cernice@hannah.cz</email>
+      <web>www.hannah.cz</web>
+      <info>sleva 5 % na nákup sortimentu</info>
+   <latitude>49.7010597</latitude>
+   <longitude>13.4258470</longitude>
+</benefit>

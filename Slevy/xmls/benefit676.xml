@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="676">
+      <name>OREA Hotel Monty****</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Příkrá 218, Mariánské Lázně</address>
+      <phone>354 619 111</phone>
+      <email>info@hotelmonty.cz</email>
+      <web>www.orea.cz</web>
+      <info>2 za 1 na ubytování ve dvoulůžkovém pokoji, sleva je poskytována z platné pultové ceny a není možné ji kumulovat s dalšími slevami. Rezervace na kartu se musí hlásit předem. Sleva platí celoročně.</info>
+   <latitude>49.9682660</latitude>
+   <longitude>12.6993615</longitude>
+</benefit>

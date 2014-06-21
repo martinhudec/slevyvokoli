@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1082">
+      <name>Letuska.cz a Study.cz – nejvyhodnejsi ceny letenek a jazykovych pobytu v zahraničí</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Letiště Ruzyně, Odletová hala, Terminál 1, Praha</address>
+      <phone>234 704 951, 234 703 103</phone>
+      <email>info@asiana.cz, info@study.cz</email>
+      <web>www.letuska.cz, www.study.cz</web>
+      <info>Study.cz a Letuška.cz - sleva Kč 800,- na jazykové pobyty, sleva Kč 200,- na letenku pokud je zakoupena k jazykovému pobytu.</info>
+   <latitude>50.0755381</latitude>
+   <longitude>14.4378005</longitude>
+</benefit>

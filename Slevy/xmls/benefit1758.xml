@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1758">
+      <name>Hotel Galik</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Léskové 875, Velké Karlovice</address>
+      <phone>571 477 390</phone>
+      <email>galik@valachy.cz</email>
+      <web>www.valachy.cz</web>
+      <info>Sleva 20% z ubytování</info>
+   <latitude>49.3713145</latitude>
+   <longitude>18.3548669</longitude>
+</benefit>

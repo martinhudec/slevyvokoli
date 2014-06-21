@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1939">
+      <name>Mobil Shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Panská 2, Olomouc</address>
+      <phone>777 902 211</phone>
+      <email>servicesupport@seznam.cz</email>
+      <web/>
+      <info>sleva 5%</info>
+   <latitude>49.5924953</latitude>
+   <longitude>17.2526672</longitude>
+</benefit>

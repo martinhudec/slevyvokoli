@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1150">
+      <name>Camping Jiskra Harrachov</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Harrachov 257, Harrachov</address>
+      <phone>481 529 787</phone>
+      <email>camping@harrachov.cz</email>
+      <web>www.camp.harrachov.cz</web>
+      <info>sleva 10 % na ubytování</info>
+   <latitude>50.7712371</latitude>
+   <longitude>15.4345643</longitude>
+</benefit>

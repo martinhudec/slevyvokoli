@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="854">
+      <name>Knihcentrum Obchodní centrum - Galeria Shopping</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Generála Hlaďo 25, Nový Jičín</address>
+      <phone>725963183</phone>
+      <email>novyjicin@knihcentrum.cz</email>
+      <web>www.knihcentrum-novy-jicin.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)</info>
+   <latitude>49.5933070</latitude>
+   <longitude>18.0127615</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1783">
+      <name>Lékárna proti sv. Anně</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pekařská 58, Brno</address>
+      <phone>543 242 027</phone>
+      <email>lpsa@volny.cz</email>
+      <web/>
+      <info>6 % z prodejní ceny (nákup bez receptu)</info>
+   <latitude>49.1916158</latitude>
+   <longitude>16.5989320</longitude>
+</benefit>

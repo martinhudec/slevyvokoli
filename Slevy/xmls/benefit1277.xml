@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1277">
+      <name>Národní zemědělské muzeum - Muzeum zemědělské techniky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>U Drobovic 1762, Čáslav</address>
+      <phone>327 311 146</phone>
+      <email>nzm.caslav@nzm.cz</email>
+      <web>www.nzm.cz/caslav</web>
+      <info>sleva 50 % na vstup</info>
+   <latitude>49.9275753</latitude>
+   <longitude>15.4512851</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="345">
+      <name>SPORTMALL</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Horská 15, Vrchlabí</address>
+      <phone>+420 602 286 864</phone>
+      <email>shop@sportmall.cz</email>
+      <web>www.sportmall.cz, www.snowboards.cz</web>
+      <info>20% sleva z doporučené maloobchodní ceny na zboží nové kolekce (tzn. sleva na veškeré zboží, jehož dosavadní sleva není vyšší než 5 %) Slevu je možno uplatnit pouze v e-shopech www.sportmall.cz.  </info>
+   <latitude>50.6378925</latitude>
+   <longitude>15.6080653</longitude>
+</benefit>

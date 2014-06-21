@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1057">
+      <name>Penzion Villaslovenska</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Všemina 300, Slušovice</address>
+      <phone>577 006 677</phone>
+      <email>penzion@villaslovenska.cz</email>
+      <web>www.villaslovenska.cz</web>
+      <info>sleva 25 % na ubytování, snídaně za 80 Kč sleva se nesčíta s jinými slevami</info>
+   <latitude>49.2920589</latitude>
+   <longitude>17.8630586</longitude>
+</benefit>

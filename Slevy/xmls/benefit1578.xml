@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1578">
+      <name>Městské divadlo Zlín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>tř. Tomáše Bati 4091/32, Zlín</address>
+      <phone>577 636 111</phone>
+      <email>divadlo@divadlo.zlin.cz</email>
+      <web>www.divadlo.zlin.cz</web>
+      <info>sleva 25 % z běžného vstupného (netýká se premiér MDZ a představení hostujících souborů) sleva 20 % z předplatného skupiny 2 sleva 15 % z předplatného ostatních večerních a podvečerních skupin (netýká se předplatného premiérové skupiny)</info>
+   <latitude>49.2255110</latitude>
+   <longitude>17.6799953</longitude>
+</benefit>

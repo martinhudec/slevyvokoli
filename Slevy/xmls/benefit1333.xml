@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1333">
+      <name>Evropské vzdělávací centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dašická 1083, Pardubice</address>
+      <phone>775 270 017, 495 581 645</phone>
+      <email>info@evcentrum.cz</email>
+      <web>www.evcentrum.cz</web>
+      <info>sleva 30 % na e-learningové jazykové kurzy sleva 5 % na učebnice sleva 5 % na docházkové a individuální jazykové kurzy sleva 5 % na jazykové doučování  </info>
+   <latitude>50.0361017</latitude>
+   <longitude>15.7897415</longitude>
+</benefit>

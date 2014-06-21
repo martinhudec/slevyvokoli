@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="415">
+      <name>H-centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Staré Hradiště 197, Pardubice</address>
+      <phone>466412044</phone>
+      <email>info@hcentrum.cz</email>
+      <web>www.hcentrum.net</web>
+      <info>50% sleva na veškerá sportoviště - badminton, bowling, climbing, florbal, tenis, volejbal, stolní tenis, fitness v čase 9 - 15 hod, 30% sleva na relax - solárium, sauna, vířivka v čase 9-15h, 10% sleva na konzumaci na baru v čase 9-15 hod</info>
+   <latitude>50.0629349</latitude>
+   <longitude>15.7749372</longitude>
+</benefit>

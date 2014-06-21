@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1951">
+      <name>MISFIT Shop - Snowboard shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jankovcova 53, Praha 7</address>
+      <phone>222 210 435</phone>
+      <email>info@misfit</email>
+      <web>www.misfit.cz</web>
+      <info>sleva 10 % na nezlevněné zboží jednotlivé slevy nelze sčítat</info>
+   <latitude>50.1089826</latitude>
+   <longitude>14.4530795</longitude>
+</benefit>

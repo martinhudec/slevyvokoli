@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="323">
+      <name>Lorma Hair&amp;beauty lifestyle Salon</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Senovážné Náměstí 29, Praha 1</address>
+      <phone>224210230</phone>
+      <email>lormasalon@volny.cz</email>
+      <web>www.lorma.cz</web>
+      <info>30% sleva  na služby denně od 9 - 14 hod, sobota celý den od 10 - 17 hod</info>
+   <latitude>50.0857375</latitude>
+   <longitude>14.4288914</longitude>
+</benefit>

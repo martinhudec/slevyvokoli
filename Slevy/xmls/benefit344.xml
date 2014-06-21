@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="344">
+      <name>Wellnes a regenerační salon pro ženy FIALKA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Zengrova 415/35, Ostrava - Vítkovice</address>
+      <phone>603 163 590</phone>
+      <email>salon-fialka@seznam.cz</email>
+      <web>www.salon-fialka.cz</web>
+      <info>35% sleva na veškeré procedury prováděné v salónu FIALKA</info>
+   <latitude>49.8075055</latitude>
+   <longitude>18.2677605</longitude>
+</benefit>

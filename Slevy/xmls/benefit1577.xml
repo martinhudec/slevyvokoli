@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1577">
+      <name>Houseboard</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Námáměstí Práce 1099, Zlín</address>
+      <phone>603 522 908</phone>
+      <email>info@houseboard.cz</email>
+      <web>www.houseboard.cz</web>
+      <info>sleva 10 % na zboží, které není ve slevě</info>
+   <latitude>49.2230002</latitude>
+   <longitude>17.6616222</longitude>
+</benefit>

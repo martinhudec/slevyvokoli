@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1043">
+      <name>GES-ELECTRONICS</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Myslíkova 31, Praha 1</address>
+      <phone>222 721 631</phone>
+      <email>ges.praha@ges.cz</email>
+      <web>www.ges.cz</web>
+      <info>sleva 10% na všechny produkty</info>
+   <latitude>50.0784317</latitude>
+   <longitude>14.4192357</longitude>
+</benefit>

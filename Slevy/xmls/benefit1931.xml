@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1931">
+      <name>Blues sklep</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Liliová 10, Praha 1</address>
+      <phone>221 466 138 , 774 277 060</phone>
+      <email>info@bluessklep.cz</email>
+      <web>www.bluessklep.cz</web>
+      <info>sleva 10 % na vstupné sleva až 50 % sleva na vybrané koncerty</info>
+   <latitude>50.0850683</latitude>
+   <longitude>14.4165353</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="48">
+      <name>Papírnictví a výtvarné potřeby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Fibichova 21/227, Havířov</address>
+      <phone>596 818 977</phone>
+      <email>havirov@optys.cz</email>
+      <web>www.optys.cz</web>
+      <info>Sleva 10%celkového nákupu.Nevztahuje se na již zlevněné produkty. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7802557</latitude>
+   <longitude>18.4292571</longitude>
+</benefit>

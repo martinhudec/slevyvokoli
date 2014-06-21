@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1691">
+      <name>Café Hostel</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Panská 13, České Budějovice</address>
+      <phone>387 204 203</phone>
+      <email>supper-lot@seznam.cz</email>
+      <web>www.cafehostel.cz</web>
+      <info>2 za 1 espresso Lavazza po-pá 12-13 hod</info>
+   <latitude>48.9771202</latitude>
+   <longitude>14.4719399</longitude>
+</benefit>

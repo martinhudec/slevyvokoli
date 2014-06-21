@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="679">
+      <name>OREA Hotel Špičák***</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Špičák 5, Železná Ruda</address>
+      <phone>376 372 111</phone>
+      <email>recepce@spicak.oreahotels.cz</email>
+      <web>www.orea.cz</web>
+      <info>2 za 1 na ubytování ve dvoulůžkovém pokoji, sleva je poskytována z platné pultové ceny a není možné ji kumulovat s dalšími slevami. Rezervace na kartu se musí hlásit předem. Sleva platí v období 3.1. - 27.12.</info>
+   <latitude>49.1467545</latitude>
+   <longitude>13.2469390</longitude>
+</benefit>

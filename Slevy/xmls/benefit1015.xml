@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1015">
+      <name>Pohodové knihkupectví</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Filištínská 25, Chrudim</address>
+      <phone>469 622 670</phone>
+      <email/>
+      <web>www.nakladatelskyservis.cz</web>
+      <info>sleva 11 % na celý sortiment po celý rok!</info>
+   <latitude>49.9521687</latitude>
+   <longitude>15.7925386</longitude>
+</benefit>

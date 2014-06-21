@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="619">
+      <name>KFC - Praha Chodov</name>
+      <cardType>ISIC</cardType>
+      <address>Roztylská 2321/19, Praha 4</address>
+      <phone>235 013 439</phone>
+      <email>kfcocchodov@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>  Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč</info>
+   <latitude>50.0320692</latitude>
+   <longitude>14.4909962</longitude>
+</benefit>

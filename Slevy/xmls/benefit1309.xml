@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1309">
+      <name>Hostel Trim</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Semtínská 56, Pardubice</address>
+      <phone>466 415 518-20</phone>
+      <email>ubytování@hosteltrim.cz</email>
+      <web>www.hosteltrim.cz</web>
+      <info>sleva 15 % z ubytování (mimo akční ceny) zvýhodněná cena 120 Kč/hodina na jedné dráze bowlingu v době 11-18 hod (pondělí-pátek)</info>
+   <latitude>50.0618149</latitude>
+   <longitude>15.7558802</longitude>
+</benefit>

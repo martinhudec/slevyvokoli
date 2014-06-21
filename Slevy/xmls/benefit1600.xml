@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1600">
+      <name>KULTURNÍ CENTRUM ZAHRADA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Malenická 1784, Praha 4</address>
+      <phone>271 910 246</phone>
+      <email>info@kczahrada.cz</email>
+      <web>www.kczahrada.cz</web>
+      <info>sleva 5% - 20% na vybrané divadelní představení, koncerty, dílny, kurzy a workshopy</info>
+   <latitude>50.0248550</latitude>
+   <longitude>14.4938368</longitude>
+</benefit>

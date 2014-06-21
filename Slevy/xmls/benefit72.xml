@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="72">
+      <name>LIBREX - Knihkupectví OC ALKRON</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého 1341/2, Jeseník</address>
+      <phone>+420584409101</phone>
+      <email>knihkupectvi21@librex.cz</email>
+      <web>www.librex.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)</info>
+   <latitude>50.2301484</latitude>
+   <longitude>17.2049388</longitude>
+</benefit>

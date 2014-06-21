@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1381">
+      <name>Foto Šobáň</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mariánské nám. 79, Uherské Hradiště</address>
+      <phone>736 624 224</phone>
+      <email>sobanj@seznam.cz</email>
+      <web>www.fotosoban.cz</web>
+      <info>sleva 10% na průkazové fotografie</info>
+   <latitude>49.0706081</latitude>
+   <longitude>17.4588438</longitude>
+</benefit>

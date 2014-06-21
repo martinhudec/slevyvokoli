@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1638">
+      <name>Bowling bar Chmelnice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Koněvova 214, Praha 3</address>
+      <phone>725 832 606</phone>
+      <email>svt@atlas.cz</email>
+      <web>www.bowlingbarchmelnice.cz</web>
+      <info>sleva 20 % na bowling</info>
+   <latitude>50.0923042</latitude>
+   <longitude>14.4894527</longitude>
+</benefit>

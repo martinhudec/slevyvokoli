@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="820">
+      <name>DP hlavního města Prahy</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sokolovská 217/42, Praha 9</address>
+      <phone>222 611 111</phone>
+      <email/>
+      <web>http://www.dpp.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>50.1103635</latitude>
+   <longitude>14.4986376</longitude>
+</benefit>

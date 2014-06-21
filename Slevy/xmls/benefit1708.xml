@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1708">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>T.G.Masaryka 253, Kladno</address>
+      <phone>312 249 765</phone>
+      <email>kladno@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-pá: 8-18 h so: 8-12 h</info>
+   <latitude>50.1464055</latitude>
+   <longitude>14.1026319</longitude>
+</benefit>

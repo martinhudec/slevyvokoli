@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1991">
+      <name>Paintball Borec</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náchodská 31, Praha 9</address>
+      <phone>777 192 678, 602 131 606</phone>
+      <email>paintball.borec@seznam.cz</email>
+      <web>www.paintball.borec.cz</web>
+      <info>sleva 10 % na vybavení půjčené min. na 2 dny + 50 kuliček sleva neplatí na již akční nabídku a nelze kumulovat.</info>
+   <latitude>50.1127349</latitude>
+   <longitude>14.5955078</longitude>
+</benefit>

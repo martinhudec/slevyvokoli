@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="244">
+      <name>Knihy Dobrovský - O.C. IGY České Budějovice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 1246/24, České Budějovice</address>
+      <phone>387 313 601, 387 204 055, 724</phone>
+      <email>cbudejovice-igy@knihydobrovsky.cz</email>
+      <web>www.knihydobrovsky.cz</web>
+      <info>10% sleva na všechny zakoupené tituly, sleva se nevztahuje na již zlevněné tituly. Slevu je možno uplatnit v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>48.9846125</latitude>
+   <longitude>14.4718837</longitude>
+</benefit>

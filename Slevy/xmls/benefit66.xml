@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="66">
+      <name>KFC - Prostějov DT</name>
+      <cardType>ISIC</cardType>
+      <address>Konečná 4631/4, Prostějov</address>
+      <phone>235 013 413</phone>
+      <email>kfcprostejov@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč Sleva platí pouze v kamenné prodejně.</info>
+   <latitude>49.4830779</latitude>
+   <longitude>17.1255595</longitude>
+</benefit>

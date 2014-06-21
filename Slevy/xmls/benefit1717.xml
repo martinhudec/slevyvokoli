@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1717">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Varyáda, Kapitána Jaroše 375/31, Karlovy Vary</address>
+      <phone>353 221 238</phone>
+      <email>kvary@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.2318521</latitude>
+   <longitude>12.8719616</longitude>
+</benefit>

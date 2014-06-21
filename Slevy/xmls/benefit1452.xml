@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1452">
+      <name>Solárium Susan</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mírová 29, Opava</address>
+      <phone>553 613 636</phone>
+      <email>petr.holuscha@seznam.cz</email>
+      <web>www.susansalon.cz</web>
+      <info>sleva 30 Kč na malou permanentku Běžná cena = 360 Kč, ISIC cena = 330 Kč</info>
+   <latitude>49.9370343</latitude>
+   <longitude>17.8946961</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1259">
+      <name>Galerie Klatovy / Klenová</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Klenová 1, Janovice nad Úhlavou</address>
+      <phone>376 392 208, 602 489 097</phone>
+      <email>info@gkk.cz</email>
+      <web>www.gkk.cz</web>
+      <info>snížené vstupné dle aktuálního ceníku</info>
+   <latitude>49.3317171</latitude>
+   <longitude>13.2290472</longitude>
+</benefit>

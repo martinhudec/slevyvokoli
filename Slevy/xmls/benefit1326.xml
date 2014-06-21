@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1326">
+      <name>Studentská rezidence VISTA</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kpt. Vajdy 3046/2, Ostrava</address>
+      <phone>597 221 142</phone>
+      <email>reservation@hotelvista.cz</email>
+      <web>www.boswell.cz/studentska-rezidence-vi…</web>
+      <info>pro držitele karet ISIC zdarma internet na pokojích v hodnotě 150 Kč/měsíc Více informací na www.boswell.cz/studentska-rezidence-vista  </info>
+   <latitude>49.7920103</latitude>
+   <longitude>18.2455499</longitude>
+</benefit>

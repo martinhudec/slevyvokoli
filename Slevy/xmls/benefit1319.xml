@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1319">
+      <name>Hotel Filip</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Lannova 91/51, Časké Budějovice</address>
+      <phone>386 350 841</phone>
+      <email>hotelfilip@centrum.cz</email>
+      <web>www.hotelfilip.com</web>
+      <info>sleva 20 % na ubytování</info>
+   <latitude>48.9749133</latitude>
+   <longitude>14.4856408</longitude>
+</benefit>

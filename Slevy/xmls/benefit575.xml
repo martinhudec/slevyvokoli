@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="575">
+      <name>DHL Express</name>
+      <cardType>ISIC</cardType>
+      <address>Počernická 96, Praha 10</address>
+      <phone>840103000</phone>
+      <email>infolinka@dhl.com</email>
+      <web>www.dhl.cz</web>
+      <info>50% sleva na služby expresní letecké přepravy, neplatí na pozemní přepravu, lze využít pouze na DHL recepcích při platbě v hotovosti, více na www.isic.cz</info>
+   <latitude>50.0830136</latitude>
+   <longitude>14.5095942</longitude>
+</benefit>

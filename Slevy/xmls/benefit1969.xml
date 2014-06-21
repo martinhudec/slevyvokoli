@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1969">
+      <name>Wrangler</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nákupní centrum Letňany, Praha 9</address>
+      <phone/>
+      <email/>
+      <web>www.eu.wrangler.com</web>
+      <info>Sleva 20% na zboží značek Wrangler. Sleva se nevztahuje na již zlevněné zboží a zboží nabízené ve speciálních prodejních akcích. Upozornění: Obchod neposkytuje slevy na zboží, které není určeno pro držitele karty! V tomto případě navštivte jinou z prodejen, které jsou uvedené v naší databázi.</info>
+   <latitude>50.1361536</latitude>
+   <longitude>14.5005208</longitude>
+</benefit>

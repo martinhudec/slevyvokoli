@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1782">
+      <name>Sport Industry</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hybešova 12, Brno</address>
+      <phone>530 318 390</phone>
+      <email>sportindustry@seznam.cz</email>
+      <web>www.sportindustry.cz</web>
+      <info>sleva 5 % na nezlevněné zboží slevy nelze navzájem sčítat</info>
+   <latitude>49.1892473</latitude>
+   <longitude>16.6053159</longitude>
+</benefit>

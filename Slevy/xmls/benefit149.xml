@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="149">
+      <name>Kino Hvězda</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí míru 951, Uherské Hradiště</address>
+      <phone>576 514 200, 576 514 300</phone>
+      <email>info@mkuh.cz, pokladna@mkuh.cz</email>
+      <web>www.mkuh.cz</web>
+      <info>Jednorázová sleva 20 Kč na průkazku Zlatého Fondu a ARTu nebo sleva 20 Kč na projekce Zlatého fondu a ARTu. Slevy se nesčítají.</info>
+   <latitude>49.0674449</latitude>
+   <longitude>17.4688436</longitude>
+</benefit>

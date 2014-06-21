@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="599">
+      <name>Fabio Salsa - Palladium</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Náměstí Republiky 1, Praha 1</address>
+      <phone>222318328</phone>
+      <email>lorma@volny.cz</email>
+      <web>www.fabiosalsa.cz</web>
+      <info>25% sleva na služby Po-Pá 8-14 hod.</info>
+   <latitude>50.0892824</latitude>
+   <longitude>14.4285598</longitude>
+</benefit>

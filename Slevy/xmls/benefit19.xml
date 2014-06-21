@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="19">
+      <name>Subway - City Park Jihlava</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hradební 5440/1, Jihlava</address>
+      <phone>+420 730 811 356</phone>
+      <email/>
+      <web/>
+      <info>20% sleva z celkové útraty. Sleva se nevztahuje na již zlevněné zboží a akční nabídky. Sleva platí v kamenné provozovně po předložení platné karty.</info>
+   <latitude>49.3928006</latitude>
+   <longitude>15.5933140</longitude>
+</benefit>

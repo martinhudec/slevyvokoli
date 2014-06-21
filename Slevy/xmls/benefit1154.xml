@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1154">
+      <name>Ramala</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Farského 2056, Tábor</address>
+      <phone>381 256 061</phone>
+      <email>tabor@ramala.cz</email>
+      <web>www.ramala.cz</web>
+      <info>sleva 5 % na nákup zboží sleva 15 % na servis</info>
+   <latitude>49.4123868</latitude>
+   <longitude>14.6682904</longitude>
+</benefit>

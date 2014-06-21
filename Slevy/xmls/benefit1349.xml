@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1349">
+      <name>mujinstruktor.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Hřebenkách 72, Praha 5</address>
+      <phone>776 314 411</phone>
+      <email>info@mujinstruktor.cz</email>
+      <web>www.mujinstruktor.cz</web>
+      <info>sleva 25 % z ceny účtu PREMIUM na portálu mujinstruktor.cz</info>
+   <latitude>50.0771228</latitude>
+   <longitude>14.3902070</longitude>
+</benefit>

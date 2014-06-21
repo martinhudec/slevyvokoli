@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="883">
+      <name>FAnn beauty centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dům módy, Václavské nám. 58, Praha 1</address>
+      <phone>234101203</phone>
+      <email>fbc.dzm@fann.cz</email>
+      <web>http://www.fann.cz/vybrany-sortiment</web>
+      <info>20% sleva na kosmetické ošetření v salónech</info>
+   <latitude>50.0798279</latitude>
+   <longitude>14.4291716</longitude>
+</benefit>

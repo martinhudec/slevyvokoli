@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="128">
+      <name>iWant Apple Premium Reseller</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masarykovo nám. 2799, Parduvbice</address>
+      <phone/>
+      <email>marketing@iwant.cz</email>
+      <web>www.iwant.cz</web>
+      <info>5% sleva na veškeré CPU, což jsou veškeré počítače: Macbook Air, MacBook Pro, MacBook s Retina displejem, Mac mini, iMac. Nevztahuje se na volitelné konfigurace CTO. 5% sleva na original Apple příslušenství pro počítače.</info>
+   <latitude>50.0370687</latitude>
+   <longitude>15.7688701</longitude>
+</benefit>

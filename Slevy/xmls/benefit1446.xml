@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1446">
+      <name>BioHome - prodejna biopotravin</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Belgická 30, Praha 2</address>
+      <phone>222 541 970</phone>
+      <email>info@biohome.cz</email>
+      <web>www.biohome.cz</web>
+      <info>sleva 10% na veškerý sortiment v prodejně biopotravin BioHome</info>
+   <latitude>50.0734534</latitude>
+   <longitude>14.4359874</longitude>
+</benefit>

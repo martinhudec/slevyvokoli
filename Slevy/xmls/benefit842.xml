@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="842">
+      <name>Inlinebus e-shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>celá ČR, shop</address>
+      <phone>608 353 358</phone>
+      <email>obchod@inlinebus.cz</email>
+      <web>www.inlinebus.cz</web>
+      <info>Sleva 10% na veškerý sortiment, při nákupu dvou položek s celkovou cenou nad 5000,- Kč sleva 15% na celý nákup. Slevy se netýkají poštovného a balného. Slevu je možno uplatnit pouze v e-shopech www.inlinebus.cz.</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

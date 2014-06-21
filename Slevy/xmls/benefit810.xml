@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="810">
+      <name>DP města Hradce Králové</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pouchovská 153, Hradec Králové</address>
+      <phone>495 089 111</phone>
+      <email>info@dpmhk.cz</email>
+      <web>http://www.dpmhk.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>50.2198685</latitude>
+   <longitude>15.8399512</longitude>
+</benefit>

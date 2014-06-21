@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1944">
+      <name>Privat Kotva</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Trojská 160/77 , Praha 8</address>
+      <phone>284 691 542, 604 354 416</phone>
+      <email>info@privatkotva.cz</email>
+      <web>www.privatkotva.cz</web>
+      <info>sleva 10 % na ubytování při rezervaci přes www.privatkotva.cz</info>
+   <latitude>50.1212245</latitude>
+   <longitude>14.4450029</longitude>
+</benefit>

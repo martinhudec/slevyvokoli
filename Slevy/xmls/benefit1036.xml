@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1036">
+      <name>Cocktail Bar OSA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mahlerova 15, Olomouc</address>
+      <phone>773 337 343</phone>
+      <email>tomasduda@volny.cz</email>
+      <web>www.bar-osa.cz</web>
+      <info>10% sleva z celkové útraty, kromě tabákových a doutníkových výrobků</info>
+   <latitude>49.5945426</latitude>
+   <longitude>17.2540626</longitude>
+</benefit>

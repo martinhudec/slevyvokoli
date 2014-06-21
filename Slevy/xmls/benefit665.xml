@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="665">
+      <name>Euforia fitness</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vodova 108, Brno</address>
+      <phone>541 210 910</phone>
+      <email>euforiafitness@euforiafitness.cz</email>
+      <web>www.euforiafitness.cz</web>
+      <info>Sleva 30% na měsíční permanentku. Místo původních 499 Kč zaplatíte jen 350 Kč.</info>
+   <latitude>49.2269613</latitude>
+   <longitude>16.5839671</longitude>
+</benefit>

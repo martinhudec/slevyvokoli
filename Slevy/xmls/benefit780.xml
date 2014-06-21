@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="780">
+      <name>Happy studio</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Koláčkovo nám. 727, Slavkov u Brna</address>
+      <phone>604 645 403</phone>
+      <email>info@happystudio.cz</email>
+      <web>www.happystudio.cz</web>
+      <info>15% na všechny typy služeb provozovaných v prostorách provozovny a poskytované poskytovateli Happy Studia - masáže klasická, lávové kameny, lymfatická manuální a přístrojová, oxygenoterapie, infrasauna, vaková uhličitá koupel, vstup do mini fitness pro ženy</info>
+   <latitude>49.1526392</latitude>
+   <longitude>16.8738839</longitude>
+</benefit>

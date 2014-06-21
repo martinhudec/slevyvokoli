@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="410">
+      <name>ISL - International Sports Leagues</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Spálená 51, Praha 1</address>
+      <phone>774553388</phone>
+      <email>info@isl.cz</email>
+      <web>www.isl.cz</web>
+      <info>20% sleva z registračního poplatku za účast v pořádaných ligách a soutěžích</info>
+   <latitude>50.0817301</latitude>
+   <longitude>14.4191587</longitude>
+</benefit>

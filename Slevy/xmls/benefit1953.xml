@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1953">
+      <name>Humi Outdoor</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Mercury Centrum, Nádražní ulice, České Budějovice</address>
+      <phone>389 054 354</phone>
+      <email>budejovice@humidoor.cz</email>
+      <web>www.humi.cz</web>
+      <info>sleva 10 % na zboží ve firemní prodejně slevu nelze kombinovat s jinými slevami či akčními cenami.</info>
+   <latitude>48.9791922</latitude>
+   <longitude>14.4860765</longitude>
+</benefit>

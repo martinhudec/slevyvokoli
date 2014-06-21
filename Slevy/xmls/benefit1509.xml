@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1509">
+      <name>Revolution</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Poštovní 158/8, Ostrava</address>
+      <phone>596 111 156</phone>
+      <email>ostrava@revolutionshop.cz</email>
+      <web>www.revolutionshop.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>49.8366661</latitude>
+   <longitude>18.2904344</longitude>
+</benefit>

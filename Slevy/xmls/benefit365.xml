@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="365">
+      <name>FreeStyle</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Wenzigova 340/11, Plzeň</address>
+      <phone>377 227 363</phone>
+      <email>info@freestyletattoo.cz</email>
+      <web>www.freestyletattoo.cz</web>
+      <info>20% sleva na služby salonu</info>
+   <latitude>49.7457840</latitude>
+   <longitude>13.3899820</longitude>
+</benefit>

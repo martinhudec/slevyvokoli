@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1847">
+      <name>Cyklo Point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Family Center, Horská 687, Trutnov</address>
+      <phone>734311818</phone>
+      <email>trutnov@cyklopoint.cz</email>
+      <web>www.cyklopoint.cz</web>
+      <info>sleva 6 % na jízdní kola Merida  a kompletní nabídku příslušenství pro cyklistiku (nelze uplatnit na již zlevněné zboží) sleva 10 % servis slevu nelze kombinovat s dalšími slevami</info>
+   <latitude>50.5810832</latitude>
+   <longitude>15.8923406</longitude>
+</benefit>

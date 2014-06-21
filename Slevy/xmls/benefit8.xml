@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="8">
+      <name>Už jsme doma - kavárna</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Uralská 6, Praha 6</address>
+      <phone>736 606 666</phone>
+      <email>romek.hanzlik@gmail.com</email>
+      <web>www.uzjstedoma.cz</web>
+      <info>6% sleva  z jakékoliv útraty na baru 6% sleva na vstupné na koncerty Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1021075</latitude>
+   <longitude>14.4019112</longitude>
+</benefit>

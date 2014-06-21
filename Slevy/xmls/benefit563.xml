@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="563">
+      <name>DHL Express</name>
+      <cardType>ISIC</cardType>
+      <address>Moskevská 60, Karlovy Vary</address>
+      <phone>840103000</phone>
+      <email>infolinka@dhl.com</email>
+      <web>www.dhl.cz</web>
+      <info>50% sleva na služby expresní letecké přepravy, neplatí na pozemní přepravu, lze využít pouze na DHL recepcích při platbě v hotovosti, více na www.isic.cz</info>
+   <latitude>50.2277088</latitude>
+   <longitude>12.8606404</longitude>
+</benefit>

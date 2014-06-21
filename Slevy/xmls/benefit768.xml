@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="768">
+      <name>Skiareál Bílá v Beskydech</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Bílá 173, Bílá</address>
+      <phone>558 690 163</phone>
+      <email>skibila.areal@volny.cz</email>
+      <web>www.skibila.cz</web>
+      <info>Sleva 10%</info>
+   <latitude>49.4428262</latitude>
+   <longitude>18.4578245</longitude>
+</benefit>

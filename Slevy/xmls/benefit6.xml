@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="6">
+      <name>Lokál U Zavadilů</name>
+      <cardType>ISIC</cardType>
+      <address>K Verneráku 70/1, Praha 4</address>
+      <phone>244 467 448</phone>
+      <email>uzavadilu@ambi.cz</email>
+      <web>www.lokal.cz</web>
+      <info>20% sleva na jídlo objednané do 18. hodiny ve všech restauracích Lokál. Kartu Lokál  získá student po předložení platného průkazu ISIC.</info>
+   <latitude>50.0142114</latitude>
+   <longitude>14.4857238</longitude>
+</benefit>

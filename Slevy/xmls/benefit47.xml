@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="47">
+      <name>Papírnictví a výtvarné potřeby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Slezské náměstí 25, Bílovec</address>
+      <phone>556 412 407</phone>
+      <email>bilovec@optys.cz</email>
+      <web>www.optys.cz</web>
+      <info>Sleva 10%celkového nákupu.Nevztahuje se na již zlevněné produkty. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7579154</latitude>
+   <longitude>18.0174618</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1122">
+      <name>Knihkupectví Bonum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kratochvílova 7, Přerov</address>
+      <phone>581 219 633</phone>
+      <email>prerov@bonum.cz</email>
+      <web>www.bonum.cz</web>
+      <info>sleva 5 - 10 % na knihy</info>
+   <latitude>49.4538928</latitude>
+   <longitude>17.4497933</longitude>
+</benefit>

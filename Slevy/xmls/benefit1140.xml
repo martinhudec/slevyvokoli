@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1140">
+      <name>Muzeum Mladoboleslavska</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hrad 1 - Staroměstské náměstí, Mladá Boleslav</address>
+      <phone>326 325 616</phone>
+      <email>ludek.benes@muzeum-mb.cz</email>
+      <web>www.muzeum-mb.cz</web>
+      <info>snížené vstupné dle aktuálního ceníku</info>
+   <latitude>50.4084626</latitude>
+   <longitude>14.9007347</longitude>
+</benefit>

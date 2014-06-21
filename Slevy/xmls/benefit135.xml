@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="135">
+      <name>Starbucks Avion Zličín</name>
+      <cardType>ISIC</cardType>
+      <address>Skandinávská 13/145, Praha 5</address>
+      <phone>235 013 515, 725 768 339</phone>
+      <email>starbucks_info_@amrest.eu</email>
+      <web>www.starbuckscoffee.cz</web>
+      <info>Zvýhodněná nabídka: Grande nápoj za cenu Tall.  Venti nápoj  za cenu Grande.</info>
+   <latitude>50.0496557</latitude>
+   <longitude>14.2976117</longitude>
+</benefit>

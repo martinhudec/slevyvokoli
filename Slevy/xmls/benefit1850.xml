@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1850">
+      <name>Lexum České Budějovice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Česká 141/66, České Budějovice</address>
+      <phone>+420 810 800 009</phone>
+      <email>lexum@lexum.cz</email>
+      <web>www.lexum.cz</web>
+      <info>Sleva 1500,-Kč v případě laserové operace obou očí, tzn. 750,-Kč na jedno oko Uvedená sleva se vztahuje na laserové operace, které se standardně pohybují od 15.000 Kč nahoru.</info>
+   <latitude>48.9743916</latitude>
+   <longitude>14.4720682</longitude>
+</benefit>

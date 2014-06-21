@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="818">
+      <name>DP města Jihlavy</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Brtnická 1002/23, Jihlava</address>
+      <phone>567 301 321</phone>
+      <email>info@dpmj.cz</email>
+      <web>www.dpmj.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>49.3860202</latitude>
+   <longitude>15.6006080</longitude>
+</benefit>

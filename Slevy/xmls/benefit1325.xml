@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1325">
+      <name>restaurace V práci</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kvítková 4323, Zlín</address>
+      <phone>725 605 725</phone>
+      <email>recepce@ondras.zlin.cz</email>
+      <web>www.hotel-ondras.cz/restaurace/</web>
+      <info>sleva 15 % na konzumaci</info>
+   <latitude>49.2269601</latitude>
+   <longitude>17.6711233</longitude>
+</benefit>

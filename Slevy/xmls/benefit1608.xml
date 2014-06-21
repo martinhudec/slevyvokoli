@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1608">
+      <name>Knihkupectví Academia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Národní 7, Praha 1</address>
+      <phone>224 240 547</phone>
+      <email>knihy.narodni@academia.cz</email>
+      <web>www.academia.cz</web>
+      <info>15% sleva na knihy nakladatelství Academia 10% sleva na knihy ostatních nakladatelů 10% sleva ostatní zboží (vyjma vstupenek) slevy se nesčítají s jinými slevami a neplatí pro již zlevněné zboží</info>
+   <latitude>50.0816750</latitude>
+   <longitude>14.4150710</longitude>
+</benefit>

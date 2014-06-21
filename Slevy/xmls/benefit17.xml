@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="17">
+      <name>Caffe Italia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Staroměstské náměstí 14/604, Praha 1</address>
+      <phone>222316423</phone>
+      <email>info@caffeitalia.cz</email>
+      <web>www.caffeitalia.cz</web>
+      <info>15% sleva z celého účtu, sleva se nevztahuje na tabákové výrobky</info>
+   <latitude>50.0876182</latitude>
+   <longitude>14.4220430</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1038">
+      <name>ALEA Divers</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kamýcká 10/131, Praha 6</address>
+      <phone>222 360 443</phone>
+      <email>divers@alea.cz</email>
+      <web>www.aleadivers.cz</web>
+      <info>5% sleva na potápěčskou výstroj a doplňky. 5% sleva na kurzy potápění (slevy se nevztahují na akční nabídky). Slevu je možno uplatnit pouze v kamenné prodejně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1309459</latitude>
+   <longitude>14.3816682</longitude>
+</benefit>

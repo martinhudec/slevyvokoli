@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="39">
+      <name>HOUSACAR</name>
+      <cardType>ISIC</cardType>
+      <address>Tř. Tomáše Bati 258, Zlín</address>
+      <phone>571 698 321</phone>
+      <email>housacar@housa.cz</email>
+      <web>www.housa.cz</web>
+      <info>20% sleva z jízdného dle platného ceníku dopravce Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.2255049</latitude>
+   <longitude>17.6804632</longitude>
+</benefit>

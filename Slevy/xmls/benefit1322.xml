@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1322">
+      <name>Divadlo v Dlouhé</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dlouhá 39, Praha 1</address>
+      <phone>221 778 629</phone>
+      <email>divadlo@divadlovdlouhe.cz</email>
+      <web>www.divadlovdlouhe.cz</web>
+      <info>sleva na představení Divadla v Dlouhé na vlastní scéně - výše slevy dle typu představení a stávajících cen vstupenek (podrobné informace o výši slev na pokladně divadla nebo na www.divadlovdlouhe.cz) počet míst pro uplatnění slevy je omezen (slevy jsou poskytovány do vyčerpání kvóty slev na příslušné představení) sleva se nevztahuje na dětská a rodinná představení, hosty a pronájmy slevu nelze kombinovat s jinými druhy slev a na jednu kartu lze využít slevu na jednu vstupenku na konkrétní představení</info>
+   <latitude>50.0907996</latitude>
+   <longitude>14.4269355</longitude>
+</benefit>

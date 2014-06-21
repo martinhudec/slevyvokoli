@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1920">
+      <name>BEN - technická literatura</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Veveří 13, Brno</address>
+      <phone>545 242 353</phone>
+      <email>brno@ben.cz</email>
+      <web>www.ben.cz</web>
+      <info>sleva 10 % na knihy a cd ROM</info>
+   <latitude>49.1994451</latitude>
+   <longitude>16.6019947</longitude>
+</benefit>

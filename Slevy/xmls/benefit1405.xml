@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1405">
+      <name>FOKUS optik</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hlavní nádraží, Wilsonova 8, Praha 2</address>
+      <phone>224 267 215</phone>
+      <email>fokuswilsonova@fokusoptik.cz</email>
+      <web>www.fokusoptik.cz</web>
+      <info>sleva 20 % na brýlové obruby a sluneční brýle sleva 10 % sleva na kontakt. čočky, roztoky (pro k.č.) a ostatní sortiment sleva se nevztahuje na brýlová skla a práci (výkony)</info>
+   <latitude>50.0830620</latitude>
+   <longitude>14.4360390</longitude>
+</benefit>

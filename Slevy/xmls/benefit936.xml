@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="936">
+      <name>Greenhousing</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zvoníčkova 1928/7, Praha 6</address>
+      <phone>245 006 026</phone>
+      <email>info@greenhousing.cz</email>
+      <web>www.greenhousing.cz</web>
+      <info>Sleva 20% z měsíčního paušálního poplatku dedikovaného nebo managed serveru greenhousing.cz pro držitelé platných průkazů ISIC, ISIC Scholar a ITIC.</info>
+   <latitude>50.0859554</latitude>
+   <longitude>14.3492802</longitude>
+</benefit>

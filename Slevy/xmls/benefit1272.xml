@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1272">
+      <name>NPÚ - Státní zámek Červené Poříčí</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Červené Poříčí 1, Švihov</address>
+      <phone>376 393 022</phone>
+      <email>cerveneporici@plzen.npu.cz</email>
+      <web>www.cervene-porici.cz</web>
+      <info>snížené vstupné dle aktuálního ceníku</info>
+   <latitude>49.5010009</latitude>
+   <longitude>13.2954463</longitude>
+</benefit>

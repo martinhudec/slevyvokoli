@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="269">
+      <name>Památník Antonína Dvořáka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <address>Nelahozeves 12, Nelahozeves u Kralup nad Vltavou</address>
+      <phone>315 785 099</phone>
+      <email>a_dvoral_pamatnik@nm.cz</email>
+      <web>www.nm.cz</web>
+      <info>Sníženeé vstupné pro držitele karet. Běžná cena 30 Kč, cena se slevou 15 Kč.</info>
+   <latitude>50.2556027</latitude>
+   <longitude>14.2857246</longitude>
+</benefit>

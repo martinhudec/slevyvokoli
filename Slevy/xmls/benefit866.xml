@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="866">
+      <name>EXPRESKA Olomouc</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kaštanová 14, Olomouc</address>
+      <phone>608 932 524</phone>
+      <email>olomouc@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>49.5967250</latitude>
+   <longitude>17.2724287</longitude>
+</benefit>

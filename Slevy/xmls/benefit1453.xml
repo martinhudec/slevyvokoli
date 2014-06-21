@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1453">
+      <name>Bowland</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Solná 23, Opava</address>
+      <phone>553 610 610</phone>
+      <email>info@bowland.cz</email>
+      <web>www.bowland.cz</web>
+      <info>Bowling - 1 karta = 1 objednávka: sleva 50% na bowling po-čt 10-15 hod sleva 25% na bowling ne 10-22 hod Pizza - 1 karta = 1 objednávka: při objednávce 2 pizz je na levnější pizzu sleva 50 % v čase po-čt 10-15 hod a ne 10-22 hod</info>
+   <latitude>49.9405200</latitude>
+   <longitude>17.9051567</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="327">
+      <name>Soup in the City</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pánská 9, Praha 1</address>
+      <phone>226 222 990</phone>
+      <email>soup@fusionrestaurants.cz</email>
+      <web>www.soupinthecity.cz</web>
+      <info>10% sleva na produkty domácí výroby</info>
+   <latitude>50.0840323</latitude>
+   <longitude>14.4279608</longitude>
+</benefit>

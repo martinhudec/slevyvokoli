@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1365">
+      <name>Lékárna Salve</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Třída Svobody 45, Olomouc</address>
+      <phone>585 228 488</phone>
+      <email>lekarnasalve@quick.cz, lekarnasalve@gmail.com</email>
+      <web/>
+      <info>5% sleva při nákupu v lékárně na léky prodávané bez receptu a volně prodejný doplňkový sortiment lékárny</info>
+   <latitude>49.5903903</latitude>
+   <longitude>17.2526514</longitude>
+</benefit>

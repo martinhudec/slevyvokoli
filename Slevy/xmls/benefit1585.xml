@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1585">
+      <name>Rekreační středisko Bonětice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bonětice - levý břeh rybníka Dlouhý Stráž 348 02 , Bor u Tachova</address>
+      <phone>737 179 073</phone>
+      <email>bonetice@lukon.cz</email>
+      <web>www.bonetic.cz</web>
+      <info>sleva 15 % na ubytování v apartmánech rekreačního střediska</info>
+   <latitude>49.7002772</latitude>
+   <longitude>12.8015266</longitude>
+</benefit>

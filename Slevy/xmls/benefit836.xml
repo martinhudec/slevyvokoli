@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="836">
+      <name>Eiffel optic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kostelecká 823/77, Praha 9</address>
+      <phone>721 424 134</phone>
+      <email>zakova@eiffeloptic.cz</email>
+      <web>www.eiffeloptic.cz</web>
+      <info>10% sleva na nezlevněné dioptrické obruby a sluneční brýle nad 1500 Kč</info>
+   <latitude>50.1508314</latitude>
+   <longitude>14.5062270</longitude>
+</benefit>

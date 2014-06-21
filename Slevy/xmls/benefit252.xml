@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="252">
+      <name>Knihy Dobrovský - OC Futurum Kolín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rorejcova 906, Kolín</address>
+      <phone>321 672 151, 321 672 159, 724</phone>
+      <email>kolin@knihydobrovsky.cz</email>
+      <web>www.knihydobrovsky.cz</web>
+      <info>10% sleva na všechny zakoupené tituly, sleva se nevztahuje na již zlevněné tituly. Slevu je možno uplatnit v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>50.0257091</latitude>
+   <longitude>15.2093322</longitude>
+</benefit>

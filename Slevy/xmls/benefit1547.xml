@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1547">
+      <name>Subway - Letiště Václava Havla</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Letiště Václava Havla, Aviatická 6, Praha 6 - Ruzyně</address>
+      <phone>777 714 296</phone>
+      <email>prace.subway@freshfoods.cz</email>
+      <web>www.subwaysandwiches.cz, www.subway.cz</web>
+      <info>1 + 1 zdarma; druhý sendvič 15 cm ZDARMA při zakoupení sendviče a 0,4l nápoje Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1067471</latitude>
+   <longitude>14.2707666</longitude>
+</benefit>

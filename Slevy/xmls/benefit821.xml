@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="821">
+      <name>DP Mladá Boleslav</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Václava Klementa 1439/II, Mladá Boleslav</address>
+      <phone>326 72 82 11</phone>
+      <email/>
+      <web>www.dpmlb.cz</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>50.4194630</latitude>
+   <longitude>14.9173180</longitude>
+</benefit>

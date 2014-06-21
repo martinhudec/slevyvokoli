@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1548">
+      <name>Fitness centrum Contours</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bělohorská 126/197, Praha 6</address>
+      <phone>775 420 940</phone>
+      <email>ondrej@contours.cz</email>
+      <web>www.contours.cz</web>
+      <info>10% sleva na členství. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0839932</latitude>
+   <longitude>14.3647195</longitude>
+</benefit>

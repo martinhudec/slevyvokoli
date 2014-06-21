@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1517">
+      <name>Tora Bora</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Řeznická 17, Praha 1</address>
+      <phone>296 325 500</phone>
+      <email>torabora@extremedistribution.cz, toraskate@seznam.cz</email>
+      <web>www.torabora.cz</web>
+      <info>sleva 15% na nezlevněné zboží sleva 5% na zlevněné zboží</info>
+   <latitude>50.0780680</latitude>
+   <longitude>14.4236593</longitude>
+</benefit>

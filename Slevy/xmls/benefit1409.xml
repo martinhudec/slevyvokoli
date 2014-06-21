@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1409">
+      <name>College Centrum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jiráskova 6, Jihlava</address>
+      <phone>731 179 082</phone>
+      <email>info@collegecentrum.cz</email>
+      <web>www.collegecentrum.cz</web>
+      <info>sleva 40 % ze vstupného na pořádané akce</info>
+   <latitude>49.3979272</latitude>
+   <longitude>15.5829313</longitude>
+</benefit>

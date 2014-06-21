@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="666">
+      <name>Autoškola student</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Karlovo náměstí 17, Praha 2</address>
+      <phone>776 000 264, 222 365 972</phone>
+      <email>info@autoskolastudent.cz</email>
+      <web>www.autoskolastudent.cz</web>
+      <info>Sleva 1500 Kč ze standardní ceny výcviku skupiny B. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0771480</latitude>
+   <longitude>14.4191740</longitude>
+</benefit>

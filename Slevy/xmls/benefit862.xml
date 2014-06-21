@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="862">
+      <name>Express Taxi s.r.o.</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Hrdinů 1301/5, Praha 4</address>
+      <phone>223 223 223, 222 999 222</phone>
+      <email>info@expresstaxi.cz</email>
+      <web>www.expresstaxi.cz</web>
+      <info>Sleva 40% na taxi a smluvní přepravu osob, cena po slevě 17 Kč/km po Praze a mimo Prahu jedním směrem</info>
+   <latitude>50.0587371</latitude>
+   <longitude>14.4356768</longitude>
+</benefit>

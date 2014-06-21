@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="42">
+      <name>Movie's club</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Veletržní 924/14, Praha 7</address>
+      <phone>216 216 869, 601 203 230</phone>
+      <email>info@moviesclub.cz</email>
+      <web>www.moviesclub.cz</web>
+      <info>Sleva 20% na vše. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1022712</latitude>
+   <longitude>14.4336905</longitude>
+</benefit>

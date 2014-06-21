@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1581">
+      <name>Lékárna Pharmacentrum Budějovická</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Antala Staška 80, Praha 4</address>
+      <phone>261 006 330, 606 684 520</phone>
+      <email>pharmacentrum@mediconas.cz</email>
+      <web>www.mediconas.cz</web>
+      <info>sleva 5 % na veškerý sortiment</info>
+   <latitude>50.0428698</latitude>
+   <longitude>14.4496211</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1101">
+      <name>PC World - časopis</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Seydlerova 2451/11, Praha 13</address>
+      <phone>257 088 163</phone>
+      <email>predplatne@idg.cz</email>
+      <web>www.pcworld.cz</web>
+      <info>snížená cena předplateného - jen za 750 Kč</info>
+   <latitude>50.0506888</latitude>
+   <longitude>14.3461321</longitude>
+</benefit>

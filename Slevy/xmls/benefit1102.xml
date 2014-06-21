@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1102">
+      <name>mojekolo.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Seifertova 7/1A, Praha</address>
+      <phone>595 532 416</phone>
+      <email>praha@mojekolo.cz</email>
+      <web>www.mojekolo.cz</web>
+      <info>sleva 5 % na jízdní kola a doplňky 10% na servisní práce</info>
+   <latitude>50.0855744</latitude>
+   <longitude>14.4401123</longitude>
+</benefit>

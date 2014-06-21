@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1110">
+      <name>Pusy fashion shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Riegrova 13, Olomouc</address>
+      <phone>585 222 158</phone>
+      <email>info@girlshop.cz</email>
+      <web>www.girlshop.cz</web>
+      <info>sleva 5 % z původní ceny na veškeré jinak nezlevněné zboží</info>
+   <latitude>49.5944640</latitude>
+   <longitude>17.2485772</longitude>
+</benefit>

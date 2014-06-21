@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="49">
+      <name>Diskontní prodejna kancelářských a výtvarných potřeb</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>K Nemocnici 63, Nový Jičín</address>
+      <phone>556 720 915</phone>
+      <email>novy.jicin@optys.cz</email>
+      <web>www.optys.cz</web>
+      <info>Sleva 10% z celkového nákupu. Nevztahuje se na již zlevněné produkty. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.5860395</latitude>
+   <longitude>18.0057908</longitude>
+</benefit>

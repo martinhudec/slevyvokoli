@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1643">
+      <name>Bobová dráha Prosek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Prosecká 906/34b, Praha 9</address>
+      <phone>284 840 520</phone>
+      <email>info@bobovadraha.cz</email>
+      <web>www.bobovadraha.cz</web>
+      <info>možnost využití slevy na vstupném: - 6 jízd 270 Kč</info>
+   <latitude>50.1142319</latitude>
+   <longitude>14.4890615</longitude>
+</benefit>

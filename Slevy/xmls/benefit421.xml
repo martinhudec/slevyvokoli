@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="421">
+      <name>Horsefeathers store Plzeň</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Klatovská 20, Plzeň</address>
+      <phone>377323890</phone>
+      <email>plzen@hfshope.cz</email>
+      <web>www.horsefeathers-store.eu</web>
+      <info>10% sleva na nezlevněné zboží na kamenných obchodech i e-shopu Horsefeathers store</info>
+   <latitude>49.7427542</latitude>
+   <longitude>13.3717941</longitude>
+</benefit>

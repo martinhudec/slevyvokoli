@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1867">
+      <name>Rock 'n' Roll - skate &amp; snow shop</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>pasáž Světozor, Vodičkova 41, Praha 1</address>
+      <phone>224 235 790</phone>
+      <email>alfa@rocknroll.cz</email>
+      <web>www.rocknroll.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>50.0821660</latitude>
+   <longitude>14.4257646</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="393">
+      <name>ÚAMK</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>K. Světlé 2238, České Budějovice</address>
+      <phone>387 789 111, 387 789 115, 737</phone>
+      <email>profiautoskola@uamk.cz</email>
+      <web>www.uamk.cz</web>
+      <info>25% sleva na roční asistenční karty ÚAMK, 12% sleva na školné v autoškolách ÚAMK Praha a České Budějovice www.autoskolauamk.cz, www.profi-autoskola.cz</info>
+   <latitude>48.9928931</latitude>
+   <longitude>14.4783598</longitude>
+</benefit>

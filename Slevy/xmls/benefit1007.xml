@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1007">
+      <name>Skiareál Herlíkovice</name>
+      <cardType>ISIC</cardType>
+      <address>Za Řekou 370, Vrchlabí</address>
+      <phone>737 222 456</phone>
+      <email>info@herlikovice.cz</email>
+      <web>www.herlikovice.cz</web>
+      <info>20% sleva na jedno a vícedenní permanentky</info>
+   <latitude>50.6598969</latitude>
+   <longitude>15.5978481</longitude>
+</benefit>

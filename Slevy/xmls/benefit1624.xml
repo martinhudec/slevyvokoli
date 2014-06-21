@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1624">
+      <name>Vabene - restaurace, pizzerie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Malá Štupartská 636/5, Praha 1</address>
+      <phone>224 827 777, 602 228 310</phone>
+      <email>info@vabene.cz</email>
+      <web>www.vabene.cz</web>
+      <info>sleva 15 % z celého účtu (sleva se nevztahuje na tabákové výrobky)</info>
+   <latitude>50.0881133</latitude>
+   <longitude>14.4245181</longitude>
+</benefit>

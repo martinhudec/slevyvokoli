@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1423">
+      <name>Knihkupectví Karolinum</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Celetná 18, Praha 1</address>
+      <phone>224 491 552</phone>
+      <email>knihkupectvi@ruk.cuni.cz</email>
+      <web>www.cupress.cuni.cz</web>
+      <info>sleva 10 % na veškerý sortiment</info>
+   <latitude>50.0871397</latitude>
+   <longitude>14.4238362</longitude>
+</benefit>

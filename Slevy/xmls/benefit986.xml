@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="986">
+      <name>JAS centrum &amp; SPORT</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pražská 1220, Čáslav</address>
+      <phone>327 313 185</phone>
+      <email>jas@jascentrum.cz</email>
+      <web>www.jascentrum.cz</web>
+      <info>10% sleva na sportovní oblečení, obuv, a potřeby 5% sleva na fitness přístroje</info>
+   <latitude>49.9154451</latitude>
+   <longitude>15.3886665</longitude>
+</benefit>

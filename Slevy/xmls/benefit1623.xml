@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1623">
+      <name>Nemoprostor - realitní společnost</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bulharská 23, Karlovy Vary</address>
+      <phone>723 127 127, 353 575 111</phone>
+      <email>info@nemoprostor.cz</email>
+      <web>www.nemoprostor.cz</web>
+      <info>sleva 5 % na služby</info>
+   <latitude>50.2307042</latitude>
+   <longitude>12.8716082</longitude>
+</benefit>

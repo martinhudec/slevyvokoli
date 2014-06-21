@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1562">
+      <name>Hello language centre</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pekárenská 330/12, Brno - Veveří</address>
+      <phone>774 243 556</phone>
+      <email>brno@hello.cz</email>
+      <web>www.hello.cz</web>
+      <info>sleva 200 Kč na roční kurz pro veřejnost</info>
+   <latitude>49.2018981</latitude>
+   <longitude>16.6009791</longitude>
+</benefit>

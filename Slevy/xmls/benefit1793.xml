@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1793">
+      <name>REAL OFFICE s.r.o.</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Sušilova 9, Brno</address>
+      <phone>511 141 484</phone>
+      <email>info@realoffice.cz</email>
+      <web>www.realoffice.cz</web>
+      <info>sleva ve výši 10 % z provize</info>
+   <latitude>49.2057820</latitude>
+   <longitude>16.5999543</longitude>
+</benefit>

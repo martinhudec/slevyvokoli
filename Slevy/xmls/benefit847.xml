@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="847">
+      <name>EXPRESKA Plzeň Bolevec</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Atom - Sokolovská 78, Plzeň</address>
+      <phone>734 713 396</phone>
+      <email>plzen-bolevec@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>49.7721638</latitude>
+   <longitude>13.3711456</longitude>
+</benefit>

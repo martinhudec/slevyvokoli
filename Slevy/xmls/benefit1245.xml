@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1245">
+      <name>Regionální muzeum v Kolíně - Stará škola</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Brandlova 24, Kolín</address>
+      <phone/>
+      <email>info@muzeumkolin.cz</email>
+      <web>www.muzeumkolin.cz</web>
+      <info>sleva 50 % na vstupné</info>
+   <latitude>50.0265499</latitude>
+   <longitude>15.2011418</longitude>
+</benefit>

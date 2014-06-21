@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1153">
+      <name>A Rent Car</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Washingtonova 9, Praha 1</address>
+      <phone>224 233 265, 224 236 180</phone>
+      <email>arentcar@iol.cz</email>
+      <web>www.arentcar.cz</web>
+      <info>sleva 10 % na zapůjčení auta. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.  </info>
+   <latitude>50.0805255</latitude>
+   <longitude>14.4309537</longitude>
+</benefit>

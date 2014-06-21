@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1152">
+      <name>Sensor Friendship Store</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Klimentská 34 , Praha 1</address>
+      <phone>222 312 395</phone>
+      <email/>
+      <web>http://www.sensor.cz/</web>
+      <info>sleva 10% při platbě v hotovosti</info>
+   <latitude>50.0921125</latitude>
+   <longitude>14.4314600</longitude>
+</benefit>

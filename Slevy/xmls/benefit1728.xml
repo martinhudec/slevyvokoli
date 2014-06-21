@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1728">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Olympia, Srbická 464, Teplice</address>
+      <phone>417 563 566</phone>
+      <email>teplice_oc@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.6610428</latitude>
+   <longitude>13.8637146</longitude>
+</benefit>

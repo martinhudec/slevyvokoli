@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="977">
+      <name>NOODLE s.r.o.</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Plavecká 4, Praha 2</address>
+      <phone>602370984</phone>
+      <email>info@noodle.cz</email>
+      <web>www.noodle.cz</web>
+      <info>15% sleva na všechny pokrmy a nápoje uvedené v jídelním lístku</info>
+   <latitude>50.0691374</latitude>
+   <longitude>14.4154395</longitude>
+</benefit>

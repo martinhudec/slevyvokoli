@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="759">
+      <name>OUTshop.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pilníkovská 368, Praha 9</address>
+      <phone>739 876 137</phone>
+      <email>info@OUTshop.cz</email>
+      <web>www.outshop.cz</web>
+      <info>7% sleva na veškerý sortiment sportovního obchodu OUTshop.cz</info>
+   <latitude>50.0862786</latitude>
+   <longitude>14.5693021</longitude>
+</benefit>

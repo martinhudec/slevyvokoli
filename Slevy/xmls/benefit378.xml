@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="378">
+      <name>Amigos Bar</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Americká 11, Plzeň</address>
+      <phone>775 168 181</phone>
+      <email>info@amigosbar.cz</email>
+      <web>wwwamigosbar.cz</web>
+      <info>20% sleva na koktejly, 1karta = 1 koktejl, sleva se neslučuje s jinými slevami a akcemi na koktejly. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7439203</latitude>
+   <longitude>13.3740605</longitude>
+</benefit>

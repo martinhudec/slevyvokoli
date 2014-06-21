@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1221">
+      <name>Hotel Šumava***</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kašperské hory 375, Klatovy</address>
+      <phone>376 582 421, 605 205 452</phone>
+      <email>sumava@zsmv.cz</email>
+      <web>www.sumavanet.cz</web>
+      <info>sleva 20 % z celkové částky pobytu mimo Vánoc a Silvestra</info>
+   <latitude>49.1317000</latitude>
+   <longitude>13.5471818</longitude>
+</benefit>

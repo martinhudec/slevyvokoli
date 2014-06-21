@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1774">
+      <name>Club Velbloud</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hraniční 26/3, Praha 3</address>
+      <phone/>
+      <email>club@velbloud.com</email>
+      <web>www.velbloud.com</web>
+      <info>sleva 10% na veškerou konzumaci mimo tabákových výrobků a zboží v akci od 16:00 do 20:00, v ostatních časech sleva 5%. Slevy nelze kombinovat.</info>
+   <latitude>50.0928283</latitude>
+   <longitude>14.4825065</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="266">
+      <name>Sparťan Race</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Monínec</address>
+      <phone>+4210905167705</phone>
+      <email>info@spartan-race.cz</email>
+      <web>http://spartan-race.cz</web>
+      <info>20% sleva na registraci na závod Sparťan Race</info>
+   <latitude>49.5454699</latitude>
+   <longitude>14.5175208</longitude>
+</benefit>

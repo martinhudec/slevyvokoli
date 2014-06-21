@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1848">
+      <name>Cyklo Point</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Avion Shopping Park, Skandinávská 10, Brno</address>
+      <phone>734311819</phone>
+      <email>brno@cyklopoint.cz</email>
+      <web>www.cyklopoint.cz</web>
+      <info>sleva 6 % na jízdní kola Merida  a kompletní nabídku příslušenství pro cyklistiku (nelze uplatnit na již zlevněné zboží) sleva 10 % servis slevu nelze kombinovat s dalšími slevami</info>
+   <latitude>49.1553713</latitude>
+   <longitude>16.6281251</longitude>
+</benefit>

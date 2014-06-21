@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1984">
+      <name>Lékárna Na Obilním trhu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Gorkého 22, Brno</address>
+      <phone>541 213 861</phone>
+      <email>lekarna.obilnak@email.cz</email>
+      <web>www.lekarna.zdravcentra.cz/naobilnimtr…</web>
+      <info>sleva 6 % z prodejní ceny (volný prodej)</info>
+   <latitude>49.1997237</latitude>
+   <longitude>16.5970954</longitude>
+</benefit>

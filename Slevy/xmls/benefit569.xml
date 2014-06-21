@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="569">
+      <name>DHL Express</name>
+      <cardType>ISIC</cardType>
+      <address>Václavské náměstí 47, Praha 1</address>
+      <phone>840103000</phone>
+      <email>infolinka@dhl.com</email>
+      <web>www.dhl.cz</web>
+      <info>50% sleva na služby expresní letecké přepravy, neplatí na pozemní přepravu, lze využít pouze na DHL recepcích při platbě v hotovosti, více na www.isic.cz</info>
+   <latitude>50.0809481</latitude>
+   <longitude>14.4287160</longitude>
+</benefit>

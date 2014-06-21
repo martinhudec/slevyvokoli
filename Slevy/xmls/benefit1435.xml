@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1435">
+      <name>Ibis Praha Wenceslas Square</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kateřinská 36, Praha 2</address>
+      <phone>222 865 777</phone>
+      <email>resa-praha-re04@accor.com</email>
+      <web>www.hotelibis.cz</web>
+      <info>Sleva 30 % z nesnížených cen v období od 1.11. do 30.04. Poté sleva 10 % od 1.05. do 31.12.</info>
+   <latitude>50.0750366</latitude>
+   <longitude>14.4271165</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1190">
+      <name>Mammut Sport Praha</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bubenská 1536/43, Praha 7</address>
+      <phone>777 013 497</phone>
+      <email>jarda.sadilek@mammut.cz</email>
+      <web>http://www.mammut.cz/</web>
+      <info>15 % na nezlevněné zboží a 5 % na zlevněné zboží</info>
+   <latitude>50.1049906</latitude>
+   <longitude>14.4360406</longitude>
+</benefit>

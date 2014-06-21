@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="12">
+      <name>TEPfaktor</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Chotilsko, okr. Příbram</address>
+      <phone>+420 777 000 927</phone>
+      <email>info@tepfaktor.cz</email>
+      <web>www.tepfaktor.cz</web>
+      <info>Sleva 15% na hru TEPfaktor. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.7704873</latitude>
+   <longitude>14.3524852</longitude>
+</benefit>

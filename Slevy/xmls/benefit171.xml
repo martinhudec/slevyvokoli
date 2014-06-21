@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="171">
+      <name>Státní zámek Velké Losiny</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Velké Losiny</address>
+      <phone>583 248 380</phone>
+      <email>velkelosiny@olomou.npu.cz</email>
+      <web>www.zamek-losiny.cz</web>
+      <info>Sleva z plného vstupného na úroveň sníženého vstupného. Věková hranice pro uplatněníslevy 26 let (včetně). Slevu je možno uplatnit pouze na místě. Slevu je možno uplatnit prokázáním se platnou kartou</info>
+   <latitude>50.0319700</latitude>
+   <longitude>17.0405873</longitude>
+</benefit>

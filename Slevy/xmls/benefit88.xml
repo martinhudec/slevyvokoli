@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="88">
+      <name>GALEX</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Široká 12 (roh ulice Maiselova a Široká), Praha 1</address>
+      <phone>+420 734 257 620</phone>
+      <email>galex11@karatrutnov.cz</email>
+      <web>www.karatrutnov.cz</web>
+      <info>Sleva ve výši 5% na všechny nezlevněné výrobky. Sleva platí pouze v kamenných prodejnách.</info>
+   <latitude>50.0895711</latitude>
+   <longitude>14.4163212</longitude>
+</benefit>

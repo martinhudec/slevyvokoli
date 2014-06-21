@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1780">
+      <name>Skysport team</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karafiátová 265/21, Prostějov</address>
+      <phone>602 180 888</phone>
+      <email>office@skysport.cz</email>
+      <web>www.skysport.cz</web>
+      <info>sleva 5 % je ze základní ceny seskoku a nevztahuje se na kameru a foto slevu nelze kombinovat s žádnou ze slev společnosti Skysport</info>
+   <latitude>49.4690019</latitude>
+   <longitude>17.0690166</longitude>
+</benefit>

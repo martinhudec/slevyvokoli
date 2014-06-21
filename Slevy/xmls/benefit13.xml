@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="13">
+      <name>ALOHA BAR PRAHA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dušní 1, Praha</address>
+      <phone>+420 602 251 392</phone>
+      <email>info@alohapraha.cz</email>
+      <web>www.alohapraha.cz</web>
+      <info>50% sleva na veškeré koktejly a 60% sleva na shooters Čupíto každé pondělí od 19:00 - 20:00 hod</info>
+   <latitude>50.0888575</latitude>
+   <longitude>14.4216205</longitude>
+</benefit>

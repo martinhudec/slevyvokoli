@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1156">
+      <name>HUDYsport</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bynovec 138, Bynovec</address>
+      <phone>412 589 961</phone>
+      <email>info@hudy.cz</email>
+      <web>www.hudy.cz</web>
+      <info>sleva 7 % na nákup zboží</info>
+   <latitude>50.8183479</latitude>
+   <longitude>14.2643505</longitude>
+</benefit>

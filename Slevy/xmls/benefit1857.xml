@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1857">
+      <name>Pace Jeans</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Interspar, Rokycanská 2656/2 , Plzeň</address>
+      <phone>376 909 174</phone>
+      <email>info@jeans-rifle.cz</email>
+      <web>www.jeans-rifle.cz</web>
+      <info>sleva 10 % na veškerý sortiment nevztahuje se na již zlevněné zboží</info>
+   <latitude>49.7471474</latitude>
+   <longitude>13.4004336</longitude>
+</benefit>

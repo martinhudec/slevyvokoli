@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1353">
+      <name>Eiffel optic</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Palladium, Náměstí Republiky 1079, Praha 1</address>
+      <phone>272 940 323</phone>
+      <email>info@eiffeloptic.cz</email>
+      <web>www.eiffeloptic.cz</web>
+      <info>10% sleva na nezlevněné dioptrické obruby a sluneční brýle nad 1500 Kč</info>
+   <latitude>50.0890049</latitude>
+   <longitude>14.4291743</longitude>
+</benefit>

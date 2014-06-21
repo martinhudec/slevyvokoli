@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1058">
+      <name>Autoturist</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Dopravní 35, Strakonice</address>
+      <phone>383 321 114</phone>
+      <email>sarka.cuchalova@seznam.cz</email>
+      <web>www.autoturist.cz</web>
+      <info>sleva 10 % na zájezdy z katalogu Autoturist v tištěné i online verzi sleva na asistenční klubové karty pro motoristy ÚAMK: 200 Kč roční, platná pro EU 100 Kč tříměsíční, platná pro EU 100 Kč roční, platná pro ČR</info>
+   <latitude>49.2580317</latitude>
+   <longitude>13.9147579</longitude>
+</benefit>

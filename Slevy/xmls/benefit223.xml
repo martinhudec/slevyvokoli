@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="223">
+      <name>KFC Chomutov</name>
+      <cardType>ISIC</cardType>
+      <address>Obchodní zóna 298, Otvice</address>
+      <phone>235 013 496</phone>
+      <email>kfcchomutov@amrest.eu</email>
+      <web>www.kfc.cz</web>
+      <info>Zvýhodněná cena na: 2x Twister nebo 2x Zinger nebo 1x Twister a 1x Zinger za 110 Kč</info>
+   <latitude>50.4849320</latitude>
+   <longitude>13.4443500</longitude>
+</benefit>

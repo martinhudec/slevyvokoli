@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="760">
+      <name>sporto.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pilníkovská 368, Praha 9</address>
+      <phone>739358321</phone>
+      <email>info@sporto.cz</email>
+      <web>www.sporto.cz</web>
+      <info>7% sleva n aveškerý sortiment sportovního obchodu sporto.cz</info>
+   <latitude>50.0862786</latitude>
+   <longitude>14.5693021</longitude>
+</benefit>

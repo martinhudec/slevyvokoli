@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="148">
+      <name>SOPHIA, jazykové služby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hroznová 28, České Budějovice</address>
+      <phone>386 102 788, 608 112 988</phone>
+      <email>vyuka@sophia-cb.cz</email>
+      <web>www.sophia-cb.cz</web>
+      <info>7% sleva na jazykové kurzy (veřejnostní kurzy, individuální kurzy, skype výuka) včetně výukových materiálů (učebnice). Sleva se nevztahuje na pobytové kurzy a e-learning. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>48.9761458</latitude>
+   <longitude>14.4743920</longitude>
+</benefit>

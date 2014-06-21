@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1033">
+      <name>Kiteseason</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Merhautova 181, Brno</address>
+      <phone>777 858 473</phone>
+      <email>radek.blazek@kiteseason.cz</email>
+      <web>www.kiteseason.cz</web>
+      <info>sleva 15 % na 1 denní Snowkiting Kurz ; sleva 20 % na 2 denní Kiteboarding Kurz a sleva 10 % na zakoupení vybavení.</info>
+   <latitude>49.2164996</latitude>
+   <longitude>16.6269160</longitude>
+</benefit>

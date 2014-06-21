@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="859">
+      <name>Knihcentrum Hlučín</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Mírové náměstí 25, Hlučín</address>
+      <phone>725963178</phone>
+      <email>hlucin@knihcentrum.cz</email>
+      <web>www.knihcentrum-hlucin.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)  </info>
+   <latitude>49.8961837</latitude>
+   <longitude>18.1868902</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="778">
+      <name>INTELEK</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vlárská 593/22, Brno</address>
+      <phone>533 338 888</phone>
+      <email>info@intelek.cz</email>
+      <web>www.intelek.cz</web>
+      <info>15% sleva z koncové ceny s DPH na produkty značky Tenda a EAGET</info>
+   <latitude>49.1810245</latitude>
+   <longitude>16.6730617</longitude>
+</benefit>

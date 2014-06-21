@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="696">
+      <name>OptikDoDomu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Horská 1, Trutnov</address>
+      <phone>606 029 848</phone>
+      <email/>
+      <web>www.OptikDoDomu.cz</web>
+      <info>30% sleva na celý sortiment (sleva nelze kombinovat s probíhajícími akcemi)</info>
+   <latitude>50.5614765</latitude>
+   <longitude>15.9117880</longitude>
+</benefit>

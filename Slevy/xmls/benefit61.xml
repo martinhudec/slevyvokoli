@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="61">
+      <name>encar.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Podbabská 17, Praha 6</address>
+      <phone>+420 777 560 690</phone>
+      <email>info@encar.cz</email>
+      <web>www.encar.cz</web>
+      <info>Sleva 11% na půjčovném. Sleva platí v kamenné půjčovně a e-shopu (online rezervace).</info>
+   <latitude>50.1184969</latitude>
+   <longitude>14.3924646</longitude>
+</benefit>

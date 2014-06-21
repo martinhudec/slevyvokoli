@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1113">
+      <name>Paneria</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Netroufalky 770, Brno</address>
+      <phone>547 213 824, 724 326 610</phone>
+      <email>paneria.31@eureca-shops.cz</email>
+      <web>www.paneria.cz</web>
+      <info>ISIC Alive Menu: Kuřecí panini a Coca Cola 0,5l pet, cena menu 65,-Kč sleva 10 % při nákupu nad 100,-Kč slevy nelze kombinovat</info>
+   <latitude>49.1768461</latitude>
+   <longitude>16.5663968</longitude>
+</benefit>

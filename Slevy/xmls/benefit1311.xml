@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1311">
+      <name>Strašnické divadlo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>ulice Solidarity 1986/53, Praha 10</address>
+      <phone>246 030 104</phone>
+      <email>rezervace@strasnickedivadlo.cz</email>
+      <web>www.strasnickedivadlo.cz</web>
+      <info>Pro držitele průkazů ISIC, ALIVE jednotné vstupné 100 Kč Pro držitele průkazů ITIC - 30 Kč sleva z uvedené ceny (z 160 nebo 230 kč) z každé zakoupené vstupenky (neplatí na dětská představení) ISIC, IYTC, ALIVE - jednotné vstupné 100 Kč ITIC - sleva 30 Kč z uvedené ceny z každé zakoupené vstupenky sleva neplatí na dětská představení</info>
+   <latitude>50.0753397</latitude>
+   <longitude>14.4990230</longitude>
+</benefit>

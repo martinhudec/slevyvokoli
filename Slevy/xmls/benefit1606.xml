@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1606">
+      <name>Speed Cars - taxi služba</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jeremenkova 304/55, Praha 4</address>
+      <phone>224 234 234</phone>
+      <email>kancelar@speedcars.cz</email>
+      <web>www.speedcars.cz</web>
+      <info>pro držitele ISIC karet TAXI cena jen 17,-Kč/km nástupní sazba 40,-Kč čekání 6,-Kč/min</info>
+   <latitude>50.0439634</latitude>
+   <longitude>14.4243783</longitude>
+</benefit>

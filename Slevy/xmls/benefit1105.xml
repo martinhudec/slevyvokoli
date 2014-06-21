@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1105">
+      <name>Fruitisimo Fresh</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>NG Myslbek, Na Příkopě 19-21, Praha 1</address>
+      <phone>774 300 330</phone>
+      <email>fruitisimo@fruitisimo.net</email>
+      <web>www.fruitisimo.net</web>
+      <info>sleva 10 % na produkty Fruitisimo Fresh (neplatí pro nabízené odšťavňovače)</info>
+   <latitude>50.0855066</latitude>
+   <longitude>14.4252267</longitude>
+</benefit>

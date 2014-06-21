@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1775">
+      <name>www.bizushop.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Otýlie Beníškové 468/5, Plzeň</address>
+      <phone>377 531 333</phone>
+      <email>info@bizushop.cz</email>
+      <web>www.bizushop.cz</web>
+      <info>Bižuterie ZYTA sleva 10 % na nákup zboží v internetovém obchodě www.bizushop.cz Do poznámky napište: "Chci 10% slevu na ISIC (ITIC, ALIVE) číslo karty ..."</info>
+   <latitude>49.7522871</latitude>
+   <longitude>13.3784975</longitude>
+</benefit>

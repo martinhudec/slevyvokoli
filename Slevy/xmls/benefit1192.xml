@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1192">
+      <name>Levi's Store</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Chodov, Roztylská 2321/19, Praha 4</address>
+      <phone>272 07 53 88</phone>
+      <email>galaxychodov@galpo.cz</email>
+      <web>www.eu.levi.com</web>
+      <info>sleva 10 % na veškeré nezlevněné zboží</info>
+   <latitude>50.0320692</latitude>
+   <longitude>14.4909962</longitude>
+</benefit>

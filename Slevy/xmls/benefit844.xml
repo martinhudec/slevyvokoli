@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="844">
+      <name>EXPRESKA Brno</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Štefánikova 42, Brno</address>
+      <phone>731 060 073</phone>
+      <email>brno-mesto@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>49.2144171</latitude>
+   <longitude>16.6006926</longitude>
+</benefit>

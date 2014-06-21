@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="205">
+      <name>Salsa Café</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jaselská 20, Praha 6</address>
+      <phone>608 117 571</phone>
+      <email>info@salsacafe.cz</email>
+      <web>facebook.com/www.salsacafe.cz</web>
+      <info>50 Kč espresso + koláč 70 Kč ledové caffé laté + koláč 20% sleva na všechny kurzy salsy  </info>
+   <latitude>50.0990427</latitude>
+   <longitude>14.4026552</longitude>
+</benefit>

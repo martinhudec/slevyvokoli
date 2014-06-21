@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1801">
+      <name>HZH SPORT</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vodní 83, Kroměříž</address>
+      <phone>575 752 242</phone>
+      <email>kromeriz@hzh.cz</email>
+      <web>www.hzhsport.cz</web>
+      <info>sleva 10% na prodej sportovního zboží Sleva se nevztahuje jen na nezlevněné zboží. Sleva se nedá kombinovat s jinými slevami., které HZH Sport poskytuje. Slevu je možno uplatnit pouze v kamenných prodejnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.2984710</latitude>
+   <longitude>17.3947353</longitude>
+</benefit>

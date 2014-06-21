@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="864">
+      <name>EXPRESKA Praha Prosek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Veltruská 559/31, Praha 9</address>
+      <phone>251 628 104, 774 220 234</phone>
+      <email>praha-prosek@expreska.cz</email>
+      <web>www.expreska.cz</web>
+      <info>Sleva 25% na zápisné (registrační poplatek)</info>
+   <latitude>50.1212169</latitude>
+   <longitude>14.4936753</longitude>
+</benefit>

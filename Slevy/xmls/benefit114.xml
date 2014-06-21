@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="114">
+      <name>FAnn parfumérie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>SC Breda a Weinstein, U Fronty49/10, Opava</address>
+      <phone>553820101</phone>
+      <email>bop@fann.cz</email>
+      <web>www.fann.cz</web>
+      <info>20 % sleva na nezlevněné zboží vybraných značek, 10 % sleva na ostatní nezlevněné zboží</info>
+   <latitude>49.9406598</latitude>
+   <longitude>17.8947989</longitude>
+</benefit>

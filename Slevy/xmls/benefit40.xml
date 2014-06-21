@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="40">
+      <name>A&amp;O HOTEL and HOSTEL</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Děčínská 1, Praha 8</address>
+      <phone>286 880234</phone>
+      <email/>
+      <web>www.aohostels.com</web>
+      <info>10% sleva na ubytování nealkoholický nápoj na uvítanou wi-fi zdarma Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.1250294</latitude>
+   <longitude>14.4830624</longitude>
+</benefit>

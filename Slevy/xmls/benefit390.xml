@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="390">
+      <name>Piercingate</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Na Žižkově 808/37, Liberec VI - Rochlice</address>
+      <phone>775053753</phone>
+      <email>info@piercingate.cz</email>
+      <web>www.piercingate.cz</web>
+      <info>11% sleva na veškerý sortiment kromě zboží z bílého a žlutého zlata</info>
+   <latitude>50.7524508</latitude>
+   <longitude>15.0605238</longitude>
+</benefit>

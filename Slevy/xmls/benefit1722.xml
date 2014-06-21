@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1722">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Náměstí Republiky 147, Žďár nad Sázavou</address>
+      <phone>566 524 714</phone>
+      <email>zdar@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>49.5632164</latitude>
+   <longitude>15.9402698</longitude>
+</benefit>

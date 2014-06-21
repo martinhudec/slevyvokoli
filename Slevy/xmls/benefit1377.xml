@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1377">
+      <name>Studio Tocco</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nerudovo nám. 101/4, Liberec</address>
+      <phone>723 601 135</phone>
+      <email>studiotocco@centrum.cz</email>
+      <web>www.tocco.webnode.cz</web>
+      <info>Sleva 10% na veškeré služby Studia Tocco</info>
+   <latitude>50.7713473</latitude>
+   <longitude>15.0615019</longitude>
+</benefit>

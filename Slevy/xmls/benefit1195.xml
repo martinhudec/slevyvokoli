@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1195">
+      <name>Podnik Spiritka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Atletická 2352/11, Praha 6 - Břevnov</address>
+      <phone>257 531 688</phone>
+      <email>info@spiritka.cz</email>
+      <web>www.spiritka.cz</web>
+      <info>sleva 20 % z celkové částky pobytu mimo Vánoc a Silvestra</info>
+   <latitude>50.0788362</latitude>
+   <longitude>14.3741168</longitude>
+</benefit>

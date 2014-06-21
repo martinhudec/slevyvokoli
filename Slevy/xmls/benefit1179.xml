@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1179">
+      <name>Mammut velkoobchod Příšovice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Příšovice 56, Příšovice</address>
+      <phone>731165259</phone>
+      <email>jakub@mammut.cz</email>
+      <web>http://www.mammut.cz/</web>
+      <info>sleva 15 % na nezlevněné zboží a 5 % na zlevněné zboží</info>
+   <latitude>50.5785497</latitude>
+   <longitude>15.0862406</longitude>
+</benefit>

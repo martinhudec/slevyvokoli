@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="29">
+      <name>Vinárna Křižík</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Thámova 34, Praha 8</address>
+      <phone>+420222314718</phone>
+      <email>info@vinarna-krizik.cz</email>
+      <web>www.vinoteka-krizik.cz</web>
+      <info>10% sleva na všechna sudová a lahvová vína při nákupu s sebou</info>
+   <latitude>50.0942836</latitude>
+   <longitude>14.4514079</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1403">
+      <name>Zaparkujte u letiště</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karlovarská 660/117, Praha 6</address>
+      <phone>722 200 400</phone>
+      <email>marketing@zaparkujteuletiste.cz</email>
+      <web>www.zaparkujteuletiste.cz</web>
+      <info>sleva 20% z aktuální ceny parkovného</info>
+   <latitude>50.0766918</latitude>
+   <longitude>14.2981291</longitude>
+</benefit>

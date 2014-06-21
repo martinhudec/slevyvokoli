@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="693">
+      <name>OptikDoDomu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husovo nám. 7, Rakovník</address>
+      <phone>774 744 213</phone>
+      <email/>
+      <web>www.OptikDoDomu.cz</web>
+      <info>30% sleva na celý sortiment (sleva nelze kombinovat s probíhajícími akcemi)</info>
+   <latitude>50.1037292</latitude>
+   <longitude>13.7317433</longitude>
+</benefit>

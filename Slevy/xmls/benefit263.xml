@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="263">
+      <name>LazerFun Praha</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Drahobejlova 1073/36, Praha 9</address>
+      <phone>733 004 270, 773 004 245</phone>
+      <email>info@lazerfunpraha.cz</email>
+      <web>www.lazerfunpraha.cz</web>
+      <info>26 % sleva na hru/osoba. Původní cena 135 Kč, cena po slevě 100 Kč</info>
+   <latitude>50.1058189</latitude>
+   <longitude>14.4903222</longitude>
+</benefit>

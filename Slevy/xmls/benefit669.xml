@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="669">
+      <name>Autopůjčovna Automoc</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Chodská 25, Praha 2</address>
+      <phone>605 043 834</phone>
+      <email>moc@automoc.eu</email>
+      <web>www.automoc.cz</web>
+      <info>15% sleva z půjčovného vozu. Slevu je možno uplatnit pouze v kamenné provozovně. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>50.0755142</latitude>
+   <longitude>14.4456795</longitude>
+</benefit>

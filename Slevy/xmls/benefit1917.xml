@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1917">
+      <name>Galerie Café</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého 239, Poděbrady</address>
+      <phone>123 456 789, 603 980 023</phone>
+      <email>galerie-info@galerie-pub.cz</email>
+      <web>www.galerie-pub.cz</web>
+      <info>sleva 10 % na nápoje WI-FI připojení k internetu pro hosty zdarma</info>
+   <latitude>50.1424229</latitude>
+   <longitude>15.1201027</longitude>
+</benefit>

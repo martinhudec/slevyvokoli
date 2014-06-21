@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="993">
+      <name>Fitness centrum Contours Královo Pole</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Božetěchova 2843/97a, Brno</address>
+      <phone>725 476 022</phone>
+      <email>kralovopole@contours.cz</email>
+      <web>www.contours.cz</web>
+      <info>10% sleva na členství. Slevu je možno uplatnit pouze v kamenných provozovnách. Slevu je možno uplatnit prokázáním se platnou kartou.</info>
+   <latitude>49.2317777</latitude>
+   <longitude>16.5921513</longitude>
+</benefit>

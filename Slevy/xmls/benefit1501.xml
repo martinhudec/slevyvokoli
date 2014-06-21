@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1501">
+      <name>Optika Kocandová</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hypermarket Globus, Hradecká 40, Brno</address>
+      <phone>541 225 779</phone>
+      <email>brno@optikakocandova.cz</email>
+      <web>www.optikakocandova.cz</web>
+      <info>sleva 12 % na dioptrické brýle</info>
+   <latitude>49.2620143</latitude>
+   <longitude>16.5784205</longitude>
+</benefit>

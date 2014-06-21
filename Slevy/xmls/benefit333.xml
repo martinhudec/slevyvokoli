@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="333">
+      <name>Sky Service</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>Dlouhá 6, Praha 1</address>
+      <phone>724 002 002, 732 333 777</phone>
+      <email>praha@skyservice.cz, info@skyservice.cz</email>
+      <web>www.skyservice.cz</web>
+      <info>10% sleva na nákup všech zážitků: Tandemových seskoků, tandemových seskoků včetně záznamu na DVD a Fotografiemi, Vyhlídkové lety nad centrem Prahy, dárkové poukazy a další. Sleva se vztahuje na nezlevněné a neakční produkty, slevy nelze sčítat.</info>
+   <latitude>50.0888256</latitude>
+   <longitude>14.4219578</longitude>
+</benefit>

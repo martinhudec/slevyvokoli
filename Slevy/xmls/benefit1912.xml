@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1912">
+      <name>mojekolo.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Slezská 101/112, Kobeřice</address>
+      <phone>553 657 365, 725 855 888</phone>
+      <email>obchod@mojekolo.cz</email>
+      <web>www.mojekolo.cz</web>
+      <info>sleva 5 % na jízdní kola a doplňky sleva 10 % na servisní práce</info>
+   <latitude>49.9837644</latitude>
+   <longitude>18.0493140</longitude>
+</benefit>

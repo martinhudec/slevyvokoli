@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1952">
+      <name>Institut digitální fotografie</name>
+      <cardType>ISIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Cejl 107, 602 00, Brno</address>
+      <phone>545 214 316</phone>
+      <email>brno@idif.cz</email>
+      <web>www.idif.cz</web>
+      <info>Sleva 50% navstup na Digiforum pro držitele karet ISIC a ALIVE objednané přes www.digiforum.cz sleva 10% na kurzy , publikace, kurzy a pronájmy ateliérů - objednané přes www.idif.cz</info>
+   <latitude>49.2010324</latitude>
+   <longitude>16.6259805</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1705">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Josefská 2, Brno</address>
+      <phone>542 212 275</phone>
+      <email>brno_jos@kanzelsberger.cu</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-pá: 8-19 h so: 8-13 h</info>
+   <latitude>49.1932243</latitude>
+   <longitude>16.6117856</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="380">
+      <name>Fast food Skippie</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Prešovská 17, Plzeň</address>
+      <phone>606 492 450</phone>
+      <email>mfiala@gmail.com</email>
+      <web>www.skippie.cz</web>
+      <info>1+1 masový koláč/muffin zdarma Happy Hour 17-18 hod</info>
+   <latitude>49.7465643</latitude>
+   <longitude>13.3742715</longitude>
+</benefit>

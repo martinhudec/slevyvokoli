@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1541">
+      <name>JIPKA Budějovice</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Karla IV. 3, České Budějovice</address>
+      <phone>383 134 252, 734 399 344</phone>
+      <email>budejovice@jipka.cz</email>
+      <web>www.jipka.cz</web>
+      <info>sleva 10 % na jazykové kurzy</info>
+   <latitude>48.9739343</latitude>
+   <longitude>14.4757596</longitude>
+</benefit>

@@ -21,6 +21,8 @@ import javax.xml.bind.annotation.XmlType;
 
 public class GPSrecord {
 
+    private Integer id;
+
     private String address, name;
     private Float latitude, longitude;
     private String[] cardType;
@@ -35,6 +37,15 @@ public class GPSrecord {
 
     public Float getLatitude() {
         return latitude;
+    }
+
+    @XmlAttribute
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 
     public Float getLongitude() {
@@ -66,7 +77,7 @@ public class GPSrecord {
     }
 
     public String toString() {
-        return  "NAME=" + name + " ADDRESS=" + address + " CARDTYPE=" + Arrays.toString(cardType) + " LONGITUDE="
+        return "NAME=" + name + " ADDRESS=" + address + " CARDTYPE=" + Arrays.toString(cardType) + " LONGITUDE="
                 + longitude + " LATITUDE=" + latitude;
     }
 }

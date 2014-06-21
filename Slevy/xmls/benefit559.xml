@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="559">
+      <name>DHL Express</name>
+      <cardType>ISIC</cardType>
+      <address>Evropská 840, Brno</address>
+      <phone>840103000</phone>
+      <email>infolinka@dhl.com</email>
+      <web>www.dhl.cz</web>
+      <info>50% sleva na produkty mezinárodní expresní přepravy, neplatí pro vnitrostátní a pozemní přepravu, lze využít pouze na DHL recepcích, více na www.isic.cz 50% sleva na služby expresní letecké přepravy, neplatí na pozemní přepravu, lze využít pouze na DHL recepcích při platbě v hotovosti, více na www.isic.cz</info>
+   <latitude>49.1117794</latitude>
+   <longitude>16.6038253</longitude>
+</benefit>

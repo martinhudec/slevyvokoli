@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1330">
+      <name>kurýrní služba Direct Courier</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Rodinná 320/12, Plzeň</address>
+      <phone>777 634 323</phone>
+      <email>dispecink@directcourier.cz</email>
+      <web>www.directcourier.cz</web>
+      <info>50% sleva z paušálu za dopravu kytice</info>
+   <latitude>49.7471054</latitude>
+   <longitude>13.4097069</longitude>
+</benefit>

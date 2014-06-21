@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1718">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Čs. Armády 31, Praha 6</address>
+      <phone>233 323 509</phone>
+      <email>dejvice@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.1005734</latitude>
+   <longitude>14.3976311</longitude>
+</benefit>

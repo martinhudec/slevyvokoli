@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="999">
+      <name>Studio Fascinace</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tyršův dům, Újezd 40, Praha 1</address>
+      <phone>777 101 011</phone>
+      <email>info@studiofascinace.cz</email>
+      <web>www.studiofascinace.cz</web>
+      <info>85 Kč/hod. = 15% sleva na skupinová cvičení mimo masáží</info>
+   <latitude>50.0834132</latitude>
+   <longitude>14.4052121</longitude>
+</benefit>

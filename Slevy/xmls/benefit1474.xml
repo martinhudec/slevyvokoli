@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1474">
+      <name>Lyžařský areál Severka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Dolní Lomná</address>
+      <phone/>
+      <email/>
+      <web>www.severka.eu</web>
+      <info>30% sleva na jízdném ve všední dny. Více informací ZDE    </info>
+   <latitude>49.5478278</latitude>
+   <longitude>18.7060982</longitude>
+</benefit>

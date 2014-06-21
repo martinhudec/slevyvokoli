@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="803">
+      <name>Dopravní podnik města Brna</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Novobranská 18, Brno</address>
+      <phone>5 4317 4317</phone>
+      <email>dpmb@dpmb.cz</email>
+      <web>www.dpmb.cz/</web>
+      <info>Pro získání studentského kuponu lze namísto klasického papírového potvrzení o studiu, vydané školou, uplatnit platný průkaz ISIC pro daný školní rok. Podrobnosti naleznete v sekci www.isic.cz/doprava</info>
+   <latitude>49.1935710</latitude>
+   <longitude>16.6132057</longitude>
+</benefit>

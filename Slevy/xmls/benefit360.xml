@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="360">
+      <name>Parfumérie Charismo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jungmannova 747/28 - pasáž Teta, Praha 1</address>
+      <phone>604 475 015, 602 885 731</phone>
+      <email>info@charismo.cz</email>
+      <web>www.charismo.cz</web>
+      <info>30% sleva na všechny parfémy Charismo. Sleva se nevztahuje na akční nabídky a zboží.</info>
+   <latitude>50.0878334</latitude>
+   <longitude>14.4210489</longitude>
+</benefit>

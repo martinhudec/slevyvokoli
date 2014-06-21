@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="15">
+      <name>Premiere Cinemas Hostivař</name>
+      <cardType>ISIC</cardType>
+      <address>Švehlova 1391/32, Praha 10</address>
+      <phone>+420 728 682 909</phone>
+      <email>ales.smetana@premierecinemas.cz</email>
+      <web>http://www.premierecinemas.cz/</web>
+      <info>při zakoupení studentského vstupného, obdrží zákazníkslevový kupón 1+1 zdarma. Po jeho předložení při další návštěvě kina získá, opět při zakoupení studentského vstupného, jeden vstup zdarma. Platnost kupónu je 1 měsíc od data jeho vydání a to ve dnech pondělí - čtvrtek.</info>
+   <latitude>50.0532812</latitude>
+   <longitude>14.5171881</longitude>
+</benefit>

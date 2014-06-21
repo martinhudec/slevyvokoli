@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1813">
+      <name>Bohemia institut</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Tuklatska 3/2105, Praha 10</address>
+      <phone>274 776 256, 274 780 496</phone>
+      <email>info@bi.cz</email>
+      <web>www.bi.cz</web>
+      <info>Sleva 10 - 25 % na školném pro všechny typy studia a kurzů (jazykové, manažerské, odborné, PC) v ČR (dle termínu registrace a typu kurzu) a navíc speciální dárek z kolekce BiS</info>
+   <latitude>50.0781380</latitude>
+   <longitude>14.4994415</longitude>
+</benefit>

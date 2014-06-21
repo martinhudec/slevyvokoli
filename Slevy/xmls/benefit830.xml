@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="830">
+      <name>SYTA s.r.o.</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Chelčického 3, Praha 3</address>
+      <phone>774 816 836</phone>
+      <email>syta@syta.cz</email>
+      <web>www.syta.cz</web>
+      <info>Sleva 20% na kurzy. Typy kurzů: landkiting (jednodenní, dvoudenní, týdenní), buggykiting (jednodenní, dvoudenní, týdenní), základní basic kurz (půldenní 3-5 hod dle povětrnostních podmínek) Prodej sportovního vybavení se slevou 10%; na značky Wolknsturmer, Zebra Kite, Libre, Radsails sleva 15% Slevy se nevztahují na akční a zlevněné produkty a nedají se sčítat s jinými slevovými poukazy.</info>
+   <latitude>50.0839993</latitude>
+   <longitude>14.4540791</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1497">
+      <name>Czech Inn Hostel</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Francouzská 76, Praha 1</address>
+      <phone>246 008 324, 267 267 600</phone>
+      <email/>
+      <web>www.czech-inn.com</web>
+      <info>sleva 5% na ubytování slevu můžete kombinovat s jinými slevami! Dále Vám dáme seznam nejlepších míst v Praze, která také nabízejí slevy na ISIC, a k tomu přehlednou mapu, která Vám usnadní jejich hledání! Důležité: Sleva je platá pouze když si vytvoříte rezervaci přes naši internetovou stránku www.czech-inn.com</info>
+   <latitude>50.0718899</latitude>
+   <longitude>14.4462616</longitude>
+</benefit>

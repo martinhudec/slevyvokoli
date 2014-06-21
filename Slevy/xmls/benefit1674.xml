@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1674">
+      <name>Sportisimo</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Family Center, Horská 687, Trutnov</address>
+      <phone>775 705 643</phone>
+      <email>trutnov@sportisimo.cz</email>
+      <web>www.sportisimo.cz</web>
+      <info>5% sleva z celkové ceny zboží, sleva se nevztahuje na již zlevněné zboží či zboží v akci.</info>
+   <latitude>50.5810832</latitude>
+   <longitude>15.8923406</longitude>
+</benefit>

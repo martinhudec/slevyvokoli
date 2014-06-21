@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1306">
+      <name>Restaurant Budweiser Budvar</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Aviatická 8, Praha 6</address>
+      <phone>224 424 577</phone>
+      <email>info@restaurant-letiste.cz</email>
+      <web>www.restaurant-letiste.cz</web>
+      <info> sleva 10 % z účtu  </info>
+   <latitude>50.1067838</latitude>
+   <longitude>14.2687784</longitude>
+</benefit>

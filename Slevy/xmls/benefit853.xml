@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="853">
+      <name>Knihcentrum Praha - Obchodní centrum Europark</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nákupní 389/3, Praha 10</address>
+      <phone>725963187</phone>
+      <email>praha.europark@knihcentrum.cz</email>
+      <web>www.knihcentrum-praha.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již zlevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)    </info>
+   <latitude>50.0723080</latitude>
+   <longitude>14.5429288</longitude>
+</benefit>

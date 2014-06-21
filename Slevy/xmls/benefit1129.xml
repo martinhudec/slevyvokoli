@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1129">
+      <name>Quick Burger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Husovo náměstí 2988, Tábor</address>
+      <phone>608 500 800</phone>
+      <email>info@quickburger.cz</email>
+      <web>www.quickburger.cz</web>
+      <info>speciální akce a meny pro studenty</info>
+   <latitude>49.4137663</latitude>
+   <longitude>14.6747205</longitude>
+</benefit>

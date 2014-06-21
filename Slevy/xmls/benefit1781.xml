@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1781">
+      <name>JIPKA Národní/Můstek</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palác Platýz (4.patro), Národní 37, Praha 1</address>
+      <phone>224 210 422, 731 805 535</phone>
+      <email>info@jipka.cz</email>
+      <web>www.jipka.cz</web>
+      <info>sleva 10 % na jazykové kurzy</info>
+   <latitude>50.0827709</latitude>
+   <longitude>14.4205653</longitude>
+</benefit>

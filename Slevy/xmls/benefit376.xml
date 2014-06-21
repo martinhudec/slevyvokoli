@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="376">
+      <name>Music Cafe Mlýn</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Radčická 40, Plzeň</address>
+      <phone>377 220 596</phone>
+      <email>info@musiccafemlyn.cz</email>
+      <web>www.musiccafemlyn.cz</web>
+      <info>1+1 vstup zdarma na vybrané akce isic student párty</info>
+   <latitude>49.7499658</latitude>
+   <longitude>13.3663354</longitude>
+</benefit>

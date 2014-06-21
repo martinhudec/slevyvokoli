@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1797">
+      <name>British Council</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Politických vězňů 13, Praha 1</address>
+      <phone>221 991 111</phone>
+      <email>info.praha@britishcouncil.cz</email>
+      <web>www.britishcouncil.cz</web>
+      <info>10% sleva na jazykové kurzy</info>
+   <latitude>50.0825269</latitude>
+   <longitude>14.4299328</longitude>
+</benefit>

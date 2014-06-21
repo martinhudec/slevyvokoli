@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1426">
+      <name>Knihkupectví ANSA</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>51. budova areálu SVIT, Zlín</address>
+      <phone>575 570 368</phone>
+      <email>ucebnice@ansa.cz</email>
+      <web>www.ansa.cz</web>
+      <info>7% sleva při nákupu nad 500,- Kč</info>
+   <latitude></latitude>
+   <longitude></longitude>
+</benefit>

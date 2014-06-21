@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1128">
+      <name>Hotel Jehla</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kovářova 214/4, Žďár nad Sázavou</address>
+      <phone>566 624 146</phone>
+      <email>info@hoteljehla.cz</email>
+      <web>www.hoteljehla.cz</web>
+      <info>sleva 20 % z lůžka kategorie 3* po celý rok sleva 25 % z lůžka kategorie 3* v období 1.7.2010 - 31.8.2010</info>
+   <latitude>49.5671119</latitude>
+   <longitude>15.9370881</longitude>
+</benefit>

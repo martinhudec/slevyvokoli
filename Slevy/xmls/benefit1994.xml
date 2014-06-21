@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1994">
+      <name>Hostel a turistická ubytovna SOŠ a SOU</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Elišky Krásnohorské 2069, Dvůr Králové nad Labem</address>
+      <phone>499 320 195, 739 615 930</phone>
+      <email>hostel@ssis.cz</email>
+      <web>www.ssis.cz</web>
+      <info>sleva 20 % z ceny ubytování v hostelu a turistické ubytovně sleva 10 % z ceny stravování v jídelně</info>
+   <latitude>50.4352655</latitude>
+   <longitude>15.8074351</longitude>
+</benefit>

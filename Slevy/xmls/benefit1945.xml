@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1945">
+      <name>König surf - plavecké potřeby</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Bazén slovany, Náměstí Generála Píky 42, Plzeň</address>
+      <phone>723 684 802</phone>
+      <email>konig@konig.cz</email>
+      <web>www.konig.cz</web>
+      <info>sleva 5 % na veškeré nezlevnění zboží</info>
+   <latitude>49.7378125</latitude>
+   <longitude>13.3986694</longitude>
+</benefit>

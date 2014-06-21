@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1086">
+      <name>Happy Electronics</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ostrovského 3, Praha 5</address>
+      <phone>603 856 033</phone>
+      <email>info@relaxuj.com</email>
+      <web>www.happy-electronics.eu</web>
+      <info>sleva 10 % na nákup zboží v e-shopu www.relaxuj.com sleva 5 % na zapůjčení přístroje AVS Psychowalkman</info>
+   <latitude>50.0686645</latitude>
+   <longitude>14.4027692</longitude>
+</benefit>

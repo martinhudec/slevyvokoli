@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1731">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Čs. armády 216, Hradec Králové</address>
+      <phone>495 518 454</phone>
+      <email>hk_csa@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.2121720</latitude>
+   <longitude>15.8330720</longitude>
+</benefit>

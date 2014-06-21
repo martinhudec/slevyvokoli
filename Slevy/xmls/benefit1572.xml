@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1572">
+      <name>Levi's Store</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Václavské náměstí 30, Praha 1</address>
+      <phone>224 24 74 26</phone>
+      <email>levisvaclavak@tiscali.cz</email>
+      <web>www.eu.levi.com</web>
+      <info>sleva 10 % na veškeré nezlevněné zboží</info>
+   <latitude>50.0823189</latitude>
+   <longitude>14.4256847</longitude>
+</benefit>

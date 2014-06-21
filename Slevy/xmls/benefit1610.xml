@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1610">
+      <name>Knihkupectví Academia</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zámecká 2, Ostrava</address>
+      <phone>596 114 578, 596 114 580</phone>
+      <email>knihy.ostrava@academia.cz</email>
+      <web>www.academia.cz</web>
+      <info>15% sleva na knihy nakladatelství Academia 10% sleva na knihy ostatních nakladatelů 10% sleva ostatní zboží (vyjma vstupenek) slevy se nesčítají s jinými slevami a neplatí pro již zlevněné zboží</info>
+   <latitude>49.8358892</latitude>
+   <longitude>18.2914978</longitude>
+</benefit>

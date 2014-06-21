@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1300">
+      <name>Čajovna Na Větrném kopci</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jičínská 37, Ostrava - Výškovice</address>
+      <phone>777 788 852</phone>
+      <email>lukas@cnvk.cz</email>
+      <web>www.cnvk.cz</web>
+      <info>sleva 10 % na konzumaci sleva 10 % na prodej sortimentu sleva 5 % na tabák a vodní dýmky sleva 20 % na akce</info>
+   <latitude>49.7736341</latitude>
+   <longitude>18.2255864</longitude>
+</benefit>

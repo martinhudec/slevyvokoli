@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="928">
+      <name>RockOpera Praha</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kumunardů 306/1, Praha 7</address>
+      <phone>+420 730 515 055</phone>
+      <email>info@RockOpera.cz</email>
+      <web>www.rockopera.cz</web>
+      <info>20 - 29% sleva na vstupné ( podle cenové kategorie ) Slevu je možné uplatnit na www.ticketpro.cz nebo v prodejních místech sítě Ticketpro. Seznam prodejních míst najdete na www.ticketpro.cz</info>
+   <latitude>50.1000693</latitude>
+   <longitude>14.4497572</longitude>
+</benefit>

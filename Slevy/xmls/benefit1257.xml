@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1257">
+      <name>Centrum vzdělání</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jiránkova 1137/1, Praha 6</address>
+      <phone>235 300 450</phone>
+      <email>info@jazykovykurz.cz</email>
+      <web>www.jazykova-skola-praha.cz</web>
+      <info>sleva 10 % na skupinové jazykové kurzy pro dospělé sleva 5 % na individuální výuku</info>
+   <latitude>50.0629828</latitude>
+   <longitude>14.3083211</longitude>
+</benefit>

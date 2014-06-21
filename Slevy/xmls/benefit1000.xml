@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1000">
+      <name>Klub U Tetoura</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Švermova 91, Zlín - Malenovice</address>
+      <phone/>
+      <email>produkce@utetoura.com</email>
+      <web>www.utetoura.com</web>
+      <info>Sleva 1 + 1 na vstup na všechny akce pořádané v Klubu U Tetoura</info>
+   <latitude>49.2051828</latitude>
+   <longitude>17.5982402</longitude>
+</benefit>

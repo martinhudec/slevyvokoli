@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1109">
+      <name>KMP - toneryplzen.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>, Plzeň</address>
+      <phone>373 729 644</phone>
+      <email>kmp@pcogroup.cz</email>
+      <web>www.toneryplzen.cz</web>
+      <info>sleva 10 % na tonery a inkousty značky KMP uveď heslo: "Sleva ISIC" do poznámky objednávky</info>
+   <latitude>49.7384314</latitude>
+   <longitude>13.3736371</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="123">
+      <name>iWorld Store</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>28. října 2, Praha 1</address>
+      <phone>230 233 024, 605 203 829</phone>
+      <email>info@world-store.com</email>
+      <web>www.iworld-store.com</web>
+      <info>6% sleva na počítače Apple, včetně příslušenství sleva se vztahuje na koupi jednoho počítače (stolní a přenosný) ročně slevu nelze uplatnit na iPad, iPod, iPhone slevu nelze kombinovat s jinými akcemi a slevami slevu lze uptanit v kamenných prodejnách a na internetovém obchodě eshop.iworld-store.com slevu lze uplatnit po předložení platné karty Isic</info>
+   <latitude>50.0832476</latitude>
+   <longitude>14.4222204</longitude>
+</benefit>

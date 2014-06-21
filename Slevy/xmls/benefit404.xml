@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="404">
+      <name>Plavecký klub Slávia VŠ Plzeň</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Nám. Gen. Píky 42, Plzeň</address>
+      <phone>377240306</phone>
+      <email>info@bazenslovany.cz</email>
+      <web>www.bazenslovany.cz</web>
+      <info>Slevněné vstupné: 1,5 hod     45 Kč do 3 hod   65 Kč celodenní 80 Kč</info>
+   <latitude>49.7378125</latitude>
+   <longitude>13.3986694</longitude>
+</benefit>

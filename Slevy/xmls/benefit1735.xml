@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1735">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>FUTURUM, Novinářská 6A, Ostrava</address>
+      <phone>596 617 692</phone>
+      <email>ostrava_fut@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva pro držitele průkazů ISIC Otevírací doba: po-ne: 9-21 h</info>
+   <latitude>49.8327313</latitude>
+   <longitude>18.2641651</longitude>
+</benefit>

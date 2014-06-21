@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="388">
+      <name>KB sport HK</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Pospíšilova 281, Hradec Králové</address>
+      <phone>495 760 302, 603 413 468</phone>
+      <email>info@kbsport.cz</email>
+      <web>www.kbsport.cz</web>
+      <info>10% sleva na zboží v prodejně, servis lyží a snb, broušení bruslí 5% sleva na již slevněné zboží a na nákup v e-shopu</info>
+   <latitude>50.2147013</latitude>
+   <longitude>15.8453534</longitude>
+</benefit>

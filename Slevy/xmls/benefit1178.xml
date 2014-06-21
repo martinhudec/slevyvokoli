@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1178">
+      <name>Knihkupectví u Mikuláše</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kněžská 21, České Budějovice</address>
+      <phone>386 321 426</phone>
+      <email>mikulas@kna.cz</email>
+      <web>www.kna.cz/ceske-budejovice</web>
+      <info>sleva 10 % na knihy</info>
+   <latitude>48.9755711</latitude>
+   <longitude>14.4766336</longitude>
+</benefit>

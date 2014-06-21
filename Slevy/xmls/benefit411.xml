@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="411">
+      <name>Nutribju - Poliklinika Lesná</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Halasovo nám. 1, Brno</address>
+      <phone>608660898</phone>
+      <email>sona@nutribju.cz</email>
+      <web>www.nutribju.cz</web>
+      <info>30% sleva na výživové poradenství a tvorbu individuálních jídelníčků na míru</info>
+   <latitude>49.2231509</latitude>
+   <longitude>16.6271966</longitude>
+</benefit>

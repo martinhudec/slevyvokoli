@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1798">
+      <name>e-Finance Café</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Vachova 5 (vchod z rohu ulic Vachové a Dvořákové), Brno</address>
+      <phone>542 212 586</phone>
+      <email>gabca_77@yahoo.com</email>
+      <web>www.efinancecafe.cz</web>
+      <info>10% sleva na veškerou konzumaci mimo tabákových výrobků</info>
+   <latitude>49.1950602</latitude>
+   <longitude>16.6068371</longitude>
+</benefit>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="293">
+      <name>Burger King - Galerie Harfa</name>
+      <cardType>ISIC</cardType>
+      <address>Českomoravská 2420/15a, Praha 9</address>
+      <phone>235 013 311</phone>
+      <email>bkharfa@amrest.eu</email>
+      <web>www.myburgerking.cz</web>
+      <info>15% sleva na libovolné menu dle aktuální nabídky nebo Hamburger k libovolnému menu ZDARMA Sleva se nevztahuje na provozovnu na Hl. nádraží, Praha.</info>
+   <latitude>50.1039042</latitude>
+   <longitude>14.4908306</longitude>
+</benefit>

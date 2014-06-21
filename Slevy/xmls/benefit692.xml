@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="692">
+      <name>OptikDoDomu</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Čelakovského 614, Rakovník</address>
+      <phone>602 213 744</phone>
+      <email>petr.seidl@optikdodomu.cz</email>
+      <web>www.OptikDoDomu.cz</web>
+      <info>30% sleva na celý sortiment (sleva nelze kombinovat s probíhajícími akcemi)</info>
+   <latitude>50.1043121</latitude>
+   <longitude>13.7380950</longitude>
+</benefit>

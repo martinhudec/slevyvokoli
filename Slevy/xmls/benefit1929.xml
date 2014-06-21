@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1929">
+      <name>lyže-shop.cz</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Körnerova 9, Brno</address>
+      <phone>545 240 247, 775 550 664</phone>
+      <email>info@lyze-shop.cz</email>
+      <web>www.lyze-shop.cz</web>
+      <info>sleva 20 % na půjčovnu lyží a snowboardů sleva 10 % lyží a snowboardů na kamenné prodejně sleva se nevztahuje na zboží v akci a na zlevněné zboží</info>
+   <latitude>49.1983986</latitude>
+   <longitude>16.6187267</longitude>
+</benefit>

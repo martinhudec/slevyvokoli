@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1908">
+      <name>Pension Astor</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Hájek 64, Ostrov</address>
+      <phone>353 843 729</phone>
+      <email>info@pension-astor.cz</email>
+      <web>www.pension-astor.cz</web>
+      <info>zvýhodněná cena ubytování za 260 Kč/noc</info>
+   <latitude>50.2832151</latitude>
+   <longitude>12.9213472</longitude>
+</benefit>

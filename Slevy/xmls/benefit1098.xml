@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1098">
+      <name>Dermacol studio - Černá růže</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Na Příkopě 12, Praha 1</address>
+      <phone>221 014 346</phone>
+      <email>info@dermacol.cz</email>
+      <web>www.dermacol.cz</web>
+      <info>sleva 25 % na všechny výrobky v Dermacol studiu nevztahuje se na již zlevněné výrobky</info>
+   <latitude>50.0851304</latitude>
+   <longitude>14.4251441</longitude>
+</benefit>

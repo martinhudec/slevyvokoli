@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1580">
+      <name>Lékárna CTM</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Budějovická 1667/64, Praha 4</address>
+      <phone>296 825 318, 724 259 149</phone>
+      <email>ctmpharm@mediconas.cz</email>
+      <web>www.mediconas.cz</web>
+      <info>sleva 5 % na veškerý sortiment</info>
+   <latitude>50.0481174</latitude>
+   <longitude>14.4441044</longitude>
+</benefit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1723">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palác Flóra, Vinohradská 151, Praha 3</address>
+      <phone>255 742 206</phone>
+      <email>flora@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>50.0781362</latitude>
+   <longitude>14.4614033</longitude>
+</benefit>

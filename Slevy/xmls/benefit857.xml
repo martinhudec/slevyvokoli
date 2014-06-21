@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="857">
+      <name>Knihcentrum - Dům knihy</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Smetanovo nám. 8, Ostrava</address>
+      <phone>725396985</phone>
+      <email>ostrava@knihcentrum.cz</email>
+      <web>www.knihcentrum-ostrava.cz</web>
+      <info>10% sleva na veškeré zboží s výjimkou: - cenin (poštovní známky, poukázky) - periodického tisku (noviny, časopisy) - jízdenek, vstupenek - již slevněného zboží nebo zboží v cenových akcích (slevy se nesčítají)  </info>
+   <latitude>49.8329740</latitude>
+   <longitude>18.2902661</longitude>
+</benefit>

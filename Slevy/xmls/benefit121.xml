@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="121">
+      <name>Plavecký areál Zábřeh</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Oborník 608/39, Zábřeh</address>
+      <phone>583 550 361</phone>
+      <email>recepce@ekozabreh.cz</email>
+      <web>www.zabreh-bazen.cz</web>
+      <info>Isic a Isic scholar jsou uznány jako doklady nahrazující písemné potvrzení o studiu. Po předložení platných karet mají držitelé nárok na zlevněné studentské vstupné.</info>
+   <latitude>49.8767713</latitude>
+   <longitude>16.8674185</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1851">
+      <name>Lexum Ostrava</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Masná 3a, Ostrava</address>
+      <phone>+420 810 800 009</phone>
+      <email>lexum@lexum.cz</email>
+      <web>www.lexum.cz</web>
+      <info>Sleva 1500,-Kč v případě laserové operace obou očí, tzn. 750,-Kč na jedno oko Uvedená sleva se vztahuje na laserové operace, které se standardně pohybují od 15.000Kč nahoru.</info>
+   <latitude>49.8342550</latitude>
+   <longitude>18.2823739</longitude>
+</benefit>

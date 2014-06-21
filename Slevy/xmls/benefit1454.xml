@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1454">
+      <name>24IT - kompletní servis v oblasti výpočetní techniky</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ostrožná 264/3, Opava</address>
+      <phone>555 508 908</phone>
+      <email>obchod@24it.cz</email>
+      <web>www.obchod24it.cz</web>
+      <info>sleva 50% na servisní úkony dvounásobná bodová bonifikace v CLUBu 24IT při nákupu v prodejně nebo v e-shopu úplné podmínky na www.obchod24it.cz</info>
+   <latitude>49.9376862</latitude>
+   <longitude>17.9030742</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="843">
+      <name>Rotunda - centrum pro pohybový systém</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Jankovcova 2a, Praha 7</address>
+      <phone>283 970 100</phone>
+      <email>info@rotunda-cps.cz</email>
+      <web>www.rotunda-cps.cz</web>
+      <info>25% sleva na všechny aktivity - cvičení, masáže, body space, 15% na fyzioterapeutické ošetření, do 15 hodiny happy hour 2 za 1</info>
+   <latitude>50.1051452</latitude>
+   <longitude>14.4557606</longitude>
+</benefit>

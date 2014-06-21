@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="763">
+      <name>Ski areál Synot Kyčerka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <address>, Velké Karlovice</address>
+      <phone>571 410 808</phone>
+      <email>info@skiarealkycerka.cz</email>
+      <web>www.skiarealkycerka.cz</web>
+      <info>Sleva 30 % na jedno a vícedenní časové jízdenky ve všední dny a 10 % o víkendech a svátcích po celou zimní sezonu.</info>
+   <latitude>49.3606355</latitude>
+   <longitude>18.2835649</longitude>
+</benefit>

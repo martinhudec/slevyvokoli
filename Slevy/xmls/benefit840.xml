@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="840">
+      <name>Střední škola technická</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Zelený pruh 1294, Praha 4</address>
+      <phone>244 007 122</phone>
+      <email>jpetrik@zelenypruh.cz</email>
+      <web>www.zelenypruh.cz</web>
+      <info>Sleva na vstup na bazén, solárium, tenisové kurty, ubytování</info>
+   <latitude>50.0387734</latitude>
+   <longitude>14.4244178</longitude>
+</benefit>

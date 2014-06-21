@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1726">
+      <name>Knihy Kanzelsberger</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>OC Olympia, Písecká 972, Plzeň</address>
+      <phone>377 458 137</phone>
+      <email>plzen_oc@kanzelsberger.cz</email>
+      <web>www.kanzelsberger.cz</web>
+      <info>10% sleva na knihy</info>
+   <latitude>49.7010597</latitude>
+   <longitude>13.4258470</longitude>
+</benefit>

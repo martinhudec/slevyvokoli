@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="417">
+      <name>Restaurace Severka</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Palackého tř. 1949, Pardubice</address>
+      <phone>466536603</phone>
+      <email>info@restauraceseverka.cz</email>
+      <web>www.restauraceseverka.cz</web>
+      <info>Polední menu s polévkou za 72 Kč</info>
+   <latitude>50.0356949</latitude>
+   <longitude>15.7660301</longitude>
+</benefit>

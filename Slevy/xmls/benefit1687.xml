@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="1687">
+      <name>Spodní prádlo Dolly</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Kamenická 25, Praha 7</address>
+      <phone>731 344 242</phone>
+      <email>info@dolly.cz</email>
+      <web>www.dolly.cz</web>
+      <info>sleva 5% na veškerý sortiment slevy se nesčítají s jinými slevovými akcemi</info>
+   <latitude>50.0996818</latitude>
+   <longitude>14.4273669</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="359">
+      <name>Music city</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>Ocelářská 937/39, Praha 9</address>
+      <phone>800 708 807</phone>
+      <email>info@music-city.cz</email>
+      <web>www.music-city.cz</web>
+      <info>50% sleva na servis hudebního nástroje, 10% sleva na nákup v kamenné prodejně</info>
+   <latitude>50.1068746</latitude>
+   <longitude>14.4959952</longitude>
+</benefit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="302">
+      <name>Tai Chi Resort</name>
+      <cardType>ISIC</cardType>
+      <cardType>ITIC</cardType>
+      <cardType>IYTC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>pasáž Lucerna, Štěpánská 61, Praha 1</address>
+      <phone>775011553</phone>
+      <email>info@taichiresort.cz</email>
+      <web>www.taichiresort.cz</web>
+      <info>20% sleva na kurzovné</info>
+   <latitude>50.0808808</latitude>
+   <longitude>14.4265147</longitude>
+</benefit>

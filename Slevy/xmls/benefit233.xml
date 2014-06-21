@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefit id="233">
+      <name>RegioJet</name>
+      <cardType>ISIC</cardType>
+      <cardType>SCHOLAR</cardType>
+      <address>náměstí Jana Pernera 217, Pardubice</address>
+      <phone>841 101 101, 539 000 926</phone>
+      <email>info@regiojet.cz</email>
+      <web>www.regiojet.cz</web>
+      <info>Sleva 10 % na vlakové jízdné (nelze kombinovat s jinými slevami). Sleva na platné průkazy ISIC je omezena věkem 29 let včetně. Sleva na platné průkazy ALIVE není omezena věkem.</info>
+   <latitude>50.0323519</latitude>
+   <longitude>15.7563029</longitude>
+</benefit>
