@@ -5,11 +5,9 @@ package slevy;
  * and open the template in the editor.
  */
 
-import java.sql.Array;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
@@ -19,7 +17,6 @@ import java.util.List;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import slevy.GPSrecord;
 
 /**
  *
@@ -27,10 +24,10 @@ import slevy.GPSrecord;
  */
 public class DBcontroller {
 
-    private List listOfRecords;
     private final String URL = "jdbc:postgresql://ec2-54-197-251-18.compute-1.amazonaws.com:5432/d1gcms75s3ef0g?user=nxxclbdnrjiwcx&password=pz1YC2j_lfM4YBuV3iLFyV7c_p&ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory";
     private final Properties PROPS = new Properties();
 
+    //Settings for connection to the DB 
     public boolean fillDB(List<GPSrecord> list) throws ClassNotFoundException {
         Class.forName("org.postgresql.Driver");
         Connection connection = null;
@@ -43,12 +40,13 @@ public class DBcontroller {
             connection = DriverManager.getConnection(URL, PROPS);
 
         } catch (SQLException ex) {
-            System.out.println("Chyba: " + ex.toString());
+            System.out.println("Error: " + ex.toString());
             return false;
         }
-
+        
+        //connection was not found
         if (connection == null) {
-            System.out.println("Spojenie sa nenašlo");
+            System.out.println("Connection not found.");
             return false;
         }
 
@@ -58,12 +56,14 @@ public class DBcontroller {
         } catch (SQLException ex) {
             System.out.println(ex.toString());
         }
+        
+        //Drop table at the beginning of the connection, create new one 
         List<String> querry = new ArrayList<>();
         String record = null;
         String dropAllTables = "DROP TABLE isic";
         String sql = "CREATE TABLE isic " + "(id INTEGER, name VARCHAR(255), address VARCHAR(255), cardtype VARCHAR(255), latitude FLOAT, longitude FLOAT, PRIMARY KEY (id))";
 
-        Integer count = 0;
+        
         try {
             stm.executeUpdate(dropAllTables);
         } catch (SQLException ex) {
@@ -81,53 +81,27 @@ public class DBcontroller {
             querry.add(record);
             //System.out.println(gpsrecord.toString());
         }
-
-        count = 0;
-        String tmp = null;
+        
+        //filling the DB, if there are some files
         PreparedStatement pstmt;
-        String str ;
+        String str= "";
         Iterator<String> it = querry.iterator();
-        try {
-            while (it.hasNext()) {
-                connection = DriverManager.getConnection(URL, PROPS);
-                for (int i = 0; i < 1000; i++) {
-                    try{
-                    str = it.next();
-                    tmp = str;
-                    //stm.executeUpdate(string);
-                    pstmt = connection.prepareStatement(str);
-                    pstmt.executeUpdate();
-                    }catch (Exception ex){
-                        System.out.println(ex.toString());
-                        System.out.println(tmp);
-                    }
-                    if (i==999){
-                        System.out.println("1000!");
-                    }
-                }
-                connection.close();
-            }
+        int i = 1;
+        while (it.hasNext()) {
+            try {
+            str = it.next();
+            
+            pstmt = connection.prepareStatement(str);
+            pstmt.executeUpdate();
         } catch (SQLException ex) {
-            System.out.println("Chyba: " + ex.toString());
-            System.out.println(tmp);
-            return false;
+            System.out.println(ex.toString());
+            System.out.println(str);
+        }
+        System.out.println(i);
+        i++;
+
         }
         try {
-            /*
-             //String sql = "CREATE TABLE ISIC2 " + "(id INTEGER, meno VARCHAR(255), PRIMARY KEY (id))";
-             //stm.executeUpdate(sql);
-            
-             // String sql = "INSERT INTO isic VALUES (3,'martinko');";
-             //stm.executeUpdate(sql);
-             String sql = "DROP TABLE isic2";
-             stm.executeUpdate(sql);
-            
-             String query = "SELECT * FROM isic";
-             ResultSet rs = stm.executeQuery(query);
-             while (rs.next()) {
-             System.out.print(rs.getInt("id") + " ");
-             System.out.println(rs.getString("meno"));
-             }; */
             connection.close();
         } catch (SQLException ex) {
             Logger.getLogger(DBcontroller.class.getName()).log(Level.SEVERE, null, ex);
