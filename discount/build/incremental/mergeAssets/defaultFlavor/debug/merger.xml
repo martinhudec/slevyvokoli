@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="19.0.1" >
+        <source path="/media/projekty/slevy/discount/build/exploded-aar/com.android.support/appcompat-v7/19.0.1/assets" />
+    </dataSet>
+    <dataSet config="19.0.1" >
+        <source path="/media/projekty/slevy/discount/build/exploded-aar/com.android.support/gridlayout-v7/19.0.1/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/media/projekty/slevy/discount/src/main/assets" />
+    </dataSet>
+    <dataSet config="defaultFlavor" >
+        <source path="/media/projekty/slevy/discount/src/defaultFlavor/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/media/projekty/slevy/discount/src/debug/assets" />
+    </dataSet>
+    <dataSet config="defaultFlavorDebug" >
+        <source path="/media/projekty/slevy/discount/src/defaultFlavorDebug/assets" />
+    </dataSet>
+
+</merger>

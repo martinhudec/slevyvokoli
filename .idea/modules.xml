@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApp.iml" filepath="$PROJECT_DIR$/MyApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Slevy.iml" filepath="$PROJECT_DIR$/Slevy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discount/discount.iml" filepath="$PROJECT_DIR$/discount/discount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slevy.iml" filepath="$PROJECT_DIR$/slevy.iml" />
     </modules>
   </component>
 </project>
