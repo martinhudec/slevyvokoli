@@ -1,0 +1,17 @@
+#summary Description of slevyvokoli project.
+
+= Introduction =
+
+This project is useful for all people, who would like use their
+various credit cards in shops in the Czech republic.
+This application compare actually coordinates with coordinates in Postgre
+database for various ISIC,ITIC,IYTIC,SCHOLAR cards and recommends shops of
+near distances. Data are saved in project Heroku...
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
