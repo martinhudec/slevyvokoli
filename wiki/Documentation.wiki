@@ -20,7 +20,7 @@ GPSrecord.java - java object of GPS informations
 
 Parser.java - parser for obtaining data from XML format
 
-Places.java - modul for searching shops near actual GPS coordinate
+Places.java - modul for searching shops from database near actual GPS coordinate
 
 test.java - test
 
