@@ -4,7 +4,7 @@
 
 This project is useful for all people, who would like use their
 various credit cards in shops in the Czech republic.
-This application compare active coordinates from mobile system with coordinates in Postgre database
+This application compare active coordinates from mobile system with coordinates in Postgre
 database for various ISIC,ITIC,IYTIC,SCHOLAR cards and recommends shops of
 near distances. Data are saved in project Heroku...
 Application is assembled in Visual Android Studio with Cradle build system
