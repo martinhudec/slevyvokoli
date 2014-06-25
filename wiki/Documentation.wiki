@@ -15,9 +15,13 @@ from Google and supports OS Android 2.3.3 and above...
 Java source code for manipulation of coordinates data:
 
 DBController.java - modul for filling database
+
 GPSrecord.java - java object of GPS informations
+
 Parser.java - parser for obtaining data from XML format
+
 Places.java - modul for searching shops near actual GPS coordinate
+
 test.java - test
 
 Add your content here.  Format your content with:
