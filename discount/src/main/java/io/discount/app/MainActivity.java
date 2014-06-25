@@ -9,6 +9,9 @@ import android.location.LocationManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
@@ -179,6 +182,25 @@ public class MainActivity extends ActionBarActivity {
     }
 
     @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        switch (item.getItemId()) {
+            case R.id.action_settings:
+                startActivity(new Intent(this, SettingsActivity.class));
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+    @Override
     protected void onResume() {
         super.onResume();
         overridePendingTransition(0, 0);
@@ -213,56 +235,6 @@ public class MainActivity extends ActionBarActivity {
         });
 
         zoomToUserLocationAndFetchMarkers();
-
-        /*map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
-
-            @Override
-            public void onInfoWindowClick(Marker marker) {
-
-                for (Map.Entry<Marker, Discount> entry : discountNearYouHashMap.entrySet()) {
-                    Marker nearYouMarker = entry.getKey();
-                    Discount nearYouDiscount = entry.getValue();
-                    if (nearYouMarker.equals(marker)) {
-                        locationMarker = nearYouMarker;
-                        friendNew = nearYouDiscount;
-                        AlertDialog.Builder adb = new AlertDialog.Builder(MapMeetupActivity.this);
-                        adb.setTitle(getString(R.string.map_add_friend_title));
-                        adb.setMessage(R.string.map_question_add_friend);
-                        adb.setPositiveButton(getString(R.string.ok), new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog, int which) {
-                                User user1 = SharedApplication.getInstance().getUser();
-                                user1.addFriend(friendNew);
-                                locationMarker.setIcon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
-                                NetworkHelper.updateProfile(getApplicationContext(), user1, new FutureCallback<JsonElement>() {
-                                    @Override
-                                    public void onCompleted(Exception e, JsonElement jsonElement) {
-                                    }
-                                });
-                                NetworkHelper.updateProfile(getApplicationContext(), friendNew, new FutureCallback<JsonElement>() {
-                                    @Override
-                                    public void onCompleted(Exception e, JsonElement jsonElement) {
-                                    }
-                                });
-                            }
-                        });
-                        adb.setNegativeButton(R.string.cancel, null);
-                        adb.show();
-                        return;
-                    }
-                }
-                marker.hideInfoWindow();
-            }
-        });*/
-
-        /*map.setOnMarkerClickListener(new GoogleMap.OnMarkerClickListener() {
-            @Override
-            public boolean onMarkerClick(Marker marker) {
-
-
-                return false;
-            }
-        });*/
     }
 
     private void zoomToUserLocationAndFetchMarkers() {
@@ -303,7 +275,6 @@ public class MainActivity extends ActionBarActivity {
         Location farRight = new Location("farRight");
         farRight.setLatitude(latLngRight.latitude);
         farRight.setLongitude(latLngRight.longitude);
-
 
         List<Discount> discountList = discountManager.getByGPS("asdasd"); //location.getLongitude() + "," + location.getLatitude());
 

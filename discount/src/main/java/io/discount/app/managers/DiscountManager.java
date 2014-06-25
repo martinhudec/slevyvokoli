@@ -2,10 +2,13 @@ package io.discount.app.managers;
 
 import android.content.ContentProvider;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.net.Uri;
+import android.preference.PreferenceManager;
 
 import java.util.ArrayList;
+
 import io.discount.app.db.DiscountDatabase;
 import io.discount.app.models.Discount;
 import io.discount.app.providers.DiscountRestProvider;
@@ -16,9 +19,11 @@ import io.discount.app.providers.DiscountRestProvider;
 // @TODO: singleton?
 public class DiscountManager implements IDiscountManager {
     private ContentProvider contentProvider = null;
+    private Context context = null;
 
     public DiscountManager(Context context) {
         this.contentProvider = new DiscountRestProvider(context);
+        this.context = context;
     }
 
     @Override
@@ -59,6 +64,7 @@ public class DiscountManager implements IDiscountManager {
         String selection =  DiscountDatabase.Tables.Discount.Columns.ID + "='" + gps + "'";
         String[] selectionArgs = null;
         String sortOrder = "";
+        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this.context);
 
         Cursor result = this.contentProvider.query(uri, projection, selection, selectionArgs, sortOrder);
         ArrayList<Discount> list = new ArrayList<Discount>();
@@ -73,7 +79,14 @@ public class DiscountManager implements IDiscountManager {
                         discount.setLongitude(Double.valueOf(result.getString(result.getColumnIndex(DiscountDatabase.Tables.Discount.Columns.LNG))));
                         discount.setLatitude(Double.valueOf(result.getString(result.getColumnIndex(DiscountDatabase.Tables.Discount.Columns.LAT))));
                         discount.setType(result.getString(result.getColumnIndex(DiscountDatabase.Tables.Discount.Columns.TYPE)));
-                        list.add(discount);
+                        String typeStr = discount.getType();
+                        String[] types = typeStr.split(",");
+                        for(String type: types) {
+                            if(prefs.getAll().get(type.toLowerCase().trim()).equals(true)) {
+                                list.add(discount);
+                                break;
+                            }
+                        }
                     } catch (Exception e) {
                         e.printStackTrace();
                     }
