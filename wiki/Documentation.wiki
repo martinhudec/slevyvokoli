@@ -7,9 +7,18 @@ various credit cards in shops in the Czech republic.
 This application compare actually coordinates with coordinates in Postgre
 database for various ISIC,ITIC,IYTIC,SCHOLAR cards and recommends shops of
 near distances. Data are saved in project Heroku...
-
+Application is assembled in Visual Android Studio with Cradle build system
+from Google and supports OS Android 2.3.3 and above...
 
 = Details =
+
+Java source code for manipulation with coordinates data:
+
+DBController.java -
+GPSrecord.java -
+Parser.java -
+Places.java -
+test.java -
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
