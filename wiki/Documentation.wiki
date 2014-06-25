@@ -12,13 +12,13 @@ from Google and supports OS Android 2.3.3 and above...
 
 = Details =
 
-Java source code for manipulation with coordinates data:
+Java source code for manipulation of coordinates data:
 
-DBController.java -
-GPSrecord.java -
-Parser.java -
-Places.java -
-test.java -
+DBController.java - modul for filling database
+GPSrecord.java - java object of GPS informations
+Parser.java - parser for obtaining data from XML format
+Places.java - modul for searching shops near actual GPS coordinate
+test.java - test
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
