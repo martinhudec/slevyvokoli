@@ -1,7 +1,7 @@
 package io.discount.app.helpers;
+
 import android.content.Context;
 import android.database.MatrixCursor;
-import android.util.Log;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -37,6 +37,10 @@ public class NetworkHelper {
     public NetworkHelper() {
         Collections.shuffle(Arrays.asList(PRODUCTION_URL));
         getServer();
+    }
+
+    public class NoConnectionException extends Exception {
+
     }
 
     public static synchronized NetworkHelper getInstance() {
@@ -102,24 +106,20 @@ public class NetworkHelper {
     }
 
     public JsonElement requestBackendSynchronously(Context context, String apiURL, JsonObject postedJsonObject, boolean addAuthenticationToken) throws ExecutionException, InterruptedException {
-        Log.i("gymradio", context.toString());
         if (context == null) {
             context = SharedApplication.getInstance().getApplicationContext();
         }
-        Log.i("gymradio", context.toString());
         if (addAuthenticationToken) {
             String userToken = SharedApplication.getInstance().getUserToken();
             if (userToken != null && userToken.length() > 0) {
                 apiURL = apiURL + "?token=" + userToken;
             }
         }
-        Log.i("gymradioasd", this.server + apiURL);
         Builders.Any.B requestBuilder = Ion.with(context, this.server + apiURL);
 
         if (postedJsonObject != null) {
             requestBuilder.setJsonObjectBody(postedJsonObject);
         }
-        Log.i("gymradio", requestBuilder.asString().get().toString());
         return requestBuilder.asJsonArray().get();
     }
 

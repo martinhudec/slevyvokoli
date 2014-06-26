@@ -4420,16 +4420,16 @@
                     msgid="26645092511305524" >"Dapatkan perkhidmatan Google Play"
                 </string>
                 <string
+                    name="common_signin_button_text"
+                    msgid="9071884888741449141" >"Log masuk"
+                </string>
+                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Perkhidmatan Google Play perlu dipasang untuk mengguankan aplikasi."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_date_text"
                     msgid="4725396522367789365" >"Tarikh pada peranti kelihatan tidak betul. Sila semak tarikh pada peranti."
-                </string>
-                <string
-                    name="common_signin_button_text"
-                    msgid="9071884888741449141" >"Log masuk"
                 </string>
             </file>
             <file
@@ -14970,9 +14970,25 @@ true
             <file
                 path="/media/projekty/slevy/discount/src/main/res/values/strings.xml"
                 qualifiers="" >
+                <string name="cancel" >Cancel
+                </string>
                 <string name="action_settings" >Settings
                 </string>
+                <string name="ok" >Ok
+                </string>
+                <string name="location_notfound_message" >Insert your location
+                </string>
+                <string name="no_connection_message" >Would you like to connect?
+                </string>
+                <string name="location_message" >Insert your location
+                </string>
                 <string name="app_name" >Discount 1.0
+                </string>
+                <string name="location_notfound_title" >Location not found
+                </string>
+                <string name="location_title" >Location
+                </string>
+                <string name="no_connection_title" > No internet connection
                 </string>
             </file>
             <file
@@ -15020,23 +15036,23 @@ true
                 qualifiers="" >
                 <string name="title_activity_settings" >Settings
                 </string>
+                <string name="pref_description_itic" >ITIC
+                </string>
                 <string name="pref_title_iytc" >IYTC
                 </string>
                 <string name="pref_title_itic" >ITIC
                 </string>
+                <string name="pref_description_scholar" >SCHOLAR
+                </string>
                 <string name="pref_title_scholar" >SCHOLAR
+                </string>
+                <string name="pref_title_isic" >ISIC
                 </string>
                 <string name="pref_description_isic" >ISIC
                 </string>
                 <string name="pref_header_general" >General
                 </string>
-                <string name="pref_description_itic" >ITIC
-                </string>
                 <string name="pref_description_iytc" >IYTC
-                </string>
-                <string name="pref_description_scholar" >SCHOLAR
-                </string>
-                <string name="pref_title_isic" >ISIC
                 </string>
             </file>
         </source>

@@ -1,9 +1,13 @@
 package io.discount.app;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.location.Address;
+import android.location.Geocoder;
 import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
@@ -12,6 +16,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.widget.EditText;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
@@ -24,81 +29,17 @@ import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.VisibleRegion;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import io.discount.app.helpers.Connection;
 import io.discount.app.helpers.GetLocation;
 import io.discount.app.managers.DiscountManager;
 import io.discount.app.models.Discount;
 
 public class MainActivity extends ActionBarActivity {
-    /* protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        if (savedInstanceState == null) {
-            getSupportFragmentManager().beginTransaction()
-                    .add(R.id.container, new PlaceholderFragment())
-                    .commit();
-        }
-
-        TextView songNameTextView = (TextView) this.findViewById(R.id.songName);
-        TextView serverTextView = (TextView) this.findViewById(R.id.server);
-        TextView playlistTextView = (TextView) this.findViewById(R.id.playlist);
-        Button buttonPlay = (Button) this.findViewById(R.id.play);
-
-
-        DiscountManager discountManager = new DiscountManager(getApplicationContext());
-
-        List<Discount> discountList = discountManager.getByGPS("asd");
-
-        // build playlist string
-        String playlist = "";
-        for(Discount songItem : discountList) {
-            playlist += "\n" + songItem.getName();
-        }
-
-        playlistTextView.setText(playlist);
-
-
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-        if (id == R.id.action_settings) {
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
-    } */
-
-    /**
-     * A placeholder fragment containing a simple view.
-     */
-    /*public static class PlaceholderFragment extends Fragment {
-
-        public PlaceholderFragment() {
-        }
-
-        @Override
-        public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_main, container, false);
-            return rootView;
-        }
-    }*/
     // Global constants
     /*
      * Define a request code to send to Google Play services
@@ -131,54 +72,34 @@ public class MainActivity extends ActionBarActivity {
         if (savedInstanceState == null) {
 
             if (servicesConnected()) {
-
-               // EditText statusEditText = (EditText) findViewById(R.id.map_status_edit_text);
-                //statusEditText.clearFocus();
                 SharedPreferences preferences = getApplicationContext().getSharedPreferences(PREFERENCES_FILE, Context.MODE_PRIVATE);
-
                 final MainActivity currContext = this;
-
-               /* statusEditText.setOnEditorActionListener(new TextView.OnEditorActionListener() {
-                    @Override
-                    public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
-                        if (actionId == EditorInfo.IME_ACTION_DONE) {
-                            String status = v.getText().toString();
-                            if (status.equals("")) {
-
-                            } else {
-                                SharedPreferences preferences = v.getContext().getSharedPreferences(
-                                        PREFERENCES_FILE,
-                                        Context.MODE_PRIVATE);
-                                SharedPreferences.Editor editor = preferences.edit();
-                                editor.commit();
-                                v.clearFocus();
-                            }
-
-                            InputMethodManager inputManager = (InputMethodManager)
-                                    currContext.getSystemService(Context.INPUT_METHOD_SERVICE);
-                            inputManager.toggleSoftInput(0, 0);
-
-                            return true;
-                        }
-                        return false;
-                    }
-                });*/
-
-                /*ToggleButton toggleButtonDiscounts = (ToggleButton) findViewById(R.id.map_meetup_toggle_events);
-
-                toggleButtonDiscounts.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-                    @Override
-                    public void onCheckedChanged(CompoundButton compoundButton, boolean isChecked) {
-                        for (Map.Entry<Marker, Discount> entry : discountNearYouHashMap.entrySet()) {
-                            Marker marker = entry.getKey();
-                            marker.setVisible(true);
-                        }
-                    }
-                });*/
-
                 locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
             }
         }
+
+        if(!Connection.isConnected(this)) {
+            AlertDialog.Builder alert = new AlertDialog.Builder(this);
+            alert.setTitle(R.string.no_connection_title);
+            alert.setMessage(R.string.no_connection_message);
+
+            alert.setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int whichButton) {
+                    startActivity(new Intent(android.provider.Settings.ACTION_WIRELESS_SETTINGS));
+                    dialog.cancel();
+                }
+            }).setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int whichButton) {
+                    // Canceled.
+                    finish();
+                    dialog.cancel();
+                }
+            });
+
+            alert.show();
+            return;
+        }
+        setupMap();
     }
 
     @Override
@@ -204,7 +125,6 @@ public class MainActivity extends ActionBarActivity {
     protected void onResume() {
         super.onResume();
         overridePendingTransition(0, 0);
-        setupMap();
     }
 
     private void removeMarkers(ArrayList<Marker> markers) {
@@ -229,41 +149,88 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onCameraChange(CameraPosition cameraPosition) {
                 GetLocation gl = new GetLocation(MainActivity.this);
-                Location location = gl.getLocation();
-                fetchMarkersWithLocation(location);
+                Location location = null;
+                try {
+                    location = gl.getLocation();
+                    fetchMarkersWithLocation(location.getLatitude(), location.getLongitude());
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+
             }
         });
 
         zoomToUserLocationAndFetchMarkers();
     }
+    private void showLocationPrompt() {
+        showLocationPrompt(R.string.location_title, R.string.location_message);
+    }
+    private void showLocationPrompt(int title, int message) {
+        AlertDialog.Builder alert = new AlertDialog.Builder(this);
+        alert.setTitle(title);
+        alert.setMessage(message);
+        final EditText input = new EditText(getApplicationContext());
+        alert.setView(input);
+
+        alert.setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int whichButton) {
+                Location location = null;
+                String value = input.getText().toString();
+                Geocoder geocoder = new Geocoder(getApplicationContext());
+                List<Address> addresses = null;
+                try {
+                    addresses = geocoder.getFromLocationName(value, 5);
+                    if(addresses.size() > 0) {
+                        MainActivity.this.fetchMarkersWithLocation(addresses.get(0).getLatitude(), addresses.get(0).getLongitude());
+                        MainActivity.this.map.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(addresses.get(0).getLatitude(), addresses.get(0).getLongitude()), MAP_DEFAULT_CAMERA_ZOOM));
+                    } else {
+                        MainActivity.this.showLocationPrompt(R.string.location_notfound_title, R.string.location_notfound_message);
+                    }
+                } catch (IOException e1) {
+                    e1.printStackTrace();
+                }
+                dialog.cancel();
+            }
+        }).setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int whichButton) {
+                // Canceled.
+                finish();
+                dialog.cancel();
+            }
+        });
+
+        alert.show();
+    }
 
     private void zoomToUserLocationAndFetchMarkers() {
         GetLocation gl = new GetLocation(this);
-        Location location = gl.getLocation();
+        Location location = null;
+        try {
+            location = gl.getLocation();
+            if (location != null) {
+                // Move the camera instantly to the current location
+                map.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(location.getLatitude(), location.getLongitude()), MAP_DEFAULT_CAMERA_ZOOM));
+                fetchMarkersWithLocation(location.getLatitude(), location.getLongitude());
 
-        if (location != null) {
-            // Move the camera instantly to the current location
-            map.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(location.getLatitude(), location.getLongitude()), MAP_DEFAULT_CAMERA_ZOOM));
-            fetchMarkersWithLocation(location);
-
-        } else {
-            final Handler handler = new Handler();
-            handler.postDelayed(new Runnable() {
-                @Override
-                public void run() {
-                    zoomToUserLocationAndFetchMarkers();
-                }
-            }, 500);
+            } else {
+                final Handler handler = new Handler();
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        zoomToUserLocationAndFetchMarkers();
+                    }
+                }, 500);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+            showLocationPrompt();
         }
+
     }
 
-    private void fetchMarkersWithLocation(Location location) {
-        if (location == null) {
-            location = map.getMyLocation();
-            if (location == null) return;
-        }
+    private void fetchMarkersWithLocation(Double latitude, Double longitude) {
 
-        DiscountManager discountManager = new DiscountManager(getApplicationContext());
+        DiscountManager discountManager = new DiscountManager(this);
 
         VisibleRegion visibleRegion = map.getProjection().getVisibleRegion();
         LatLng latLngLeft = visibleRegion.farLeft;

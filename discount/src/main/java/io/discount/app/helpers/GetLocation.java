@@ -36,14 +36,14 @@ public class GetLocation implements LocationListener {
         //return (double) (location.getLongitude());
     };
 
-    public Location getLocation() {
+    public Location getLocation() throws Exception {
         locationManager = (LocationManager) mContext.getSystemService(Context.LOCATION_SERVICE);
         if (locationManager.isProviderEnabled(LocationManager.GPS_PROVIDER)) {
             provider = LocationManager.GPS_PROVIDER;
         } else if (locationManager.isProviderEnabled(LocationManager.NETWORK_PROVIDER)) {
             provider = LocationManager.NETWORK_PROVIDER;
         } else {
-            // FAIL
+            throw new Exception("Unable to find location");
         }
         locationManager.requestSingleUpdate(LocationManager.GPS_PROVIDER, this, null);
         return locationManager.getLastKnownLocation(provider);
