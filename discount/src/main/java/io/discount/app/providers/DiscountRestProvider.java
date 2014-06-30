@@ -34,7 +34,7 @@ public class DiscountRestProvider extends ContentProvider {
 
     static {
         sURIMatcher.addURI(AUTHORITY, "places", DISCOUNT);
-        sURIMatcher.addURI(AUTHORITY, "places/*", DISCOUNT_ID);
+        sURIMatcher.addURI(AUTHORITY, "places/*/*/*", DISCOUNT_ID);
     }
 
     private HttpClient client = new DefaultHttpClient();
@@ -70,17 +70,10 @@ public class DiscountRestProvider extends ContentProvider {
 
         JsonObject selectionJsonObject = new JsonObject();
         switch (sURIMatcher.match(uri)) {
-            case DISCOUNT:
-                baseURL.append("/places");
-                baseURL.append("/asdasd");
-                selectionJsonObject.addProperty("gps", "asdasd");
-                break;
             case DISCOUNT_ID:
                 String gps;
                 baseURL.append("/places");
-                gps = uri.getLastPathSegment();
-                baseURL.append("/" +  gps);
-                selectionJsonObject.addProperty("gps", gps);
+                baseURL.append("/" + selectionArgs[0]);
                 break;
             default:
                 throw new IllegalArgumentException("Unsupported URI: " + uri);
@@ -93,15 +86,15 @@ public class DiscountRestProvider extends ContentProvider {
 
         try {
             JsonElement receivedObject = networkHelper.requestBackendSynchronously(this.context, baseURL.toString(), null, false);
-            Log.i("gymradio", receivedObject.toString());
+            //Log.i("gymradio", receivedObject.toString());
             if (receivedObject.isJsonArray()) {
                 for (JsonElement element : receivedObject.getAsJsonArray()) {
-                    Log.i("gymradio", receivedObject.toString());
+                    //Log.i("gymradio2", element.toString());
                     object = new JSONObject(element.toString());
                     networkHelper.addJSONObjectToCursor(object, cursor);
                 }
             } else {
-                Log.i("gymradio", receivedObject.toString());
+                //Log.i("gymradio3", receivedObject.toString());
                 object = new JSONObject(receivedObject.toString());
                 networkHelper.addJSONObjectToCursor(object, cursor);
             }

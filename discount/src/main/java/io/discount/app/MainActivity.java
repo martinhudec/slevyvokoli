@@ -10,6 +10,7 @@ import android.location.Address;
 import android.location.Geocoder;
 import android.location.Location;
 import android.location.LocationManager;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
@@ -52,7 +53,8 @@ public class MainActivity extends ActionBarActivity {
      * Define the default zoom of the map, the one used first when the map is displayed
      */
     private final static int
-            MAP_DEFAULT_CAMERA_ZOOM = 10;
+            MAP_DEFAULT_CAMERA_ZOOM = 10,
+            MAP_MAX_CAMERA_ZOOM = 7;
 
     private GoogleMap map;
     private HashMap<Marker, Discount> discountNearYouHashMap = new HashMap<Marker, Discount>();
@@ -144,15 +146,14 @@ public class MainActivity extends ActionBarActivity {
         map.getUiSettings().setMyLocationButtonEnabled(true);
         map.getUiSettings().setRotateGesturesEnabled(true);
         map.getUiSettings().setZoomGesturesEnabled(true);
+        map.moveCamera(CameraUpdateFactory.zoomTo(MAP_DEFAULT_CAMERA_ZOOM));
         map.setOnCameraChangeListener(new GoogleMap.OnCameraChangeListener() {
 
             @Override
-            public void onCameraChange(CameraPosition cameraPosition) {
-                GetLocation gl = new GetLocation(MainActivity.this);
-                Location location = null;
-                try {
-                    location = gl.getLocation();
-                    fetchMarkersWithLocation(location.getLatitude(), location.getLongitude());
+            public void onCameraChange(CameraPosition position) {
+                LatLng location = position.target;
+            try {
+                    fetchMarkersWithLocation(location.latitude, location.longitude);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
@@ -160,7 +161,15 @@ public class MainActivity extends ActionBarActivity {
             }
         });
 
-        zoomToUserLocationAndFetchMarkers();
+        /*map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
+
+            @Override
+            public void onInfoWindowClick(Marker marker) {
+                marker.
+            }
+        }*/
+
+                zoomToUserLocationAndFetchMarkers();
     }
     private void showLocationPrompt() {
         showLocationPrompt(R.string.location_title, R.string.location_message);
@@ -228,9 +237,62 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
-    private void fetchMarkersWithLocation(Double latitude, Double longitude) {
+    private class GetMarkers extends AsyncTask<String, Void, List<Discount>> {
 
-        DiscountManager discountManager = new DiscountManager(this);
+        private double latitude;
+        private double longitude;
+        private double distance;
+        GetMarkers(double latitude, double longitude, double distance) {
+            this.latitude = latitude;
+            this.longitude = longitude;
+            this.distance = distance;
+        }
+
+        @Override
+        protected List<Discount> doInBackground(String... params) {
+            DiscountManager discountManager = new DiscountManager(MainActivity.this);
+
+            List<Discount> discountList = discountManager.getByGPS(latitude, longitude, distance);
+
+            return discountList;
+        }
+
+        @Override
+        protected void onPostExecute(List<Discount> result) {
+            for(Discount discountItem : result) {
+                map.addMarker(new MarkerOptions()
+                        .title(discountItem.getName())
+                        .snippet(discountItem.getAddress())
+                        .position( new LatLng(discountItem.getLatitude(), discountItem.getLongitude())));
+            }
+        }
+
+        @Override
+        protected void onPreExecute() {}
+
+        @Override
+        protected void onProgressUpdate(Void... values) {}
+    }
+
+    private void fetchMarkersWithLocation(Double latitude, Double longitude) {
+        VisibleRegion visibleRegion = map.getProjection().getVisibleRegion();
+        LatLng latLngLeft = visibleRegion.farLeft;
+        LatLng latLngRight = visibleRegion.farRight;
+        Location farLeft = new Location("farLeft");
+        farLeft.setLatitude(latLngLeft.latitude);
+        farLeft.setLongitude(latLngLeft.longitude);
+
+        Location farRight = new Location("farRight");
+        farRight.setLatitude(latLngRight.latitude);
+        farRight.setLongitude(latLngRight.longitude);
+
+        double distanceInMeters = farLeft.distanceTo(farRight);
+        if(distanceInMeters < 100) {
+            distanceInMeters = 100;
+        }
+
+        new GetMarkers(latitude, longitude, distanceInMeters).execute();
+        /*DiscountManager discountManager = new DiscountManager(this);
 
         VisibleRegion visibleRegion = map.getProjection().getVisibleRegion();
         LatLng latLngLeft = visibleRegion.farLeft;
@@ -243,14 +305,19 @@ public class MainActivity extends ActionBarActivity {
         farRight.setLatitude(latLngRight.latitude);
         farRight.setLongitude(latLngRight.longitude);
 
-        List<Discount> discountList = discountManager.getByGPS("asdasd"); //location.getLongitude() + "," + location.getLatitude());
+        double distanceInMeters = farLeft.distanceTo(farRight);
+        if(distanceInMeters < 100) {
+            distanceInMeters = 100;
+        }
+
+        List<Discount> discountList = discountManager.getByGPS(latitude, longitude, distanceInMeters/1000);
 
         for(Discount discountItem : discountList) {
             map.addMarker(new MarkerOptions()
                     .title(discountItem.getName())
                     .snippet(discountItem.getDescription())
                     .position( new LatLng(discountItem.getLatitude(), discountItem.getLongitude())));
-        }
+        }*/
 
     }
 

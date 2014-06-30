@@ -50,8 +50,9 @@ public class DiscountManager implements IDiscountManager {
     }
 
     @Override
-    public ArrayList<Discount> getByGPS(String gps) {
-        Uri uri = Uri.parse(DiscountRestProvider.DISCOUNT_ID_URI);
+    public ArrayList<Discount> getByGPS(double latitude, double longitude, double distance) {
+        Uri uri = Uri.parse(DiscountRestProvider.DISCOUNT_ID_URI + "/" +  Double.toString(latitude) + "/" + Double.toString(longitude) + "/" + Double.toString(distance));
+
         String[] projection = new String[]{
                 DiscountDatabase.Tables.Discount.Columns.ID,
                 DiscountDatabase.Tables.Discount.Columns.NAME,
@@ -61,8 +62,9 @@ public class DiscountManager implements IDiscountManager {
                 DiscountDatabase.Tables.Discount.Columns.TYPE
         };
 
-        String selection =  DiscountDatabase.Tables.Discount.Columns.ID + "='" + gps + "'";
-        String[] selectionArgs = null;
+        String selection =  DiscountDatabase.Tables.Discount.Columns.ID + "= ?";
+        String[] selectionArgs = {Double.toString(latitude) + "/" + Double.toString(longitude) + "/" + Double.toString(distance)};
+
         String sortOrder = "";
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this.context);
 
@@ -82,10 +84,14 @@ public class DiscountManager implements IDiscountManager {
                         String typeStr = discount.getType();
                         String[] types = typeStr.split(",");
                         for(String type: types) {
-                            if(prefs.getAll().get(type.toLowerCase().trim()).equals(true)) {
-                                list.add(discount);
-                                break;
-                            }
+                            //if(prefs.contains(type.toLowerCase().trim())) {
+                            try {
+                                if (prefs.getAll().get(type.toLowerCase().trim()).equals(true)) {
+                                    list.add(discount);
+                                    break;
+                                }
+                            } catch (Exception e) {}
+                            //}
                         }
                     } catch (Exception e) {
                         e.printStackTrace();

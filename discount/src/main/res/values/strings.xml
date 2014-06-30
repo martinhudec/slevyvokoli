@@ -11,5 +11,8 @@
     <string name="no_connection_message">Would you like to connect?</string>
     <string name="ok">Ok</string>
     <string name="cancel">Cancel</string>
+    <string name="infowindow_title">Title</string>
+    <string name="infowindow_address">Address</string>
+    <string name="infowindow_types">Supported card types</string>
 
 </resources>

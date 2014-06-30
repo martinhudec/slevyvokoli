@@ -816,6 +816,9 @@
     <!-- From: file:/media/projekty/slevy/discount/src/main/res/values/strings.xml -->
     <eat-comment />
 
+    <string name="infowindow_address">Address</string>
+    <string name="infowindow_title">Title</string>
+    <string name="infowindow_types">Supported card types</string>
     <string name="location_message">Insert your location</string>
     <string name="location_notfound_message">Insert your location</string>
     <string name="location_notfound_title">Location not found</string>
@@ -830,11 +833,13 @@
     <string name="pref_description_itic">ITIC</string>
     <string name="pref_description_iytc">IYTC</string>
     <string name="pref_description_scholar">SCHOLAR</string>
+    <string name="pref_description_sphere">SPHERE</string>
     <string name="pref_header_general">General</string>
     <string name="pref_title_isic">ISIC</string>
     <string name="pref_title_itic">ITIC</string>
     <string name="pref_title_iytc">IYTC</string>
     <string name="pref_title_scholar">SCHOLAR</string>
+    <string name="pref_title_sphere">SPHERE</string>
     <string name="title_activity_settings">Settings</string>
     <!-- From: file:/media/projekty/slevy/discount/src/main/res/values/styles.xml -->
     <eat-comment />

@@ -28,7 +28,7 @@ public class DiscountDatabase extends SQLiteOpenHelper {
             public class Columns {
                 public final static String ID = "id";
                 public final static String NAME = "name";
-                public final static String TYPE = "type";
+                public final static String TYPE = "cardtype";
                 public final static String ADDRESS = "address";
                 public final static String LAT = "latitude";
                 public final static String LNG = "longitude";

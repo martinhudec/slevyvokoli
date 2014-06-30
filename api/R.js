@@ -5,7 +5,7 @@ module.exports = {
 	redis: null,
 	pgsql: null,
 	pgsqlUrl: null,
-	//ip: '37.157.193.199',
-	ip: 'localhost',
-	port:  '8481'
+	ip: '37.157.193.199',
+	//ip: 'localhost',
+	port:  '8485'
 }

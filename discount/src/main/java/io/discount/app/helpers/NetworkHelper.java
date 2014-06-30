@@ -23,12 +23,12 @@ import java.util.concurrent.ExecutionException;
  */
 public class NetworkHelper {
     private static final String[] PRODUCTION_URL = new String[] {
-                                                    "http://slevyvokoli.apiary.io"
+                                                    "http://37.157.193.199:8485"
                                                     };
 
     private static final String DEVELOP_URL = "http://discount.apiary.io";
 
-    private static final boolean IS_PRODUCTION = false;
+    private static final boolean IS_PRODUCTION = true;
 
     private static NetworkHelper instance = null;
     private static String[] urls = null;
