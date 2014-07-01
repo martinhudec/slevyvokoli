@@ -1,9 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package slevy;
 
 import java.util.ArrayList;
@@ -13,8 +7,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
- *
- * @author andrew
+ * Trieda, ktorá obsahuje metódu na vyparsrovanie údajov o karte Sphere
+ * @author martin
  */
 public class SphereCard {
     
@@ -34,7 +28,6 @@ public class SphereCard {
             {
                 doc = Jsoup.connect(url).get();
                 elements = doc.select("div[class=result]");
-                //System.out.println(elements.html());
                 for (Element el: elements)
                 {
                     Elements td, left;

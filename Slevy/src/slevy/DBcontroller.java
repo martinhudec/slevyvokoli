@@ -105,11 +105,11 @@ public class DBcontroller {
     
      public static void main(String[] args) throws ClassNotFoundException {
         
-        Benefits bens = (Benefits) UsefullTools.loadObjectFromFile("ISIC&EYCA&SPHERE.data");
+        Benefits bens = (Benefits) UsefullTools.loadBenefitsFromXML("ISIC&EYCA&SPHERE.xml");
         
-        UsefullTools.saveBenefitsToXML(bens, "ISIC&EYCA&SPHERE.xml");
+        UsefullTools.saveObjectToFile("ISIC&EYCA&SPHERE.data", bens);
         DBcontroller cnt = new DBcontroller();
-        cnt.fillDB(bens.getBenefits());
+        //cnt.fillDB(bens.getBenefits());
         /*EYCA.parserHTML();
         SphereCard.parserHTML(); */
     }
