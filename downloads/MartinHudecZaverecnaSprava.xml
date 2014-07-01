@@ -1,0 +1,52 @@
+z<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter>
+  <title>Záverečná správa - Martin Hudec</title>
+ 
+  <section>
+    <title>Moja činnosť</title> 
+    <para>
+       Pri prvom stretnutí spolu s mojimi kolegami  z riešiteľského tímu sme si rozdelili úlohy. Dohodli sme sa,že
+       mojou úlohou bude vytvorenie databázy, vyparsovať dáta zo stránok jednotlivých sprostedkovateľov zľiav, a naplniť
+       databázu, takisto naprogramovať komunikáciu s databázou. 
+    </para>
+  </section>
+ 
+  <section>
+    <title>Použité nástroje</title>
+    <para>
+    Použité nástroje:
+       <itemizedlist>
+          <listitem><para> Facebook – väčšina komunikácie medzi riešiteľským tímom </para></listitem>
+          <listitem><para> NetBeans 8.0 - vývojové prostredie </para></listitem>
+          <listitem><para> SVN - verzovanie </para></listitem>
+       </itemizedlist>
+    </para>
+  </section>
+ 
+  <section>
+    <title>Návrh aplikácie</title>
+    <para>
+        Návrh aplikácie sa spočiatku zdal veľmi jednoduchý, no pri postupnej implementáci sme zistili, že to nebude také jednoduché.
+        Náš postup sme často konzultovali a snažili sa vymyslieť čo najlepšie riešenia, pričom každý prispel svojim dielom.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Tvorba prezentácia</title>
+    <para>
+        KNa záver, po naprogramovaní všetkých častí a otestovaní aplikácie som vytvoril prezentáciu.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Zhodnotenie a prínos projektu</title>
+    <para>
+        Práca na tomto projekte bola pre mňa určite veľmi zaujímavou a prínosnou. Mal som prvý krát možnosť vyskúšať si prácu vo väčšom tíme spoločne so všetkým,
+        čo tímova práca obnáša. Kladne hodnotím postoj všetkých členov v rámci projektu. Napriek tomu, že som neriešil najnáročnejšiu časť projektu, pri práci
+        na projekte som si rozšíril obzory a lepšie som porozumel Jave, práci s databázou a podobne. Na záver by som chcel kolegom z riešiteľského tímu poďakovať za spoluprácu.
+    </para>
+  </section>
+ 
+</chapter>
+
