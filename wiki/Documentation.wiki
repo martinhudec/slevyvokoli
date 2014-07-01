@@ -1,6 +1,6 @@
 #summary Description of slevyvokoli project.
 
- = Úvod = 
+= Úvod = 
 
 Tento projekt je užitočný pre všetkých ľudí, ktorí často používajú svoje zľavové karty v rôznych predajniach v Českej republike.
 Táto aplikácia porovnáva aktuálne GPS súradnice užívateľa so súradnicami predajní, a vráti tie, ktoré sú od užívateľa vzdialené určitý počet km. Podporované zľavové karty sú ISIC,ITIC,IYTIC,SCHOLAR, EYCA, SPHERE. 
