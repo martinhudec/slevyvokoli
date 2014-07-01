@@ -1,30 +1,23 @@
 #summary Description of slevyvokoli project.
 
-= Introduction =
+ = Úvod = 
 
-This project is useful for all people, who would like use their
-various credit cards in shops in the Czech republic.
-This application compare active coordinates from mobile system with coordinates in Postgre
-database for various ISIC,ITIC,IYTIC,SCHOLAR cards and recommends shops of
-near distances. Data are saved in project Heroku...
-Application is assembled in Visual Android Studio with Gradle build system
-from Google and supports OS Android 2.3.3 and above...
+Tento projekt je užitočný pre všetkých ľudí, ktorí často používajú svoje zľavové karty v rôznych predajniach v Českej republike.
+Táto aplikácia porovnáva aktuálne GPS súradnice užívateľa so súradnicami predajní, a vráti tie, ktoré sú od užívateľa vzdialené určitý počet km. Podporované zľavové karty sú ISIC,ITIC,IYTIC,SCHOLAR, EYCA, SPHERE. 
+Databáza beží na severi Heroku.
 
-= Details =
+= Popis tried =
 
-Java source code for manipulation of coordinates data:
+DBController.java - trieda, ktorá slúži na komunikáciu s databázou (jej plnenie, pripojenie k nej, kontrola pripojenia, ...)
 
-DBController.java - modul for filling database
+Address.java - trieda slúži na uchovanie adries
 
-GPSrecord.java - java object of GPS informations
+Benefit.java - trieda, ktorá uchováva informácie o danej predajni s konkrétnou zľavou
 
-Parser.java - parser for obtaining data from XML format
+Benefits.java - trieda, ktorá zľučuje všetky dané predajne so zľavami 
 
-Places.java - modul for searching shops from database near actual GPS coordinate
+Sphere.java/IcisCard.java/EYCA.java - triedy, ktoré obsahujú metódy na získanie informácií od zľavách jednotlivých kariet zo stránok daných kariet
 
-test.java - test
+GPS.java - obsahuje nástroj na získanie polohy danej adresy
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+UsefullTools.java - trieda, ktorá obsahuje rôzne pomocné metódy, na rôzne účely, slúži hlavne na sprehľadnenie kódu
