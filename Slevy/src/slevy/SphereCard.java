@@ -12,6 +12,9 @@ import org.jsoup.select.Elements;
  */
 public class SphereCard {
     
+    /**
+     *Metóda ziska údaje o partneroch zo stránky prislušnej karty.
+     */
     public static void parserHTML()
     {
         Benefits benefits = (Benefits) UsefullTools.loadObjectFromFile("ISIC&EYCA.data");

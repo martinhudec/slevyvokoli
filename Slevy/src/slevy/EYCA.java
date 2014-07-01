@@ -8,12 +8,15 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
- * Trieda, ktorá obsahuje metódu na vyparsrovanie údajov o karte EYCA
+ * Trieda, ktorá obsahuje metódu na vyparsovanie údajov o karte EYCA
  * @author martin
  */
 public class EYCA 
 {
     
+    /**
+     * Metóda ziska údaje o partneroch zo stránky prislušnej karty.
+     */
     public static void parserHTML()
     {
         Benefits benefits = (Benefits) UsefullTools.loadObjectFromFile("benefits.data");
@@ -44,7 +47,6 @@ public class EYCA
                 }
             } catch (IOException e) {
             }
-            //benefits.showBenefits();
             System.out.println(i+"/62");
         }
         UsefullTools.saveObjectToFile("bISIC_EYCA.data", benefits);

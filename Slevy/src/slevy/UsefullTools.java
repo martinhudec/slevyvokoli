@@ -39,7 +39,7 @@ public class UsefullTools {
     
     private static final DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
     
-    public static Object get(Document doc,String xPathExp, QName returnType)
+    private static Object get(Document doc,String xPathExp, QName returnType)
     {
         XPath xPath =  XPathFactory.newInstance().newXPath();
         try {
@@ -227,7 +227,7 @@ public class UsefullTools {
             streetNumber = benefits.getBenefit(i).getAddress().getStreetNumberB();
             postalCode = benefits.getBenefit(i).getAddress().getPostalCodeB();
             latitude = ""+benefits.getBenefit(i).getAddress().getLatitude();
-            longitude = ""+benefits.getBenefit(i).getAddress().getLongtitude();
+            longitude = ""+benefits.getBenefit(i).getAddress().getLongitude();
             name = benefits.getBenefit(i).getName();
             web = benefits.getBenefit(i).getWeb();
             email = benefits.getBenefit(i).getEmail();

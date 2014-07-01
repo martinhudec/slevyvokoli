@@ -1,9 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package slevy;
 
 import java.io.BufferedWriter;
@@ -20,9 +14,19 @@ import org.w3c.dom.DOMException;
 /**
  * Trieda obsahuje metódu na vyparsovanie údajov zo stránok ISICu
  * @author martin
+ *//*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
+
+
 public class IsicCard {
 
+    /**
+     *
+     * @throws IOException
+     */
     public static void createLinksToBenefitsPage() throws IOException {
         Document doc = Jsoup.connect("http://localhost/lenzlavy.html").get();
         Elements e = doc.select("a[href]");

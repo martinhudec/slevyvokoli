@@ -22,7 +22,14 @@ public class DBcontroller {
     private final Properties PROPS = new Properties();
 
     // Nastavenia pre pripojenie k databáze
-    public boolean fillDB(List<Benefit> list) throws ClassNotFoundException {
+
+    /**
+     *
+     * @param list
+     * @return
+     * @throws ClassNotFoundException
+     */
+        public boolean fillDB(List<Benefit> list) throws ClassNotFoundException {
         Class.forName("org.postgresql.Driver");
         Connection connection = null;
         PROPS.setProperty("user", "nxxclbdnrjiwcx");
@@ -72,7 +79,6 @@ public class DBcontroller {
             int i=1;
             record = "INSERT INTO isic VALUES (" + i++ + ", '" + benefit.getName() + "', '" + benefit.getAddress() + "', '" + benefit.getCardAsString() + "', " + benefit.getLatitude() + ", " + benefit.getLongitude() + ");";
             querry.add(record);
-            //System.out.println(benefit.toString());
         }
         
         // Vyplnenie databáze, ak sú dostupné nejaké údaje 
@@ -103,7 +109,12 @@ public class DBcontroller {
 
     }
     
-     public static void main(String[] args) throws ClassNotFoundException {
+    /**
+     *
+     * @param args
+     * @throws ClassNotFoundException
+     */
+    public static void main(String[] args) throws ClassNotFoundException {
         
         Benefits bens = (Benefits) UsefullTools.loadBenefitsFromXML("ISIC&EYCA&SPHERE.xml");
         

@@ -11,29 +11,55 @@ import java.util.TreeSet;
  */
 class Benefit implements Serializable
 {
-    
+    /**
+     * Trieda BenefitAdress slúži na uloženie adresy danej zľavy.
+     * 
+     * Je potomkom triedy Address. Oproti triede Address má navyše atribút "benefitOnAddress".
+     * V tomto atribúte sú odkazy na benefity s rovnakou adresou.
+     */
     public static class BenefitAddress extends Address implements Serializable
     {
         public HashSet<Benefit> benefitOnThisAddress;
-        
+        /**
+         * 
+         * @param paCity
+         * @param paStreet
+         * @param paPremise
+         * @param paStreetNumber
+         * @param paPostalCode
+         * @param paLat
+         * @param paLng 
+         */
         public BenefitAddress(String paCity, String paStreet,String paPremise, String paStreetNumber, String paPostalCode, float paLat, float paLng)
         {
             super(paCity, paStreet, paPremise, paStreetNumber, paPostalCode, paLat, paLng);
             benefitOnThisAddress = new HashSet<>();
         }
         
+        /**
+         * 
+         * @param address 
+         */
         public BenefitAddress(Address address)
         {
             super(address);
             benefitOnThisAddress = new HashSet<>();
         }
         
+        /**
+         * 
+         * @param paAddressLine 
+         */
         public BenefitAddress(String paAddressLine)
         {
             super(paAddressLine);
             benefitOnThisAddress = new HashSet<>();
         }
         
+        /**
+         * 
+         * @param ben 
+         */
         public void addBenefitOnThisAddress(Benefit ben)
         {
             if (benefitOnThisAddress == null)
@@ -46,26 +72,45 @@ class Benefit implements Serializable
             }
         }
         
+        /**
+         * 
+         * @return 
+         */
         public String getCityB()
         {
             return city;
         }
         
+        /**
+         * 
+         * @return 
+         */
         public String getStreetB()
         {
             return street;
         }
         
+        /**
+         * 
+         * @return 
+         */
         public String getPremiseB()
         {
             return premise;
         }
-        
+        /**
+         * 
+         * @return 
+         */
         public String getStreetNumberB()
         {
             return streetNumber;
         }
         
+        /**
+         * 
+         * @return 
+         */
         public String getPostalCodeB()
         {
             return postalCode;
@@ -77,6 +122,15 @@ class Benefit implements Serializable
     private TreeSet<String> cardType;
     private BenefitAddress address;
 
+    /**
+     * 
+     * @param paName
+     * @param paWeb
+     * @param paEmail
+     * @param paPhone
+     * @param paCardType
+     * @param paAddress 
+     */
     public Benefit(String paName, String paWeb, String paEmail, String paPhone, String paCardType, Address paAddress)
     {
         name = paName;
@@ -87,6 +141,15 @@ class Benefit implements Serializable
         address = new BenefitAddress(paAddress);
     }
 
+    /**
+     * 
+     * @param paName
+     * @param paWeb
+     * @param paEmail
+     * @param paPhone
+     * @param paCardType
+     * @param paAddress 
+     */
     public Benefit(String paName, String paWeb, String paEmail, String paPhone, TreeSet<String> paCardType, Address paAddress)
     {
         name = paName;
@@ -97,6 +160,15 @@ class Benefit implements Serializable
         address = new BenefitAddress(paAddress);
     }
 
+    /**
+     * 
+     * @param paName
+     * @param paWeb
+     * @param paEmail
+     * @param paPhone
+     * @param paCardType
+     * @param paAddress 
+     */
     public Benefit(String paName, String paWeb, String paEmail, String paPhone, String paCardType, String paAddress)
     {
         name = paName;
@@ -107,6 +179,15 @@ class Benefit implements Serializable
         address = new BenefitAddress(paAddress);
     }
 
+    /**
+     * 
+     * @param paName
+     * @param paWeb
+     * @param paEmail
+     * @param paPhone
+     * @param paCardType
+     * @param paAddress 
+     */
     public Benefit(String paName, String paWeb, String paEmail, String paPhone, TreeSet<String> paCardType, String paAddress)
     {
         name = paName;
@@ -117,6 +198,10 @@ class Benefit implements Serializable
         address = new BenefitAddress(paAddress);
     }
 
+    /**
+     * 
+     * @param paCard 
+     */
     public void addCard(String paCard)
     {
         if (cardType== null)
@@ -126,6 +211,10 @@ class Benefit implements Serializable
         cardType.add(paCard);
     }
 
+    /**
+     * 
+     * @param paCards 
+     */
     public void addCard(TreeSet<String> paCards)
     {
        if (cardType== null)
@@ -150,6 +239,10 @@ class Benefit implements Serializable
         return cardType;
     }
     
+    /**
+     * Vráti karty ako string, bez zátvoriek
+     * @return zoznam kariet v stringu
+     */
     public String getCardAsString()
     {
         String card = "";
@@ -211,7 +304,7 @@ class Benefit implements Serializable
     public String toString()
     {
         return "NAME=" + name + " ADDRESS=" + address.getAddressOneLine() + " CARDTYPE=" + cardType.toString() + " LONGITUDE="
-                + address.getLongtitude() + " LATITUDE=" + address.getLatitude();
+                + address.getLongitude() + " LATITUDE=" + address.getLatitude();
     }
 
     /**
@@ -271,7 +364,7 @@ class Benefit implements Serializable
 
     public float getLongitude()
     {
-        return address.getLongtitude();
+        return address.getLongitude();
     }
     
     public Float getLatitudeF()
@@ -282,7 +375,7 @@ class Benefit implements Serializable
 
     public Float getLongitudeF()
     {
-        if (address.haveCoordinates()) return address.getLongtitude();
+        if (address.haveCoordinates()) return address.getLongitude();
         return null;
     }
     

@@ -1,33 +1,19 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package slevy;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import org.w3c.dom.Document;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
 /**
- * Trieda, ktorá slúži na priradenei GPS k danej adrese, resp. overenie adresy 
+ * Trieda, ktorá slúži na priradenie GPS k danej adrese, resp. overenie adresy 
  * @author martin
  */
 public class GPS {
     
-    
-    
-    public GPS()
-    {
-        
-    }
-    
+
+    /**
+     *
+     * @param paAddress
+     * @return
+     */
     public Address getCoordinates(String paAddress)
     {
         String  url;
@@ -36,6 +22,12 @@ public class GPS {
         return getCoordinates(paAddress,url);
     }
     
+    /**
+     *
+     * @param paAddress
+     * @param url
+     * @return
+     */
     public Address getCoordinates(String paAddress,String url)
     {
         Address address;
