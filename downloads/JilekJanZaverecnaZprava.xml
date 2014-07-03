@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter>
+  <title>Záverečná správa - Jan Jílek</title>
+ 
+  <section>
+    <title>Moja činnost</title> 
+    <para>
+       Vedení týmu, rozdělování úloh, hlavní vývoj Android aplikace, vývoj NodeJS Rest Api
+    </para>
+  </section>
+ 
+  <section>
+    <title>Použité nástroje</title>
+    <para>
+       <itemizedlist>
+          <listitem><para> Android Studio </para></listitem>
+          <listitem><para> Sublime Text 2 </para></listitem>
+          <listitem><para> SVN </para></listitem>
+       </itemizedlist>
+    </para>
+  </section>
+  
+  <section>
+    <title>Použité technologie</title>
+    <para>
+       <itemizedlist>
+          <listitem><para> NodeJS </para></listitem>
+          <listitem><para> REST </para></listitem>
+          <listitem><para> Android google maps v2 </para></listitem>
+       </itemizedlist>
+    </para>
+  </section>
+ 
+  <section>
+    <title>Android aplikace</title>
+    <para>
+        Android aplikace funguje od verze 2.3. Pro komunikaci se serverem používá REST API. Pro komunikaci se vyižívá contentProvider, který umožňuje jednoduchou práci s více zdroji. Program je tímto připraven pro budoucí implemenaci cachování.
+    </para>
+  </section>
+ 
+  <section>
+    <title>NodeJS Rest API</title>
+    <para>
+       NodeJS obsluhuje REST API, které získává data z PostgreSQL databáze. API je připraveno na budoucí integraci OAUTH2 a Redis cache. 
+    </para>
+  </section>
+ 
+</chapter>
