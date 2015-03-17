@@ -1,0 +1,5 @@
+<b>Vývojári</b><br />
+<li>Bc. Jan Jílek, učo 359747 -  android vývojár, team leader</li><br />
+<li>Ing. Zbyněk Vaculík, učo 409040 -  editácia wiki, dokumentácia</li><br />
+<li>Martin Hudec, učo 409747  - získavanie jednotlivých zliav z webu, práca s databázou, uloženie údajov do databázy, dokumentácia</li><br />
+<li>Matej Hrenák, učo 410300  - návrh GUI, testovanie aplikácie</li><br />

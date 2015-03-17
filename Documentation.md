@@ -1,0 +1,21 @@
+# Úvod #
+
+Tento projekt je užitočný pre všetkých ľudí, ktorí často používajú svoje zľavové karty v rôznych predajniach v Českej republike.
+Táto aplikácia porovnáva aktuálne GPS súradnice užívateľa so súradnicami predajní, a vráti tie, ktoré sú od užívateľa vzdialené určitý počet km. Podporované zľavové karty sú ISIC,ITIC,IYTIC,SCHOLAR, EYCA, SPHERE.
+Databáza beží na severi Heroku.
+
+# Popis tried #
+
+DBController.java - trieda, ktorá slúži na komunikáciu s databázou (jej plnenie, pripojenie k nej, kontrola pripojenia, ...)
+
+Address.java - trieda slúži na uchovanie adries
+
+Benefit.java - trieda, ktorá uchováva informácie o danej predajni s konkrétnou zľavou
+
+Benefits.java - trieda, ktorá zľučuje všetky dané predajne so zľavami
+
+Sphere.java/IcisCard.java/EYCA.java - triedy, ktoré obsahujú metódy na získanie informácií od zľavách jednotlivých kariet zo stránok daných kariet
+
+GPS.java - obsahuje nástroj na získanie polohy danej adresy
+
+UsefullTools.java - trieda, ktorá obsahuje rôzne pomocné metódy, na rôzne účely, slúži hlavne na sprehľadnenie kódu
